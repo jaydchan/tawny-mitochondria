@@ -35,6 +35,8 @@
   :domain Paper)
 (defdproperty hasAuthor
    :domain Paper)
+(defdproperty hasPMID
+   :domain Paper)
 
 ;; Auxiliary functions
 (defn get-lines
@@ -53,20 +55,26 @@
   [author]
   (fact hasAuthor (literal author :lang "en")))
 
+(defn fact-pmid
+  "TODO"
+  [pmid]
+  (fact hasPMID (literal (str "PMID:" pmid) :RDF :RDF_Literal_String)))
+
 (defn create-paper
   "Pattern - defines paper instances. TODO"
-  [name title authors]
+  [name title authors pmid]
   (individual name
               :type Paper
               :fact
               (fact-title title)
-              (map fact-author authors)))
+              (map fact-author authors)
+              (fact-pmid pmid)))
 
 ;; MAIN
-(def ^{:doc "The paper information read in from resources text
-  file as java.lang.Cons."
+(def ^{:doc "The paper information read in from resources text file as
+  java.lang.Cons."
        :private true}
-  string-results (get-lines (.getFile (io/resource "./Input/papers.log"))))
+  string-results (get-lines (.getFile (io/resource "./input/papers.log"))))
 
 (def ^{:doc "The resolution information read in from resources text
   file as LazySeq."
