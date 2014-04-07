@@ -1,0 +1,880 @@
+ http://nro.sagepub.com/
+ 
+The Neuroscientist
+ http://nro.sagepub.com/content/8/3/192
+The online version of this article can be found at:
+ 
+DOI: 10.1177/1073858402008003004
+ 2002 8: 192Neuroscientist
+Todd B. Sherer, Ranjita Betarbet and J. Timothy Greenamyre
+Environment, Mitochondria, and Parkinson's Disease
+ 
+ 
+Published by:
+ http://www.sagepublications.com
+ can be found at:The NeuroscientistAdditional services and information for 
+ 
+ 
+ 
+ 
+ 
+ http://nro.sagepub.com/cgi/alertsEmail Alerts: 
+ 
+ http://nro.sagepub.com/subscriptionsSubscriptions:  
+ http://www.sagepub.com/journalsReprints.navReprints: 
+ 
+ http://www.sagepub.com/journalsPermissions.navPermissions: 
+ 
+ http://nro.sagepub.com/content/8/3/192.refs.htmlCitations: 
+ 
+ at Univ of Newcastle upon Tyne on November 23, 2010nro.sagepub.comDownloaded from 
+192 THE NEUROSCIENTIST Environment, Mitochondria, and Parkinson’s Disease
+Copyright © 2002 Sage Publications
+ISSN 1073-8584
+Parkinson’s disease (PD) is a late-
+onset neurodegenerative disease,
+characterized clinically by tremor,
+rigidity, and bradykinesia (slowness
+of movement). Additional signs and
+symptoms may include gait and bal-
+ance difficulties and autonomic dys-
+function. About one-third of people
+with PD develop dementia. Aging is
+a major risk factor for PD; it is
+uncommon before age 40, but its
+incidence increases progressively
+thereafter.
+Pathologically, PD is marked by
+progressive, selective degeneration
+of the nigrostriatal dopaminergic
+pathway. Although there is some
+involvement of other dopaminergic
+cell groups, such as the ventral
+tegmental area, and other cate-
+cholamine-containing cells, such as
+the locus ceruleus, the cells of the
+substantia nigra pars compacta bear
+the brunt of the damage in PD. It is
+not clear whether degeneration
+begins in the nerve terminals or the
+cell bodies of these neurons. Many
+degenerating dopaminergic cells
+contain round, cytoplasmic inclu-
+sions called Lewy bodies (Mirra and
+others 1997). By electron micro-
+scopy, these inclusions have a dense
+amorphous core surrounded by fila-
+mentous material. Lewy bodies con-
+tain the widely expressed synaptic
+protein, α-synuclein, and polyubiq-
+uitin (Mirra and others 1997;
+Spillantini and others 1997).
+The role of genetics in typical PD
+is a matter of debate. Rarely, patients
+have a familial form of PD, usually
+with an earlier disease onset and
+often with atypical clinical features.
+Such familial cases of PD have been
+associated with mutations in proteins
+such as α-synuclein and parkin
+(Polymeropoulos and others 1997;
+Kitada and others 1998). However,
+most cases of typical PD (sporadic
+PD) are characterized by little, if
+any, family history, and disease onset
+late in life. Although the causes of
+sporadic PD are unknown, it is wide-
+ly believed that a combination of
+genetic susceptibilities and environ-
+mental exposures account for most
+cases. Despite this widespread
+belief, the specific genetic and envi-
+ronmental factors important in PD
+remain elusive.
+Environment and PD
+Numerous epidemiological studies
+have been performed in an attempt to
+define factors associated with an
+increased risk of developing PD.
+Although no specific causative
+smoking gun has been identified
+definitively, there are intriguing
+clues. For example, case-control
+studies have suggested that i) rural
+living, ii) farming as an occupation,
+iii) drinking well water, and iv) pesti-
+cide exposure are each associated
+with an increased risk of PD.
+Although not all studies have been
+positive, recent meta-analyses have
+indicated that the risks associated
+with these factors are likely to be real
+(Priyadarshi and others 2000, 2001).
+The extent to which these factors are
+related or independent is not clear,
+however. An additional environmen-
+tal risk for PD is occupational expo-
+sure to certain metals, most notably
+manganese (Gorell and others 1999).
+Interestingly, many pesticides and
+manganese share the common mech-
+anism of causing mitochondrial dys-
+function. Such mechanistic com-
+monalities may eventually provide
+insights into PD pathogenesis.
+Unfortunately, with the exception
+of 1-methyl-4-1,2,3,6-tetrahydropy-
+ridine (MPTP), which will be dis-
+cussed below, no specific environ-
+mental agent has been linked conclu-
+sively to PD pathogenesis. There are
+several possible explanations for
+this. First, chronic low-level environ-
+mental exposures may be more rele-
+vant to sporadic PD but may be very
+Environment, Mitochondria, and
+Parkinson’s Disease
+TODD B. SHERER, RANJITA BETARBET, and J. TIMOTHY GREENAMYRE
+Department of Neurology
+Emory University
+Atlanta, Georgia
+Parkinson’s disease (PD) is a common and disabling neurodegenera-
+tive disease marked by progressive motor dysfunction, which results
+from selective degeneration of the nigrostriatal pathway. Epidemio-
+logical studies indicate that exposure to pesticides, rural living, farm-
+ing, and drinking well water are associated with an increased risk of
+developing PD. Rare cases of PD are caused by mutations in nuclear
+genes, and there is increasing evidence for susceptibility genes that
+alter disease risk. Parkinson’s disease is also associated with a sys-
+temic defect in mitochondrial complex I activity. Animal models indi-
+cate that exposure to inhibitors of mitochondrial complex I, including
+pesticides, is sufficient to reproduce the features of PD, but genetic
+factors clearly modulate susceptibility. Complex I defects may result
+in oxidative stress and increase the susceptibility of neurons to exci-
+totoxic death. In this way, environmental exposures and mitochondri-
+al dysfunction may interact and result in neurodegeneration. NEURO-
+SCIENTIST 8(3):192–197, 2002
+KEY WORDS Neurodegeneration, Oxidative stress, Excitotoxicity, Pesticides
+g110 NEUROSCIENCE UPDATE
+This work was supported by NS38399,
+NS33779, and AG14648.
+Address correspondence to: J. Timothy
+Greenamyre, Department of Neurology,
+Emory University, 1639 Pierce Drive, WMB
+Room 6331, Atlanta, GA 30322 (e-mail:
+jgreena@emory.edu).
+ at Univ of Newcastle upon Tyne on November 23, 2010nro.sagepub.comDownloaded from 
+Volume 8, Number 3, 2002 THE NEUROSCIENTIST 193
+difficult to detect. Second, acute
+environmental exposures may pro-
+duce delayed or slowly progressive
+degeneration, so that the disease
+expression (symptom onset) might
+be remote in time and place from
+exposure. Indeed, imaging and post-
+mortem studies suggest that expo-
+sure to MPTP in the remote past may
+cause a progressive parkinsonian dis-
+order (Vingerhoets and others 1994;
+Langston and others 1999). Third,
+individual genetic variations may
+explain the development of PD only
+in a subset of individuals exposed to
+similar toxins. Such genetic variation
+could involve polymorphic varia-
+tions in disease-associated genes,
+such as α-synuclein (Farrer and oth-
+ers 2001), xenobiotic metabolism
+(Menegon and others 1998), mito-
+chondrial function (Schapira 1998),
+or even blood-brain-barrier function.
+Environment, Mitochondria,
+and PD
+In 1982, the product of a botched
+meperidine synthesis, MPTP, was
+injected inadvertently by several
+drug addicts in the San Francisco bay
+area. This unfortunate event provided
+direct evidence for the potential role
+of “environmental” toxins in PD
+pathogenesis: MPTP caused an acute
+and permanent parkinsonian syn-
+drome in these individuals (Langston
+and others 1983). Investigations of
+the mechanisms through which
+MPTP exposure resulted in selective
+dopaminergic cell death have
+uncovered clues to PD pathogenesis.
+1-Methyl-4-phenylpyridinium ion
+(MPP
++
+), the active metabolite of
+MPTP, is a substrate for the dopa-
+mine transporter, which is selectively
+expressed in dopaminergic neurons
+(Javitch and Snyder 1984). Once
+inside these neurons, MPP
++
+accumu-
+lates in mitochondria and exerts its
+toxicity by inhibiting complex I (Fig.
+1) of the mitochondrial electron
+transport chain (Nicklas and others
+1985). Importantly, this finding sug-
+gested that mitochondrial dysfunc-
+tion may have a role in PD pathogen-
+esis. Thus, the epidemiological study
+that led to the identification of
+MPTP ultimately suggested a patho-
+genic mechanism.
+With an understanding of the
+mechanism of action of MPTP, sev-
+eral laboratories began to investigate
+the status of mitochondrial complex I
+in sporadic PD. These studies
+demonstrated that PD patients
+express modest, but reproducible,
+reductions in complex I activity in
+tissues including brain and platelets
+(Mizuno and others 1989; Parker and
+others 1989; Schapira and others
+1989). On average, in platelets, there
+appears to be about a 25% decrease
+in complex I activity, but current
+complex I assays are insensitive to
+subtle defects (Greenamyre and oth-
+ers 2001). Thus, these results suggest
+that PD patients have a systemic
+complex I defect, affecting both
+brain and peripheral tissues.
+The use of cytoplasmic hybrid
+(cybrid) cells has suggested that PD
+patients may harbor mutations in
+mitochondrially encoded subunits of
+complex I. Cybrids are created when
+cells devoid of mtDNA (due to long-
+term, low-dose exposure to ethidium
+bromide) are repopulated with
+mtDNA from platelets of PD patients.
+These cybrids express mtDNA from
+PD patients, or age-matched con-
+trols, on a uniform nuclear back-
+ground. This technique has demon-
+strated that the reduced complex I
+activity seen in PD platelets can be
+transmitted stably into cybrid cell
+lines, which suggests that it may
+result from mutations in mtDNA (Gu
+and others 1998; Swerdlow and oth-
+ers 1996). On the other hand, despite
+intensive efforts, no causative
+mtDNA mutations have been demon-
+strated unambiguously.
+In summary, PD is associated with
+a modest, systemic defect in com-
+plex I activity, which may result from
+genetic or acquired alterations in
+mitochondrial protein subunits, or
+environmental exposures that inhibit
+complex I function (Schapira 1998;
+Le Couteur and others 1999). Whether
+or not this complex I abnormality
+had anything to do with PD patho-
+genesis, however, remained uncertain.
+That is, could a mild, systemic mito-
+chondrial defect cause such exquis-
+itely selective neurodegeneration?
+Rotenone—Proof of Principle
+To address this question, we used
+rotenone to cause moderate, sys-
+temic complex I inhibition in rats
+(Betarbet and others 2000). Rotenone,
+a naturally occurring compound, is a
+potent inhibitor of complex I, and it
+is typically used to define the specif-
+ic activity of the enzyme complex. It
+is also a commonly used pesticide in
+vegetable gardens and it is used to
+Fig. 1. Schematic diagram of the mitochondrial electron transport chain. The electron
+transport chain consists of five enzyme complexes that create a proton gradient and
+undergo oxidation-reduction reactions. This proton gradient is used to synthesize ATP.
+Rotenone and MPP
++
+act by inhibiting complex I.
+ at Univ of Newcastle upon Tyne on November 23, 2010nro.sagepub.comDownloaded from 
+194 THE NEUROSCIENTIST Environment, Mitochondria, and Parkinson’s Disease
+kill nuisance fish in lakes and reser-
+voirs. Rotenone is highly lipophilic
+and easily crosses the blood-brain
+barrier, and unlike MPP
++
+, it does not
+depend on the dopamine transporter
+for access to cells.
+After administration, rotenone
+quickly enters the brain (Talpade and
+others 2000) and causes uniform
+complex I inhibition throughout the
+brain (Betarbet and others 2000).
+Despite this uniform inhibition of
+complex I, rotenone exposure result-
+ed, over a period of weeks, in highly
+selective nigrostriatal dopaminergic
+degeneration, which was virtually
+identical to that in PD. Additionally,
+rotenone exposure caused the forma-
+tion of large cytoplasmic inclusions
+in nigral neurons. These inclusions
+contained α-synuclein and ubiquitin,
+and by electron microscopy were
+reminiscent of Lewy bodies. Behav-
+iorally, the animals developed brady-
+kinesia, rigidity, and gait problems
+similar to PD. More severely affected
+rats had motor “freezing” and flexed
+posture. Thus, moderate systemic
+inhibition of complex I was suffi-
+cient to reproduce the features of PD
+(Betarbet and others 2000).
+These results have important
+implications. First, they provide
+direct experimental evidence that a
+modest, systemic defect in complex I
+can cause parkinsonism. Second,
+they show that substantia nigra
+dopamine neurons have an intrinsic
+sensitivity to complex I defects.
+Despite the fact that complex I was
+uniformly inhibited throughout the
+brain, only the substantia nigra neu-
+rons degenerated. Third, they give
+“biological plausibility” to the pesti-
+cide/environmental exposure hypoth-
+esis of PD.
+Complex I and Mechanisms 
+of Neurodegeneration
+The mechanisms by which complex I
+dysfunction leads to selective neu-
+rodegeneration in PD remain to be
+fully elucidated. Nevertheless, it is
+clear that reduced complex I activity
+may predispose to excitotoxicity and
+oxidative damage, both of which
+have been implicated in PD (Fig. 2).
+Complex I dysfunction may ren-
+der neurons vulnerable to excitotoxic
+death by altering ATP levels, by
+impairing Ca
+++
+homeostasis, or both.
+Neurons rely almost exclusively on
+mitochondrial respiration for pro-
+duction of ATP, and ATP levels play
+an important role in regulating cellu-
+lar homeostasis. For example,
+reduced ATP levels decrease the
+activity of the plasma membrane
+Na
++
+/K
++
+ATPase, resulting in partial
+neuronal depolarization. Neuronal
+depolarization decreases the voltage-
+dependent Mg
+++
+blockade of the N-
+methyl-D-aspartate (NMDA) gluta-
+mate receptor. Under these condi-
+tions, even normal levels of extracel-
+lular glutamate may cause excitotox-
+ic activation of NMDA receptors and
+elevation of intracellular Ca
+++
+. The
+magnitude and duration of these Ca
+++
+transients may be further elevated by
+reduced Ca
+++
+-ATPase activity due to
+energy depletion and failure of mito-
+chondrial calcium uptake, both as a
+result of mitochondrial dysfunction.
+Moreover, chronic complex I defects
+have been shown to disrupt normal
+Ca
+++
+signaling in neural cells (Sherer
+and others 2001b). Thus, complex I
+impairment may lead to abnormal
+NMDA receptor activation and, at
+the same time, render neurons more
+vulnerable to this insult (Greene and
+Greenamyre 1996).
+An increased sensitivity to excito-
+toxicity may be particularly detri-
+mental in PD. With degeneration of
+the nigrostriatal dopaminergic nerve
+terminals, neurons of the subthalam-
+ic nucleus become overactive
+(Bergman and others 1990). These
+cells are excitatory and glutamater-
+gic, and among their targets is sub-
+stantia nigra pars compacta. Thus, in
+the setting of “sick” dopaminergic
+neurons in PD, there is increased glu-
+tamatergic input from the subthalam-
+ic nucleus back onto those neurons.
+It has been suggested that this may
+lead to excitotoxicity in the substan-
+tia nigra (Rodriguez and others
+1998). Indeed, we have shown that
+pharmacological reduction of sub-
+thalamic activity reduces chronic
+degeneration of dopaminergic neu-
+rons in a rat model of PD (Blandini
+and others 2001).
+Impairment of complex I may also
+cause oxidative stress, and there is
+growing evidence to suggest a role
+for oxidative damage in PD patho-
+genesis. Brains from PD patients
+express elevated markers of oxida-
+tive damage including lipid peroxi-
+Fig. 2. Mitochondrial dysfunction leads to oxidative stress and renders cells vulnerable
+to excitotoxic insults. Mitochondrial defects result in increased production of reactive
+oxygen species (ROS) that consume antioxidants such as glutathione, and cause dam-
+age to DNA, protein, and lipids. Complex I dysfunction can also cause altered calcium
+homeostasis. Additionally, reduced complex I function may cause a drop in ATP pro-
+duction that could decrease the activity of ATPases, such as the Na
++
+/K
++
+ATPase, result-
+ing in neuronal depolarization. Under these conditions, neurons are extremely suscep-
+tible to excitotoxic insults.
+ at Univ of Newcastle upon Tyne on November 23, 2010nro.sagepub.comDownloaded from 
+Volume 8, Number 3, 2002 THE NEUROSCIENTIST 195
+dation and oxidative modifications
+to proteins and DNA (Dexter and
+others 1989; Alam and others 1997a,
+1997b). The source of this oxidative
+damage is unknown, but dopamine
+neurons are believed to exist in a
+constant state of oxidative stress. The
+activities of tyrosine hydroxylase, the
+rate-limiting enzyme of dopamine
+synthesis, and monoamine oxidase,
+which catabolizes dopamine, cause
+the formation of H
+2
+O
+2
+as a normal
+by-product. Auto-oxidation of dopa-
+mine, which leads to the production
+of melanin in substantia nigra, also
+yields H
+2
+O
+2
+, which decomposes to
+•OH (hydroxyl radical), the most
+reactive of the reactive oxygen
+species (ROS). This nonenzymatic
+reaction is accelerated in the pres-
+ence of iron (particularly when it is
+in the free, ferrous form, Fe
+++
+), which
+is abundant physiologically in the
+substantia nigra. In addition, small
+amounts of highly reactive free radi-
+cals are normally created as a by-
+product of oxidative phosphoryla-
+tion, but these are normally handled
+efficiently by endogenous antioxi-
+dant systems. However, partial inhi-
+bition of complex I, as produced by
+rotenone, MPP
++
+, or observed in PD
+patients, markedly enhances ROS
+production (Hensley and others 1998;
+Hasegawa and others 1990). A dan-
+gerous feed-forward cycle may be
+created in which local ROS produc-
+tion can further damage complex I,
+causing additional complex I dysfunc-
+tion and increased ROS production.
+Animal models have also pointed
+toward a role for oxidative stress in
+PD. Mice exposed to MPTP express
+elevated levels of ROS and lipid per-
+oxidation (Sriram and others 1997).
+Antioxidants and spin trap agents
+reduce MPTP-induced neurodegen-
+eration (Matthews and others 1999).
+Systemic rotenone-infusion induced
+selective protein oxidation in the rat
+striatum (Sherer and others 2001a).
+In an in vitro system, chronic low-
+dose rotenone causes progressive
+depletion of glutathione, oxidative
+damage to proteins and DNA, release
+of cytochrome c from mitochondria
+to cytosol, activation of caspase 3,
+mitochondrial depolarization, and
+eventually, apoptosis (Betarbet and
+others 2001).
+A link also exists between oxida-
+tive stress and the formation of cyto-
+plasmic inclusions. Oxidatively
+modified α-synuclein is more prone
+to degradation and aggregation than
+native protein (Souza and others
+2000). Additionally, α-synuclein
+appears to be selectively nitrated in
+PD (Giasson and others 2000). It is
+also important to note that the com-
+plex I toxins, MPTP (Vila and others
+2000) and rotenone (Sherer, Betarbet,
+and Greenamyre, unpublished results),
+cause an apparent up-regulation of
+α-synuclein levels. Together, these
+results suggest an important role for
+oxidative stress in PD, and altered
+complex I function likely contributes
+to this oxidative burden.
+Complex I Inhibitors 
+in the Environment
+Studies with rotenone have demon-
+strated that a mild systemic complex I
+defect can accurately model PD.
+Although it is a pesticide, however,
+rotenone is unlikely to be a major
+cause of PD. It has poor oral
+bioavailability and it is reported to
+undergo rapid biodegradation in the
+environment. Moreover, it is not used
+widely in commercial agriculture. In
+contrast, there are many other pesti-
+cides that are known to inhibit com-
+plex I (Table 1) and that are used on
+a much broader scale than rotenone
+in commercial agriculture (Degli
+Esposti 1998; Lümmen 1998).
+Whether these compounds are also
+capable of causing parkinsonism is
+unknown and should be investigated.
+There is uncertainty about
+whether PD is a disease of the
+“industrial age” and whether its inci-
+dence is increasing. Nevertheless, it
+is clear that PD has existed since
+before there was widespread use of
+pesticides or other synthetic com-
+pounds. Therefore, it is essential to
+consider natural compounds in our
+environment, which might be capa-
+ble of causing PD. In this regard, it is
+interesting to note that there are
+many natural substances that potent-
+ly inhibit complex I (Table 2). Of
+these, some are substantially more
+potent than rotenone. It seems likely
+that there are many other as yet
+undiscovered compounds that also
+inhibit complex I.
+The extent to which complex I
+inhibitors, natural or manmade, con-
+taminate our food, water, or air is
+largely unknown, but this may be a
+determinant of PD risk. On the other
+hand, differences in genetic suscepti-
+bilities may play a major role in
+whether or not an individual devel-
+ops PD. Similarly, there are clear-cut
+but poorly characterized genetic dif-
+ferences in susceptibility to complex I
+inhibitors in rodents. For example,
+strains of mice vary enormously in
+Table 1. Pesticides Known to Inhibit Complex I
+Benzimidazole Hoe 110779
+Bullatacin Pyridaben
+6-Chloro-benzothiadiazole Pyrimidifen
+Cyhalothrin Sandoz 548A
+Fenazaquin Tebufenpyrad
+Fenpyroximate Thiangazole
+From Degli Esposti (1998) and Lümmen (1998).
+Table 2. Natural Compounds Known to Inhibit Complex I
+Compound Source
+Rotenoids Leguminosae plants
+Piericidins* Streptomyces strains
+Acetogenins* Annonacae plants (custard apple, paw-paw)
+Antibiotics Myxobacteria
+Rhein Rhubarb
+*More potent than rotenone. From Degli Esposti (1998).
+ at Univ of Newcastle upon Tyne on November 23, 2010nro.sagepub.comDownloaded from 
+196 THE NEUROSCIENTIST Environment, Mitochondria, and Parkinson’s Disease
+their sensitivity to MPTP. In addi-
+tion, changing from an outbred to an
+inbred strain of rats greatly reduced
+the variability in rotenone-induced
+parkinsonism (Betarbet and others
+2000). Thus, there is little doubt that
+development of PD is a complex
+interaction of normal aging, genetic
+susceptibilities, and environment.
+Conclusions
+The etiology of PD is incompletely
+understood. Epidemiological studies
+and experimental models have sug-
+gested a role for both environmental
+exposures and genetic variability in
+PD pathogenesis. Complex I abnor-
+malities, due to genetic mutations or
+polymorphisms, or to manmade or
+natural substances, may play a piv-
+otal role in the pathogenesis of PD by
+elevating oxidative stress and render-
+ing cells vulnerable to excitotoxic
+insults (Fig. 3). An improved under-
+standing of the involvement of envi-
+ronmental exposures and mitochon-
+drial defects in PD may ultimately
+provide a means to prevent PD in
+susceptible individuals and to slow
+progression with neuroprotective
+strategies.
+References
+Alam ZI, Daniel SE, Lees AJ, Marsden DC,
+Jenner P, Halliwell B. 1997a. A gener-
+alised increase in protein carbonyls in the
+brain in Parkinson’s but not incidental
+Lewy body disease. J Neurochem
+69:1326–9.
+Alam ZI, Jenner A, Daniel SE, Lees AJ,
+Cairns N, Marsden CD, and others. 1997b.
+Oxidative DNA damage in the parkinson-
+ian brain: an apparent selective increase in
+8-hydroxyguanine levels in substantia
+nigra. J Neurochem 69:1196–203.
+Bergman H, Wichmann T, DeLong MR. 1990.
+Reversal of experimental parkinsonism by
+lesions of the subthalamic nucleus.
+Science 249:1436–8.
+Betarbet R, Sherer TB, Lund S, Greenamyre
+JT. 2001. The rotenone model of
+Parkinson’s disease in vitro: progressive
+oxidative damage, caspase-3 activation
+and apoptosis. Soc Neurosci Abstr No.
+653.1.
+Betarbet R, Sherer TB, MacKenzie G, Garcia-
+Osuna M, Panov AV, Greenamyre JT.
+2000. Chronic systemic pesticide exposure
+reproduces features of Parkinson’s disease.
+Nat Neurosci 3:1301–6.
+Blandini F, Nappi G, Greenamyre JT. 2001.
+Subthalamic infusion of an NMDA antag-
+onist prevents basal ganglia metabolic
+changes and nigral degeneration in a
+rodent model of Parkinson’s disease. Ann
+Neurol 49:525–9.
+Degli Esposti M. 1998. Inhibitors of NADH-
+ubiquinone reductase: an overview.
+Biochim Biophys Acta 1364:222–35.
+Dexter DT, Carter CJ, Wells FR, Javoy-Agid F,
+Agid Y, Lees A, and others. 1989. Basal
+lipid peroxidation in substantia nigra is
+increased in Parkinson’s disease. J
+Neurochem 52:381–9.
+Farrer M, Maraganore DM, Lockhart P,
+Singleton A, Lesnick TG, de Andrade M,
+and others. 2001. Alpha-synuclein gene
+haplotypes are associated with Parkinson’s
+disease. Hum Mol Genet 10:1847–51.
+Giasson BI, Duda JE, Murray IV, Chen Q,
+Souza JM, Hurtig HI, and others. 2000.
+Oxidative damage linked to neurodegener-
+ation by selective alpha-synuclein nitra-
+tion in synucleinopathy lesions. Science
+290:985–9.
+Gorell JM, Johnson CC, Rybicki BA, Peterson
+EL, Kortsha GX, Brown GG, and others.
+1999. Occupational exposure to man-
+ganese, copper, lead, iron, mercury and
+zinc and the risk of Parkinson’s disease.
+Neurotoxicology 20:239–47.
+Greenamyre JT, Betarbet R, Sherer T, Panov
+A. 2001. Response: Parkinson’s disease,
+pesticides and mitochondrial dysfunction.
+Trends Neurosci 24:247.
+Greene JG, Greenamyre JT. 1996. Bioener-
+getics and glutamate excitotoxicity. Prog
+Neurobiol 48:613–34.
+Gu M, Cooper JM, Taanman JW, Schapira
+AH. 1998. Mitochondrial DNA transmis-
+sion of the mitochondrial defect in
+Parkinson’s disease. Ann Neurol 44:177–
+86.
+Hasegawa E, Takeshige K, Oishi T, Murai Y,
+Minakami S. 1990. 1-Methyl-4-phenylpyri-
+dinium (MPP+) induces NADH-depend-
+ent superoxide formation and enhances
+NADH-dependent lipid peroxidation in
+bovine heart submitochondrial particles.
+Biochem Biophys Res Commun
+170:1049–55.
+Hensley K, Pye QN, Maidt ML, Stewart CA,
+Robinson KA, Jaffrey F, and others. 1998.
+Interaction of alpha-phenyl-N-tert-butyl
+nitrone and alternative electron acceptors
+with complex I indicates a substrate reduc-
+tion site upstream from the rotenone bind-
+ing site. J Neurochem 71:2549–57.
+Javitch JA, Snyder SH. 1984. Uptake of
+MPP(+) by dopamine neurons explains
+selectivity of parkinsonism-inducing neu-
+rotoxin, MPTP. Eur J Pharmacol
+106:455–6.
+Kitada T, Asakawa S, Hattori N, Matsumine H,
+Yamamura Y, Minoshima S, and others.
+1998. Mutations in the parkin gene cause
+autosomal recessive juvenile parkinson-
+ism. Nature 392:605–8.
+Langston JW, Ballard P, Tetrud JW, Irwin I.
+1983. Chronic Parkinsonism in humans
+due to a product of meperidine-analog
+synthesis. Science 219:979–80.
+Langston JW, Forno LS, Tetrud J, Reeves
+AG, Kaplan JA, Karluk D. 1999.
+Evidence of active nerve cell degeneration
+in the substantia nigra of humans years
+after 1-methyl-4-phenyl-1,2,3,6-tetrahy-
+dropyridine exposure. Ann Neurol
+46:598–605.
+Le Couteur DG, McLean AJ, Taylor MC,
+Woodham BL, Board PG. 1999. Pesticides
+and Parkinson’s disease. Biomed
+Pharmacother 53:122–30.
+Lümmen P. 1998. Complex I inhibitors as
+insecticides and acaricides. Biochim
+Biophys Acta 1364:287–96.
+Fig. 3. Involvement of environmental exposures and genetics in Parkinson’s disease
+(PD) pathogenesis. The etiology of PD may result from environmental exposures and/or
+genetic mutations. Environmental toxins may include pesticides and/or herbicides.
+Genetic alterations may involve mutations in α-synuclein or parkin genes or alterations
+in mitochondrial DNA. Additionally, individual genetic variations may impact xenobiotic
+metabolism. Environmental toxins may directly or indirectly, through influence on genet-
+ic factors, lead to PD pathogenesis. Both environmental exposures and genetic muta-
+tions may also cause mitochondrial dysfunction resulting in PD.
+ at Univ of Newcastle upon Tyne on November 23, 2010nro.sagepub.comDownloaded from 
+Volume 8, Number 3, 2002 THE NEUROSCIENTIST 197
+Matthews RT, Klivenyi P, Mueller G, Yang L,
+Wermer M, Thomas CE, and others. 1999.
+Novel free radical spin traps protect
+against malonate and MPTP neurotoxicity.
+Exp Neurol 157:120–6.
+Menegon A, Board PG, Blackburn AC,
+Mellick GD, Le Couteur DG. 1998.
+Parkinson’s disease, pesticides, and glu-
+tathione transferase polymorphisms.
+Lancet 352:1344–6.
+Mirra SS, Schneider JA, Gearing M. 1997.
+Neuropathology of movement disorders:
+an overview. In: Watts RL, Koller WC,
+editors. Movement disorders: neurologic
+principles and practice. New York:
+McGraw-Hill. p 125–34.
+Mizuno Y, Ohta S, Tanaka M, Takamiya S,
+Suzuki K, Sato T, and others. 1989.
+Deficiencies in complex I subunits of the
+respiratory chain in Parkinson’s disease.
+Biochem Biophys Res Commun
+163:1450–5.
+Nicklas WJ, Vyas I, Heikkila RE. 1985.
+Inhibition of NADH-linked oxidation in
+brain mitochondria by 1-methyl-4-phenyl-
+pyridine, a metabolite of the neurotoxin, 1-
+methyl-4-phenyl-1,2,5,6-tetrahydropyri-
+dine. Life Sci 36:2503–8.
+Parker WD Jr, Boyson SJ, Parks JK. 1989.
+Abnormalities of the electron transport
+chain in idiopathic Parkinson’s disease.
+Ann Neurol 26:719–23.
+Polymeropoulos MH, Lavedan C, Leroy E, Ide
+SE, Dehejia A, Dutra A, others. 1997.
+Mutation in the alpha-synuclein gene
+identified in families with Parkinson’s dis-
+ease. Science 276:2045–7.
+Priyadarshi A, Khuder SA, Schaub EA,
+Priyadarshi SS. 2001. Environmental risk
+factors and Parkinson’s disease: a meta-
+analysis. Environ Res 86:122–7.
+Priyadarshi A, Khuder SA, Schaub EA,
+Shrivastava S. 2000. A meta-analysis of
+Parkinson’s disease and exposure to pesti-
+cides. Neurotoxicology 21:435–40.
+Rodriguez MC, Obeso JA, Olanow CW. 1998.
+Subthalamic nucleus-mediated excitotoxi-
+city in Parkinson’s disease: a target for
+neuroprotection. Ann Neurol 44:S175–88.
+Schapira AH. 1998. Human complex I defects
+in neurodegenerative diseases. Biochim
+Biophys Acta 1364:261–70.
+Schapira AH, Cooper JM, Dexter D, Jenner P,
+Clark JB, Marsden CD. 1989.
+Mitochondrial complex I deficiency in
+Parkinson’s disease. Lancet 1:1269.
+Sherer TB, Betarbet R, Greenamyre JT. 2001a.
+The rotenone model of Parkinson’s disease
+in vivo: selective striatal oxidative damage
+and caspase-3 activation in nigrostriatal
+neurons. Soc Neurosci Abstr No 653.2.
+Sherer TB, Trimmer PA, Borland K, Parks JK,
+Bennett JP Jr, Tuttle JB. 2001b. Chronic
+reduction in complex I function alters cal-
+cium signaling in SH-SY5Y neuroblas-
+toma cells. Brain Res 891:94–105.
+Souza JM, Giasson BI, Chen Q, Lee VM,
+Ischiropoulos H. 2000. Dityrosine cross-
+linking promotes formation of stable
+alpha-synuclein polymers. Implication of
+nitrative and oxidative stress in the patho-
+genesis of neurodegenerative synucle-
+inopathies. J Biol Chem 275:18344–9.
+Spillantini MG, Schmidt ML, Lee VM,
+Trojanowski JQ, Jakes R, Goedert M.
+1997. Alpha-synuclein in Lewy bodies.
+Nature 388:839–40.
+Sriram K, Pai KS, Boyd MR, Ravindranath V.
+1997. Evidence for generation of oxidative
+stress in brain by MPTP: in vitro and in
+vivo studies in mice. Brain Res
+749:44–52.
+Swerdlow RH, Parks JK, Miller SW, Tuttle JB,
+Trimmer PA, Sheehan JP, and others.
+1996. Origin and functional consequences
+of the complex I defect in Parkinson’s dis-
+ease. Ann Neurol 40:663–71.
+Talpade DJ, Greene JG, Higgins DS Jr,
+Greenamyre JT. 2000. In vivo labeling of
+mitochondrial complex I (NADH:ubiqui-
+none oxidoreductase) in rat brain using
+[(3)H]dihydrorotenone. J Neurochem
+75:2611–21.
+Vila M, Vukosavic S, Jackson-Lewis V,
+Neystat M, Jakowec M, Przedborski S.
+2000. Alpha-synuclein up-regulation in
+substantia nigra dopaminergic neurons
+following administration of the parkinson-
+ian toxin MPTP. J Neurochem 74:721–9.
+Vingerhoets FJ, Snow BJ, Tetrud JW, Langston
+JW, Schulzer M, Calne DB. 1994. Positron
+emission tomographic evidence for pro-
+gression of human MPTP-induced
+dopaminergic lesions. Ann Neurol
+36:765–70.
+ at Univ of Newcastle upon Tyne on November 23, 2010nro.sagepub.comDownloaded from 

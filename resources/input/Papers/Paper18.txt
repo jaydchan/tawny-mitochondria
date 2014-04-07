@@ -1,0 +1,617 @@
+Mannella
+form
+20
+tubular
+between
+mitochondria.
+topology;
+10 years, the technique of electron tomography – employ- inner membranes
+1763
+ing advanced, higher voltage electron microscopes and
+computer-based reconstruction algorithms – has afforded
+biologists true three-dimensional images of mitochondria, first
+in thick plastic sections [3–8] and more recently in frozen-
+hydrated suspensions [8–10] or tissue sections [11,12]. While
+the results have underscored the tremendous pleomorphism of
+the mitochondrial inner membrane, they also point to conserved
+design principles and to an important role for membrane
+dynamics in maintaining membrane morphology. Moreover,
+these studies suggest that the diversity in inner membrane shape
+The mitochondrion is structurally defined, in large measure,
+by its two membranes: a limiting outer membrane that enwraps
+the energy-transducing inner membrane, which in turn encloses
+a dense, protein-rich matrix. The outer membrane is topolog-
+ically simple, varying in shape depending on whether the
+mitochondrion is in a cell (usually tubular when attached to the
+cytoskeleton, sometimes reticulated) or isolated in suspension
+(ellipsoidal or spherical). The inner membrane, which has a
+larger surface area than the outer membrane, contains features
+were provided over 50 years ago by transmission electron
+microscopy (TEM) of thin sections of chemically fixed and
+plastic-embedded specimens [1]. It was soon apparent that the
+mitochondrial inner membrane can assume an astounding
+variety of morphologies [2], even though it has the same two
+basic functions in every cell: to serve as the scaffold for the
+assembly and operation of the respiratory chain complexes, and
+to provide the permeability barrier across which the respiratory
+machinery generates its chemiosmotic gradient. In the last
+are affected (or even effected) by changes in mitochondrial
+membrane topology, e.g., by altering the diffusion of metabo-
+lites and proteins between internal compartments [4,8,10]. This
+review is intended to highlight recent findings relevant to the
+influence of inner membrane shape on mitochondrial function
+and the identification of factors that, in turn, regulate this
+membrane's topology.
+1. Morphology and implied dynamics of mitochondrial
+The first images of the internal structure of mitochondria The growing implication is that certain mitochondrial functions
+Review
+Structure and dynamics of the mitocho
+Carmen A.
+Resource for Visualization of Biological Complexity, Wadsworth
+Received 3 April 2006; received in revised
+Available online
+Abstract
+Three-dimensional images of mitochondria provided by electron tomography
+membrane are connected to the periphery of this membrane by narrow
+strongly suggest that inner membrane topology represents a balance
+developed is that inner membrane topology is a regulated property of
+membrane shape influences mitochondrial function and, conversely, what
+© 2006 Elsevier B.V. All rights reserved.
+Keywords: Mitochondria; Electron microscopy; Electron tomography; Membrane
+Biochimica et Biophysica Acta
+and the changes observed under certain conditions might not be
+random, but rather might reflect a novel regulatory mechanism.
+⁎
+Tel.: +1 518 474 2462; fax: +1 518 402 5381.
+E-mail address: carmen@wadsworth.org.
+0167-4889/$ - see front matter © 2006 Elsevier B.V. All rights reserved.
+doi:10.1016/j.bbamcr.2006.04.006
+ndrial inner membrane cristae
+⁎
+Center, Empire State Plaza, Albany, NY 12201-0509, USA
+6 April 2006; accepted 10 April 2006
+April 2006
+reveal that the micro-compartments (cristae) defined by the inner
+junctions, which likely restrict diffusion. The tomograms also
+membrane fusion and fission processes. The hypothesis being
+This review summarizes the evidence about how inner
+is known about the factors that determine this membrane's topology.
+Bioenergetics; Cardiolipin
+(2006) 542–548
+http://www.elsevier.com/locate/bba
+referred to as cristae (literally, crests) which have long been
+represented as simple infoldings of this membrane [1,7].
+Although this “baffle” interpretation was not universally
+accepted (e.g., [13]), it rapidly found its way into the textbooks.
+Subsequent electron tomographic analyses of a variety of
+the inner membrane. Condensed (matrix compacted) mitochon-
+dria (Fig. 2, also Fig. 1) have larger internal compartments with
+multiple tubular connections to the peripheral region and to
+each other. Interconversion of these states can only be achieved
+by the inner membrane undergoing fusion and fission [8].
+Matrix compression is accompanied by fusion of individual
+cristae into larger compartments, while matrix expansion
+requires fissioning of the large cisternae into individual tubes
+or lamellae and (with extreme matrix swelling) recruitment of
+membrane from the interior to the periphery. Analyses of a
+variety of mitochondria reveal inner membrane morphologies
+that appear to represent extreme states of membrane fusion or
+fission (Fig. 3). Thus, the ‘typical’ crista morphology
+represented by mitochondria like those of Figs. 1 and 2 likely
+represents a balance between intra-mitochondrial membrane
+fusion and fission processes [10]. As discussed below, this
+Fig. 1. Model derived from cryo-electron tomography of the membranes in an
+intact, frozen-hydrated mitochondrion isolated from rat liver. This mitochon-
+drion has a diameter of 700 nm.
+543C.A. Mannella / Biochimica et Biophysica Acta 1763 (2006) 542–548
+mitochondria, isolated and in situ, have provided overwhelming
+evidence that cristae are not simply random folds in the inner
+membrane but rather internal compartments formed by
+invagination of the membrane (Figs. 1 and 2). These
+invaginations originate at narrow neck-like segments, called
+pediculi cristae (crista feet) when first detected by conventional
+TEM [13] and later crista junctions [5].
+Rat-liver mitochondria display highly variable crista mor-
+phology, even within a single organelle. In the frozen-hydrated
+mitochondrion shown in Fig. 1, the inner membrane comprises
+curved, tubular regions that co-exist or merge with flattened
+lamellar segments. The overall impression is one of a highly
+fluid, interconnected membrane continuum. Hackenbrock [14]
+defined two morphologic states in chemically fixed mitochon-
+dria, condensed and orthodox, which differed primarily in the
+relative states of expansion or contraction of the matrix and
+intracristal compartments. Three-dimensional analyses of rat-
+liver mitochondria in these states indicate major differences in
+inner membrane topology (Fig. 2). Cristae in the orthodox
+(matrix expanded) state tend to be tubes or short flat lamellae
+with one or two openings (junctions) in the peripheral region of
+Fig. 2. Change in mitochondrial inner membrane topology associated with the orthodox-c
+Elsevier Science. Model on right reproduced from C.A. Mannella, (2004) Mitochondri
+Chemistry (W.J. Lennarz and M.D. Lane, eds), vol. 2, pp. 720–724, with permission
+500 nm.
+raises the possibility that inner membrane morphology is
+regulated, at least in part, by the same types of proteins that
+control inter-mitochondrial fission and fusion.
+2. Sites of inner membrane invagination: crista junctions
+Tubular connections between cristae and the peripheral or
+boundary region of the mitochondrial inner membrane have
+been observed in mitochondria from protozoa (amoeba),
+fungi, and metazoa from nematodes to flies to mammals [3–
+9,15–17]. The junctions have been shown to form spontane-
+ously in yeast mitochondria after extreme osmotic swelling
+and re-contraction of the inner membrane, indicating that their
+formation is energetically favored [8]. However, while crista
+junctions are ubiquitous, they are not structurally constant.
+Perkins et al. reported that crista junctions in neuronal
+mitochondria have uniformly circular cross-sections with
+diameters of ∼28 nm [5]. However, in rat-liver mitochondria
+the cross-section of the junctions can vary from circular to
+elliptical (short slots) with openings typically in the range
+20–50 nm [3,4,8]. The crista junctions in Neurospora
+mitochondria have been reported to be exclusively slot-like
+ondensed transition. Model on left reproduced from [4] with permission of
+al Membranes, Structural Organization, in Encyclopedia of Biological
+of Elsevier Science. Mitochondria (left to right) have diameters of 1500 nm and
+Acta 1763 (2006) 542–548544 C.A. Mannella / Biochimica et Biophysica
+[9,16]. However, intact frozen-hydrated Neurospora mito-
+chondria have both circular and slot-like crista junctions
+(Mannella, Marko, Hsieh, unpublished results).
+It is unclear whether the formation of crista junctions is
+dependent on or supported by specific mitochondrial protein
+or lipid components. On the one hand, membrane invagina-
+tions with short neck-like junctions are predicted to occur
+when a flexible spherical membrane increases in area while
+nested inside a second, rigid sphere [18]. Thus, formation of
+tubular crista junctions might be a spontaneous lipid-mediated
+process requiring nothing more than the rate of inner
+membrane biogenesis exceeding that of the outer membrane.
+On the other hand, certain mutations and pathological
+conditions are associated with unattached cristae, suggesting
+derangement in mechanisms that normally stabilize the crista
+junctions (Fig. 3 and below). One of the rare cases of total
+absence of crista junctions is associated with the relict
+mitochondrion of the anaerobic pathogen, Cryptosporidium
+parvum [19]. This organism lacks a functioning respiratory
+chain but has a single mitochondrion, probably retained for
+iron–sulfur metabolism. The inner membrane of the relict
+mitochondrion is highly convoluted but does not have crista
+junctions (Fig. 4).
+Overexpression of membrane proteins in E. coli can cause
+expansion and infolding of the inner, cytoplasmic membrane. In
+one case, the infoldings of the bacterial inner membrane were
+Fig. 3. Extreme mitochondrial inner membrane topologies reflecting an imbalance of
+diameter) with “vesicular” cristae from a patient with Senger's syndrome. (Reproduced
+Lowerleft:yeastmitochondrion(1200nmdiameter)with “vesicular” cristaeformedfollowing
+permission of IUBMB Life, Taylor Francis Group.) Upper right: mouse liver mitochon
+[10] with permission of Elsevier Science.) Lower right: segment of a fasting amoeba
+membrane segment is 800 nm. (Reproduced from [7] with permission of Elsevier Science).
+shownbyelectrontomographytoberandom,lackingthetubular
+junctions typical of mitochondrial cristae [20]. By contrast,
+magnetotactic bacteria contain so-called magnetosomes, linear
+membrane fusion and fission. Upper left: heart muscle mitochondrion (1000 nm
+with permission from M. Huizing, PhD thesis, University of Nijmegen, 1998.)
+extremeosmoticswellingand recontraction.(Reproducedfrom[8]with
+drion (900 nm diameter) after brief exposure to tBid [25]. (Reproduced from
+mitochondrion showing paracrystalline arrangement of cristae. Length of outer
+Fig. 4. Relict mitochondrion from the anaerobic pathogen Cryptosporidium par-
+vum,havingahighlyfoldedinnermembranethatlackscristajunctions.Scalebar=
+100 nm. (Reproduced from [19] with permission of Blackwell Publishing, Inc.).
+arraysof∼50-nmmagnetitecrystalscontainedinsidemembrane
+vesicles formed by invagination of the inner membrane. These
+invaginations have been shown, by cryo-electron tomography,
+to occur at short, neck-like membrane junctions that form in the
+membrane even in the absence of the magnetic particles [21].
+Thus, it is possible, perhaps likely, that mitochondrial crista
+junctions are formed and stabilized by specific, conserved
+mechanisms shared with the mitochondrion's bacterial
+ancestors.
+3. Functional implications of inner membrane topology
+An early inference from the 3D images of mitochondria
+provided by electron tomography was that narrow tubular
+junctions might restrict diffusion between intracristal compart-
+ments and the peripheral intermembrane space [4]. Williams
+[22] and Tedeschi [23] have commented separately on the
+bioenergetic implications of the new model for inner
+membrane organization: localized, kinetically controlled pro-
+ton flow as opposed to the original description of delocalized
+chemiosmosis of Mitchell [24]. In fact, there are several
+indications in the recent literature that the topology of the
+mitochondrial inner membrane might directly affect specific
+mitochondrial functions and, therefore, that changes in inner
+membrane morphology might represent a novel form of
+metabolic regulation.
+3.1. Bioenergetics: the condensed to orthodox morphological
+transition
+Computer simulations by Moraru and colleagues indicate
+that ADP depletion could occur inside large intracristal
+compartments of condensed mitochondria connected by long
+narrow tubular segments to the inner boundary membrane [8].
+The simulations predict that restricted diffusion of ADP cannot
+keep up with its utilization inside these micro-compartments,
+leading to diminished local production of ATP. Isolated rat-liver
+mitochondria were first shown by Hackenbrock to switch from
+condensed to orthodox state when [ADP] drops during the
+conversion from respiratory state 3 to state 4 [14]. Thus, this
+familiar but poorly understood morphological transition (Fig. 2)
+may have a functional basis: elimination of diffusion bottle-
+necks that would otherwisereduce efficiencyofATPproduction
+[10].
+3.2. Apoptosis: tBid-induced remodeling of the inner membrane
+Isolated mouse liver mitochondria undergo a dramatic
+change in inner membrane morphology after incubation for a
+few minutes with thetruncated form of thepro-apoptotic protein
+Bid (Fig. 3) [25]. This remodeling, marked by a reversal in
+curvature of the cristae membranes, results in increased
+interconnectivity of the intracristal spaces and a widening of
+cristae junctions. Concomitantly, there is a mobilization and
+C.A. Mannella / Biochimica et Biophysic
+more complete release of internal stores of cytochrome c,
+suggesting that the tBid-induced inner-membrane remodeling is
+an integral step in the apoptotic pathway.
+3.3. Oxidative stress: cubic transition in mitochondrial
+membranes of amoeba
+The mitochondrial cristae of many protozoa are tubular. In
+the case of the amoeba, Chaos carolinensis, fasting induces a
+remarkable morphological transition in the cristae, resulting in
+formation of a paracrystalline labyrinth of wide interconnected
+compartments with cubic symmetry (Fig. 3) [15].This
+structural transition coincides with increased intracellular
+production of reactive oxygen species (ROS) associated with
+breakdown of internal carbon stores [26], suggesting that this
+type of membrane remodeling – also observed in other
+membrane systems associated with oxidative stress (see
+discussion in [26]) – might represent a protective mechanism
+to help clear ROS from the organelles.
+4. Factors that affect inner membrane topology
+The topology of a membrane is a complex function of
+intrinsic and extrinsic factors, including: spontaneous curvature
+(protein and lipid composition), dynamics (ability to undergo
+fusion and fission), and binding to other cellular constituents
+(such as membrane-bending proteins, cytoskeletal filaments,
+and even other membranes). In the case of the mitochondrial
+inner membrane, its physical interactions with the outer
+membrane likely have a major effect on its shape. For example,
+as noted above, the very existence of a volume-constraining
+outer membrane may play an important role in initiating crista
+invagination; and contacts or attachments of the two mem-
+branes, through ∼10 nm bridging particles detected by cryo-
+electron tomography [8,10], may serve to keep the inner
+membrane extended. Likewise, there are obvious effects of the
+protein-rich matrix on inner membrane shape, in terms of
+setting a minimum volume below which the space bounded by
+the membrane can collapse. Whether there are more direct
+interactions, such as binding of the inner surface of cristae to a
+“mitoskeleton” (analogous to the interactions of endoplasmic
+reticulum with the cytoskeleton) is unknown.
+The intrinsic factors involved in the formation of crista
+junctions and in the structural transitions (remodeling) de-
+scribed in the previous section have, until recently, been largely
+a matter of conjecture. However, new findings are beginning to
+implicate several mitochondrial inner membrane components as
+regulators of this membrane's topology.
+4.1. tBid, adenine nucleotide translocator, and cardiolipin
+As noted above, tBid triggers a remodeling of mouse liver
+mitochondria, involving reversal of curvature of the crista
+membranes [25]. Epand et al. have observed that tBid induces
+reversed curvature in cardiolipin-containing membrane phases
+[27], suggesting that the remodeling of the cardiolipin-rich
+mitochondrial inner membrane might be lipid-mediated, i.e., a
+direct effect of tBid on the organization of lipids in these
+545a Acta 1763 (2006) 542–548
+membranes. Further evidence in support of this hypothesis has
+been provided by studies involving the adenine nucleotide
+translocator (ANT), the inner membrane carrier protein which
+synthase recently has been described in Drosophila [17]. This
+mutation (ATP6
+1
+) causes marked reduction in ATP production
+in neuronal mitochondria and very unusual inner membrane
+topology: rounded crista compartments contiguous with
+flattened lamellar regions of the same membrane (Fig. 5). A
+possible explanation for this highly unusual topological
+transition is that ATP synthase dimerization is normally
+inhibited in flat, lamellar cristae and that the ATP6
+1
+mutation
+somehow weakens the inhibition, allowing complex dimeriza-
+tion and, consequently, increased membrane curvature.
+4.3. Mitofilin
+Mitofilin is a 90-kDa inner-membrane protein, with
+predicted membrane anchor and coiled-coil domains, that is
+present at high levels in heart mitochondria but which, until
+recently, had no obvious function. John et al. recently have
+reported that down-regulation of mitofilin in HeLa cells by
+siRNA results in the formation of concentric onion-like inner
+mitochondrial membranes [37]. The mitofilin-deficient mito-
+chondria tend to form progressively larger membrane sworls,
+which were analyzed by electron tomography. The larger inner-
+membrane structures were found to be composed of a complex,
+interconnected network of membranes totally lacking tubular
+Acta 1763 (2006) 542–548
+binds cardiolipin and requires it for activity [28,29]. Gonsalvez
+et al. recently have reported that tBid inhibits ANT activity of
+yeast mitochondria in a cardiolipin-dependent manner, consis-
+tent with this inhibition being an indirect effect of tBid on
+cardiolipinorganization [30].Interestingly,Klingenbergandco-
+workers reported three decades earlier that ANT ligands, such
+as the inhibitor atractyloside (ATR), induce a morphological
+change in beef heart mitochondria [31] that, in retrospect,
+appears equivalent to the tBid induced remodeling of rat liver
+mitochondria (Fig. 3). Klingenberg et al. recognized the change
+in inner membrane shape as a reversal in membrane curvature
+and attributed it to a ligand-induced “re-orientation” of a mobile
+carrier protein to the matrix side of the membrane. However,
+Klingenberglater questioned whether the stoichiometry of ANT
+could be sufficient to cause so dramatic a change in inner
+membrane structure [32]. An alternative explanation might be
+that ligand-induced conformational changes in ANT cause a
+reorganization of the cardiolipin in the inner membrane, similar
+to that attributed to tBid, which, in turn, triggers the inner
+membrane remodeling. Of course, the possibility cannot be
+excluded that tBid (like ATR) directly interacts with ANT and
+that the reversal of curvature that both induce in the
+mitochondrial inner membrane is protein-mediated, i.e., due
+to a conformational change in the carrier protein, as originally
+suggested by Klingenberg et al. Distinguishing between these
+possibilities will require a better understanding of the nature of
+the interactions of tBid with cardiolipin and with ANT. It is
+worth noting, in this context, another inducer of reversed
+mitochondrial inner membrane curvature, cytochalasin B. This
+polycyclic antibiotic, best known for its inhibition of actin
+polymerization, was found by Coleman and Hermina in 1974 to
+induce a change in the inner-membrane morphology of rat-liver
+mitochondria very similar to that caused by ATR (and later
+tBid), which they attributed to interaction of the antibiotic with
+ANT [33]. In fact, the effects of cytochalasin-B and tBid on
+ADP-stimulated (state 3) respiration and respiratory control
+were both shown to be similar to those of ATR [30,33].
+4.2. ATP synthase
+The mitochondrial F
+1
+F
+0
+-ATP synthase complex has been
+strongly implicated in contributing to the curvature of the inner
+membrane as a result of its oligomerization. Paumard et al. have
+shown that mutations in ATP synthase subunit e (also called
+Atp21p and, formerly, Tim11p) inhibit formation of the ATP
+synthase dimer (the first step in formation of larger oligomers)
+and results in appearance of concentric onion-like cristae [34].
+More recently, single-particle electron microscopic studies from
+two laboratories [35,36] have revealed the likely basis for the
+membrane bending ability of ATP synthase. Since the lateral
+dimension of the membrane-embedded F
+0
+domain (at which
+dimer binding occurs) is considerably less that that of the extra-
+bilayer F
+1
+domain, lateral close-packing causes the complexes
+to be tilted with respect to each other and so imparts a local bend
+546 C.A. Mannella / Biochimica et Biophysica
+to the membrane of 40° in the case of beef heart ATP synthase
+[35] and 70° for the algal complex [36]. A mitochondrial DNA
+mutation in the gene encoding subunit 6 (F
+0
+domain) of the ATP
+Fig. 5. Brain mitochondrion from Drosophila bearing a mutation in the
+mitochondrial DNA gene for subunit 6 of ATP synthase. (A) Projection image
+from a 200-nm-thick plastic section of brain. (B) Single 2-nm-thick slice from
+the tomographic reconstruction. (C, D) Front and back views of the membrane
+surfacesin the tomogram. (E–F) Zoom-in views of cristae, showingflat lamellar
+regions contiguous with dilated compartments. (Reproduced from [17] with
+permission of the Society of Neuroscience).
+connections to each other or to the peripheral inner membrane.
+John et al. have proposed that mitofilin's physiological role is to
+maintain normal crista morphology, in particular, the formation
+or stabilization of crista junctions.
+4.4. Mitochondrial dynamin-like proteins
+As mentioned, three-dimensional images provided by
+electron tomography strongly suggest that the topology of the
+inner mitochondrial membrane represents a balance between
+membrane fusion and fission processes [10]. Studies are
+ongoing in several laboratories of mitochondria from organisms
+in which proteins involved in mitochondrial dynamics are
+mutated, knocked out, or up/down regulated. One such protein,
+mgm1 (called OPA1 in humans), is a member of the dynamin
+family of GTP-binding proteins. It is found on the outer surface
+of the mitochondrial inner membrane and generally considered
+to be involved in mitochondrial fusion [38,39]. Griparic et al.
+found that reduced expression (by siRNA) of OPA1 in HeLa
+cells causes cristae “disorganization”, with indications of local
+matrix dilation and mitochondrial constrictions [40]. Continuity
+between different membrane regions (as in the case of the
+ATP6
+1
+mutant) was not determined. However, tomographic
+analyses are in progress for a C. elegans mgm1 mutant and for
+yeast mitochondria in which expression of mgm1p has been
+down-regulated (Van der Bliek, Pain and Mannella, unpub-
+lished results). Interestingly, Amutha et al. have reported that
+mgm1p is required for oligomerization of ATP synthase [41].
+Thus, it might be informative to use tomography to directly
+compare the effects of mgm1 deficiency and ATP synthase
+dimer inhibition on the topology of mitochondrial inner
+membranes in the same organism.
+5. Conclusions
+The 3D images of mitochondria provided by electron
+tomography have led to a re-examination of standard concepts
+about mitochondrial membrane organization and even rekindled
+some old (and, frankly, unsettled) arguments about the basic
+tenets of chemiosmosis. The growing likelihood that many of
+the topological changes undergone by the inner membrane
+reflect alterations to internal diffusion pathways with functional
+impact is spurring on the search for the molecular determinants
+(intrinsic and extrinsic) of inner membrane shape. Likewise,
+visualization of the interesting and complex micro-compart-
+ments inside mitochondria is sharpening the realization that
+ultimate modeling of cellular energy metabolism will have to
+include the effects of mitochondrial inner membrane topology.
+Technological developments in instrumentation and computa-
+tion are in progress that promise to improve the resolution in
+electron tomographic reconstructions of native (frozen-hydrat-
+ed) organelles, cells and tissue. Sorting out the molecular
+signatures on mitochondrial membranes and inside the different
+compartments (matrix, intermembrane and intracristal) is a
+C.A. Mannella / Biochimica et Biophysic
+daunting challenge but one which, if successfully met, could
+provide important information needed for a complete descrip-
+tion of mitochondrial energy metabolism.
+Acknowledgments
+Many collaborators have contributed to the work summa-
+rized in this review, including Drs. Ion Moraru, Leslie Loew,
+Douglas Pfeiffer, Yuru Deng, Luca Scorrano, Jan Keithly,
+Jiping Zha, and Michael Palladino. Special thanks are due to the
+team at theResourcefor Visualization of Biological Complexity
+(RVBC) who have developed the techniques of electron
+tomography and helped apply them to the study of mitochon-
+dria, in particular, Michael Marko, Karolyn Buttle, Chyongere
+Hsieh, David Barnard, and Drs. Joachim Frank, Christian
+Renken, Bimal Rath, ArDean Leith, Pawel Penczek (now at the
+University of Texas-Houston Medical School) and Michael
+Radermacher (now at the University of Vermont-Burlington).
+Development of electron tomography at the RVBC is supported
+by the National Center for Research Resources, NIH, grant
+RR01219.
+References
+[1] N. Rasmussen, Mitochondrial structure and the practice of cell biology in
+the 1950 s, J. History Biol. 28 (95 A.D.) 381–429.
+[2] E.A. Munn, The Structure of Mitochondria, Academic Press, London,
+1974.
+[3] C.A. Mannella, M. Marko, P. Penczek, D. Barnard, J. Frank, The internal
+compartmentation of rat-liver mitochondria: tomographic study using the
+high-voltage transmission electron microscope, Microsc. Res. Tech. 27
+(1994) 278–283.
+[4] C.A. Mannella, K. Buttle, M. Marko, Reconsidering mitochondrial struc-
+ture:newviewsofanoldorganelle,TrendsBiochem.Sci.22(1997)37–38.
+[5] G. Perkins, C. Renken, M.E. Martone, S.J. Young, M. Ellisman, T. Frey,
+Electron tomography of neuronal mitochondria: three-dimensional struc-
+ture and organization of cristae and membrane contacts, J. Struct. Biol. 119
+(1997) 260–272.
+[6] G. Perkins, T.G. Frey, Recent structural insights into mitochondria gained
+by microscopy, Micron 31 (2000) 97–111.
+[7] T.G. Frey, C.A. Mannella, The internal structure of mitochondria, Trends
+Biochem. Sci. 25 (2001) 319–324.
+[8] C.A. Mannella, D.R. Pfeiffer, P.C. Bradshaw, I. Moraru, B. Slepchenko,
+L.M. Loew, C. Hsieh, K. Buttle, M. Marko, Topology of the mitochondrial
+inner membrane: dynamics and bioenergetic implications, IUBMB Life 52
+(2001) 93–100.
+[9] D. Nicastro, A.S. Frangakis, D. Typke, W. Baumeister, Cryo-electron
+tomography of neurospora mitochondria, J. Struct. Biol. 129 (2000)
+48–56.
+[10] C.A. Mannella, The relevance of mitochondrial membrane topology to
+mitochondrial function, Biochim. Biophys. Acta, Mol. Basis Disease 1762
+(2006) 140–147.
+[11] C.-E. Hsieh, M. Marko, J. Frank, C.A. Mannella, Electron tomographic
+analysis of frozen-hydrated tissue sections, J. Struct. Biol. 138 (2002)
+63–73.
+[12] C.-E. Hsieh, M. Marko, A. Leith, C.A. Mannella, J. Frank, Towards high-
+resolution three-dimensional imagingof nativemammaliantissue: electron
+tomography of frozen-hydrated rat liver sections, J. Struct. Biol. 153
+(2006) 1–13.
+[13] W.T. Daems, E. Wisse, Shape and attachment of the cristae mitochon-
+driales in mouse hepatic cell mitochondria, J. Ultrastruct. Res. 16 (1966)
+123–140.
+[14] C.R. Hackenbrock, Ultrastructural bases for metabolically linked mechan-
+ical activity in mitochondria. I. Reversible ultrasturctural changes with
+changeinmetabolicsteadystateinisolatedlivermitochondria,J.CellBiol.
+547a Acta 1763 (2006) 542–548
+30 (1966) 269–297.
+[15] Y. Deng, M. Marko, K. Buttle, A. Leith, M. Mieczkowski, C.A. Mannella,
+Cubic membrane structure in amoeba (Chaos carolinensis) mitochondria
+determined by electron microscopic tomography, J. Struct. Biol. 127
+(1999) 231–239.
+[16] G.Perkins,C.Renken,I.VanderKlei,M.Ellisman,W.Neupert,T.G.Frey,
+Electron tomography of mitochondria after the arrest of protein import
+associated with Tom19 depletion, Eur. J. Cell Biol. 80 (2001) 139–150.
+[17] A.M. Celotto, A.C. Frank, S.W. McGrath, T. Fergestad, W.A. Van
+Voorhies, K.F. Buttle, C.A. Mannella, M.J. Palladino, Mitochondrial
+encephalomyopathy in Drosophila, J. Neurosci. 26 (2006) 810–820.
+[18] C. Renken, G. Siragusa, G. Perkins, L. Washington, J. Nulton, P. Salamon,
+T.G. Frey, A thermodynamic model describing the nature of the crista
+junction:astructuralmotifinthemitochondrion,J.Struct.Biol.138(2002)
+137–144.
+J.S. Keithly, S.G. Langreth, K.F. Buttle, C.A. Mannella, Electron
+tomographic and ultrastructural analysis of the Cryptosporidium parvum
+relict mitochondrion, its associated membranes, and organelles, J.
+Eukaryotic Microbiol. 52 (2005) 132–140.
+[20] J. Lefman, P. Zhang, T. Hirai, R.M. Weis, J. Juliani, D. Bliss, M. Kessel, E.
+Bos, P.J. Peters, S. Subrimaniam, Three-dimensional electron microscopic
+imaging of membrane invaginations in Escherichia coli overproducing the
+[30] F. Gonzalvez, F. Pariselli, P. Dupaigne, I. Budihardjo, M. Lutter, B.
+Antonsson, P. Diolez, S. Manson, J.-C. Martinou, M. Goubern, X. Wang,
+S. Bernard, P.X. Petit, tBid interaction with cardiolipin primarily
+orchestrates mitochondrial dysfunctions and subsequently activates Bax
+and Bak, Cell Death Differ. 12 (2005) 614–626.
+[31] M. Klingenberg, B. Scherer, L. Stengel-Rutkowski, M. Buchholz, K.
+Grebe, Experimental demonstration of the reorienting (mobile) carrier
+mechanism exemplified by the mitochondrial adenine nucleotide translo-
+cator, in: G.F. Azzone (Ed.), Mechanisms in Bioenergetics, Academic
+Press, Inc., New York and London, 1973, pp. 257–284.
+[32] M. Klingenberg, The ADP-ATP carrier in mitochondrial membranes, in:
+A. Martonosi (Ed.), The Enzymes of Biological Membranes, vol. 3,
+Plenum Publishing Corp., New York, 1976, pp. 383–438.
+193–204.
+[34] P. Paumard, J. Vallier, B. Coulary, J. Schaeffer, V. Soubannier, D.M.
+Mueller, D. Brethes, J.-P. di Rago, J. Velours, The ATP synthase is
+involved in generating mitochondrial cristae morphology, EMBO J. 21
+548 C.A. Mannella / Biochimica et Biophysica Acta 1763 (2006) 542–548
+chemotaxis receptor Tsr, J. Bacteriol. 186 (2004) 5052–5061.
+[21] A. Komeili, Z. Li, D.K. Newman, G.J. Jensen, Magnetosomes are cell
+membrane invaginations organized by the actin-like protein MamK,
+Science 311 (2006) 242–245.
+[22] R.J.P. Williams, Mitochondria and chloroplasts: localized and delocalized
+bioenergetic transduction, Trends Biochem. Sci. 25 (2000) 479.
+[23] H. Tedeschi, Old and new data, new issues: the mitochondrial ΔΨ,
+Biochim. Biophys. Acta, Bioenerg. 1700 (2005) 195–202.
+[24] P. Mitchell, Keilin's respiratory chain and its chemiosmotic consequences,
+Science 206 (1979) 1148–1159.
+[25] L. Scorrano, M. Ashiya, K. Buttle, S.A. Oakes, C.A. Mannella, S.J.
+Korsmeyer, A distinct pathway remodels mitochondrial cristae and
+mobilizes cytochrome c during apoptosis, Dev. Cell 2 (2002) 55–67.
+[26] Y. Deng, S. Kohlwein, C.A. Mannella, Fasting induces cyanide-resistant
+respiration and oxidative stress in the amoeba Chaos carolinensis:
+implications for the cubic structural transition in mitochondrial mem-
+branes, Protoplasma 219 (2002) 160–167.
+[27] R.F. Epand, J.-C. Martinou, M. Fornallaz-Mulhauser, D.W. Hughes, R.M.
+Epand, The apoptotic protein tBid promotes leakage by altering membrane
+curvature, J. Biol. Chem. 277 (2002) 32632–32639.
+[28] B. Hoffman, A. Stockl, M. Schlame, K. Beyer, M. Klingenberg, The
+reconstituted ADP/ATP carrier's activity has an absolute requirement for
+cardiolipin as shown in cysteine mutants, J. Biol. Chem. 269 (1994)
+1940–1944.
+[29] K. Beyer, M. Klingenberg, ADP/ATP carrier protein from beef heart
+mitochondria has high amounts of cardiolipin, as revealed by
+31
+P nuclear
+magnetic resonance, Biochemistry 24 (1985) 3821–3826.
+(2002) 221–230.
+[35] F. Minauro-Sanmiguel, S. Wilkens, J.J. Garcia, Structure of dimeric
+mitochondrial ATP synthase: Novel F0 bridging features and the structural
+basis of mitochondrial cristae biogenesis, Proc. Natl. Acad. Sci. U. S. A.
+102 (2005) 12356–12358.
+[36] N. Dudkina, J. Heinemeyer, W. Keegstra, E.J. Boekema, H.-P. Braun,
+Structure of dimeric ATP synthase from mitochondria: an angular
+association of monomers induces the strong curvature of the inner
+membrane, FEBS Lett. 579 (2005) 5769–5772.
+[37] G.B. John, Y. Shang, L. Li, C. Renken, C.A. Mannella, J.M.L. Selker, L.
+Rangall, M.J. Bennett, J. Zha, The mitochondrial inner membrane protein
+mitofilin controls cristae morphology, Mol. Biol. Cell 16 (2005)
+1543–1554.
+[38] H. Sesaki, S.M. Southard, M.P. Yaffe, R.E. Jensen, Mgm1p, a dynamin-
+related GTPase, is essential for fusion of the mitochondrial outer
+membrane, Mol. Biol. Cell 14 (2003) 2342–2356.
+[39] E.D. Wong, J.A. Wagner, S.V. Scott, V. Okreglak, T.J. Holewinske, A.
+Cassidy-Stone, J. Nunnari, The intramitochondrial dynamin-related
+GTPase, Mgm1p, is a component of a protein complex that mediates
+mitochondrial fusion, J. Cell Biol. 160 (2003) 303–311.
+[40] L. Griparic, N.N.van der Welt, I.J. Orozco, P.J. Peters, A.M.van der Bliek,
+Loss of the intermembrane space protein Mgm1/OPA1 induces swelling
+and localized constrictions along the lengths of mitochondria, J. Biol.
+Chem. 279 (2004) 18792–18798.
+[41] B. Amutha, D.M. Gordon, Y. Gu, D. Pain, A novel role of Mgm1p, a
+dynamin-related GTPase, in ATP synthase assembly and cristae formation/
+maintenance, Biochem. J. 381 (2004) 19–23.
+[33] P.S. Coleman, N.S. Hermina, The effects of cytochalasin-B on the
+membranes of enzymatically active mitochondria, J. Bioenerg. 6 (1974)
+[19]

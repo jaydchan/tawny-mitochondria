@@ -1,0 +1,12 @@
+line => -1
+cardiac hypertrophy => paper: paper27 line: 92 pos: 5-6
+cyclosporine a => paper: paper27 line: 91 pos: 1-2
+cypd => paper: paper27 line: 23 pos: 6
+deacetylation => paper: paper27 line: 83 pos: 1
+fibrosis => paper: paper27 line: 92 pos: 8
+gastrocnemius muscle => paper: paper27 line: 27 pos: 2-3
+p anserina => paper: paper27 line: 47 pos: 3-4
+podospora anserina => paper: paper27 line: 26 pos: 3-4
+sarcopenia => paper: paper27 line: 78 pos: 7
+sirt3 => paper: paper27 line: 86 pos: 6
+sirt3 deacetylase => paper: paper27 line: 86 pos: 2-3

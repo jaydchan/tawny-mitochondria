@@ -1,0 +1,1573 @@
+NEUROSCIENCE FOR NEUROLOGISTS
+Mitochondria
+P F Chinnery, E A Schon
+.............................................................................................................................
+J Neurol Neurosurg Psychiatry 2003;74:1188–1199
+Following the discovery in the early 1960s that
+mitochondria contain their own DNA (mtDNA), there
+were two major advances, both in the 1980s: the
+human mtDNA sequence was published in 1981, and
+in 1988 the first pathogenic mtDNA mutations were
+identified. The floodgates were opened, and the 1990s
+became the decade of the mitochondrial genome. There
+has been a change of emphasis in the first few years of
+the new millennium, away from the “magic circle” of
+mtDNA and back to the nuclear genome. Various
+nuclear genes have been identified that are
+fundamentally important for mitochondrial homeostasis,
+and when these genes are disrupted, they cause
+autosomally inherited mitochondrial disease. Moreover,
+mitochondrial dysfunction plays an important role in the
+pathophysiology of several well established nuclear
+genetic disorders, such as dominant optic atrophy
+(mutations in OPA1), Friedreich’s ataxia (FRDA),
+hereditary spastic paraplegia (SPG7), and Wilson’s
+disease (ATP7B).The next major challenge is to define
+the more subtle interactions between nuclear and
+mitochondrial genes in health and disease.
+..........................................................................
+HISTORICAL INTRODUCTION
+It is over 40 years since the first human
+mitochondrial disease was described in a patient
+with non-thyroidal hypermetabolism (Luft
+disease).
+1
+Although this disorder is exceptionally
+rare (only two cases have been described), the
+clinical description and biochemical studies
+paved the way for three decades of clinical and
+pathological research on patients with suspected
+mitochondrial disease. Patients were classified
+into groups based upon the pattern of clinical
+involvement, histological and ultrastructural ab-
+normalities of mitochondria, and biochemical
+assaysofmitochondrialfunction.Itwasclearthat
+there were clinical similarities among some
+patients, allowing the definition of syndromes
+such as the Kearns–Sayre syndrome (KSS) or
+chronic progressive external ophthalmoplegia
+(CPEO), but it was recognised that there was
+considerable phenotypic diversity and that many
+patients did not fit neatly into a specific diagnos-
+tic group.
+The inheritance pattern also varied. Some
+patients appeared to be sporadic cases, whereas
+others were clearly familial. It was known for
+some time that mitochondrial DNA (mtDNA) was
+maternally inherited, and while some families
+displayed a clear maternal inheritance pattern,
+others did not. There were attempts to classify
+based upon the number and size of mitochondria
+in skeletal muscle, leading to terms such as
+pleoconial or megaconial myopathies,
+2
+and also on
+the pattern of respiratory chain involvement.
+There were those who wanted to subdivide
+suspected mitochondrial disease into discrete cat-
+egories(the“splitters”
+3
+)andthosewhothoughtof
+all mitochondrial disease as a single,if wide,spec-
+trum of disorders (the “lumpers”
+4
+). At this early
+stageitwasapparentthatmitochondrialdisorders
+were a heterogeneous group—clinically,histologi-
+cally,biochemically,and probably genetically.
+Following the discovery in the early 1960s that
+mitochondria contain their own DNA (mtDNA),
+5
+there were two major advances,both in the 1980s:
+the human mtDNA sequence was published in
+1981,
+6
+and in 1988 the first pathogenic mtDNA
+mutations were identified.
+78
+The floodgates were
+opened, and the 1990s became the decade of the
+mitochondrial genome. Over 150 different patho-
+genic point mutations and a larger number of dif-
+ferent rearrangements (that is, partial deletions
+and duplications) of mtDNA were associated with
+disease,
+9
+and there were major advances in our
+understanding of the molecular patho-
+physiology.
+10 11
+There has been a change of empha-
+sis in the first few years of the new millennium,
+away from the “magic circle” of mtDNA and back
+to the nuclear genome.
+12
+Various nuclear genes
+have been identified that are fundamentally
+important for mitochondrial homeostasis, and
+when these genes are disrupted, they cause auto-
+somally inherited mitochondrial disease.
+13
+More-
+over, mitochondrial dysfunction plays an impor-
+tant role in the pathophysiology of several well
+established nuclear genetic disorders, such as
+dominant optic atrophy (mutations in OPA1),
+14
+Friedreich’s ataxia (FRDA),
+15
+hereditary spastic
+paraplegia (SPG7),
+16
+and Wilson’s disease
+(ATP7B).
+17
+The next major challenge is to define
+the more subtle interactions between nuclear and
+mitochondrial genes in health and disease. It is
+likely that these mechanisms will have broader
+relevance for our understanding of many inher-
+ited and sporadic neurological disorders.
+In this article we will review the basic scientific
+principles that underpin our understanding of
+mitochondrial pathology. Rather than giving a
+comprehensive description of mitochondrial biol-
+ogy, we will focus on the bare essential facts that
+will help the practising general neurologist to
+understand, identify, investigate, and manage
+patients with primary mitochondrial disease (by
+whichwemeandisordersthatresultdirectlyfrom
+mutations either in mtDNA or in nuclear genes
+affecting the respiratory chain or mtDNA home-
+ostasis). Mitochondrial abnormalities have been
+identified in more common sporadic neurological
+disorders, including Alzheimer’s disease and Par-
+kinson’s disease, and they also occur as part of
+See end of article for
+authors’ affiliations
+.......................
+Correspondence to:
+DrPFChinnery,
+Neurology, The Medical
+School, Newcastle upon
+Tyne NE2 4HH, UK;
+p.f.chinnery@ncl.ac.uk
+Received 25 March 2003
+In revised form 22 May
+2003
+Accepted 24 May 2003
+.......................
+1188
+www.jnnp.com
+normal aging.
+18
+The role of these secondary mitochondrial
+abnormalities is uncertain,and they will be discussed in other
+articles in this series.
+WHAT ARE MITOCHONDRIA AND WHAT DO THEY
+DO?
+Mitochondria are a subcompartment of the cell bound by a
+double membrane. Although some mitochondria probably do
+look like the traditional cigar shaped structures that appear in
+standard textbooks, it is more accurate to think of them as a
+budding and fusing network similar to the endoplasmic
+reticulum (fig 1).Mitochondria are intimately involved in cel-
+lular homeostasis. Among other functions they play a part in
+intracellular signalling and apoptosis, intermediary metabo-
+lism,and in the metabolism of amino acids,lipids,cholesterol,
+steroids, and nucleotides. Apoptosis is discussed in other arti-
+cles of this series and will not be considered here. Perhaps
+most importantly, mitochondria have a fundamental role in
+cellular energy metabolism. This includes fatty acid β
+oxidation, the urea cycle, and the final common pathway for
+ATP production—the respiratory chain.
+The mitochondrial respiratory chain is a group of five
+enzyme complexes situated on the inner mitochondrial mem-
+brane (fig 2).Each complex is composed of multiple subunits,
+the largest being complex I with over 40 polypeptide
+components. Reduced cofactors (NADH and FADH
+2
+) gener-
+ated from the intermediary metabolism of carbohydrates,pro-
+teins, and fats donate electrons to complex I and complex II.
+These electrons flow between the complexes down an electro-
+chemical gradient, shuttled by complexes III and IV and by
+two mobile electron carriers, ubiquinone (ubiquinol, coen-
+zymeQ10)andcytochrome c.Theelectrontransferfunctionof
+complexes I–IV is accomplished through subunits harbouring
+prosthetic groups (for example, iron–sulphur groups in
+complexes I, II, and III, and haem iron in cytochrome c and
+complex IV). The liberated energy is used by complexes I, III,
+and IV to pump protons (H
++
+) out of the mitochondrial matrix
+into the intermembrane space. This proton gradient, which
+generates the bulk of the mitochondrial membrane potential
+(the asymmetrical distribution of ions, such as Na
++
+,K
++
+, and
+Ca
+2+
+, across the inner membrane makes up the “chemical”
+portion of the gradient),is harnessed by complex V to synthe-
+sise adenosine triphosphate (ATP) from adenosine diphos-
+phate (ADP) and inorganic phosphate. The overall process is
+called oxidative phosphorylation (OXPHOS). ATP is the high
+energy source used for essentially all active metabolic
+processes within the cell, and it must be released from the
+mitochondrion in exchange for cytosolic ADP. This is carried
+out by the adenine nucleotide translocator (ANT), which has
+various tissue specific isoforms.
+Thus the respiratory chain is an elaborate system that must
+respond to the energy requirements of the cell. While these
+requirements may be constant (for example, in hepatocytes),
+they may also change dramatically over short periods of time
+(as in skeletal muscle). We are only just beginning to
+understand the mechanisms that maintain and regulate a
+healthy respiratory chain,and it is likely that many additional
+unknown genetic and environmental factors will be involved.
+THE GENETIC BASIS OF MITOCHONDRIAL
+BIOGENESIS
+Two distinct genetic systems encode mitochondrial proteins:
+mitochondrial DNA (mtDNA) and nuclear DNA (nDNA).
+mtDNA is a small 16.6 kb circle of double stranded DNA that
+codes for 13 respiratory chain polypeptides and 24 nucleic
+acids (two ribosomal RNAs (rRNAs) and 22 transfer RNAs
+(tRNAs)) that are needed for intramitochondrial protein syn-
+thesis (fig 3).
+6
+Nuclear genes code for the majority of
+mitochondrial respiratory chain polypeptides.
+13
+These
+polypeptides are synthesised in the cytoplasm with a
+mitochondrial targeting sequence that directs them through
+the translocation machinery spanning the outer and inner
+membranes.The targeting sequence is then cleaved before the
+subunit is assembled with its counterparts on the inner mito-
+chondrial membrane. The components of the import machin-
+ery (“TIM” and “TOM” proteins), the importation processing
+enzymes, and the respiratory chain assembly proteins are all
+the products of nuclear genes.
+Nuclear genes are also important for maintaining the mito-
+chondrial genome, including those encoding the mito-
+chondrial DNA polymerase γ (POLG1)
+19
+and products that
+maintain an appropriate balance of free nucleotides within
+the mitochondrion (TP, TK, DGK, and ANT1).
+20–23
+A recently
+described gene, C10orf2, codes for a helicase-like protein
+called Twinkle that appears to be important for mtDNA
+maintenance.
+24
+Nuclear DNA also codes for essential factors
+needed for intramitochondrial transcription and translation,
+including TFAM,TFBM1,and TFBM2.
+25 26
+A disruption of both
+nuclear and mitochondrial genes can therefore cause mito-
+chondrial dysfunction and human disease (table 1).
+MITOCHONDRIAL DISEASE: GENOTYPE AND
+PHENOTYPE
+A neurologist who has seen a few patients with mitochondrial
+disease will be puzzled by a number of questions.If mitochon-
+dria are so important,why don’t mitochondrial diseases affect
+every tissue in the body, and if primary mitochondrial
+disorders are all genetically determined, why do they have
+suchavariedclinicalphenotype,evenwithinthesamefamily?
+Recent advances in our understanding of the molecular
+pathology of mitochondrial disease have provided us with
+some explanations and also raised new questions.
+The clinical features of mitochondrial disease have been
+discussed widely elsewhere,
+27–29
+and they will not be consid-
+ered in detail here (an overview is given in table 2 and fig 4).
+In general terms, tissues and organs that are heavily
+dependent upon oxidative phosphorylation bear the brunt of
+the pathology.This means that neurological features are com-
+mon, but cardiac, endocrine, and ophthalmological features
+are often prominent. Other tissues are less dependent upon
+sustained oxidative phosphorylation so are less likely to be
+involved in mitochondrial disease, but there are some notable
+exceptions.
+While this general rule is helpful, it can only be part of the
+explanation. Mitochondrial disease ultimately reflects a defect
+of oxidative phosphorylation within a cell, but the pattern of
+Figure 1 Human mitochondria. Scanning fluorescence confocal
+micrograph of a cultured human myoblasts stained with the
+Mitotracker, which is a fluorescent potentiometric dye taken up
+specifically by living mitochondria because of their membrane
+potential. Some mitochondria form discrete organelles (short arrow),
+but others form a reticulate network (long arrow).
+Mitochondria 1189
+www.jnnp.com
+cellular involvement will determine the clinical features of the
+disease. On the one hand, there must be common mechanisms
+explaining why patients with mutations in nDNA and mtDNA
+can have a similar clinical phenotype (for example, clinically
+indistinguishable Leigh syndrome can be caused by mutations
+both in the nuclear COX assembly gene SURF1 and the mtDNA
+ATPase 6 gene
+30 31
+). On the other hand, there must be different
+mechanisms to explain why the same genetic defect can cause
+very different clinical phenotypes (for example, the A3243G
+mtDNA mutation in the tRNA
+Leu(UUR)
+gene can present with clas-
+sical MELAS (mitochondrial encephalomyopathy with lactic
+acidosis and stroke-like episodes), with CPEO, or with diabetes
+and deafness
+32–34
+). It is also puzzling that many mitochondrial
+disorders affect multiple organ systems, whereas others have a
+highly stereotyped and organ specific phenotype (such as Leber
+hereditary optic neuropathy and aminoglycoside induced
+deafness).
+35 36
+Nuclear genetic mechanisms have been discussed
+in the preceding articles in this series, so in this article we will
+concentrate on mitochondrial genetic factors.
+MITOCHONDRIAL GENETIC FACTORS
+mtDNA has unusual properties that are important for our
+understanding of mitochondrial disease caused by mtDNA
+mutations.
+Heteroplasmy and the threshold effect
+While most human cells contain two copies of nuclear DNA,
+they contain many more copies of mtDNA (from 1000 to
+100 000,depending on the cell type).These are all identical in a
+healthy individual at birth (homoplasmy). By contrast, patients
+harbouring pathogenic mtDNA defects often have a mixture of
+mutated and wild-type mtDNA (heteroplasmy).
+30
+The percentage
+of mutated mtDNA can vary widely among different patients,
+andalsofromorgantoorgan,andevenbetweencellswithinthe
+same individual. In vitro studies using “transmitochondrial
+cytoplasmic hybrid (cybrid)” cells
+37
+containing different
+amounts of mutated mtDNA have shown that most mtDNA
+mutations are highly recessive. In other words, the cells were
+able to tolerate high percentage levels of mutated mtDNA (typi-
+cally 70–90%) before they developed a biochemical respiratory
+chain defect. The precise threshold for biochemical expression
+varies from mutation to mutation, and from tissue to tissue.
+Largeretrospectivestudieshaveshownthatthepercentagelevel
+of mutated mtDNA in clinically relevant tissues does correlate
+with the severity of disease.
+38 39
+Maternal inheritance and the genetic bottleneck
+Although it has been known for some time that mtDNA is
+transmitted from mother to offspring,
+40
+the mechanisms are
+only just becoming clear. Sperm contain around 100 mtDNAs
+which enter the zygote on fertilisation before being actively
+degraded.
+41
+There has been a recent report of a pathogenic
+mtDNA microdeletion in a patient with a sporadic muscle
+specific mitochondrial disorder.
+42
+The mutated mtDNA arose
+on a mitochondrial genome that was paternal in origin,bring-
+ing into question the traditional dogma of strict maternal
+inheritance. However, many families with mtDNA disease
+have been studied in detail over the last decade, and there are
+nootherreportsofpaternalmtDNAtransmission.Basedupon
+the available evidence,paternal leakage is unlikely to be clini-
+cally significant.
+One of the most remarkable features of mitochondrial dis-
+easecausedbymtDNAdefectsistheclinicalvariabilityamong
+siblings. This is thought to reflect the mitochondrial “genetic
+bottleneck”.
+43
+Our understanding of the transmission of
+mtDNA heteroplasmy has been greatly advanced by detailed
+studies of heteroplasmic mice generated by karyoplast
+transfer.
+44 45
+These mice transmit heteroplasmic mtDNA
+polymorphisms (table 3). By measuring the variation in
+heteroplasmy between the offspring of a single female, and
+Figure 2 Schematic diagram of the respiratory chain. Reduced cofactors (NADH and FADH
+2
+) are produced from the intermediary metabolism
+of carbohydrates, proteins, and fats. These cofactors donate electrons to (e
+−
+) to complex I (NADH-ubiquinone oxidoreductase) and complex II
+(succinate-ubiquinone oxidoreductase). These electrons flow between the complexes down an electrochemical gradient (black arrow), shuttled
+by ubiquinone (Q) and cytochrome c (C) involving complex III (ubiquinol-cytochrome c oxidase reductase) and complex IV (cytochrome c
+oxidase, or COX). Complex IV donates an electron to oxygen which results in the formation of water. Protons (H
++
+) are pumped from the
+mitochondrial matrix into the intermembrane space (red arrows). This proton gradient generates the mitochondrial membrane potential which is
+harnessed by complex V to synthesise adenosine triphosphate (ATP) from adenosine diphosphate (ADP) and inorganic phosphate (Pi). ANT,
+adenine nucleotide translocator, which exchanges ADP for ATP across the mitochondrial membrane.
+1190 Chinnery, Schon
+www.jnnp.com
+comparing this to the variation between oocytes at different
+stages of development,it was shown that the transmitted per-
+centage level of heteroplasmy is determined at an early stage
+during oogenesis in a heteroplasmic female developing in
+utero.
+44
+It is likely that there is a restriction in the number of
+mitochondrial genomes during early oogenesis, creating a
+functional“geneticbottleneck”.Thiscreatesasamplingeffect,
+akin to taking a small handful of marbles from a bag contain-
+ing a large number of well mixed black and white marbles
+while wearing a blindfold.Each independent sample will con-
+tain different proportions of the two types, corresponding to
+mutated and wild-type mtDNA in the offspring. Recent work
+suggests that the same random mechanism operates during
+the transmission of pathogenic mtDNA mutations in
+humans.
+56 57
+Whilethisgeneratesvariabilityinthetransmitted
+mutation load to the offspring, it occurs within a given confi-
+dence interval, explaining why retrospective family studies
+haveshownarelationbetweenthelevelofmutatedmtDNA in
+the mother and the outcome of pregnancy.
+39 58
+Although differences in the transmitted mutation load pro-
+vide some explanation for the difference in severity between
+different family members, it does not explain why one sibling
+might present with neurological disease while another might
+develop heart failure. Clearly additional factors must come in
+to play.
+The percentage level of mutated mtDNA in individual
+tissues may also change during development and throughout
+adult life, potentially influencing the phenotype within an
+individual. Two mechanisms contribute to this process:
+relaxed replication and mitotic segregation.
+Relaxed replication
+Unlike nuclear DNA which replicates only once during each
+cell cycle, mtDNA is continuously recycled, even in non-
+dividing tissues such as skeletal muscle and brain.
+59 60
+mtDNA
+replication is therefore independent of the cell cycle (that is,it
+is relaxed). In a heteroplasmic cell, it is possible that mutated
+and wild-type mtDNA replicate at subtly different rates—
+either because one type was selected for destruction or
+replication by chance, or because of a subtle selective effect in
+favour of one particular type.In theory,this mechanism could
+lead to changes in the proportion of mutated mtDNA that
+have been described in patients with mtDNA disease, provid-
+ing an explanation for the late onset and progression of some
+mtDNA disorders.
+61
+Mitotic (vegetative) segregation
+When a heteroplasmic cell divides, subtle differences in the
+proportion of mutated mtDNA may be passed on to the
+daughter cells, leading to changes in the level of mutated
+mtDNA within a dividing tissue.
+60 62
+The unequal partitioning
+may be a purely random process,independent of any selection
+caused by an effect of the mutation on mitochondrial
+function. On the other hand, presumed shifts due to
+functional selection may explain why the level of some patho-
+genic mtDNA mutations decreases in blood during life (for
+example, 0.5% to 1% per annum for A3243G
+63
+).
+mtDNA “background,” nuclear genes, and the
+environment
+While there are a great many different heteroplasmic mtDNA
+mutations, in epidemiological terms most patients with a
+pathogenicmtDNAdefectharbouronlymutatedmtDNA(that
+is, they are homoplasmic mutated).
+64
+The most common
+example is LHON (Leber hereditary optic neuropathy).
+64
+LHON is a mitochondrial genetic disorder that is primarily
+caused by mutations in mtDNA complex I (ND) genes and is
+characterised by subacute bilateral visual failure presenting in
+earlyadultlife.
+65
+LHONisintriguingbecauseitisessentiallyan
+organ specific disease that principally affects the retinal
+ganglioncellsandtheopticnerve.
+66
+LHONalsohasamarkedly
+reduced penetrance with a clear sex bias, with only around
+50% of men and around 10% of women developing visual
+failure.
+35 67 68
+Most patients with LHON are homoplasmic
+mutated for one of three mtDNA ND gene mutations (fig 4),
+69
+soheteroplasmycannotexplainthevarieddiseasepenetrance,
+and certain unknown additional factors appear to be
+important.
+Wild-type (normal) mtDNA can be subdivided into
+different genetic groups (haplogroups) based upon a charac-
+teristic pattern of polymorphism that occurs within the
+normal population.
+70
+Two of the three principal LHON mtDNA
+mutations (T14484C in the ND6 gene and G11778A in the
+ND4 gene) are preferentially associated with haplogroup J,
+which is found in around 15% of northern Europeans.
+71
+The
+reason for this association is not known, but it seems likely
+that haplogroup J increases the penetrance of the T14484C
+and G11778A mutations.
+72
+It therefore appears that the mito-
+chondrial genetic background can influence disease expres-
+sion, but this cannot explain the sex bias in LHON.
+The segregation pattern of disease in some LHON families
+suggests that there may be a nuclear genetic modifier locus
+modulating the clinical expression of the LHON mtDNA
+mutations.A recessive visual loss susceptibility locus on the X
+chromosome would explain the sex bias in LHON,
+73
+but
+attempts to identify the locus have not been successful.
+74
+EnvironmentalfactorsmayalsoplayapartinLHON.Thereare
+many anecdotal reports of visual failure following alcohol
+intoxication, starvation, heavy smoking, and head trauma,
+68
+but large studies have yielded conflicting results.
+75 76
+Figure 3 The human mitochondrial genome. The human
+mitochondrial genome (mtDNA) is a small 16 569 kb molecule of
+double stranded DNA. mtDNA encodes for 13 essential components
+of the respiratory chain. ND1-ND6 and ND4L encode seven subunits
+of complex I (NADH-ubiquinone oxidoreductase). CYT b is the only
+mtDNA encoded complex III subunit (ubiquinol-cytochrome c oxidase
+reductase). COX I to III encode for three of the complex IV
+(cytochrome c oxidase, or COX) subunits, and the ATP 6 and ATP 8
+genes encode for two subunits of complex V (ATP synthase). Two
+ribosomal RNA genes (12S and 16S rRNA), and 22 transfer RNA
+genes are interspaced between the protein encoding genes. These
+provide the necessary RNA components for intramitochondrial
+protein synthesis. D-loop, the 1.1 kb non-coding region which is
+involved in the regulation of transcription and replication of the
+molecule, and is the only region not directly involved in the synthesis
+of respiratory chain polypeptides; O
+H
+and O
+L
+, the origins of heavy
+and light strand mtDNA replication.
+Mitochondria 1191
+www.jnnp.com
+In many ways LHON is best considered as a complex trait,
+where the disease phenotype arises through multiple genetic
+factors (both mitochondrial and nuclear) interacting with the
+environment.Asimilarmechanismmightexplainthevariable
+penetrance of other homoplasmic mtDNA mutations that
+cause organ specific disease, such as the A1555G mtDNA
+mutation in the 12S rRNA gene that causes maternally inher-
+ited susceptibility to aminoglycoside induced deafness, and
+possibly the A4300G mtDNA mutation in tRNA
+Ile
+that causes
+maternally inherited cardiomyopathy (see table 1). Similar
+nuclear–mitochondrial interactions are also likely to contrib-
+ute to the varied phenotype seen in other mitochondrial
+disorders,betheycausedbyprimarynDNAdefectsorprimary
+mtDNA defects.
+Nuclear genes and mtDNA heteroplasmy
+After heteroplasmic mice were generated from laboratory
+strains with two different mtDNA genotypes in the mid-90s
+(see table 3),
+44
+it became clear that a particular mitochondrial
+Table 1 Genetic classification of human mitochondrial disorders
+Type of disorder
+Inheritance
+pattern
+Mitochondrial genetic disorders*
+Rearrangements (large scale partial deletions and duplications)
+Chronic progressive external ophthalmoplegia (CPEO) S
+Kearns-Sayre syndrome S
+Diabetes and deafness S
+Pearson marrow-pancreas syndrome S
+Sporadic tubulopathy S
+Point mutations
+Protein encoding genes
+• LHON (G11778A, T14484C, G3460A) M
+• NARP/Leigh syndrome (T8993G/C) M
+tRNA genes
+• MELAS (A3243G, T3271C, A3251G) M
+• MERRF (A8344G, T8356C) M
+• CPEO (A3243G, T4274C) M
+• Myopathy (T14709C, A12320G) M
+• Cardiomyopathy (A3243G, A4269G, A4300G) M
+• Diabetes and deafness (A3243G, C12258A) M
+• Encephalomyopathy (G1606A, T10010C) M
+rRNA genes
+• Non-syndromic sensorineural deafness (A7445G) M
+• Aminoglycoside induced non-syndromic deafness (A1555G) M
+Nuclear genetic disorders
+Disorders of mtDNA maintenance
+Autosomal dominant progressive external ophthalmoplegia (with 2° multiple mtDNA deletions)
+• Mutations in adenine nucleotide translocator (ANT1) AD
+• Mutations in DNA polymerase γ (POLG) AD or AR
+• Mutations in Twinkle helicase (C10orf2) AD
+Mitochondrial neuro-gastrointestinal encephalomyopathy (with 2° multiple mtDNA deletions)
+• Mutations in thymidine phosphorylase (TP) AR
+Myopathy with mtDNA depletion
+• Mutations in thymidine kinase (TK2) AR
+Encephalopathy with liver failure
+• Mutations in deoxyguanosine kinase (DGK) AR
+Primary disorders of the respiratory chain
+Leigh syndrome
+• Complex I deficiency: mutations in complex I subunits (NDUFS2, 4, 7, 8, and NDUFV1) AR
+• Complex II deficiency: mutations in complex II flavoprotein subunit (SDH) AR
+Leukodystrophy and myoclonic epilepsy
+• Complex I deficiency: mutations in complex I subunit (NDUFV1) AR
+Cardioencephalomyopathy
+• Complex I deficiency: mutations in complex I subunit (NDUFS2) AR
+Optic atrophy and ataxia
+• Complex II deficiency: mutations in complex II flavoprotein subunit (SDH) AD
+Disorders of mitochondrial protein import
+Dystonia-deafness
+• Mutations in deafness-dystonia protein DDP1 (TIMM8A) XLR
+Disorders of assembly of the respiratory chain
+Leigh syndrome
+• Complex IV deficiency: mutations in COX assembly protein (SURFI) AR
+• Complex IV deficiency: mutations in COX assembly protein (COX10) AR
+Cardioencephalomyopathy
+• Complex IV deficiency: mutations in COX assembly protein (SCO2) AR
+Hepatic failure and encephalopathy
+• Complex IV deficiency: mutations in COX assembly protein (SCO1) AR
+• Complex IV deficiency: mutations in protein affecting COX mRNA stability (LRPPRC) AR
+Tubulopathy, encephalopathy, and liver failure
+• Complex III deficiency: mutations in complex III assembly (BCS1L) AR
+*mtDNA nucleotide positions refer to the L-chain, and are taken from the standard Cambridge reference
+sequence). AD, autosomal dominant; AR, autosomal recessive; M, maternal; S, sporadic; XLR, X linked
+recessive.
+1192 Chinnery, Schon
+www.jnnp.com
+genome was favoured in some tissues, and the other
+mitochondrial genome was favoured in others.
+77
+Detailed
+experiments showed that this selective effect was not a result
+of detectable differences in respiratory chain activity or rates
+of mtDNA replication, and that the selection appeared to be
+controlled at the level of the mtDNA molecule itself.
+78
+Recent
+work has identified three specific nuclear genetic loci that
+influence this process.
+79
+This has important implications for
+our understanding of mtDNA diseases because the equivalent
+genes in humans might influence the level of heteroplasmy in
+different tissues and organs,and therefore modulate the clini-
+cal phenotype.
+Table 2 Clinical syndromes associated with mitochondrial disease
+Syndrome Primary features Additional features
+Chronic progressive external ophthalmoplegia
+(CPEO)
+External ophthalmoplegia and bilateral ptosis Mild proximal myopathy
+Infantile myopathy and lactic acidosis (fatal
+and non-fatal forms)
+Hypotonia in the first year of life; feeding and
+respiratory difficulties
+Fatal form may be associated with a cardiomyopathy
+and/or the Toni-Fanconi-Debre syndrome
+Kearns-Sayre syndrome (KSS) PEO onset before age 20 with pigmentary
+retinopathy, plus one of the following: CSF
+protein >1 g/l, cerebellar ataxia, heart block
+Bilateral deafness; myopathy; dysphagia; diabetes
+mellitus and hypoparathyroidism; dementia
+Leber hereditary optic neuropathy (LHON) Subacute painless bilateral visual failure;
+male:female approx 4:1; median age of onset 24
+years
+Dystonia; cardiac pre-excitation syndromes
+Leigh syndrome (LS) Subacute relapsing encephalopathy with
+cerebellar and brain stem signs presenting during
+infancy
+Basal ganglia lucencies
+Mitochondrial encephalomyopathy with lactic
+acidosis and stroke-like episodes (MELAS)
+Stroke-like episodes before age 40 years; seizures
+and/or dementia; ragged-red fibres and/or lactic
+acidosis
+Diabetes mellitus; cardiomyopathy (hypertrophic
+leading to dilated); bilateral deafness; pigmentary
+retinopathy; cerebellar ataxia
+Myoclonic epilepsy with ragged-red fibers
+(MERRF)
+Myoclonus; seizures; cerebellar ataxia; myopathy Dementia, optic atrophy; bilateral deafness; peripheral
+neuropathy; spasticity; multiple lipomata
+Neurogenic weakness with ataxia and retinitis
+pigmentosa (NARP)
+Late childhood or adult onset peripheral
+neuropathy with associated ataxia and
+pigmentary retinopathy
+Basal ganglia lucencies; abnormal electroretinogram;
+sensorimotor neuropathy
+Pearson syndome Sideroblastic anaemia of childhood;
+pancytopenia; exocrine pancreatic failure
+Renal tubular defects
+PEO, progressive external ophthalmoplegia.
+Figure 4 Clinical features of mitochondrial disease. Mitochondrial disease may present with single organ involvement (sensorineural
+deafness, diabetes, visual failure, myopathy, or cardiomyopathy), or multisystem involvement. It may be possible to recognise a specific clinical
+syndrome (table 2), but often patients do not fit neatly into one particular category. The combination of neurological disease and
+extraneurological involvement should raise the suspicion of a mitochondrial disorder.
+Mitochondria 1193
+www.jnnp.com
+Outlook
+The last five years have seen major advances in our
+understanding of mitochondrial genetics and how mtDNA
+mutations cause disease. Clinical expression is influenced by
+heteroplasmy, mtDNA background, nuclear genes, and their
+interaction with the environment. Evolutionary studies are
+castinglightonthiscomplexrelation.Forexample,inthechar
+(a fish), different environments, and particularly the water
+temperature, have selected in favour of a particular mito-
+chondrial genotype.
+80
+Recent work on humans suggests that
+the same phenomenon may have occurred during population
+migrations throughout the world.
+81
+Understanding these
+processes is of fundamental importance for the clinical man-
+agement of patients—from genetic counselling to developing
+new treatments.
+CONFIRMING SUSPECTED MITOCHONDRIAL
+DISEASE
+Our understanding of mitochondrial biochemistry and genet-
+ics has important implications for the investigation of
+suspected mitochondrial disease. In patients with a clearly
+defined clinical syndrome it may be possible to confirm the
+diagnosis with a simple molecular genetic test carried out on
+DNA extracted from blood. A good example of this is Leber
+hereditary optic neuropathy, where over 97% of cases are
+caused by one three defined mtDNA point mutations that are
+usually homoplasmic in blood.
+82
+A similar approach may also
+be possible for nuclear genetic mitochondrial disorders (see
+table1,althoughmostofthesegenetictestsarestillwithinthe
+realms of research and are not part of a routine diagnostic
+service). Investigating the remaining patients is more com-
+plex,partlybecausemanydisordersmaymimicmitochondrial
+disease and also because there is no one single test that will
+prove or disprove whether a patient has a mitochondrial
+disorder.Manydifferentgeneticdefectsinbothmitochondrial
+and nuclear DNA can cause similar neurological disorders, so
+rather than carry out a series of random genetic tests,it is bet-
+ter to approach the problem systematically to identify and
+characterise the underlying metabolic defect.
+Heteroplasmy is the main problem when investigating
+mtDNA disorders. Pathogenic mtDNA mutations may not be
+detectable in blood using conventional techniques, and,
+almost counterintuitively, direct sequencing of mtDNA is the
+least robust technique of all.This means that a negative blood
+test result does not exclude a particular genetic diagnosis (for
+example,seeChinnery et al,1997
+83
+).Ifmitochondrialdiseaseis
+suspected and the blood DNA tests are negative, the patient
+shouldhaveamusclebiopsy(usuallythefirstchoiceinadults)
+or a skin biopsy (usually the first choice in children). Urine
+sediment, and to a lesser degree hair follicles, are excellent
+sources for non-invasive mtDNA testing.
+84
+Fresh muscle can be analysed histologically and histo-
+chemically for evidence of mitochondrial disease.Characteris-
+tic features include ragged red fibres which can be seen with
+theGomori-trichromestain
+85
+orwithsuccinatedehydrogenase
+histochemistry.
+86
+The ragged red appearance is caused by the
+subsarcolemmal accumulation of mitochondria and is
+thought to be a response to metabolic stress within a diseased
+muscle cell.
+87
+There may also be a reduction in cytochrome c
+oxidase activity (COX, complex IV) either within some of the
+fibres (a mosaic defect, suggestive of a mtDNA disorder,
+88
+but
+see Sasarman et al,2002
+89
+) or affecting all the fibres within the
+entire biopsy (suggesting a nuclear genetic defect).
+Specialist centres carry out measurements of the individual
+respiratory chain complexes,which may also provide a clue to
+the underlying genetic defect. These can be done on fresh
+muscle or cultured fibroblasts grown from a skin biopsy. If a
+single complex is deficient, this points to a genetic defect in
+the relevant coding region of mtDNA or nuclear DNA, or a
+gene involved in the assembly of that particular complex. If
+therearemultiplecomplexdefects,thatsuggestsageneralised
+defect of protein synthesis, and an underlying mtDNA defect
+involving a tRNA gene (including deletions that remove tRNA
+genes), or perhaps a nuclear gene defect with secondary
+effects on mtDNA. It is worth remembering that mito-
+chondrial biochemical tests carried out on muscle and
+fibroblasts in the laboratory measure mitochondrial function
+under optimal conditions. It is therefore possible that there is
+a functional defect of mitochondrial metabolism that is not
+detectable in the laboratory (mutations in the ATPase 6 gene
+causing NARP (neurogenic weakness with ataxia and retinitis
+pigmentosa) are a good example of this pitfall). Evidence of
+impaired mitochondrial function may only be apparent on
+Table 3 Animal models of mitochondrial disease (adapted from Larsson and Rustin
+47
+)
+Type Mouse model Gene (reference) Biochemical abnormality Phenotype
+Nuclear gene
+knockouts
+Adenosine nucleotide translocase ANT1 (48) Defect of coupled
+respiration
+Myopathy and cardiomyopathy
+Mitochondrial superoxide
+dismutase
+SOD2 (49) Mitochondrial superoxide
+deficiency
+Myopathy and cardiomyopathy
+Mitochondrial transcription factor
+A
+Germ line TFAM, germ line (25) Respiratory chain defect Embryonic lethal. Abnormal
+development with absence of heart
+and optic disc
+Heart specific TFAM, tissue specific (50) Respiratory chain defect Dilated cardiomyopathy and cardiac
+conduction block
+Pancreatic β cell specific TFAM, tissue specific (51) Respiratory chain defect Diabetes
+COX assembly protein SURF-1 SURF1 (52) Respiratory chain defect Embryonic lethality
+Thymidine phosphorylase TP (53) Reduction in liver TP
+activity
+None
+Mitochondrial DNA BALB/NZB heteroplasmic NZB/BALB mtDNA (44) None Random drift during transmission.
+Tissue specific selection of different
+genotypes
+Chloramphenicol resistance CAP-R T2443C mtDNA
+(54)
+None Myopathy, cardiomyopathy, perinatal
+death
+∆mtDNA 4.7 kb mtDNA deletion
+(46)
+Spontaneous mutants Defect of nuclear–mitochondrial
+communication
+Not known (55) None Deafness
+1194 Chinnery, Schon
+www.jnnp.com
+clinical testing using techniques such as exercise testing with
+lactate measurements,
+90
+magnetic resonance spectroscopy,
+91
+or
+infrared spectroscopy.
+92
+A structured approach to investigation allows targeted
+geneticanalysis,whichoftenmeansaSouthernblotofmuscle
+mtDNA looking for a mtDNA rearrangement,a series of allele
+specific assays looking for common point mutations of
+mtDNA or nuclear DNA,and direct sequencing of the relevant
+genes. A significant proportion of adults have rare or unique
+mtDNA defects (that is, “private” mutations). These are iden-
+tified by mtDNA sequencing which should also be carried out
+on DNA extracted from muscle (but with the caveat noted
+above).
+Proving a mtDNA mutation is pathogenic
+mtDNA is highly polymorphic, with any two individuals
+differing at up to 60 base pairs (see the mtDNA sequence
+databases in table 4). The variation is so great that it is not
+unusual to find unique base changes in control individuals.
+Thispresentsaparticularproblemwheninvestigatingpatients
+with suspected mtDNA disorders—when is the base change a
+neutral polymorphism and when is it pathogenic?
+Five “canonical”criteria suggest that a novel base change is
+pathogenic
+29
+:
+• The mutation must not be a known polymorphism (as
+describedononeoftheestablishedsequencedatabases,see
+table 4).
+• The base change must affect a site that has been conserved
+during evolution.If the site is conserved across species then
+it implies that it is functionally important, and a mutation
+at this site is likely to be deleterious. The mutation must
+also be in a region that is functionally important. This
+essentially means anywhere in the tRNA genes, certain
+regionsoftherRNAgenes,orcausinganaminoacidchange
+in the protein encoding genes.
+• Deleterious mutations are usually (but not exclusively)
+heteroplasmic. This implies that the mutation occurred
+recently and it has not had time to “fix” in the female line,
+or that there has been selection against fixation acting at
+the level of the organism.
+• The mutation segregates with the disease clinically. For
+heteroplasmic mutations this means that severely affected
+individuals have a high percentage level of mutated
+mtDNA, and unaffected individuals have a lower percent-
+age level of mutated mtDNA.
+• The mutation segregates with the disease biochemically.
+This is usually achieved by single cell mtDNA analysis.
+93
+Individualmusclefibresaremicrodissectedfromthickcross
+sections of muscle and the percentage level of mutated
+mtDNA is measured in histochemically normal and abnor-
+mal muscle fibres (either because they are ragged red or
+COX deficient). For a pathogenic mutation, the percentage
+levelofmutatedmtDNAwillbehigherinthepathologically
+abnormal fibres.
+MANAGING MITOCHONDRIAL DISEASE—THE
+FUTURE
+Making a specific genetic diagnosis is helpful in various ways.
+It allows a comparison of that individual with other patients
+described in published reports, providing some guide to prog-
+nosis and highlighting complications that may evolve over
+time (table 2). It also has implications for genetic counselling
+(table 1).
+94
+Nuclear defects may be autosomal recessive, auto-
+somal dominant, or sex linked. mtDNA defects may be
+sporadic or maternally transmitted. There are no statistically
+based robust counselling guidelines for mtDNA disease,
+95
+but
+data collection is underway,and they should become available
+over the next five years. Retrospective studies suggest that
+measuring the percentage level of mutated mtDNA in the
+mother will provide some guidance.
+39 58
+At present the management of mitochondrial disease is
+largely supportive and aimed at identifying, preventing, and
+treating complications wherever possible. Pharmacological
+treatments have been used with varying degrees of success
+(recently reviewed by Chinnery & Turnbull
+96
+).Limited clinical
+trials have been carried out, but no consistent clinical
+improvements have been demonstrated. A multicentre trial is
+currently under way for dichloracetate to reduce lactic acido-
+sis in MELAS patients.
+Our understanding of the basic biology of mitochondrial
+disease provides a basis for developing new treatments.
+Several strategies have been employed to try and correct the
+underlying genetic defect. The overall aim is to reduce the
+proportion of mutated mtDNA to subthreshold levels. This
+could be achieved by adding more wild-type mtDNA, or by
+removing mutated mtDNA.
+Adding wild-type mtDNA
+Despite initial promise,
+46
+attempts to deliver synthetic
+wild-type mtDNA into cells have not been successful. A more
+attractive strategy is to move wild-type mitochondrial
+genomes from one compartment to another—an approach
+called “gene shifting”.
+97–99
+Healthy skeletal muscle contains
+small precursors called satellite cells. Satellite cells proliferate
+and fuse with the juxtapositionary mature skeletal fibres in
+Table 4 Mitochondria on the world wide web
+Information Name URL
+Information for patients United Mitochondrial Diseases
+Foundation (USA)
+www.umdf.org
+Mitolinks (UK) http://www.communigate.co.uk/ne/
+mitolinks/index.phtml
+Leber hereditary optic neuropathy
+trust (UK)
+www.leberstrust.btinternet.co.uk
+Clinical and molecular
+information for clinicians
+and scientists
+On-line Mendelian Inheritance in
+Man
+www.ncbi.nlm.nih.gov
+Clinical and genetic
+information for clinicians
+and patients
+Mitomap
+Geneclinics
+www.mitomap.org
+www.geneclinics.org
+Molecular data for scientists Uppsala http://www.genpat.uu.se/mtDB/
+index.html
+Biochemical and molecular
+data for scientists
+Mitop mips.gsf.de/proj/medgen/mitop
+Mitodat http://www-lecb.ncifcrf.gov/mitoDat/
+Mitochondria 1195
+www.jnnp.com
+response to stress and exercise.In some patients with mtDNA
+myopathy,the percentage level of mutated mtDNA in satellite
+cells is lower that the level in affected skeletal muscle. It is
+possible to induce satellite cell proliferation by injecting a
+toxin into muscle (such as bupivacaine)
+97 98
+or by exercising
+the muscle.
+99
+Both techniques have been shown to deliver
+wild-type mtDNA from the satellite cell compartment into
+mature muscle fibres, to reduce the proportion of mutated
+mtDNA within affected tissues,and to correct the biochemical
+defect. Exercise also improves the strength and stamina of
+patients with mtDNA myopathy
+100
+—but there are concerns
+thatitmayalsoincreasetheamountofmutatedmtDNAinthe
+muscle, leading to short term improvements that may be det-
+rimental in the longer term.
+101
+Removing mutated mtDNA
+Two strategies have been employed to remove mutated
+mtDNA. Both are at the experimental stage, and both require
+considerabledevelopmentbeforetheycanbeusedonpatients.
+One approach has been to develop synthetic molecules that
+bind to mutated mtDNA molecules and prevent them from
+replicating,but allowing wild-type mtDNA replication to con-
+tinue unimpeded.
+102
+While this strategy works in vitro, and it
+appears that the “antigenomic” molecules can be delivered
+into mitochondria,
+103
+so far it has not been possible to
+influence the level of heteroplasmy in living cells. An alterna-
+tive approach is to use drugs that select against mutated
+mtDNA in dividing cells, allowing wild-type mtDNA levels to
+increase.
+104
+All of these approaches have the same drawback—even if
+they are effective, how can the treatments be delivered to the
+nervous system and alter the mtDNA levels in non-dividing
+cells? For this reason perhaps the best strategy is to remove all
+mutated mtDNA at an early stage in development, by nuclear
+transfer. By removing the nucleus from an affected zygote
+with a mtDNA mutation and inserting it into a healthy
+enucleateddonorwithnormalmtDNA,itshouldbepossibleto
+form healthyoffspringthatdonotharbourthemtDNA defect,
+thereby preventing the disease in that individual, and also
+preventing further transmission of the disease. This approach
+is currently at an experimental stage, but provides some hope
+for the future.
+ANIMAL MODELS
+Various mouse models for mitochondrial disease have been
+developed over the last five years. It is hoped that these mod-
+els will advance our understanding of the pathophysiology
+and will also be useful for developing new treatments (table
+3). Most of the models were produced by nuclear gene
+manipulation, and some bear clinical or pathological resem-
+blances to human mitochondrial diseases. Developing a good
+model for human mtDNA disorders is proving difficult
+because it is currently not possible to transfect mammalian
+mitochondria with exogenous DNA. To get around this prob-
+lem, Inoue and colleagues fused synaptic nerve terminals
+(synaptosomes) from aged mice harbouring low levels of
+mtDNA deletions with cybrid cells.
+105
+They screened the cybrid
+clones for detectable levels of mtDNA deletions and fused one
+with a mouse zygote that was implanted into a foster mother.
+The offspring contained a mixture of wild-type mtDNA and
+mtDNA with a 4.7 kb deletion.These mice share some clinical
+features with human mtDNA deletion disorders, but they
+were remarkable in two respects. First, the mice developed a
+nephropathy (a feature not typically found in KSS), and
+second, the female offspring also harboured deleted mtDNA
+(also not typical of KSS). Thus, like many other mouse mod-
+els, there is not a complete correspondence between the
+human and the murine phenotype. To some extent this is
+inevitable—human mtDNA disorders are late onset diseases,
+and it is difficult to mimic the effects of aging in other shorter
+lived mammals. Attempts to generate mice transmitting
+mtDNA point mutations similar to those found in humans
+have not yet been forthcoming.
+CONCLUSIONS
+Mitochondria have an essential role in maintaining cellular
+homeostasis, and their many functions integrate closely with
+the cellular metabolic network.It is therefore naive to think of
+mitochondria in isolation,and although we recognise primary
+disorders of mitochondrial function, the cellular and clinical
+consequences will depend on many other genetic and
+environmental factors. Precisely how the jigsaw fits together
+will vary from person to person. This presents a unique chal-
+lenge to neurologists wanting to identify, diagnose, and man-
+age patients and families with mitochondrial disease. In this
+respect,areas for future development are highlighted in box 1.
+These are not rare disorders.Recent epidemiological studies
+have shown that as a group primary mitochondrial disorders
+affect at least one in 8000 of the general population,
+95
+and that
+number is likely to increase as the genotypic and phenotypic
+spectrum expands. It is also becoming clear that mito-
+chondrial dysfunction occurs in many common sporadic
+neurological disorders, and there may be common mito-
+chondrial mechanisms associated with certain neurological
+phenotypes (a good example being the various forms of
+hereditary spastic paraplegia). Our grasp of primary mito-
+chondrial disorders will therefore have a much broader
+relevance, helping us to understand many other diseases and
+hopefully leading to novel generic treatments for neurological
+diseases.
+ACKNOWLEDGEMENTS
+PFC is funded by the Wellcome Trust and Ataxia (UK).EAS is funded
+by the US National Institutes of Health, the Muscular Dystrophy
+Association, and the National Organisation for Rare Diseases. We are
+grateful to Dr Zofia Chrzanowska-Lightowlers for fig 2.
+Box 1 Areas for future development
+• GENETIC COUNSELLING – There are currently no
+statistically-derived genetic counselling guidelines for
+mtDNA disease. A multi-national consortium is currently
+collecting data, and robust guidelines should become
+available in the next few years when a large cohort has
+been assembled.
+• NUCLEAR–MITOCHONDRIAL INTERACTIONS – By study-
+ing relatively rare mitochondrial disorders we will increase
+our understanding of the way that mitochondria interact
+with cellular metabolism and particularly the cell nucleus. It
+is likely that this will have a broader relevance for other
+neurological diseases.
+• ANIMAL MODELS – We currently do not have a good
+model for heteroplasmic mtDNA point mutation disorders
+(such as “MELAS” or “MERRF” – see table 2), but there is
+considerable effort worldwide to generate the model. Many
+of the unanswered questions about genotype and
+phenotype can be addressed when the model becomes
+available, and it may be used to test new treatments.
+• NOVEL TREATMENTS – There are currently no treatments
+for mitochondrial disease, but various avenues show prom-
+ise, and are likely to enter clinical practice within the next
+decade (see text).
+• ENVIRONMENTAL/EXTERNAL FACTORS – Although it is
+generally accepted that exogenous factors influence
+mitochondrial function in humans, identifying them is prov-
+ing difficult. Population based studies and the further inves-
+tigation of animal models are likely to provide some insight.
+If these exogenous factors can be changed (by dietary or
+pharmacological manipulation), this approach may open
+up avenues for new treatments.
+1196 Chinnery, Schon
+www.jnnp.com
+GLOSSARY
+ANT: Adenine nucleotide translocator. A transporter protein
+that exchanges ADP for ATP across the mitochondrial inner
+membrane. There are various tissue specific isoforms of ANT.
+Mutations in the nuclear gene ANT1 cause autosomal
+dominant chronic progressive external ophthalmoplegia with
+secondary mtDNA deletion formation (see table 1). There is a
+mouse knockout model for the cardiac isoform of ANT (see
+table 3).
+Apoptosis: Programmed cell death. A critical process
+essential for normal development and cell turnover. The
+release of cytochrome c from the inner mitochondrial
+membrane is one mechanism that can trigger apoptosis. This
+is discussed in detail in other articles in this series.
+ATP: Adenosine triphosphate. A high energy phosphate mol-
+ecule produced by the respiratory chain from ADP. ATP is
+required for all active cellular processes.
+Cybrid cell: Cultured cell generated by fusing the cytoplasm
+of one cell (cytoplast) with that of another.This technique can
+be used to generate cell lines with different levels of
+heteroplasmy on a specific nuclear genetic background.
+Cytoplasmic transfer: Technique used to generate hetero-
+plasmic mice. Cytoplasm containing mitochondria from one
+inbred mouse strain (for example, NZB) are transferred and
+fused with an early embryonic cell from another cell inbred
+mouse strain (for example, BALB).
+Genetic bottleneck (mitochondrial): A restriction in the
+number of mitochondrial genomes during early development
+of the female germ line causes a “sampling effect” which
+results in great variation in the level of heteroplasmy among
+the offspring of a heteroplasmic mother.
+Haplogroup (mtDNA): mtDNA is highly polymorphic
+within the general population. There are certain groups of
+polymorphisms that reflect the maternal ancestry of a
+particular individual. These large groups are called haplo-
+groups, and they contain individual haplotypes.
+Haplotype (mtDNA): A specific mitochondrial genotype
+defined by a characteristic collection of mtDNA polymor-
+phisms
+Heteroplasmy: Mammalian cells contain many copies of
+mtDNA. Patients with mtDNA disease often harbour a
+mixture of mutated and wild-type mtDNA—a situation
+known as heteroplasmy. The proportion of mutated mtDNA
+can vary between zero and 100%.
+Homoplasmy: Mammalian cells contain many copies of
+mtDNA. Usually all of these copies are identical—a situation
+known as homoplasmy.
+Knockout: Type of mouse model where a specific nuclear
+gene is removed.
+Mitotic (vegetative) segregation: When a heteroplasmic
+cell divides, the daughter cells may receive different amounts
+of mutated mtDNA by chance.
+mtDNA: Mitochondrial DNA. The 16 569 base pair circular
+mitochondrial genome. Each cell contains thousands of
+copies.
+Oxidative phosphorylation (OXPHOS): Electrochemical
+processcarriedoutbytherespiratorychain.Electronsreceived
+from reduced cofactors are passed between the different
+respiratory chain complexes; protons are pumped from the
+mitochondrial matrix into the inter-membrane space generat-
+ing the mitochondrial membrane potential. The influx of pro-
+tonsthroughcomplexVisusedtogenerateATPfromADPand
+inorganic phosphate.
+POLG: Polymerase γ—the only mitochondrial DNA polymer-
+ase. Mutations in the nuclear gene POLG1 are a common
+cause of autosomal dominant and recessive chronic progres-
+sive external ophthalmoplegia with secondary mtDNA dele-
+tions (see table 1).
+Polymorphism:Aphenotypicallyneutralnaturalvariationin
+DNA code at a particular site. In strict terms a particular
+sequencechangemustbepresentin1%ofthepopulationtobe
+a polymorphism, but the term is often used to describe any
+phenotypically neutral sequence variant.
+Relaxedreplication:Unlike nuclear DNA which is only cop-
+ied during cell division, mtDNA is continuously recycled
+within the cell (while the overall amount is maintained at
+roughly constant levels).
+Respiratorychain:Agroupoffourenzymecomplexes(I–IV)
+situatedontheinnermitochondrialmembrane.Togetherwith
+ATP synthase (complex V), the respiratory chain is the final
+common pathway for aerobic energy metabolism and the pro-
+duction of ATP
+Satellite cell: Muscle cell precursor situated adjacent to the
+mature muscle fibre. Satellite cells proliferate in response to
+muscle stress and fuse with the mature muscle fibre.
+Threshold effect: Most mtDNA mutations only cause a bio-
+chemical defect of the respiratory chain when the proportion
+exceeds a critical threshold level. This threshold varies from
+tissue to tissue, and from mutation to mutation.
+Wild-type: Normal DNA found in the outbred population
+.....................
+Authors’ affiliations
+P F Chinnery, Department of Neurology, The University of Newcastle
+upon Tyne, Newcastle upon Tyne, UK
+E A Schon, Departments of Neurology and of Genetics and
+Development, Columbia University, New York, USA
+REFERENCES
+1 Luft R, Ikkos D, Palmieri G, et al. A case of severe hypermetabolism of
+nonthyroid origin with a defect in the maintenance of mitochondrial
+respiratory control: a correlated clinical, biochemical and morphological
+study. J Clin Invest 1962;41:1776–804.
+2 Shy GM, Gonatas NK, Perez M. Two childhood myopathies with
+abnormal mitochondria. I. Megaconial myopathy. II. Pleioconial
+myopathy. Brain 1966;89:133–58.
+3 Rowland LP, Hays AP, Di Mauro S, et al. Diverse clinical disorders
+associated with abnormalities of mitochondria. In: Scarlato G, Cerri C,
+eds. Mitochondrial pathology in muscle diseases. Padova: Piccin,
+1983:141–58.
+4 Petty RK, Harding AE, Morgan-Hughes JA. The clinical features of
+mitochondrial myopathy. Brain 1986;109:915–38.
+5 Nass S, Nass MMK. Intramitochondrial fibres with DNA characteristics. J
+Cell Biol 1963;19:593–629.
+6 Anderson S, Bankier AT, Barrell BG, et al. Sequence and organization
+of the human mitochondrial genome. Nature 1981;290:457–65.
+7 Wallace DC, Singh G, Lott MT, et al. Mitochondrial DNA mutation
+associated with Leber’s hereditary optic neuropathy. Science
+1988;242:1427–30.
+8 Holt I, Harding AE, Morgan-Hughes JA. Deletion of muscle mitochondrial
+DNA in patients with mitochondrial myopathies. Nature
+1988;331:717–19.
+9 Servidei S. Mitochondrial encephalomyopathies: gene mutation.
+Neuromuscul Disord 2003;13:109–14.
+10 Schon EA, Bonilla E, DiMauro S. Mitochondrial DNA mutations and
+pathogenesis. J Bioenerget Biomemb 1997;29:131–49.
+11 Wallace DC. Mitochondrial diseases in mouse and man. Science
+1999;283:1482–8.
+12 DiMauro S. Mitochondrial encephalomyopathies: back to Mendelian
+genetics. Ann Neurol 1999;45:693–4.
+13 Shoubridge EA. Nuclear genetic defects of oxidative phosphorylation.
+Hum Mol Genet 2001;10:2277–84.
+14 Alexander C, Votruba M, Pesch UE, et al. OPA1, encoding a
+dynamin-related GTPase, is mutated in autosomal dominant optic atrophy
+linked to chromosome 3q28. Nat Genet 2000;26:211–15.
+15 Rotig A, de Lonlay P, Chretien D, et al. Aconitase and mitochondrial
+iron-sulphur protein deficiency in Friedreich ataxia. Nat Genet
+1997;17:215–17.
+16 Casari G, De Fusco M, Ciarmatori S, et al. Spastic paraplegia and
+OXPHOS impairment caused by mutations in paraplegin, a
+nuclear-encoded mitochondrial metalloprotease. Cell 1998;93:973–83.
+17 Lutsenko S, Cooper MJ. Localization of the Wilson’s disease protein
+product to mitochondria. Proc Natl Acad Sci USA 1998;95:6004–9.
+18 Leonard JV, Schapira AVH. Mitochondrial respiratory chain disorders II:
+neurodegenerative disorders and nuclear gene defects. Lancet
+2000;355:389–94.
+19 Van Goethem G, Dermaut B, Lofgren A, et al. Mutation of POLG is
+associated with progressive external ophthalmoplegia characterized by
+mtDNA deletions. Nat Genet 2001;28:211–12.
+20 Nishino I, Spinazzola A, Hirano M. Thymidine phosphorylase gene
+mutations in MNGIE, a human mitochondrial disorder. Science
+1999;283:689–92.
+Mitochondria 1197
+www.jnnp.com
+21 Saada A, Shaag A, Mandel H, et al. Mutant mitochondrial thymidine
+kinase in mitochondrial DNA depletion myopathy. Nat Genet
+2001;29:342–4.
+22 Mandel H, Szargel R, Labay V, et al. The deoyguanosine kinase gene is
+mutated in individuals with depleted hepatocerebral mitochondrial DNA.
+Nat Genet 2001;29:337–41.
+23 Kaukonen J, Juselius JK, Tiranti V, et al. Role of adenine nucleotide
+translocator 1 in mtDNA maintenance. Science 2000;289:782–5.
+24 Spelbrink JN,LiFY,TirantiV,et al. Human mitochondrial DNA
+deletions associated with mutations in the gene encoding Twinkle, a
+phage T7 gene 4-like protein localised in mitochondria. Nat Genet
+2001;28:223–31.
+25 Larsson NG, Wang J, Wilhelmsson H, et al. Mitochondrial transcription
+factor A is necessary for mtDNA maintenance and embryogenesis in
+mice. Nat Genet 1998;18:231–6.
+26 Falkenberg M, Gaspari M, Rantanen A, et al. Mitochondrial
+transcription factors B1 and B2 activate transcription of human mtDNA.
+Nat Genet 2002;31:289–94.
+27 Chinnery PF, Howell N, Andrews RA, et al. Clinical mitochondrial
+genetics. J Med Genet 1999;36:425–36.
+28 Leonard JV, Schapira AH. Mitochondrial respiratory chain disorders I:
+mitochondrial DNA defects. Lancet 2000;355:299–304.
+29 DiMauro S, Schon EA. Mitochondrial DNA mutations in human disease.
+Am J Med Genet 2001;106:18–26.
+30 Holt IJ, Harding AE, Petty RK, et al. A new mitochondrial disease
+associated with mitochondrial DNA heteroplasmy. Am J Hum Genet
+1990;46:428–33.
+31 Tiranti V, Hoertnagel K, Carrozzo R, et al. Mutations of SURF-1 in Leigh
+disease associated with cytochrome c oxidase deficiency. Am J Hum
+Genet 1998;63:1609–21.
+32 Ciafaloni E, Ricci E, Shanske S, et al. MELAS: clinical features,
+biochemistry, and molecular genetics. Ann Neurol 1992;31:391–8.
+33 Moraes CT, Ciacci F, Silvestri G, et al. Atypical clinical presentations
+associated with the MELAS mutation at position 3243 of human
+mitochondrial DNA. Neuromuscul Disord 1993;3:43–50.
+34 Reardon W, Ross RJ, Sweeney MG, et al. Diabetes mellitus associated
+with a pathogenic point mutation in mitochondrial DNA. Lancet
+1992;340:1376–9.
+35 Nikoskelainen EK. Clinical picture of LHON. Clin Neurosci
+1994;2:115–20.
+36 Prezant TR, Agapian JV, Bohlman MC, et al. Mitochondrial ribosomal
+RNA mutations associated with both antibiotic-induced and
+non-syndromic deafness. Nat Genet 1993;4:289–94.
+37 King MP, Attardi G. Injection of mitochondria into human cells leads to a
+rapid replacement of the endogenous mitochondrial DNA. Cell
+1988;52:811–19.
+38 Chinnery PF, Howell N, Lightowlers RN, et al. Molecular pathology of
+MELAS and MERRF. The relationship between mutation load and clinical
+phenotypes. Brain 1997;120:1713–21.
+39 White SL, Collins VA, Woolfe R, et al. Genetic counseling and prenatal
+diagnosis for the mitochondrial DNA mutations at nucleotide 8993. Am J
+Hum Genet 1999;65:474–82.
+40 Giles RE, Blanc H, Cann HM, et al. Maternal inheritance of human
+mitochondrial DNA. Proc Natl Acad Sci USA 1980;77:6715–19.
+41 Sutovsky P, Moreno RD, Ramalho-Santos J, et al. Ubiquitin tag for sperm
+mitochondria. Nature 1999;403:371–2.
+42 Schwartz M, Vissing J. Paternal inheritance of mitochondrial DNA. N
+Engl J Med 2002;347:576–80.
+43 Poulton J, Macaulay V, Marchington DR. Mitochondrial genetics ’98: Is
+the bottleneck cracked? Am J Hum Genet 1998;62:752–7.
+44 Jenuth J, Peterson AC, Fu K, et al. Random genetic drift in the female
+germ line explains the rapid segregation of mammalian mitochondrial
+DNA. Nat Genet 1996;14:146–51.
+45 Meirelles F, Smith LC. Mitochondrial genotype segregation in a mouse
+heteroplasmic lineage produced by embryonic karyoplast transplantation.
+Genetics 1997;145:445–51.
+46 Seibel P, Trappe J, Villani G, et al. Transfection of mitochondria: strategy
+towards a gene therapy of mitochondrial DNA diseases. Nucleic Acids
+Res 1995;23:10–17.
+47 Larsson NG, Rustin P. Animal models for respiratory chain disease.
+Trends Mol Med 2001;7:578–81.
+48 Graham BH, Waymire KG, Cottrell B, et al. A mouse model for
+mitochondrial myopathy and cardiomyopathy resulting from a deficiency
+in the heart/muscle isoform of the adenine nucleotide translocator. Nat
+Genet 1997;16:226–34.
+49 Li Y, Huang TT, Carlson EJ, et al. Dilated cardiomyopathy and neonatal
+lethality in mutant mice lacking manganese superoxide dismutase. Nat
+Genet 1995;11:376–81.
+50 Wang J, Wilhelmsson H, Graff C, et al. Dilated cardiomyopathy and
+atrioventricular conduction blocks induced by heart-specific inactivation
+of mitochondrial DNA expression. Nat Genet 1999;21:133–7.
+51 Silva JP, Kohler M, Graff C, et al. Impaired insulin secretion and
+beta-cell loss in tissue-specific knockout mice with mitochondrial diabetes.
+Nat Genet 2000;26:336–40.
+52 Agostino A, Invernizzi F, Tiveron C, et al. Constitutive knockout of Surf1
+is associated with high embryonic lethality, mitochondrial disease and
+cytochrome c oxidase deficiency in mice. Hum Mol Genet
+2003;12:399–413.
+53 Haraguchi M, Tsujimoto H, Fukushima M, et al. Targeted deletion of
+both thymidine phosphorylase and uridine phosphorylase and
+consequent disorders in mice. Mol Cell Biol 2002;22:5212–21.
+54 Sligh JE, Levy SE, Waymire KG, et al. Maternal germ-line transmission of
+mutant mtDNAs from embryonic stem cell-derived chimeric mice. Proc
+Natl Acad Sci USA 2000;97:14461–6.
+55 Johnson KR, Zheng QY, Bykhovskaya Y, et al. A nuclear–mitochondrial
+DNA interaction affecting hearing impairment in mice. Nat Genet
+2001;27:191–4.
+56 Chinnery PF, Thorburn DR, Samuels DC, et al. The inheritance of
+mitochondrial DNA heteroplasmy: random drift, selection or both? Trends
+Genet 2000;16:500–5.
+57 Brown DT, Samuels DC, Michael EM, et al. Random genetic drift
+determines the level of mutant mitochondrial DNA in human primary
+oocytes. Am J Hum Genet 2001;68:553–36.
+58 Chinnery PF, Howell N, Lightowlers RN, et al. MELAS and MERRF: the
+relationship between maternal mutation load and the frequency of
+clinically affected offspring. Brain 1998;121:1889–94.
+59 Bogenhagen D, Clayton DA. Mouse L cell mitochondrial DNA
+molecules are selected randomly for replication throughout the cell cycle.
+Cell 1977;11:719–27.
+60 Birky CW. The inheritance of genes in mitochondria and chloroplasts:
+laws, mechanisms, and models. Annu Rev Genet 2001;35:125–48.
+61 Chinnery PF, Samuels DC. Relaxed replication of mtDNA: a model with
+implications for the expression of disease. Am J Hum Genet
+1999;64:1158–65.
+62 Birky CW. Relaxed and stringent genomes: why cytoplasmic genes don’t
+obey Mendel’s laws. J Heredity 1994;85:355–65.
+63 ’t Hart LM, Jansen JJ, Lemkes HHPJ, et al. Heteroplasmy levels of a
+mitochondrial gene mutation associated with diabetes mellitus decrease
+in leucocyte DNA upon aging. Hum Mutat 1996;7:193–7.
+64 Chinnery PF, Johnson MA, Wardell TM, et al. Epidemiology of
+pathogenic mitochondrial DNA mutations. Ann Neurol
+2000;48:188–93.
+65 Howell N. Leber hereditary optic neuropathy: mitochondrial mutations
+and degeneration of the optic nerve. Vision Res 1997;37:3495–507.
+66 Saadati HG, Hsu HY, Heller KB, et al. A histopathologic and
+morphometric differentiation of nerves in optic nerve hypoplasia and
+Leber hereditary optic neuropathy. Arch Ophthalmol 1998;116:911–16.
+67 Newman NJ, Lott MT, Wallace DC. The clinical characteristics of
+pedigrees of Leber’s hereditary optic neuropathy with the 11 778
+mutation. Am J Ophthalmol 1991;111:750–62.
+68 Riordan-Eva P, Sanders MD, Govan GG, et al. The clinical features of
+Leber’s hereditary optic neuropathy defined by the presence of a
+pathogenic mitochondrial DNA mutation. Brain 1995;118:319–37.
+69 Man PY, Griffiths PG, Brown DT, et al. The epidemiology of Leber
+hereditary optic neuropathy in the north East of England. Am J Hum
+Genet 2003;72:333–9.
+70 Torroni A, Huoponen K, Francalacci P, et al. Classification of European
+mtDNAs from an analysis of three European populations. Genetics
+1996;144:1835–50.
+71 Torroni A, Petrozzi M, D’Urbano L, et al. Haplotype and phylogenetic
+analyses suggest that one European-specific mtDNA background plays a
+role in the expression of Leber hereditary optic neuropathy by increasing
+the penetrance of the primary mutations 11778 and 14484. Am J Hum
+Genet 1997;60:1107–21.
+72 Howell N, Kubacka I, Halvorson S, et al. Phylogenetic analysis of the
+mitochondrial genomes from Leber hereditary optic neuropathy
+pedigrees. Genetics 1995;140:285–302.
+73 Bu X, Rotter JI. X chromosomal-linked and mitochondrial gene control of
+Leber hereditary optic neuropathy: evidence from segregation analysis
+for dependence on X-chromosome inactivation. Proc Natl Acad Sci USA
+1991;88:8198–202.
+74 Chalmers RM, Davis MB, Sweeney MG, et al. Evidence against an
+X-linked visual loss susceptibility locus in Leber hereditary optic
+neuropathy. Am J Hum Genet 1996;59:103–8.
+75 Kerrison JB, Miller NR, Hsu F, et al. A case–control study of tobacco
+and alcohol consumption in Leber hereditary optic neuropathy. Am J
+Ophthalmol 2000;130:803–12.
+76 Tsao K, Aitken PA, Johns DR. Smoking as an aetiological factor in a
+pedigree with Leber’s hereditary optic neuropathy. Br J Ophthalmol
+1999;83:577–81.
+77 Jenuth JP, Peterson AC, Shoubridge EA. Tissue-specific selection for
+different mtDNA genotypes in heteroplasmic mice. Nat Genet
+1997;16:93–5.
+78 Battersby BJ, Shoubridge E. Selection of a mtDNA sequence variant in
+hepatocytes of heteroplasmic mice is not due to difference in respiratory
+chain function or efficiency of replication. Hum Mol Genet
+2001;10:2469–79.
+79 Battersby BJ, Loredo-Osti JC, Shoubridge EA. Nuclear genetic control of
+mitochondrial DNA segregation. Nat Genet 2003;33:183–6.
+80 Blier PU, Dufresne F, Burton RS. Natural selection and the evolution of
+mtDNA-encoded peptides: evidence for intergenomic co-adaptation.
+Trends Genet 2001;17:400–6.
+81 Mishmar D, Ruiz-Pesini E, Golik P, et al. Natural selection shaped
+regional mtDNA variation in humans. Proc Natl Acad Sci U S A
+2003;100:171–6.
+82 Mackey DA, Oostra R-J, Rosenberg T, et al. Primary pathogenic mtDNA
+mutations in multigeneration pedigrees with Leber hereditary optic
+neuropathy. Am J Hum Genet 1996;59:481–5.
+83 Chinnery PF, Reading PJ, Walls TJ, et al. Recurrent strokes in a 34 year
+old man. Lancet 1997;350:560.
+84 Dubeau F, De Stefano N, Zifkin BG, et al. Oxidative phosphorylation
+defect in the brains of carriers of the tRNA
+leu(UUR)
+A3243G mutation in a
+MELAS pedigree. Ann Neurol 2000;47:179–85.
+85 Engel WK, Cunningham CG. Rapid examination of muscle tissue: an
+improved trichrome stain for fresh-frozen biopsy sections. Neurology
+1963;13:919–23.
+1198 Chinnery, Schon
+www.jnnp.com
+86 Old SL, Johnson MA. Methods of microphotometric assay of succinate
+dehydrogenase and cytochrome c oxidase activities for use on human
+skeletal muscle. Histochem J 1989;21:545–55.
+87 Hayashi J, Ohta S, Kikuchi A, et al. Introduction of disease-related
+mitochondrial DNA deletions into HeLa cells lacking mitochondrial DNA
+results in mitochondrial dysfunction. Proc Natl Acad Sci USA
+1991;88:10614–18.
+88 Johnson MA, Bindoff LA, Turnbull DM. Cytochrome c oxidase activity in
+single muscle fibres: assay techniques and diagnostic applications. Ann
+Neurol 1993;33:28–35.
+89 Sasarman F, Karpati G, Shoubridge EA. Nuclear genetic control of
+mitochondrial translation in skeletal muscle revealed in patients with
+mitochondrial myopathy. Hum Mol Genet 2002;11:1669–81.
+90 Taivassalo T, Abbott A, Wyrick P, et al. Venous oxygen levels during
+aerobic forearm exercise: an index of impaired oxidative metabolism in
+mitochondrial myopathy. Ann Neurol 2002;51:38–44.
+91 Argov Z, Bank W. Phosphorus magnetic resonance spectroscopy (31-P
+MRS) in Neuromuscular disorders. Ann Neurol 1991;30:90–7.
+92 van Beekvelt MC, van Engelen BG, Wevers RA, et al. Quantitative
+near-infrared spectroscopy discriminates between mitochondrial
+myopathies and normal muscle. Ann Neurol 1999;46:667–70.
+93 Moraes CT, Schon EA. Detection and analysis of mitochondrial DNA
+and RNA in muscle by in situ hybridization and single-fiber PCR.
+Methods Enzymol 1996;264:522–40.
+94 Thorburn DR, Dahl HHM. Mitochondrial disorders: genetics, counseling,
+prenatal diagnosis and reproductive options. Am J Med Genet
+2001;106:102–14.
+95 Poulton J, Turnbull DM. 74th ENMC International workshop:
+mitochondrial diseases. Neuromuscul Disord 2000;10:460–2.
+96 Chinnery PF, Turnbull DM. The epidemiology and treatment of
+mitochondrial disease. Am J Med Genet 2001;106:94–101.
+97 Fu K, Hartien R, Johns T, et al. A novel heteroplasmic tRNA
+leu(UUR)
+mtDNA
+point mutation in a sporadic patient with mitochondrial
+encephalomyopathy segregates rapidly in muscle and suggests an
+approach to therapy. Hum Mol Genet 1996;5:1835–40.
+98 Clark K, Bindoff LA, Lightowlers RN, et al. Correction of a mitochondrial
+DNA defect in human skeletal muscle. Nat Genet 1997;16:222–4.
+99 Taivassalo T, Fu K, Johns T, et al. Gene shifting: a novel therapy for
+mitochondrial myopathy. Hum Mol Genet 1999;8:1047–52.
+100 Taivassalo T, Matthews PM, De Stefano N, et al. Combined aerobic
+training and dichloracetate improve exercise capacity and indices on
+aerobic metabolism in muscle cytochrome oxidase deficiency. Neurology
+1996;47:529–34.
+101 Taivassalo T, Shoubridge EA, Chen J, et al. Aerobic conditioning in
+patients with mitochondrial myopathies: physiological, biochemical, and
+genetic effects. Ann Neurol 2001;50:133–41.
+102 Taylor RW, Chinnery PF, Turnbull DM, et al. Selective inhibition of
+mutant human mitochondrial DNA replication in vitro by peptide nucleic
+acids. Nat Genet 1997;15:212–15.
+103 Chinnery PF, Taylor RW, Diekert K, et al. Peptide nucleic acid delivery
+into human mitochondria. Gene Ther 1999;6:1919–28.
+104 Manfredi G, Gupta N, Vazquez-Memije ME, et al. Oligomycin induces
+a decrease in the cellular content of a pathogenic mutation in the human
+mitochondrial ATPase6 gene. JBiolChem1999;274:9386–91.
+105 Inoue K, Nakada K, Ogura A, et al. Generation of mice with
+mitochondrial dysfunction by introducing mouse mtDNA carrying a
+deletion into zygotes [In Process citation]. Nat Genet 2000;26:176–81.
+K77K77K77K2EK6AK6EK6EK70K2EK63K6FK6D
+K43K69K74K65K54K72K61K63K6B K77K69K6CK6C K61K6CK65K72K74 K79K6FK75 K62K79 K65K6DK61K69K6C K77K68K65K6EK65K76K65K72 K6EK65K77 K63K6FK6EK74K65K6EK74 K69K6E K74K68K65 K4AK6FK75K72K6EK61K6C K6FK66 K4EK65K75K72K6FK6CK6FK67K79K2C K4EK65K75K72K6FK73K75K72K67K65K72K79K2C K61K6EK64 K50K73K79K63K68K69K61K74K72K79 K6FK72
+K61 K70K61K72K74K69K63K69K70K61K74K69K6EK67 K6AK6FK75K72K6EK61K6C K69K73 K70K75K62K6CK69K73K68K65K64 K74K68K61K74 K6DK61K74K63K68K65K73 K63K72K69K74K65K72K69K61 K79K6FK75 K77K61K6EK74 K74K6F K74K72K61K63K6B
+K54K6FK70K69K63K73K3A K54K65K6CK6C K43K69K74K65K54K72K61K63K6B K77K68K69K63K68 K77K6FK72K64K73 K6FK72 K73K75K62K6AK65K63K74K73 K74K6F K77K61K74K63K68 K66K6FK72 K69K6E K6EK65K77 K63K6FK6EK74K65K6EK74
+K41K75K74K68K6FK72K73K3A K42K65 K61K6CK65K72K74K65K64 K77K68K65K6EK65K76K65K72 K6BK65K79 K61K75K74K68K6FK72K73 K79K6FK75 K61K72K65 K66K6FK6CK6CK6FK77K69K6EK67 K70K75K62K6CK69K73K68 K61 K6EK65K77 K70K61K70K65K72
+K41K72K74K69K63K6CK65K73K3A K4BK6EK6FK77 K77K68K65K6EK65K76K65K72 K61 K70K61K70K65K72 K6FK66 K69K6EK74K65K72K65K73K74 K74K6F K79K6FK75 K69K73 K72K65K66K65K72K65K6EK63K65K64 K62K79 K61K6EK6FK74K68K65K72 K70K61K70K65K72
+K43K69K74K65K54K72K61K63K6B K73K65K72K76K69K63K65
+K49K73 K79K6FK75K72 K70K61K70K65K72 K62K65K69K6EK67 K63K69K74K65K64K3F
+Mitochondria 1199
+www.jnnp.com

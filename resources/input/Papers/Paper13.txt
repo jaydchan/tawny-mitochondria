@@ -1,0 +1,2117 @@
+DOI: 10.1093/brain/awh259 Brain (2004), 127, 2153–2172
+REVIEW ARTICLE
+Mitochondrial disorders
+Massimo Zeviani
+1
+and Stefano Di Donato
+2
+Correspondence to: Massimo Zeviani, Stefano Di Donato,
+Istituto Nazionale Neurologico ‘C. Besta’, Via Celoria
+11 20133 Milan, Italy
+E-mail: zeviani@istituto-besta.it, didonato@istituto-besta.it
+1
+Division of Molecular Neurogenetics and
+2
+Division
+of Biochemistry and Genetics, Istituto Nazionale
+Neurologico, Milan, Italy
+Summary
+Inthemedicalliteraturetheterm‘mitochondrialdisorders’
+is to a large extent applied to the clinical syndromes
+associated with abnormalities of the common final pathway
+of mitochondrial energy metabolism, i.e. oxidative
+phosphorylation (OXPHOS). Faulty oxidative phos-
+phorylation may be due to overall dysfunction of the
+respiratory chain, a heteromultimeric structure embedded
+in the inner mitochondrial membrane, or can be associated
+with single or multiple defects of the five complexes forming
+therespiratorychainitself.Fromthegeneticstandpoint,the
+respiratory chain is a unique structure of the inner
+mitochondrial membrane formed by means of the
+complementation of two separate genetic systems: the
+nuclear genome and the mitochondrial genome. The nuclear
+genome encodes the large majority of the protein subunits of
+therespiratorycomplexesandmostofthemitochondrialDNA
+(mtDNA) replication and expression systems, whereas the
+mitochondrial genome encodes only 13 respiratory complex
+subunits, and some RNA components of the mitochondrial
+translational apparatus. Accordingly, mitochondrial
+disorders due to defects in OXPHOS include both mendelian-
+inherited and cytoplasmic-inherited diseases. This review
+describes human genetic diseases associated with mtDNA
+and nuclear DNA mutations leading to impaired OXPHOS.
+Keywords: respiratory chain; oxidative phosphorylation; mitochondrial DNA mutations; nuclear DNA mutations
+Abbreviations: adPEO = autosomal dominant progressive external ophthalmoplegia; CoQ10 = coenzyme Q10; COX =
+cytochrome c oxidase; KSS = Kearns–Sayre syndrome; LHON = Leber’s hereditary optic neuropathy; MELAS = mitochondrial
+encephalomyopathy with lactic acidosis and stroke-like episodes; MERRF = myoclonic epilepsy with ragged red fibres; MDS =
+mitochondrial DNA depletion syndrome; mETC = mitochondrial electron transport chain; MNGIE = mitochondrial neuro-
+gastro-intestinal encephalomyopathy; mtDNA = mitochondrial DNA; NARP = neuropathy ataxia and retinitis pigmentosa;
+OXPHOS = oxidative phosphorylation; PEO = progressive external ophthalmoplegia; RRFs = ragged red fibres; SDH = succinate
+dehydrogenase; SNHL = non-syndromic and aminoglycoside-induced sensorineural hearing loss; TK = thymidine kinase 2;
+TP = thymidine phosphorylase.
+Received March 23, 2004. Revised May 17, 2004. Accepted May 21, 2004. Advanced Access publication September 9, 2004
+Introduction
+Neurological syndromes are the most frequent clinical presen-
+tations of mitochondrial disorders, a group of human diseases
+characterized by defects of the mitochondrial energy output.
+Mitochondria are cytoplasmic, double-membrane orga-
+nelles, the main role of which is to synthesize ATP, the uni-
+versal energy ‘currency’ of the cell. Because of the remarkable
+expansion of knowledge on the molecular characterization of
+human disorders associated with the energy pathways of mito-
+chondria, the term ‘mitochondrial disorders’ is nowadays
+restricted to indicate only the clinical syndromes associated
+with abnormalities of oxidative phosphorylation (OXPHOS).
+The respiratory chain is composed of five enzymatic multi-
+heteromeric complexes (I, II, III, IV and V), embedded in the
+inner membrane of mitochondria. The protein subunits of the
+respiratory chain complexes are assembled together and with
+prosthetic groups and metal-containing reactive centres by a set
+of chaperones and assembly factors, some of which are specific
+to each complex. Coenzyme Q (a lipoidal quinone) and cyto-
+chromecarealsoinvolvedinmitochondrialrespiration,serving
+as ‘electron shuttles’ between the complexes (Wallace, 1999).
+The formation of the respiratory chain is under the control
+of two separate genetic systems, the nuclear genome and the
+Brain Vol. 127 No. 10
+#
+Guarantors of Brain 2004; all rights reserved
+ by guest on November 23, 2010
+brain.oxfordjournals.org
+Downloaded from 
+mitochondrial genome [mitochondrial DNA (mtDNA)]. In
+particular, four of the five respiratory chain complexes (I, III,
+IV and V) contain both nuclear-encoded and mtDNA-encoded
+polypeptides (Fig. 1).
+In terms of function, the first two linked events of respira-
+tion, i.e. electron transfer and proton pumping, are carried
+out by the mitochondrial electron transport chain (mETC),
+a functional supramolecular structure located in the lipid
+bilayer of the membrane, and composed of four complexes
+(complex I–IV). In humans, complex I or NADH-ubiquinone
+oxidoreductase, which accomplishes the oxidation of NADH
+derived by the oxidation of fatty acids, pyruvate and amino
+acids, contains seven subunits which are encoded by the
+mtDNA (subunits ND1–ND6 and ND4L), plus at least 39
+Fig. 1 Creative drawing of the respiratory chain and human mitochondrial DNA. Top: respiratory chain complexes. Mitochondrially
+encoded subunits, embedded in the midst of nuclear-encoded subunits, are shown in different colours: complex I subunits = blue; complex
+III subunit = green; complex IV subunits = red; complex V subunits = yellow. Pi = inorganic posphate; Cyt c = cytochrome c; CoQ =
+coenzyme Q. Bottom: mtDNA. myt genes: complex I genes = blue; complex III cytb gene = green; complex IV genes = red; complex V
+genes = yellow. syn genes: tRNA genes = grey; rRNA genes = purple. Cyt b = cytochrome b; COI = complex I; COII = complex II; COIII =
+complex III. (Courtesy of Dr Loredana Lamantea, Division of Molecular Neurogenetics).
+2154 M. Zeviani and S. Di Donato
+ by guest on November 23, 2010
+brain.oxfordjournals.org
+Downloaded from 
+nuclear-encoded subunits of complex I (Smeitink, 2001;
+Carroll et al., 2003). Complex II or succinate-ubiquinone
+oxidoreductase, which accomplishes the oxidation of
+FADH2 derived from fatty acid and the Krebs’ cycle, is
+composed of only four subunits, all encoded by the nuclear
+genome. Complex III or ubiquinol-ferricytochrome c oxidor-
+eductase holds one subunit, cytochrome b, encoded by the
+mitochondrial genome and 10 subunits encoded by the
+nuclear genome. Complex IV or cytochrome c oxidase
+(COX) is composed of 13 subunits, three of which are
+encoded by mtDNA (COX I–III) and the other 10 by nuclear
+DNA. In addition, mETC contains two highly hydrophobic,
+mobile, small electron carriers, coenzyme Q10 and cyto-
+chrome c, both synthesized by nuclear genes (Fig. 1). In
+substance the mETC is especially built to accept electrons
+from NADH and FADH2, transfer them through a series of
+oxidation–reduction reactions to molecular oxygen to produce
+water and to simultaneously coupling this exergonic reaction
+to the translocation of protons across the inner membrane
+(Saraste, 1999; Di Donato, 2000).
+Synthesis of ATP from ADP is the second fundamental
+reaction of the mitochondrial respiratory chain, a process
+performed by complex V or ATP synthase. ATP synthase
+is also a genetic mosaic, since it is composed of two
+mtDNA-encoded subunits (ATPase 6 and 8), and at least
+13 nuclear DNA-encoded subunits (Fig. 1). As mentioned,
+the proton electrochemical gradient generated at the mETC
+level during electron transfer to oxygen creates a polarization
+of the inner membrane which is changed back by the proton
+flux through a proton channel which resides in the F
+0
+component of ATP synthase. The proton flux drives the
+condensation of ADP and inorganic phosphate into ATP
+(Saraste, 1999; Wallace, 1999). Electron transfer across the
+mETC and ATP synthesis are coupled, or linked. In fact, the
+respiratory chain works as a proton pump which generates a
+proton gradient and a membrane potential of about 180 mV
+across the inner membrane with a negative polarity at the
+matrix side of the inner membrane. The proton gradient is
+utilized by the ATP synthase to phosphorylate matrix ADP.
+During this process the proton gradient is decreased and this
+activates respiration, i.e. electron transfer (Saraste, 1999).
+Hence, the fundamental reaction of life, i.e. oxygen activation
+and the conservation of energy in cell respiration, is essen-
+tially a function of the integrity of the inner membrane
+respiratory chain (Babcock and Wilkstrom, 1992).
+Notably, energy production in mitochondria requires not
+only a full assembly of functional protein at the level of the
+inner mitochondrial membrane, but also a bidirectional flow
+of information between the nuclear genome and the mitochon-
+drial genome to adjust energy production in tissues to differ-
+ent energetic demands (Poyton and McEwan, 1996).
+Accordingly, many different mutations in mtDNA- and
+nuclear DNA-encoding subunits, components or regulators
+of the respiratory chain function can produce a wide range
+of OXPHOS diseases (DiMauro and Schon, 2003; Zeviani
+and Carelli, 2003).
+Clinical aspects
+Given the complexity of mitochondrial genetics and biochem-
+istry, the clinical manifestations of mtDNA disorders are
+extremely heterogenous. They range from lesions of single
+tissues or structures, such as the optic nerve in Leber’s here-
+ditary optic neuropathy (LHON), or the cochlea in maternally
+inherited non-syndromic deafness, to more widespread
+lesions including myopathies, encephalomyopathies, cardio-
+pathies, or complex multisystem syndromes with onset ran-
+ging from neonatal to adult life (Table 1).
+Adult patients usually show signs of myopathy associated
+with variable involvement of the CNS (ataxia, hearing loss,
+seizures, polyneuropathy, pigmentary retinopathy and, more
+rarely, movement disorders). Some patients complain only of
+muscle weakness and/or wasting with exercise intolerance
+(Zeviani and Carelli, 2003). Several morphological and bio-
+chemical hallmarks characterize many, albeit not all, of these
+syndromes. The best known morphological finding is perhaps
+the transformation of scattered muscle fibres into ‘ragged red
+fibres’ (RRFs) (Fig. 2A). RRFs are characterized by the accu-
+mulation of abnormal mitochondria under the sarcolemmal
+membrane (Fig. 2D). The latter phenomenon is clearly
+demonstrated by an intense subsarcolemmal reaction to a
+respiratory chain-specific mitochondrial enzyme such as
+succinate dehydrogenase (SDH) (Fig. 2C). Another common
+finding is the presence of muscle fibres that stain negative
+to the histochemical reaction to COX (respiratory complex
+IV) (Fig. 2B). However, typical ‘mitochondrial’ clues may
+Table 1 Phenotypic expression of mitochondrial diseases
+Neurological manifestations Systemic manifestations
+Neuromuscular Heart
+Ophtalmoplegia Cardiomyopathy
+Myopathy Cardiac conduction defects
+Exercise intolerance
+Peripheral sensory–motor
+neuropathy
+Endocrine system
+Diabetes
+CNS Exocrine pancreas dysfunction
+Myelopathy Hypoparathyrodism
+Headache Multiple endocrinopathy
+Stroke Short stature
+Seizures
+Dementia Blood
+Pancytopenia
+Movement disorders Sideroblastic anaemia
+Ataxia
+Dystonia Mesenchymal organs
+Parkinsonism Hepatopathy
+Myoclonus Nephropathy
+Intestinal pseudo-obstruction
+Eye
+Blindness Metabolism
+Optic neuropathy Metabolic acidosis
+Pigmentary retinopathy Nausea and vomiting
+Cataract
+Ear
+Sensorineural deafness
+Mitochondrial disorders 2155
+ by guest on November 23, 2010
+brain.oxfordjournals.org
+Downloaded from 
+be absent in otherwise demonstrated mitochondrial disorders.
+This is the case for LHON, for neuropathy ataxia and retinitis
+pigmentosa (NARP), and it is also true in many paediatric cases.
+In paediatric patients the most frequent clinical features are
+severe psychomotor delay, generalized hypotonia, lactic
+acidosis and signs of cardiorespiratory failure (Zeviani and
+Carelli, 2003). Clinical presentations include fatal multisys-
+tem syndromes, encephalomyopathies, or isolated myopathies
+sometimes associated with cardiopathies. The most common,
+and better characterized, early onset mitochondrial
+encephalopathy is Leigh syndrome or subacute necrotizing
+encephalomyelopathy. Affected infants show severe psycho-
+motor delay, cerebellar and pyramidal signs, dystonia, sei-
+zures, respiratory abnormalities, uncoordination of ocular
+movements and recurrent vomiting. Focal symmetric lesions
+are found at necropsy, and by MRI, in the brainstem, thalamus
+and posterior columns of the spinal chord (Leigh, 1951). RRFs
+are consistently absent in the muscle biopsy.
+Leigh syndrome is clearly a genetically heterogeneous
+entity. In some cases it is attributable to mtDNA mutations,
+in others to an autosomal recessive defect of a nuclear gene,
+encoding structural subunits or assembly factors of the
+respiratory chain complexes. In yet other cases, the defect
+is X-linked or sporadic, as in the case of the defect of the
+E1a subunit of pyruvate dehydrogenase complex. However,
+all defects described to date in patients with Leigh syndrome
+affect the terminal oxidative metabolism and are likely to
+impair energy production (DiMauro and DeVivo, 1996).
+The typical neuropathological findings of Leigh syndrome
+are therefore the expression of the damage produced by
+impaired oxidative metabolism on the developing brain, irre-
+spective of the specific biochemical or genetic causes.
+Finally, it is important to emphasize that molecular inves-
+tigation still fails to identify the responsible gene defect in
+C2450% of adult patients affected by mitochondrial disease, as
+demonstrated by specific biochemical and/or morphological
+evidence. The percentage of undiagnosed cases increases to
+80–90% for paediatric disorders. These figures illustrate the
+formidable task still facing investigators working on the elu-
+cidation of the genetic basis of mitochondrial disorders. Since
+the sequence of the entire mtDNA is now available in several
+research centres worldwide, most of these cases, which still
+Fig. 2 (A–C) Serial transverse sections of a biopsy from the vastus lateralis muscle of a 18-year-old patient with MERRF: modified Gomori
+trichrome stain (A); COX stain (B); SDH stain (C). Note absent COX activity, and increased SDH activity in the RRF at the centre
+of the figure. (D) Transverse section though the periphery of the RRF in (A) shows numerous enlarged mitochondria, many of which
+contain paracrystalline inclusions. (Courtesy of Dr Marina Mora, Laboratory of Muscle Biology).
+2156 M. Zeviani and S. Di Donato
+ by guest on November 23, 2010
+brain.oxfordjournals.org
+Downloaded from 
+await molecular characterization, are likely to be due to muta-
+tions in (unknown) nuclear genes related to OXPHOS.
+Defects of the mtDNA genes
+Gene organization of the mitochondrial genome
+Human mtDNA is a 16.5 kb circular minichromosome, com-
+posedoftwocomplementarystrands,theheavyandlightstrands.
+All of the coding sequences are contiguous with each other with
+no introns (Anderson et al., 1981). The only non-coding stretch
+of mtDNA is the displacement-loop (D-loop), a region of about
+1 kb which contains the promoters for light and heavy strand
+transcription (Fig. 1). Replication of mtDNA was believed to
+proceed asynchronously andasymmetrically,starting from two
+spatially separated replication origins, one for each strand. This
+model, proposed by Clayton (1991), has recently been chal-
+lenged by experimental evidence supporting the existence of
+conventional, strand-coupled replication of mammalian
+mtDNA (Holt et al., 2000; Yang et al., 2002).
+Since the mtDNA genetic code differs from the universal
+code, expression of mtDNA genes must rely upon
+mitochondrion-specific protein synthesis, carried out through
+the interplay of nuclear-encoded transcriptional and transla-
+tional factors with tRNAs and rRNAs synthesized in situ from
+the corresponding mitochondrial genes. Thus, human mtDNA
+contains both protein-encoding genes (analogous to the yeast
+mit genes), and protein synthesis genes (analogous to the
+yeast syn genes). An important progress in the understanding
+of the mitochondrial transcriptional machinery has been the
+discovery that two novel transcriptional factors, TFB1M
+and TFB2 M, cooperate with mitochondrial RNA polymerase
+and mitochondrial transcription factor A to carry out basal
+transcription of mammalian mtDNA (Falkenberg et al., 2002).
+The 13 mit genes specify seven ND subunits of NADH-
+ubiquinone reductase, three subunits of COX (complex IV),
+subunits 6 and 8 of ATPsynthase (complex V), and apocyto-
+chrome b, which is part of ubiquinol-cytochrome c reductase
+(complex III). SDH-ubiquinone reductase (complex II) is com-
+posed of four subunits, all encoded by nuclear genes. The syn
+genes of mtDNA encode two rRNAs (12 and 16S rRNA)
+and 22 tRNAs that are involved in protein translation of the
+mit gene products. (see Fig. 1).
+Clinical genetics
+The genetics of mtDNA differs from that of nuclear DNA in
+the following unique properties (Zeviani et al., 2003).
+The mitochondrial genome is maternally inherited. Paternal
+mtDNA does not contribute to mitochondrial inheritance
+despite a few sperm mitochondria entering the egg (Schwartz
+and Vissing, 2002). Only the mother transmits her oocyte
+mtDNA to all of her offspring, and her daughters transmit
+their mtDNA to the next generation (Giles et al., 1980; Ankel-
+Simons and Cummins, 1996). Mitochondria are polyploid.
+Each human cell has hundreds of mitochondria, each
+containing 2–10 mtDNA molecules. At cell division,
+mitochondria and their genomes are randomly distributed
+to daughter cells.
+Normally, the mitochondrial genotype of an individual is
+composed of a single mtDNA species, a condition known as
+homoplasmy. However, the intrinsic propensity of mtDNA to
+mutate randomly can occasionally determine a transitory con-
+dition known as heteroplasmy, where the wild-type and the
+mutant genomes co-exist intracellularly. Because of mito-
+chondrial polyploidy, during mitosis the two mtDNA species
+are stochastically distributed to daughter cells (Jenuth et al.,
+1996). This phenomenon can account for the drastic change in
+mutation loads observed in different generations of families
+carrying heteroplasmic mtDNA, and increases the remarkable
+variability in the phenotypic presentations of mitochondrial
+disorders. Because of mitotic mtDNA segregation and poly-
+ploidy, a threshold effect dictates the phenotypic expression
+of a mtDNA-associated character (Jenuth et al., 1997). For a
+given heteroplasmic mutation, only when mutated gene
+copies accumulate over a certain threshold, the deleterious
+effects of the mutation will no longer be complemented by
+the co-existing wild-type mtDNA, and will be expressed
+phenotypically as a cellular dysfunction leading to disease
+(Thorbum and Dahl, 2001). A major breakthrough in the
+understanding of mitochondrial disorders has been the
+discovery of an impressive number of mutations of
+mtDNA (available from: http://www.mitomap.org/).
+The variability in clinical manifestations of mtDNA stems
+from a number of factors, including the nature of the mutation,
+i.e. its intrinsic pathogenicity, and the gene specifically
+affected, the mutation load and its tissue distribution, and
+the relative reliance of each organ system on the mitochon-
+drial energy supply. In general, the visual and auditory sys-
+tems, the CNS and PNS, the heart, muscle, endocrine
+pancreas, kidney and liver are, in that order, the organs
+most sensitive to OXPHOS failure (Table 1). However,
+almost 15 years after the first reports on human mtDNA muta-
+tions, and the many more that have been discovered after-
+wards, the intimate molecular and cellular mechanisms which
+link a given mtDNA change to a specific clinical presentation
+are still largely unknown (Zeviani and Carelli, 2003).
+Mutations of mtDNA are divided into large-scale rearrange-
+ments (i.e. partial deletions or duplications) and inherited point
+mutations. Both groups have been associated with well-defined
+clinicalsyndromes.Whilelarge-scalerearrangementsareusually
+sporadic, point mutations are usually maternally inherited. Simi-
+lartorho
+0
+-petitephenotypeinyeast,large-scalerearrangements
+include several genes and are invariably heteroplasmic. In
+contrast, point mutations may be heteroplasmic or homoplas-
+mic, and affect individual mit or syn genes (Table 2).
+Large-scale rearrangements of mtDNA
+Single, large-scale rearrangements of mtDNA can be single par-
+tial deletions, or partial duplications. Rearranged molecules,
+lacking a portion of the mitochondrial genome, can be detected
+as an independent mtDNA species (single mtDNA deletion) or
+Mitochondrial disorders 2157
+ by guest on November 23, 2010
+brain.oxfordjournals.org
+Downloaded from 
+joined to a wild-type molecule in a 1 : 1 ratio, as partially
+duplicated mtDNA. Frequently, a mixture of the two rearran-
+gements co-exists in the same cell or tissue (Zeviani et al.,
+1988; Poulton et al., 1989).
+Three main clinical phenotypes are associated with these muta-
+tions: Kearns–Sayre syndrome (KSS), sporadic progressive exter-
+nal ophthalmoplegia (PEO) and Pearson’s syndrome (Table 2).
+KSS is a (usually) sporadic disorder characterized by the
+triad of: (i) chronic progressive external ophthalmoplegia; (ii)
+onset before age of 20 years; and (iii) pigmentary retinopathy.
+Cerebellar syndrome, heart block, increased CSF protein con-
+tent, diabetes and short stature are also part of the syndrome.
+Patients with this disease invariably show RRFs in muscle
+biopsy (Mita et al., 1989). KSS is characterized by neuro-
+radiological abnormalities affecting the deep structures of the
+brain and the subcortical white matter (Barkovich et al., 1993).
+Single deletions/duplications can also result in milder phe-
+notypes as PEO, characterized by late-onset progressive
+external ophtalmoplegia, proximal myopathy and exercise
+intolerance. In both KSS and PEO, diabetes mellitus and
+hearing loss are frequent additional features, that may occa-
+sionally precede, by years, the onset of neuromuscular symp-
+toms (Shoffner et al., 1989).
+Finally, large-scale single deletions/duplications of mtDNA
+may cause Pearson’s bone-marrow–pancreas syndrome, a rare
+disorder of early infancy characterized by connatal sideroblastic
+pancytopenia and, less frequently, severe exocrine pancreatic
+insufficiency with malabsorption (Rotig et al., 1990). Interest-
+ingly, infants surviving into childhood or adolescence may
+develop the clinical features of KSS (Shanske et al., 2002).
+The majority of single large-scale rearrangements of
+mtDNA are sporadic and are therefore believed to be the
+result of the clonal amplification of a single mutational
+event, occurring in the maternal oocyte or early during the
+development of the embryo (Schon et al., 1989; Chen et al.,
+1995). It is not yet understood why in multisystem disorders
+such as KSS, in which D-mtDNAs are virtually ubiquitous,
+mutations are not transmitted through female gametes to the
+progeny. One possibility is that the germinal cells containing
+deleted genomes are not viable for gametogenesis and/or fer-
+tilization. However, mother-to-offspring transmission has
+occasionally been documented in KSS/PEO. Hence, the recur-
+rency risk for these mtDNA abnormalities can no longer be
+considered absent. Until a reliable epidemiological survey of
+PEO or KSS due to single rearrangements of mtDNA is avail-
+able, we suggest a prudential figure of 5% recurrency risk in the
+genetic counselling of affected women (Chinnery et al., 2000).
+Molecular pathogenesis
+The relative amount and tissue distribution of the
+molecular lesion dictate the onset and severity of the disease.
+Table 2 Mitochondrial OXPHOS diseases due to mtDNA mutations
+Large-scale rearrangements
+of mtDNA
+Phenotype mtDNA mutation
+KSS Ataxia, neuropathy, PEO,
+pigmentary retinal degeneration,
+cardiomyopathy and conduction block,
+short stature, high CSF protein
+Single deletions or duplications
+(mostly sporadic)
+Pearson’s syndrome Frequent death in infancy.
+Refractory sideroblastic anaemia with
+vacuolization of marrow precursors.
+PEO Late-onset bilateral ptosis and ophtalmoplegia,
+proximal muscle weakness and
+wasting, and exercise intolerance
+Point mutations of mtDNA
+MELAS Stroke-like episodes due to focal brain lesions
+in the parieto-occipital lobes, lactic
+acidosis and/or RRFs
+Heteroplasmic point mutations
+(maternally inherited)
+MERRF Myoclonus, epilepsy, muscle weakness and
+wasting with RRFs, cerebellar ataxia,
+deafness and dementia
+NARP Ataxia, pigmentary retinopathy, peripheral
+neuropathy and distal neurogenic weakness
+Hearing loss–ataxia–myoclonus Syndromic hearing loss, myoclonus epilepsy,
+ataxia, myopathy
+LHON Loss of central vision, large centro-caecal absolute
+scotoma, circumpapillary telangiectatic
+microangiopathy
+Homoplasmic point mutations
+(maternally inherited)
+SNHL Non-syndromic and aminoglycoside-induced
+hearing loss
+2158 M. Zeviani and S. Di Donato
+ by guest on November 23, 2010
+brain.oxfordjournals.org
+Downloaded from 
+Transmitochondrial cybrids, obtained by introducing deleted
+mtDNAs into mtDNA-less rho
+0
+cells, showed impaired
+respiration (Hayashi et al., 1991). A threshold of >60% rear-
+ranged mtDNA molecules is enough for OXPHOS failure to
+occur. The more widespread is the tissue distribution of the
+lesion, the more severe is the clinical syndrome, from PEO, to
+KSS, to Pearson’s syndrome. This notion is also relevant for
+the diagnosis: for instance, deletions are confined to the
+muscle biopsy in PEO, but in KSS they can also be found in
+blood, albeit in lesser amounts, while in Pearson’s syndrome
+the amount is comparable in blood and muscle.
+Most rearrangements occur across direct repeats of variable
+length (Schon et al., 1989; Mita et al., 1989), suggesting a
+mechanism based on illegitimate homologous recombination.
+Defective OXPHOS of mitochondria containing D-mtDNA
+is due to the loss of both mit and syn genes contained within
+the deletion. In particular, because the lack of tRNA genes
+results in incompetency for translation (Mariotti et al., 1994),
+mitochondria containing only D-mtDNA are rho
+0
+-mutants,
+which cannot synthesize functional OXPHOS enzymes.
+However, partial correction of the rho
+0
+-phenotype can be
+accomplished through complementation by mRNAs and
+tRNAs synthesized from wild-type mtDNA, provided that
+D-mtDNA and wild-type mtDNA co-segregate in the same
+organelles.
+Point mutations of mtDNA
+In contrast to large-scale rearrangements, mtDNA point
+mutations are usually maternally inherited. Given the very
+high mutational rate of mtDNA and the presence of numerous
+‘private’ or population-specific polymorphisms, the distinc-
+tion between non-deleterious and pathogenic mutations may
+not be easy. The following features are frequently present in
+pathogenic mutations: (i) high conservation of the affected
+nucleotide/amino acid or loss of function of the gene product
+(e.g. a stop mutation in a mit gene); (ii) segregation with
+phenotype; (iii) quantitative correlation between phenotype
+and heteroplasmy, if present; and (iv) identification of the
+mutation in affected families from ethnically distinct
+human populations (Zeviani and Carelli, 2003).
+Point mutations involving tRNA syn genes cause a reduced
+availability of functional tRNAs that may impair the overall
+mitochondrial protein synthesis. Marked reduction of both
+mitochondrial protein synthesis and respiration has been
+documented for some mutations, when a threshold of 80–
+90% of mutant mtDNA is reached. Mutations involving
+protein-encoding mit genes affect specifically the function
+of the respiratory chain complexes to which the corresponding
+protein belongs (Mariotti et al., 1994).
+It is worth mentioning that the clinical and biochemical
+variability of many mtDNA mutations may be due to dif-
+ferent mitochondrial and/or nuclear ‘gene backgrounds’. For
+instance, the fate and expression of mutations in cultures
+appears to be strongly influenced by the different nuclear
+backgrounds of the cell types (Dunbar et al., 1995). It has
+also been proposed that nucleotide changes in mtDNA that are
+not intrinsically pathogenic may predispose to, modulate the
+effects of, or reflect a propensity for the occurrence of
+deleterious mutations. In turn, deleterious mutations may
+promote the accumulation of somatic changes, through the
+generation of OXPHOS-related mutagens. This phenomenon
+could trigger a positive feed-back loop contributing to the
+progression of the mitochondrial dysfunction (Luft, 1994).
+Given their different pathophysiology and genetic features,
+the most frequent heteroplasmic and homoplasmic mtDNA
+point mutations will be discussed separately (Table 2).
+Heteroplasmic point mutations
+Mitochondrial encephalomyopathy with lactic
+acidosis and stroke-like episodes (MELAS)
+This is defined by the presence of (i) stroke-like episodes
+due to focal brain lesions, often localized in the parieto-
+occipital lobes; and (ii) lactic acidosis and/or RRFs. Other
+signs of CNS involvement include dementia, recurrent
+headache and vomiting, focal or generalized seizures, pig-
+mentary retinopathy and deafness. Ataxia can be observed in
+some patients. Diabetes, intestinal pseudo-obstructions and
+cardiomyopathy may complicate single cases (Hirano et al.,
+1992).
+Infarct-like lesions widespread in the cerebral cortex are
+associated with diffuse fibrillary gliosis in the cerebral and
+cerebellar white matter. Multiple focal lesions with demye-
+lination and numerous spheroids have been reported in the
+pontocerebellar fibres, together with marked degeneration of
+the posterior columns and spinocerebellar tracts (Mizukami
+et al., 1992). Electron microscopic examination shows accu-
+mulations of abnormal mitochondria in smooth muscle cells
+and endothelium of the cerebral and cerebellar blood vessels,
+suggesting a ‘mitochondrial angiopathy’. However, the pre-
+sence of diffuse, prominent white matter gliosis of the CNS
+and cerebellar cortical degeneration of granular cell type
+may indicate morphologically widespread cellular dysfunc-
+tion, not restricted to either neuronal or vascular derangement
+(Mizukami et al., 1992; Tsuchiya et al., 1999). MRI exam-
+ination typically shows that the signal abnormalities in the
+brain do not correspond to well-defined vascular territories
+(Barkovich et al., 1993). The stroke-like lesions may be
+transient and resolve after a few months. The recurrent
+occurrence of stroke-like episodes eventually leads to
+permanent lesions.
+MELAS was first associated with a heteroplasmic point
+mutation in the tRNA
+Leu(UUR)
+,anA!G transition at position
+3243 (Goto et al., 1990). Many other MELAS-associated
+point mutations were later reported, although the 3243A>G
+remains by far the most frequent one (Mitomap available
+from: http://www.mitomap.org/). The genotype–phenotype
+correlation of the A3243G mutation is rather loose, since
+the observed clinical manifestations are not limited to the
+full-blown MELAS syndrome. For instance, the 3243A>G
+Mitochondrial disorders 2159
+ by guest on November 23, 2010
+brain.oxfordjournals.org
+Downloaded from 
+mutation has been detected in several patients (and families)
+with maternally inherited PEO, isolated myopathy alone,
+cardiomyopathy, or in pedigrees with maternally inherited
+diabetes mellitus and deafness (Chinnery and Turnbull,
+1999; Leonard and Shapira, 2000a; DiMauro and Schon,
+2003). Biochemically, complex I is frequently the most
+affected respiratory chain activity in MELAS, while complex
+IV is often normal. This accounts for the observation that,
+in contrast to other mitochondrial syndromes, RRFs in
+A3243G-MELAS (but not in A3243G-PEO) specimens dis-
+play a robust histochemical reaction to COX. A specific link
+between defective complex I and the MELAS phenotype is
+suggested by the recent identification of mutations in ND
+genes associated with this phenotype, or with MELAS/
+LHON overlap presentations (Corona et al., 2001).
+Myoclonic epilepsy with ragged red fibres
+(MERRF)
+This is a maternally inherited neuromuscular disorder charac-
+terized by myoclonus, epilepsy, muscle weakness and wasting
+with RRFs, cerebellar ataxia, deafness and dementia (Shoffner
+et al., 1990). Symmetric lipomatosis, especially in the trunk, is
+a frequent, intriguing sign in MERRF, that can anticipate the
+onset of neurological symptoms by several years.
+Neuronal loss and gliosis of the cerebellar dentate nuclei
+and inferior olives have been reported in MERRF (Lombes
+et al., 1989; Oldfors et al., 1995) and confirmed by neuroima-
+ging studies (Berkovic et al., 1989).
+The most commonly observed mutation of mtDNA asso-
+ciated with MERRF is an A!G transition at nt 8344 in the
+tRNA
+Lys
+gene (Wallace et al., 1988a). Different mutations in
+the same gene have been reported in association with MERRF
+(Silvestri et al., 1992), MERRF/MELAS overlap syndrome
+(Zeviani et al., 1993) or other complex phenotypes. Complex
+IV deficiency is the most prominent biochemical finding in
+8344A>G-positive MERRF muscle, although complex I can
+be affected too. COX-depleted RRFs are invariably detected
+in the muscle biopsy (Fig. 2).
+Clinical, biochemical and molecular investigation of
+large pedigrees shows a positive correlation between the
+severity of the disease, age at onset, mtDNA heteroplasmy
+and reduced activity of respiratory chain complexes in ske-
+letal muscle. However, even though the genotype–
+phenotype correlation between MERRF syndrome and
+the A8344G mutation is tighter than that of other mutations
+(Hammans et al., 1993), the A8344G transition has also
+been reported in phenotypes as different as Leigh’s syn-
+drome, isolated myoclonus, familial lipomatosis, isolated
+myopathy and a variant neurological syndrome characterized
+by ataxia, myopathy, hearing loss and neuropathy (Austin
+et al., 1998; Mitomap available from: http://www.mitomap.
+org/). MERRF must be considered in the differential
+diagnosis of progressive myoclonus epilepsies, including
+Ramsay–Hunt syndrome and Unverricht–Lundborg disease
+(Berkovic et al., 1993).
+Neurogenic weakness, ataxia and retinitis
+pigmentosa (NARP)
+This is a maternally inherited syndrome in which the cardinal
+manifestations include ataxia, pigmentary retinopathy and
+peripheral neuropathy (Holt et al., 1990). MRI examination
+of NARP patients has revealed the presence of moderate,
+diffuse cerebral and cerebellar atrophy, and, in the most
+severely affected patients, symmetric lesions of the basal
+ganglia (Barkovich et al., 1993; Uziel et al., 1997).
+NARP is associated with a heteroplasmic T!G transver-
+sion at position 8993 in the ATPase 6 subunit gene (Holt et al.,
+1990). A transition in the same position (8993T>C) has later
+been described in patients affected by a mild variant of NARP
+(de Vries et al., 1993). RRFs are consistently absent in the
+muscle biopsy. The degree of heteroplasmy is correlated with
+the severity of the disease. For instance, when the percentage
+of mutant mtDNA is >95%, patients show the clinical, neu-
+roradiological and neuropathological findings of maternally
+inherited Leigh’s syndrome (Tatuch et al., 1992). NARP/
+maternally inherited Leigh’s syndrome phenotypes have
+been described in association with other mutations of the
+ATPase 6 gene, e.g. mutation 9176T!C (Dionisi-Vici
+et al., 1998). NARP and maternally inherited Leigh’s syn-
+drome may co-exist in the same family. Impairment of ATP
+synthesis has been reported in cell cultures harbouring the
+T8993G mutation, as well as in tissue-derived mitochondria,
+showing a strict correlation with the mutation load (Carelli
+et al., 2002b).
+Hearing loss–ataxia–myoclonus
+This syndrome was originally reported in a large Italian pedi-
+gree (Tiranti et al., 1995). The responsible mutation,
+7472insC, affects the tRNA
+Ser(UCN)
+gene. This mutation has
+later been reported in several families, in which affected mem-
+bers showed a wide range of clinical manifestations, from
+isolated hearing loss, to epilepsia partialis continua and ataxia,
+to overt MERRF (Jaksch et al., 1998). Given the increasing
+frequency at which the 7472insC has been found, the search for
+this mutation should become part of the routine screening of
+mitochondrial encephalomyopathies and/or maternally inher-
+ited hearing loss (Hutchin and Cortopassi, 2000).
+Other syndromes
+In spite of the enormous variability of the clinical presenta-
+tions associated with heteroplasmic mtDNA point mutations,
+the accumulation of a remarkable amount of clinical and
+genetic data makes it possible now to establish a tentative
+correlation between specific mutations, or mutations clustered
+in specific mtDNA genes, and different clinical presentations.
+For instance, several mutations in tRNA
+Ser(UCN)
+, including the
+7472insC, may present with hearing loss as the only or
+predominant symptom, suggesting an exquisite sensitivity
+of the cochlear receptor and auditory system to the functional
+impairment of this particular mt-tRNA gene (Hutchin and
+2160 M. Zeviani and S. Di Donato
+ by guest on November 23, 2010
+brain.oxfordjournals.org
+Downloaded from 
+Cortopassi, 2000). The pathogenetic mechanisms underlying
+this well-established observation are presently unknown. Like-
+wise, mutations in tRNA
+Ile
+are mainly associated with cardio-
+myopathy (Santorelli et al., 2001) or PEO, while mutations in
+cytochrome b are mainly associated with isolated myopathy
+with high serum creatine kinase or myoglobinuria (Andreu
+et al., 1999). Cytochrome b mutations are usually restricted
+to skeletal muscle and, in contrast to most of the other point
+mutations, are not transmitted maternally. A number of differ-
+ent clinical presentations, ranging from infantile Leigh syn-
+drome to adult-onset motor neuron disease, to complex
+multisystem disorders, have been reported with different
+point mutations of the three genes encoding complex IV,
+while point mutations of the genes encoding complex I subunits
+are usually associated with MELAS, LHON or overlap syn-
+dromes (Mitomap available from: http://www.mitomap.org/).
+However, an increasing number of Leigh-like, infantile ence-
+phalopathic syndromes have been reported recently in associa-
+tion with the 13513G >A mutation in ND5 (Chol et al., 2003).
+Homoplasmic mtDNA mutations
+General features
+In contrast to many heteroplasmic mutations, the clinical
+expression of disorders associated with homoplasmic muta-
+tions is often stereotypical and mainly restricted to a single
+tissue. In this group of disorders, the presence of a pathogenic
+mtDNA mutation is necessary but not sufficient to induce
+disease (Table 2). As a consequence, penetrance is incomplete
+and possibly controlled by environmental factors, additional
+mitochondrial polymorphisms, or the effect of nuclear gene(s)
+(Howell and Mackey, 1998). However, the specific molecular
+mechanisms underlying these contributions are still largely
+unkown.
+LHON
+This was the first maternally inherited disease to be associated
+with a mtDNA point mutation (Wallace et al., 1988b). LHON
+typically affects young adults, more often males. Visual
+acuity deteriorates over a period of days/weeks as a conse-
+quence of rapid, painless loss of central vision in one eye,
+usually followed by the other eye. Stable residual values at or
+below 20/200 are reached in a few months, associated with a
+large centro-caecal absolute scotoma. Characteristic fundus
+changes include circumpapillary telangiectatic microangiopa-
+thy with tortuosity of peripapillary arterioles, swelling of the
+nerve fibre layer and hyperaemic optic disc, and absence of
+leakage on fluorescein angiography (Smith et al., 1973;
+Nikoskelainen et al., 1983). Axonal loss in the papillomacular
+bundle, leading to an early and prevalent temporal atrophy of
+the optic disc, is a pathognomonic feature of LHON (Kwittken
+and Barest, 1958; Smith et al., 1973).
+Histopathological investigations show loss of retinal gang-
+lion cell and nerve fibre layers, while the remaining layers
+appear virtually normal. Ultrastructural investigations in
+genetically proven LHON optic nerves showed degenerative
+features in both axoplasm and myelin sheaths. Patchy accu-
+mulations of mitochondria suggested an impairment of
+axoplasmic transport. Variability in myelin thickness was
+also evident, some axons being almost denuded of myelin
+sheath. Morphometric investigation showed a preferential
+loss of the smallest axons, corresponding to the P-cell
+population which provides central vision (Sadun et al.,
+2000; Carelli et al., 2002a).
+Approximately 90% of the worldwide LHON patients carry
+one of the three most frequent mtDNA mutations associated
+with LHON, namely the 11778G>A, 3460A>G and
+14484T>C mutations (Wallace et al., 1988b; Howell et al.,
+1991; Chinnery et al., 2001). A further group of rare, but well-
+established pathogenic mutations have been found only in a
+few families; also, prognosis depends on the type of mutation
+(Mackey and Howell, 1992; Kim et al., 2002). Other muta-
+tions, found only in single cases or families, still await con-
+firmatory identification from multiple independent cases.
+All the LHON mutations which have been proved to be
+pathogenic affect different mtDNA-encoded subunits of com-
+plex I. Mutations are usually homoplasmic, although hetero-
+plasmy can occasionally be found in some families or
+singleton cases.
+Variable expression of LHON may be due to the association
+of pathogenic mutations with specific mtDNA haplogroups.
+For instance, the European-specific haplogroup J is found
+more frequently in 11778- or 14484-positive LHON patients
+than in ethnically matched control populations, suggesting that
+this haplogroup may increase the penetrance of the disease
+(Brown et al., 2002; Hofman et al., 1997; Torroni et al.,
+1997). Environmental factors seem also to play a role as
+risk factors, in particular tobacco smoke (Tsao et al., 1999).
+Finally, a nuclear modifier is thought to be a major determinant
+for both disease expression and male prevalence. However,
+search for an X-linked nuclear modifier has been unsuccessful
+to date (Chalmers et al., 1996).
+Additional puzzling features of LHON are the exquisite
+tissue specificity and the subtle and ill-defined biochemical
+abnormalities found in this condition. The unique anatomical
+and physiological features of the optic nerve may explain its
+vulnerability to the decreased bioenergetic efficiency and
+increased oxidative stress associated with LHON mutations
+(Bristow et al., 2002; Wong et al., 2002).
+LHON-like optic atrophy may be part of more complex
+syndromes including dystonia, Leigh syndrome and MELAS
+(Shoffner et al., 1995). Private or infrequent mutations, again
+affecting complex I subunit genes, have been reported in these
+cases (Carelli et al., 2002a).
+Non-syndromic and aminoglycoside-induced
+sensorineural hearing loss (SNHL)
+This has been both associated with a unique, maternally inher-
+ited point mutation at position 1555 (A!G) of the 12S rRNA
+Mitochondrial disorders 2161
+ by guest on November 23, 2010
+brain.oxfordjournals.org
+Downloaded from 
+gene (Prezant et al., 1993). Similar to LHON, this mutation is
+almost invariably homoplasmic, and variable penetrance and
+clinical severity have been documented (Jaber et al., 1992;
+Estivill et al., 1998) A two-locus model, including a primary
+mitochondrial mutation associated with a nuclear modifier
+gene, was suggested to explain incomplete penetrance.
+Bykhovskaya and colleagues reported the identification of
+a locus on chromosome 8 for a putative nuclear modifier
+gene, but this finding has not been confirmed by other studies
+(Bykhovskaya et al., 2000; Finnila and Majamaa, 2003). In
+addition, a paraomomycin resistance mutation in yeast,
+homologous to the human 1555 mutation, expresses a respira-
+tory-deficient phenotype only in the presence of a nuclear
+mutation in one of two genes, Mss1 and Mto1 (Hu et al.,
+1991). The human analogues of Mss1 and Mto1 are obvious
+candidates as nuclear modifier genes in the 1555-related
+SNHL. The 1555 mutation affects a highly conserved region
+of the 12S rRNA gene, homologous to the bacterial domain
+that binds aminoglycosides, and increases the similarity of the
+human 12S rRNA to its bacterial counterpart. The growth rate
+of mutant cells is markedly reduced when they are exposed to
+aminoglycosides, confirming their sensitivity to this drug
+(Inoue et al., 1996). However, 1555-positive subjects
+who were never exposed to aminoglycosides can also
+become deaf. Therefore, the 1555 mutation is now considered
+as a frequent genetic cause of both non-syndromic and
+aminoglycoside-induced post-lingual SNHL. The hair cells
+of the cochlea are very energy dependent and local gene
+expression may also play a relevant role in the strict
+tissue specificity observed with the 1555 mutation and with
+other mutations of mtDNA which are predominantly
+characterized by hearing loss. A second homoplasmic
+mutation (1494C>T) in the mtDNA 12S rRNA gene
+has recently been associated with maternally inherited,
+aminoglycoside-induced, non-syndromic deafness in a large
+Chinese family (Zhao et al., 2004).
+Other homoplasmic mutations
+Homoplasmic mutations are frequently found during systema-
+tic screening of mtDNA in mitochondrial patients, but their
+pathogenicsignificanceremainsuncertain.Awell-documented
+case is a mutation at position 1624 in the tRNA
+Val
+gene
+(McFarland et al., 2002). This homoplasmic mutation was
+found in a clinically normal woman, who had six stillbirths
+and one surviving child with Leigh syndrome, from different
+partners. Biochemical investigations demonstrated a pro-
+found respiratory chain deficiency in both the apparently
+healthy woman and her child. A second, homoplasmic muta-
+tion (in tRNA
+Ile
+) has later been identified in a family composed
+of a healthy mother and three affected daughters. Both pri-
+mary fibroblast cell cultures and transmitochondrial cybrid
+derivatives from several members of this family showed a
+profound defect in complexes I and IV (Limongelli et al.,
+2004). A third mutation, again in the tRNA
+Ile
+gene
+(4300G>A), has been found in a few families with maternally
+inherited congestive cardiomyopathy of variable penetrance
+(Casali et al., 1995). Interestingly, this mutation was shown to
+be associated with very low steady-state levels of the tRNA
+Ile
+transcript in heart, but not in skeletal muscle. Accordingly, a
+severe, combined defect in complexes I and IV was detected
+in the heart muscle, but not in the skeletal muscle of an index
+case (Taylor et al., 2003).
+These results strongly support the novel concept that
+homoplasmic mutations in tRNA genes can be responsible
+for mitochondrial disorders characterized by extremely vari-
+able penetrance. Homoplasmic pathogenic mutations in the
+mitochondrial genome represent a potentially vast, still lar-
+gely overlooked and poorly understood area of mitochondrial
+medicine, and will stand as a new challenge in the
+nosological and physiopathological definition of these disor-
+ders in the future.
+Nuclear gene mutations
+A clinical–genetic classification can now be proposed for
+these defects, as follows (Leonard and Schapira, 2000b;
+DiMauro and Schon, 2003; Zeviani et al., 2003): (i) disorders
+due to gene defects altering the stability of mtDNA (Table 3);
+(ii) disorders due to nuclear gene defects encoding structural
+components or assembly factors of the OXPHOS complexes
+(Table 3); (iii) disorders due to defects in non-protein com-
+ponents of the respiratory chain (Table 3) and (iv) disorders
+due to gene defects encoding proteins indirectly related to
+OXPHOS (Table 4).
+Disorders due to gene defects altering the
+stability of mtDNA
+Autosomal dominant progressive external ophthalmoplegia
+(adPEO) is a mendelian disorder characterized by the accu-
+mulation of multiple deletions of mtDNA in patient’s tissues
+(Zeviani et al., 1989). The typical clinical feature of adPEO is
+progressive muscle weakness, most severely affecting the
+external eye muscles. Skeletal muscle shows RRFs and a
+mild reduction in the activities of respiratory chain enzymes.
+Ataxia, depression, hypogonadism, hearing loss, peripheral
+neuropathy and cataract are present in some families (Servidei
+et al., 1991; Hirano et al., 2001).
+Most of the adPEO families carry heterozygous muta-
+tions in one of three genes: ANT1, encoding the muscle-
+heart-specific mitochondrial adenine nucleotide translocator
+(Kaukonen et al., 2000), Twinkle, encoding a putative mtDNA
+helicase (Spellbrink et al., 2001), and POLG1, encoding the
+catalytic subunit of the mtDNA-specific polymerase gamma
+(Van Goethem et al., 2001). Mutations in both POLG1 alleles
+were also found in autosomal recessive PEO sibships with
+multiple affected members and in apparently sporadic cases
+(Lamantea et al., 2002). A prevalent mutation, the Y955C,
+dramatically reduces the apparent binding affinity for
+nucleoside triphosphates in vitro and also the accuracy for
+base pair substitutions (Ponomarev et al., 2002).
+2162 M. Zeviani and S. Di Donato
+ by guest on November 23, 2010
+brain.oxfordjournals.org
+Downloaded from 
+Table 3 Mitochondrial OXPHOS diseases due to nuclear mutations
+Phenotype Disease
+Genes controlling the stability of mtDNA
+ANT1 Multiple deletions mtDNA, PEO,
+muscle weakness, ataxia, depression,
+hypogonadism, hearing loss, peripheral
+neuropathy
+adPEO
+Twinkle
+POLG1
+TP (autosomal dominant
+or recessive)
+Multiple deletion/depletion mtDNA,
+ophthalmoparesis, peripheral neuropathy,
+leucoencephalopathy, and gastrointestinal
+symptoms with intestinal dismotility
+MNGIE
+TK2 Fatal infantile congenital myopathy with or
+without a DeToni–Fanconi renal syndrome
+MDS
+DGUOK Fatal infantile hepatopathy leading to rapidly
+progressive liver failure
+Deoxynucleotide carrier Congenital microcephaly of Amish
+Genes encoding protein respiratory chain components
+Complex I NDUFS1 Leigh syndrome, complex I deficiency Autosomal recessive mutations
+Complex I NDUFS2 Cardiomyopathy–encephalomyopathy Autosomal recessive mutations
+Complex I NDUSFS4 Leigh-like syndrome Autosomal recessive mutations
+Complex I NDUFS7 Leigh syndrome Autosomal recessive mutations
+Complex I NDUFS8 Leigh syndrome Autosomal recessive mutations
+Complex I NDUFV1 Leigh syndrome, leucodystrophy, myoclonus Autosomal recessive mutations
+Complex II SDHA Leigh syndrome Autosomal recessive mutations
+Complex II SDHB Phaeochromocytoma, cervical paraganglioma Autosomal dominant or sporadic
+Complex II SDHC and SDHD Hereditary paraganglioma Autosomal recessive mutations
+Complex III UQCRB gene
+subunit VII
+Hypokalaemia and lactic acidosis Autosomal recessive homozygous
+deletion
+Defects of non-protein respiratory
+chain constituents
+Coenzyme Q deficiency Ataxia, seizures, myopathy (?)
+Tafazzin (cardiolipin acyltransferase?) Barth syndrome X-linked recessive
+Genes encoding respiratory chain assembly components
+SURF1 COX
+C0
+Leigh syndrome Autosomal recessive mutations
+SCO1 COX
+C0
+hepathopathy and ketoacidotic coma Autosomal recessive mutations
+SCO2 COX
+C0
+infantile cardiomyopathy Autosomal recessive mutations
+COX10 COX
+C0
+leucodystrophy and renal tubulopathy Autosomal recessive mutations
+COX15 COX
+C0
+hypertrophic cardiomyopathy Autosomal recessive mutations
+BCS1L Complex III-deficient encephalopathy,
+liver failure, renal tubulopathy
+Autosomal recessive mutations
+LRPPRC (mRNA-binding protein) COX
+C0
+Leigh syndrome Autosomal recessive mutations
+ATP12 Complex V deficiency–encephalopathy Autosomal recessive mutations
+Table 4 Mitochondrial diseases due to nuclear mutations of genes indirectly involved in OXPHOS
+Disease Phenotype Nuclear DNA mutation
+Freidreich’s ataxia (FRDA1 gene) Ataxia, loss of DTR, sensory
+neuropathy, Babinski sign,
+cardiomyopathy, diabetes
+Autosomal recessive mutation in the
+frataxin gene (iron handler iron–sulfur
+cluster assembly)
+X-linked ataxia and sideroblastic
+anaemia
+Ataxia, sideroblastic anaemia Autosomal recessive mutation in the
+ABC7 iron exporter
+Hereditary spastic paraplegia Spastic paraplegia Autosomal recessive mutation in the SPG7
+gene encoding a metalloprotease
+X-linked deafness–dystonia syndrome Deafness and dystonia X-linked recessive mutation in the DDP1 gene
+encoding protein mitochondrial transporter
+Autosomal dominant optic atrophy
+(OPA1 gene)
+Optic atrophy and visual failure Autosomal dominant mutations in the OPA1
+gene encoding a dynamin-related protein
+Mitochondrial disorders 2163
+ by guest on November 23, 2010
+brain.oxfordjournals.org
+Downloaded from 
+Another disease in this series, mitochondrial neuro-
+gastro-intestinal encephalomyopathy (MNGIE), is a
+devastating disorder of juvenile onset, characterized by
+ophthalmoparesis, peripheral neuropathy, leucoencephalopa-
+thy and gastrointestinal symptoms with intestinal dismotility,
+and histologically abnormal mitochondria in muscle
+(Hirano et al., 1994). Mutations in the gene encoding
+thymidine phosphorylase (TP), leading to loss of activity of
+the enzyme, are associated with MNGIE (Nishino et al.,
+1999). TP is an important factor involved in the control
+and maintenance of the pyrimidine nucleoside pool of the
+cell. Defects of TP are thought to produce an excess of
+dTTP, resulting in the imbalance of dNTP pools that
+can ultimately affect both the rate and fidelity of mtDNA
+replication. This is reflected by the molecular phenotype
+of MNGIE, which is characterized by both multiple
+deletions and partial depletion of muscle mtDNA (Nishino
+et al., 2000).
+mtDNA depletion syndrome (MDS) is a heterogeneous
+group of disorders characterized by a reduction in mtDNA
+copy number (Moraes et al., 1991). Clinically, they include a
+fatal infantile congenital myopathy with or without DeToni–
+Fanconi renal syndrome, fatal infantile hepatopathy leading to
+rapidly progressive liver failure, and late infantile or child-
+hood myopathy, with onset after 1 year of age, characterized
+by a progressive myopathy causing respiratory failure and
+death by 3 years of age.
+The presence of affected siblings born from healthy parents
+suggested an autosomal recessive mode of inheritance, pos-
+sibly affecting a nuclear gene involved in the control of the
+mtDNA copy number. An important contribution to the
+elucidation of the genetic bases of mtDNA depletion has
+recently come from studies on selected families. MDS has
+been linked to mutations in two genes involved in dNTP
+metabolism: thymidine kinase 2 (TK2) and deoxy-guanosine
+kinase, which are responsible for the myopathic form and the
+hepatoencephalopathic form of MDS, respectively (Mandel
+et al., 2001; Saada et al., 2001). The first reports on these
+genes have later been confirmed by studies on larger cohorts
+of MDS patients (Mancuso et al., 2002; Salviati et al., 2002a).
+Correction of the original TK2 gene sequence and biochem-
+ical investigations in vitro on the kinetic properties of mutant
+TK2 proteins have also been reported (Spinazzola et al.,
+2002). However, defects in TK2 or guanosine kinase are
+responsible for only a minor fraction of MDS cases, indicating
+that the condition is genetically heterogeneous. Both guano-
+sine kinase and TK2 genes are involved in the formation of the
+mitochondrial nucleotide pool, as is TP, responsible for
+MNGIE. Biochemical investigations in patients’ cells do sug-
+gest that derangement of balanced availability of dNTPs can
+affect mtDNA integrity and maintenance (Spinazzola et al.,
+2002). However, the pathogenetic relationship between
+reduction of TP activity, increased levels of thymidine in
+blood and accumulation of mtDNA lesions remains unclear.
+This issue is further complicated by the absence of mtDNA
+abnormality recently reported in knockout mice deficient in
+either the TP gene or in both TP and uridine phosphorylase
+genes (Haraguchi et al., 2002).
+Adding interest to the role of nucleotide supply in mito-
+chondrial biogenesis and disease is the discovery that a
+recently identified mitochondrial deoxynucleotide carrier is
+responsible for a rare form of congenital microcephaly, found
+in interrelated Old Order Amish. These data indicate that
+mitochondrial deoxynucleotide transport may be essential
+for fetal brain development (Rosenberg et al., 2002).
+Genes encoding protein subunits of the
+respiratory complexes
+Isolated deficiency of complex I is relatively frequent among
+mitochondrial disorders. The primary genetic defect may be
+either at the mtDNA or at the nuclear DNA level. There are
+seven mtDNA-encoded and at least 39 nuclear-encoded sub-
+units of complex I (Carroll et al., 2003), for a total of 46 genes,
+which represents a truly formidable challenge for a systematic
+genetic screening even in highly selected patients. Neverthe-
+less, several disease-associated complex I mutations have
+been discovered recently (Triepels et al., 2001) (Table 3).
+In most of these cases, the clinical presentation is that of
+an early onset progressive neurological disorder with lactic
+acidosis, most often Leigh syndrome, occasionally compli-
+cated by cardiomyopathy, or multisystem involvement
+(Morris et al., 1996). However, no mutation in structural
+genes has been found in many cases of complex I deficiency,
+suggesting that still unknown assembly factors for complex I,
+or other gene products involved in its formation and activity
+may be responsible for these forms (Smeitink et al., 2001).
+Complex II is an FAD-dependent enzyme at a cross-point
+between OXPHOS and Krebs cycle pathways. It is composed
+of four protein subunits, all encoded by nuclear genes (SDH-
+A, -B,-C, -D). Mutations in SDHA, the largest subunit of com-
+plex II, are a rare cause of Leigh syndrome or late-onset neuro-
+degenerative disease (Bougeron et al., 1995). However, the
+most interesting discovery concerning defects of complex II is
+their association with inherited paragangliomas (Baysal,
+2002). In 10–15% of the cases, these usually benign neuroec-
+todermal tumours are inherited in an autosomal dominant fash-
+ion with incomplete penetrance. It now appears that mutations
+in SDHB, SDHC and SDHD are responsible for the majority of
+familial paragangliomas and also for a significant fraction
+of non-familial tumours, including phaeochromocytomas
+(tumours of the adrenal medulla) (Baysal et al., 2002). The
+inactivation of the SDHD gene is associated with stimulation
+of the angiogenic pathway, a mechanism that could be
+involved in the pathogenesis of neoplasm (Gimenez-Roqueplo
+et al., 2001). Finally, the first mutation in a nuclear gene
+encoding a subunit of complex III has recently been identified
+in an infant with hypoglycaemic episodes and lactic acidosis.
+A homozygous 4-bp deletion in the UQCRB gene, encoding
+subunit QP-C (or subunit VII), was associated with an isolated
+defect of complex III and reduced amount of cytochrome b
+content in isolated mitochondria (Haut et al., 2003).
+2164 M. Zeviani and S. Di Donato
+ by guest on November 23, 2010
+brain.oxfordjournals.org
+Downloaded from 
+Genes involved in the assembly of respiratory
+complexes
+This group comprises, so far, defects of genes encoding assem-
+bly factors of COX (complex IV), ubiquinol-cytochrome
+c reductase (complex III) and ATP synthase (complex V).
+Human COX is composed of 13 subunits: the three largest
+ones are encoded by mtDNA genes, while the remaining
+subunits are encoded by nuclear genes. In infancy, the
+most frequent manifestation of isolated, profound COX defi-
+ciency is Leigh syndrome, although other phenotypes, includ-
+ing leucoencephalopathy, severe cardiomyopathy or complex
+encephalocardiomyopathies have also been reported
+(Shoubridge, 2001). COX defects have been associated
+with mutations of mtDNA tRNA genes, and also with a
+few mutations in mtDNA genes encoding COX subunits.
+No mutation in any of the nucleus-encoded subunits of
+COX has been reported, while all of the nuclear gene defects
+of COX so far identified are due to mutations in assembly
+factors of the enzyme, including SURF1, SCO1, SCO2,
+COX10 and COX15. SURF1 is a 30 kDa hydrophobic protein
+located in the inner membrane of mitochondria. Mutations in
+SURF1 are relatively frequent, accounting for the majority of
+the Leigh syndrome cases due to COX deficiency (Tiranti
+et al., 1998). Absence of SURF1 causes the accumulation
+of early assembly intermediates and the drastic reduction of
+fully assembled COX (Tiranti et al., 1999). This phenomenon
+has been observed in different organisms carrying null muta-
+tions of SURF1, including yeast strains (Nijtmans et al., 2001;
+Barientosetal.,2002),humanpatients(Tirantietal.,1999)and,
+more recently, SURF1 knockout mice (Agostino et al., 2003).
+Mutations in other COX assembly genes are much rarer
+and, in some cases, they have been reported in only a few
+families or singleton cases.
+Human SCO1 and SCO2 are nuclear-encoded copper-
+binding proteins, presumed to be responsible for the
+insertion of Cu into the COX holoenzyme. While mutations
+in SCO1 were found in only one family (Valnot et al., 2000a),
+mutations in SCO2 are more frequent (Papadopoulou et al.,
+1999). The usual clinical presentation is that of an early-onset,
+fatal cardio-encephalo-myopathy with COX deficiency, but
+clinical variants have been reported resembling early-onset
+(type 1) spinal muscular atrophy (Salviati et al., 2002b). Stu-
+dies in yeast, bacteria and, more recently, humans, have
+shown that Cu supplementation can restore COX activity
+in cells harbouring mutations in genes involving Cu transport,
+including SCO2 (Jaksch et al., 2001; Salviati et al., 2002c).
+Also the product of the COX10 gene, mapping like the
+SCO1 gene on chromosome 17p13, is involved in a crucial
+step of COX maturation. COX10 encodes haem A: farnesyl-
+transferase, which catalyses the first step in the conversion of
+protohaem to the haem A prosthetic groups of the enzyme. A
+homozygous missense mutation in the COX10 gene was found
+in the affected members of a consanguineous family with an
+isolated COX defect leading to an early-onset leucoencepha-
+lopathy (Valnot et al., 2000b).
+Similar to COX10, COX15 is involved in the synthesis of
+haem A, the prosthetic group for COX. Antonicka and col-
+leagues recently identified the first deleterious mutations in
+COX15, in a patient with fatal, infantile hypertrophic
+cardiomyopathy (Antonicka et al., 2002). This study
+establishes COX15 as an additional cause, along with
+SCO2, of fatal infantile, hypertrophic cardiomyopathy
+associated with isolated COX deficiency. However, mutations
+in COX15 may also cause Leigh syndrome.
+Finally, mutations in LRPPRC (leucine-rich motif-PPR
+containing) have been found in infants with a COX-deficiency
+syndrome. Sequence analysis identified two mutations on two
+independent haplotypes, providing definitive genetic proof
+that genetic mutation in LRPPRC is a cause of Leigh syn-
+drome (Mootha et al., 2003). LRPPRC encodes an mRNA-
+binding protein which is likely to be involved with mtDNA
+transcript processing, suggesting an additional mechanism of
+mitochondrial pathophysiology.
+Complex III catalyses electron transfer from succinate and
+nicotinamide adenine dinucleotide-linked dehydrogenases to
+cytochrome c. Complex III is made up of 11 subunits, of
+which all but one (cytochrome b) are encoded by nuclear
+DNA. Although several pathogenic mutations in the gene
+encoding mitochondrial cytochrome b have been described
+(Andreu et al., 1999), mutations in only one nuclear DNA-
+encoded subunit of complex III (subunit VII or QP-C) has
+been reported in a single infant patient affected by hypogly-
+caemia and lactic acidosis. BCS1L, a mitochondrial inner-
+membrane protein, is a chaperone necessary for the assembly
+of mitochondrial respiratory chain complex III. Mutations in
+BCS1L have been shown in infantile cases of complex III
+deficiency associated with neonatal proximal tubulopathy,
+hepatic involvement and encephalopathy (de Lonlay et al.,
+2001), also called GRACILE (growth retardation, aminoaci-
+duria, cholestasis, iron overload, lactacidosis and early death)
+syndrome (Visapaa et al., 2002).
+Finally, the first mutation in ATP12, an assembler of mito-
+chondrial ATP synthase, has been identified in a single infant
+patient with lactic acidosis, dysmorphic features and rapidly
+progressive encephalopathy. Deficiency of complex V activ-
+ity was associated with marked reduction of immunodetect-
+able complex V subunits in both muscle and liver
+mitochondria (De Meirleir et al., 2004).
+Defects of non-protein constituents of
+mitochondria
+Coenzyme Q10 (CoQ10) deficiency
+CoQ10, or ubiquinone, is a lipophilic component of the
+electron transport chain, which transfers to complex III
+(ubiquinone-cytochrome c reductase) electrons derived
+from complex I, complex II, and from the oxidation of
+fatty acids and branched-chain amino acids via flavin-linked
+dehydrogenases. CoQ10 also plays a role as an antioxidant
+and as a membrane stabilizer.
+Mitochondrial disorders 2165
+ by guest on November 23, 2010
+brain.oxfordjournals.org
+Downloaded from 
+Primary CoQ10 deficiency was first described (Ogasahara
+et al., 1989) in two sisters aged 14 and 12 years with abnormal
+fatiguability and slowly progressive weakness of proximal
+limb and trunk muscles, seizures and myoglobinuria. In mus-
+cle specimens from both patients, all type-1 RRFs also
+showed marked lipid excess. Biochemical analysis of the
+respiratory chain in muscle mitochondria revealed normal
+activities of complexes I, II, III and IV, while the combined
+activities of complexes I–III and II–III were reduced. These
+results pointed to a defect of CoQ10 which was confirmed in
+both sisters by direct assay of CoQ10. Treatment with oral
+CoQ10 improved the muscle weakness, ataxia, learning dis-
+ability and lactic acidosis in both sisters. A similar syndrome
+characterized by the triad of recurrent myoglobinuria, brain
+involvement (seizures, ataxia, mental retardation) and RRFs/
+lipid storage in muscle has been also reported (Sobreira et al.,
+1997).
+A more widespread genetic defect of the respiratory chain
+associated with severe coenzyme Q deficiency was described
+in two siblings in whom coenzyme Q deficiency was general-
+ized and present in muscle, blood cells and skin fibroblasts
+resulting in severe encephalomyopathy and renal failure. Both
+children had substantial improvement under oral ubidecare-
+none supplementation (Rotig et al., 2000). A variant pheno-
+type with clinical and MRI features of an adult-onset Leigh
+syndrome has also recently been described in two sisters (Van
+Maldergem et al., 2002).
+Finally, a syndrome characterized by low coenzyme Q in
+muscle, unexplained cerebellar ataxia, pyramidal signs, and
+seizures, unspecific myopathic change and no myoglobinuria
+has been reported (Musumeci et al., 2001). Irrespective of
+the genetic causes of this defect, which are presently
+unknown, early recognition of coenzyme Q deficiency is
+important, because supplementation of CoQ10 can lead to
+substantial clinical improvement.
+Barth’s syndrome
+An abnormality of cardiolipin metabolism has been found in
+Barth syndrome (X-linked mitochondrial myopathy, cardio-
+pathy, neutropenia, short stature and 3-methyl glutaconic
+aciduria). The product of the mutated gene in Barth syndrome,
+called tafazzin (Bione et al., 1996), is homologous to phos-
+pholipid acyltransferases. Cardiolipin is a major component
+of the phospholipid milieu of the mitochondrial inner mem-
+brane (Valianpour et al., 2002) where it plays a modulatory
+role on the activities of several respiratory chain complexes,
+including complexes I and IV.
+Genes encoding mitochondrial factors
+indirectly related to OXPHOS
+Other neurodegenerative disorders have been attributed to
+mutations in several mitochondrial proteins, which are not
+obviously linked to overt OXPHOS defects, yet indirectly
+related to respiration and energy production (Di Donato,
+2000) (Table 4). This observation further broadens the con-
+cept of mitochondrial disease and extends the possible invol-
+vement of mitochondrial energy metabolism in a previously
+unsuspected large number of important clinical phenotypes.
+This group includes paraplegin, a mitochondrial metallopro-
+tease associated with autosomal recessive spastic paraplegia
+(Casari et al., 1998); ABC7, an iron mitochondrial exporter,
+which controls the generation of cytosolic iron–sulfur proteins
+and is responsible of X-linked sideroblastic anaemia and
+ataxia (Allikmets et al., 1999); frataxin, a mitochondrial pro-
+tein which is responsible for Friedreich’s ataxia, also puta-
+tively involved in iron handling and iron–sulfur protein
+manteinance (Campuzano et al., 1996; Puccio et al. 2001);
+and DDP1, a component of the import machinery for mito-
+chondrial carrier proteins, which is responsible of X-linked
+deafness–dystonia syndrome, the Mohr–Tranebjaerg syn-
+drome (Koehler et al., 1999; Roesch et al., 2002).
+Mutations in OPA1, a gene encoding a dynamin-related
+protein embedded in the mitochondrial inner membrane
+(Olichon et al., 2003), have been found in autosomal domi-
+nant optic neuropathy of the Kjehr type (Delettre et al., 2002).
+Haplo-insufficiency of the gene seems to be a common patho-
+genetic mechanism in OPA1 mutations. In addition,
+polymorphisms in the OPA1 gene have been associated
+with another ocular condition, normal tension glaucoma
+(Aung et al., 2002; Buono et al., 2002). Down-regulation
+of OPA1 gene expression in HeLa cells by RNA interference
+experiments induced fragmentation of the mitochondrial net-
+work, concomitant dissipation of membrane potential, disor-
+ganization of the cristae, release of cytochrome c and
+activation of caspase-dependent apoptosis (Olichon et al.,
+2003). These findings on OPA1 are similar to those showing
+that cells carrying LHON-associated mtDNA mutations are
+more prone to apoptosis (Ghelli et al., 2003), and suggest the
+existence of a common pathogenetic mechanism for these
+hereditary optic neuropathies.
+Finally, to further expand the spectrum of neurodegenera-
+tive disorders associated with impairment of mitochondrial
+biogenesis and OXPHOS stands the recent observation that
+missense mutations in MFN2, a gene encoding mitofusin 2,
+lead to Charcot–Marie–Tooth neuropathy type 2A (Zu¨chner
+et al., 2004). Mitofusins are GTPase proteins regulating the
+fission–fusion dynamics of the mitochondrial network. This is
+a fundamental process in mitochondrial biogenesis, required
+for establishing a uniform membrane potential of the orga-
+nelles, for even energy supply throughout the cell.
+New strategies for the discovery of disease
+loci and genes
+Identification of nuclear OXPHOS disease genes is compli-
+cated by the scarcity of large-size families and consangui-
+neous families, and by the great heterogeneity of the
+disorders, that may prevent the possibility of carrying out a
+genome-wide search for disease loci based on traditional
+strategies, including linkage analysis and homozygosity
+2166 M. Zeviani and S. Di Donato
+ by guest on November 23, 2010
+brain.oxfordjournals.org
+Downloaded from 
+mapping. Therefore, new strategies based, for instance, on
+functional complementation of OXPHOS phenotype
+expressed in cell culture have been applied in several
+cases to elucidate the genetic aetiology of these disorders.
+An interesting, successful development of these strategies has
+recently been reported (de Lonley et al., 2002). A functional
+complementation approach was developed by: (i) growing the
+patient’s fibroblasts in a highly selective medium; and (ii)
+transferring human chromosome fragments into respiratory
+chain-deficient fibroblasts by microcell-mediated transfer.
+In the absence of carbohydrates in the culture medium,
+OXPHOS-deficient cells rapidly disappeared unless they
+were rescued by a chromosome fragment carrying the disease
+gene. This method, applied on two cell lines with complex II
+or complex I + IV defects, allowed the mapping of the disease-
+causing genes to small intervals (4 and 12 Mb) on chromo-
+somes 12p13 and 7p21, respectively. This approach makes the
+physical mapping of the disease genes feasible in sporadic
+cases of OXPHOS deficiency.
+The availability of the entire genome of the yeast
+Saccharomyces cerevisiae, and the near completion of the
+human genome project, including the establishment of expres-
+sion profiles of human gene clusters in different tissues, will
+make it possible to use high-throughput strategies, which
+combine in vitro and in silico investigations, to assess the
+human mitochondrial proteome and identify new disease
+genes. Validation of these new strategies has actually been
+provided by two recently published papers. A first strategy
+(Steinmetz et al., 2002) exploited the high similarity between
+yeast and human mitochondria to perform a systematic func-
+tional screen based on both database interrogation and micro-
+array expression analysis on the whole-genome pool of yeast
+deletion mutants. Human orthologues were then identified,
+many of which encode novel proteins, and some of them
+were linked to heritable diseases using genomic map posi-
+tions. A second strategy exploited the availability of whole-
+genome data sets of RNA and protein expression to identify
+the gene causing Leigh syndrome, French-Canadian type, a
+human COX deficiency that maps to chromosome 2p16–21.
+By intersecting information derived from RNA expression
+data sets and a large survey of organellar proteomics with
+the relevant genomic region, a single clear candidate gene was
+identified and then proven to be mutated in affected indi-
+viduals (Mootha et al., 2003). A similar strategy has been
+adopted more recently to identify the gene responsible for
+ethylmalonic encephalopathy, a complex mitochondrial dis-
+order of infancy characterized by persistent lactic acidosis,
+abnormal excretion of ethylmalonic acid, progressive neuro-
+degenerative lesions in the brainstem, persistent diarrhoea,
+peripheral vasculopathy and cytochrome c oxidase deficiency
+in skeletal muscle (Tiranti et al., 2004).
+Animal models
+Mice carrying mtDNA with pathogenic mutations would pro-
+vide a system in which to study how mutant mtDNAs are
+transmitted and distributed in tissues, resulting in expression
+of mitochondrial diseases. The first mouse carrying a hetero-
+plasmic mtDNA deletion has been obtained by isolating
+respiration-deficient cybrids with mtDNA carrying a deletion
+and introducing this mtDNA into fertilized eggs (Inoue et al.,
+2000). The mutant mtDNA was transmitted maternally, and
+its accumulation induced mitochondrial dysfunction in vari-
+ous tissues. Moreover, most of these mice died because of
+renal failure, suggesting the involvement of mtDNA muta-
+tions in the pathogeneses of new diseases.
+Two interesting mouse models lacking mtDNA in selected
+tissues have been developed by knocking out mtTFA, the
+main transcription/replication activator of mtDNA. Condi-
+tional mice were developed lacking mtTFA and mtDNA in
+frontal cortex neurons during embryonic development (Wang
+et al., 1999). Knockout mice survived for several months
+before dying from massive apoptosis of cortical neurons. A
+similar strategy was also adopted to create conditional
+mtDNA-less mice in skeletal muscle, which developed a typi-
+cal mitochondrial myopathy with RRFs and COX depletion
+(Li et al., 2000).
+The importance of mitochondrial defects in degenerative
+diseases and ageing has been demonstrated using different
+mouse models of mitochondrial disease (Melov et al.,
+1999), including knockouts for Ant1 the adenine nucleotide
+translocator, Surf1 and the mitochondrial manganese
+superoxide dismutase. More recently, a mtDNA mutation
+imparting chloramphenicol resistance to mitochondrial pro-
+tein synthesis has been transferred into mice and resulted in
+growth retardation and cardiomyopathy (Levy et al., 1999).
+Treatment
+No effective therapy is available for mitochondrial disorders.
+This is due to the lack, until recently, of suitable animal
+models, as well as to the rarity and heterogeneity of the dis-
+orders. However, several supportive measures, such as
+improvement of nutrition, surgical correction of ptosis, treat-
+ment of seizures and other complications, correction of lactic
+acidosis, etc., can ameliorate specific problems and improve
+the quality of life in several cases.
+Gene therapy
+A number of experimental strategies are currently being pur-
+sued. These include the introduction of modified genes or
+gene products into mitochondria via the protein import
+machinery (Manfredi et al., 2002) and inhibition of replica-
+tion of mutant mtDNA by sequence-specific antigenomic
+peptide-nucleic acids (Taylor et al., 1997). These approaches
+are not yet clinically relevant. In selected, isolated myopathy
+cases, reduction of heteroplasmic mutant load was obtained
+by controlled muscle fibre damage and regeneration by muta-
+tion-free satellite cells, using myotoxic drugs (Irwin et al.,
+2002). However, this treatment was not effective in improving
+ptosis in five patients with PEO.
+Mitochondrial disorders 2167
+ by guest on November 23, 2010
+brain.oxfordjournals.org
+Downloaded from 
+Metabolic therapy
+Creatine, the latest compound proposed for treatment of mito-
+chondrial disorders, is the substrate for the synthesis of phos-
+phocreatine, the most abundant energy storage compound in
+muscle, heart and brain. An open trial of 81 patients with
+various neuromuscular disorders (including 17 with mito-
+chondrial diseases) showed significant improvement of
+ischaemic isometric handgrip strength and non-ischaemic iso-
+metric dorsiflexion torque. Another placebo-controlled,
+double-blind, randomized crossover trial in 16 patients with
+chronic progressive external ophthalmoplegia or mitochon-
+drial myopathy, however, did not find significant effects on
+exercise performance, eye movements, or activities of daily
+life (Chinnery and Turnbull, 2001). Taken together, these data
+suggest that creatine may be effective in some, but not all
+mitochondrial diseases. As creatine is virtually free of adverse
+effects, its administration may be warranted in patients with
+muscle weakness even before a large controlled trial resolves
+the issue of its efficacy. While CoQ10 is not effective in
+mtDNA-associated mitochondrial disease (Bresolin et al.,
+1990) it leads to marked improvement in ‘primary’ CoQ10
+deficiency (see above). Idebenone, a shorter chain analogue of
+CoQ10, appears to be effective in halting or even improving
+the hypertrophic cardiomyopathy in Friedreich’s ataxia
+(Rustin et al., 1999; Mariotti et al., 2003). Further trials
+are currently underway to confirm this exciting preliminary
+observation.
+Acknowledgements
+We are gratefully indebted to Dr Loredana Lamantea, Divi-
+sion of Molecular Neurogenetics, for the artwork of Fig. 1,
+and to Dr Marina Mora, Laboratory of Muscle Biology,
+Istituto Nazionale Neurologico Besta, for the serial transverse
+sections of a muscle biopsy in Fig. 2. This work was supported
+by Fondazione Telethon-Italy (grant no. GGP030039), Fon-
+dazione Pierfranco e Luisa Mariani (Ricerca 2000), Ricerca
+Finalizzata Ministero della Salute RF-2002/158, Ricerca
+Finalizzata Ministero della Salute RF 2002-03/and MitEuro
+network grant from the European UnionFramework Program
+5 (M.Z.), and Ricerca Finalizzata Ministero della Salute RF
+2002/157 (S.D.D.).
+References
+Agostino A, Invernizzi F, Tiveron C, Fagiolari G, Prelle A, Lamantea E, et al.
+Constitutive knockout of Surf1 is associated with high embryonic lethality,
+mitochondrial disease and cytochrome c oxidase deficiency in mice. Hum
+Mol Genet 2003; 12: 399–413.
+Allikmets R, Raskind WH, Hutchinson A, Schueck ND, Dean M, Koeller DM.
+Mutation of a putative mitochondrial iron transporter gene (ABC7) in X-
+linked sideroblastic anemia and ataxia (XLSA/A). Hum Mol Genet 1999; 8:
+743–9.
+Anderson S, Bankier AT, Barrell BG, de Bruijn MH, Coulson AR, Drouin J,
+et al. Sequence and organization of the human mitochondrial genome.
+Nature 1981; 290: 457–65.
+Andreu AL, Hanna MG, Reichmann H, Bruno C, Penn AS, Tanji K, et al.
+Exercise intolerance due to mutations in the cytochrome b gene of
+mitochondrial DNA. N Engl J Med 1999; 341: 1037–44.
+Ankel-Simons F, Cummins JM. Misconceptions about mitochondria and
+mammalian fertilization: implications for theories on human evolution.
+Proc Natl Acad Sci USA 1996; 93: 13859–63.
+Antonicka H, Mattman A, Carlson CG, Glerum DM, Hoffbuhr KC, Leary SC,
+et al. Mutations in COX15 produce a defect in the mitochondrial heme
+biosynthetic pathway, causing early-onset fatal hypertrophic cardiomyo-
+pathy. Am J Hum Genet 2003; 72: 101–14.
+Aung T, Ocaka L, Ebenezer ND, Morris AG, Krawczak M, Thiselton DL, et al.
+A major marker for normal tension glaucoma: association with polymorph-
+isms in the OPA1 gene. Hum Genet 2002; 110: 52–6.
+Austin SA, Vriesendorp FJ, Thandroyen FT, Hecht JT, Jones OT, Johns DR.
+Expanding the phenotype of the 8344 transfer RNAlysine mitochondrial
+DNA mutation. Neurology 1998; 51: 1447–50.
+Babcock GT, Wikstro¨m M. Oxygen activation and the conservation of energy
+in cell respiration. Nature 1992; 356: 301–9.
+Barkovich A, Good W, Koch T, Berg B. Mitochondrial disorders: analysis of
+their clinical and imaging characteristics. AJNR Am J Neuroradiol 1993;
+14: 1119–37.
+Baysal BE. Hereditary paraganglioma targets diverse paraganglia. J Med
+Genet 2002; 39: 617–22.
+Baysal BE, Willett-Brozick JE, Lawrence EC, Drovdlic CM, Savul SA,
+McLeod DR, et al. Prevalence of SDHB, SDHC, and SDHD germline
+mutations in clinic patients with head and neck paragangliomas. J Med
+Genet 2002; 39: 178–83.
+Berkovic SF, Carpenter S, Evans A, Karpati G, Shoubridge EA, Andermann F,
+et al. Myoclonus epilepsy and ragged-red fibres (MERRF). A clinical,
+pathological, biochemical, magnetic resonance spectrographic and positron
+emission tomographic study. Brain 1989; 112: 1231–60.
+Berkovic SF, Cochius J, Andermann E, Andermann F. Progressive
+myoclonus epilepsies: clinical and genetic aspects. Epilepsia 1993; 34
+Suppl 3: S19–30.
+Bione S, D’Adams P, Maestrini E, Gedeon AK, Bolhuis PA, Toniolo D. A
+novel X-linked gene, G4.5 is responsible for Barth syndrome. Nat Genet
+1996; 12: 385–9.
+Bourgeron T, Rustin P, Chretien D, Birch-Machin M, Bourgeois M,
+Viegas-Pequignot E, et al. Mutation of a nuclear succinate dehydrogenase
+gene results in mitochondrial respiratory chain deficiency. Nat Genet 1995;
+11: 144–9.
+Bresolin N, Doriguzzi C, Ponzetto C, Angelini C, Moroni I, Castelli E, et al.
+Ubidecarenone in the treatment of mitochondrial myopathies: a multi-
+center double-blind trial. J Neurol Sci 1990; 100: 70–8.
+Bristow EA, Griffiths PG, Andrews RM, Johnson MA, Turnbull DM. The
+distribution of mitochondrial activity in relation to optic nerve stricture.
+Arch Ophthalmol 2002; 120: 791–6.
+Brown MD, Starikovskaya E, Derbeneva O, Hosseini S, Allen JC,
+Mikhailovskaya IE, et al. The role of mtDNA background in disease
+expression: a new primary LHON mutation associated with Western
+Eurasian haplogroup J. Hum Genet 2002; 110: 130–8.
+Buono LM, Foroozan R, Sergott RC, Savino PJ. Is normal tension glaucoma
+actually an unrecognized hereditary optic neuropathy? New evidence from
+genetic analysis. Curr Opin Ophthalmol 2002; 13: 362–70.
+Bykhovskaya Y, Estivill X, Taylor K, Hang T, Hamon M, Casano RA, et al.
+Candidate locus for a nuclear modifier gene for maternally inherited deaf-
+ness. Am J Hum Genet 2000; 66: 1905–10.
+Campuzano V, Montermini L, Molto MD, Pianese L, Cossee M, Cavalcanti F,
+et al. Friedreich’s ataxia: autosomal recessive disease caused by an intronic
+GAA triplet repeat expansion. Science 1996; 271: 1423–7.
+Carelli V, Ross-Cisneros FN, Sadun AA. Optic nerve degeneration and mito-
+chondrial dysfunction: genetic and acquired optic neuropathies. Neuro-
+chem Int 2002a; 40: 573–84.
+Carelli V, Baracca A, Barogi S, Pallotti F, Valentino ML, Montagna P,
+et al. Biochemical–clinical correlation in patients with different loads of
+the mitochondrial DNA T8993G mutation. Arch Neurol 2002b; 59:
+264–70.
+Carroll J, Fearnley IM, Shannon RJ, Hirst J, Walker JE. Analysis of the
+subunit composition of complex I from bovine heart mitochondria. Mol
+Cell Proteomics 2003; 2: 117–26.
+2168 M. Zeviani and S. Di Donato
+ by guest on November 23, 2010
+brain.oxfordjournals.org
+Downloaded from 
+Casali C, Santorelli FM, D’Amati G, Bernucci P, DeBiase L, DiMauro S. A
+novel mtDNA point mutation in maternally inherited cardiomyopathy.
+Biochem Biophys Res Commun 1995; 213: 588–93.
+Casari G, De Fusco M, Ciarmatori S, Zeviani M, Mora M, Fernandez P, et al.
+Spastic paraplegia and OXPHOS impairment caused by mutations in para-
+plegin, a nuclear-encoded mitochondrial metalloprotease. Cell 1998; 93:
+973–83.
+Chalmers RM, Davis MB, Sweeney MG, Wood NW, Harding AE. Evidence
+against an X-linked visual loss susceptibility locus in Leber hereditary optic
+neuropathy. Am J Hum Genet 1996; 59: 103–8.
+Chen X, Prosser R, Simonetti S, Sadlock J, Jagiello G, Schon EA. Rearranged
+mitochondrial genomes are present in human oocytes. Am J Hum Genet
+1995; 57: 239–47.
+Chinnery PF, Turnbull DM. Mitochondrial DNA and disease. Lancet 1999;
+354 Suppl I: SI17–21.
+Chinnery PF, Turnbull DM. Epidemiology and treatment of mitochondrial
+disorders. Am J Med Genet 2001; 106: 94–101.
+Chinnery PF, Johnson MA, Wardell TM, Singh-Kler R, Hayes C, Brown DT,
+et al. The epidemiology of pathogenic mitochondrial DNA mutations. Ann
+Neurol 2000; 48: 188–93.
+Chinnery PF, Brown DT, Andrews RM, Singh-Kler R, Riordan-Eva P,
+Lindley J, et al. The mitochondrial ND6 gene is a hot spot for mutations
+that cause Leber’s hereditary optic neuropathy. Brain 2001; 124: 209–18.
+Chol M, Lebon S, Benit P, Chretien D, de Lonlay P, Goldenberg A, et al. The
+mitochondrial DNA G13513A MELAS mutation in the NADH dehydro-
+genase 5 gene is a frequent cause of Leigh-like syndrome with isolated
+complex 1 deficiency. J Med Genet 2003; 40: 188–91.
+Clayton DA. Replication and transcription of vertebrate mitochondrial DNA.
+Annu Rev Cell Biol 1991; 7: 453–78.
+Corona P, Antozzi C, Carrara F, D’Incerti L, Lamantea E, Tiranti V, et al.
+A novel mtDNA mutation in the ND5 subunit of complex I in two MELAS
+patients. Ann Neurol 2001; 49: 106–10.
+de Lonlay P, Valnot I, Barrientos A, Gorbatyuk M, Tzagoloff A,
+Taanman JW, et al. A mutant mitochondrial respiratory chain assembly
+protein causes complex III deficiency in patients with tubulopathy, ence-
+phalopathy and liver failure. Nat Genet 2001; 29: 57–60.
+de Lonlay P, Mugnier C, Sanlaville D, Chantrel-Groussard K, Benit P,
+Lebon S, et al. Cell complementation using Genebridge 4 human:rodent
+hybrids for physical mapping of novel mitochondrial respiratory chain
+deficiency genes. Hum Mol Genet 2002; 11: 3273–81.
+De Meirleir L, Seneca S, Lissens W, De Clercq I, Eyskens F, Gerlo E, et al.
+Respiratory chain complex V deficiency due to a mutation in the assembly
+gene ATP12. J Med Genet 2004; 41: 120–4.
+de Vries DD, van Engelen BG, Gabreels FJ, Ruitenbeek W, van Oost BA. A
+second missense mutation in the mitochondrial ATPase 6 gene in Leigh’s
+syndrome. Ann Neurol 1993; 34: 410–12.
+Delettre C, Lenaers G, Pelloquin L, Belenguer P, Hamel CP. OPA1 (Kjer
+type) dominant optic atrophy: a novel mitochondrial disease. Mol Genet
+Metab 2002; 75: 97–107.
+Di Donato S. Disorders related to mitochondrial membranes: pathology of the
+respiratory chain and neurodegeneration. J Inherit Metab Dis 2000; 23:
+247–63.
+DiMauro S, De Vivo DC. Genetic heterogeneity in Leigh syndrome. Ann
+Neurol 1996; 40: 5–7.
+DiMauro S, Schon E Mitochondrial respiratory-chain diseases. N Engl J Med
+2003; 348: 2656–68.
+Dionisi-Vici C, Seneca S, Zeviani M, Fariello G, Rimoldi M, Bertini E, et al.
+Fulminant Leigh syndrome and sudden unexpected death in a family with
+the T9176C mutation of the mitochondrial ATPase 6 gene. J Inherit Metab
+Dis 1998; 21: 2–8.
+Dunbar DR, Moonie PA, Jacobs HT, Holt IJ. Different cellular backgrounds
+confer a marked advantage to either mutant or wild-type mitochondrial
+genomes. Proc Natl Acad Sci USA 1995; 92: 6562–6.
+Estivill X, Govea N, Barcelo E, Badenas C, Romero E, Moral L, et al. Familial
+progressive sensorineural deafness is mainly due to the mtDNA A1555G
+mutation and is enhanced by treatment with aminoglycosides. Am J Hum
+Genet 1998; 62: 27–35.
+Falkenberg M, Gaspari M, Rantanen A, Trifunovic A, Larsson NG,
+Gustafsson CM. Mitochondrial transcription factors B1 and B2 activate
+transcription of human mtDNA. Nat Genet 2002; 31: 289–94.
+Finnila S, Majamaa K. Lack of a modulative factor in locus 8p23 in a
+Finnish family with nonsyndromic sensorineural hearing loss associated
+with the 1555A>G mitochondrial DNA mutation. Eur J Hum Genet 2003;
+11: 652–8.
+Ghelli A, Zanna C, Porcelli AM, Schapira AH, Martinuzzi A, Carelli V, et al.
+Leber’s hereditary optic neuropathy (LHON) pathogenic mutations induce
+mitochondrial-dependent apoptotic death in transmitochondrial cells incu-
+bated with galactose medium. J Biol Chem 2003; 278: 4145–50.
+Giles RE, Blanc H, Cann HM, Wallace DC. Maternal inheritance of
+human mitochondrial DNA. Proc Natl Acad Sci USA 1980; 77:
+6715–19.
+Gimenez-Roqueplo AP, Favier J, Rustin P, Mourad JJ, Plouin PF, Corvol P,
+et al. The R22X mutation of the SDHD gene in hereditary paraganglioma
+abolishes the enzymatic activity of complex II in the mitochondrial respira-
+tory chain and activates the hypoxia pathway. Am J Hum Genet 2001; 69:
+1186–97.
+Goto Y, Nonaka I, Horai S. A mutation in tRNA
+Leu(UUR)
+gene associated with
+the MELAS subgroup of mitochondrial encephalomyopathies. Nature
+1990; 348: 651–3.
+Hammans SR, Sweeney MG, Brockington M, Lennox GG, Lawton NF,
+Kennedy CR, et al. The mitochondrial DNA transfer RNA(Lys)A!
+G(8344) mutation and the syndrome of myoclonic epilepsy with ragged
+red fibres (MERRF). Relationship of clinical phenotype to proportion of
+mutant mitochondrial DNA. Brain 1993; 116: 617–32.
+Haraguchi M, Tsujimoto H, Fukushima M, Higuchi I, Kuribayashi H,
+Utsumi H, et al. Targeted deletion of both thymidine phosphorylase and
+uridine phosphorylase and consequent disorders in mice. Mol Cell Biol
+2002; 22: 5212–21.
+Haut S, Brivet M, Touati G, Rustin P, Lebon S, Garcia-Cazorla A, et al.
+A deletion in the human QP-C gene causes a complex III deficiency
+resulting in hypoglycaemia and lactic acidosis. Hum Genet 2003; 113:
+118–22.
+Hayashi J, Ohta S, Kikuchi A, Takemitsu M, Goto Y, Nonaka I. Introduction
+of disease-related mitochondrial DNA deletions into HeLa cells lacking
+mitochondrial DNA results in mitochondrial dysfunction. Proc Natl Acad
+Sci USA 1991; 88: 10614–18.
+Hirano M, Ricci E, Koenigsberger MR, Defendini R, Pavlakis SG, DeVivo DC,
+et al. MELAS: an original case and clinical criteria for diagnosis. Neuro-
+muscul Disord 1992; 2: 125–35.
+Hirano M, Silvestri G, Blake DM, Lombes A, Minetti C, Bonilla E, et al.
+Mitochondrial neurogastrointestinal encephalomyopathy (MNGIE): clini-
+cal, biochemical, and genetic features of an autosomal recessive mitochon-
+drial disorder. Neurology 1994; 44: 721–7.
+Hirano M, Marti R, Ferreiro-Barros C, Vila MR, Tadesse S, Nishigaki Y, et al.
+Defects of intergenomic communication: autosomal disorders that cause
+multiple deletions and depletion of mitochondrial DNA. Semin Cell Dev
+Biol 2001; 12: 417–27.
+Hofmann S, Jaksch M, Bezold R, Mertens S, Aholt S, Paprotta A, et al.
+Population genetics and disease susceptibility: characterization of central
+European haplogroups by mtDNA gene mutations, correlation with D
+loop variants and association with disease. Hum Mol Genet 1997; 6:
+1835–46.
+Holt IJ, Harding AE, Petty RHK, Morgan-Hughes JA. A new mitochondrial
+disease associated with mitochondrial DNA heteroplasmy. Am J Hum
+Genet 1990; 46: 428–33.
+Holt IJ, Lorimer HE, Jacobs HT. Coupled leading- and lagging-strand synth-
+esis of mammalian mitochondrial DNA. Cell 2000; 100: 515–24.
+Howell N, Mackey DA. Low-penetrance branches in matrilineal pedigrees
+with Leber hereditary optic neuropathy. Am J Hum Genet 1998; 63:
+1220–4.
+Howell N, Bindoff LA, McCullough DA, Kubacka I, Poulton J, Mackey D, et al.
+Leber hereditary optic neuropathy: identification of the same
+mitochondrial ND1 mutation in six pedigrees. Am J Hum Genet 1991; 49:
+939–50.
+Mitochondrial disorders 2169
+ by guest on November 23, 2010
+brain.oxfordjournals.org
+Downloaded from 
+Hu DN, Qui WQ, Wu BT, Fang LZ, Zhou F, Gu YP, et al. Genetic aspects of
+antibiotic induced deafness: mitochondrial inheritance. J Med Genet 1991;
+28: 79–83.
+Hutchin TP, Cortopassi GA. Mitochondrial defects and hearing loss. Cell Mol
+Life Sci 2000; 57: 1927–37.
+Inoue K, Takai D, Soejima A, Isobe K, Yamasoba T, Oka Y, et al. Mutant
+mtDNA at 1555 A to G in 12S rRNA gene and hypersusceptibility of
+mitochondrial translation to streptomycin can be co-transferred to r
+HeLa cells. Biochem Biophys Res Commun 1996; 223: 496–501.
+Inoue K, Nakada K, Ogura A, Isobe K, Goto Y, Nonaka I, et al. Generation of
+mice with mitochondrial dysfunction by introducing mouse mtDNA carry-
+ing a deletion into zygotes. Nat Genet 2000; 26: 176–81.
+Irwin W, Fontaine E, Agnolucci L, Penzo D, Betto R, Bortolotto S, et al.
+Bupivacaine myotoxicity is mediated by mitochondria. J Biol Chem. 2002;
+277: 12221–7.
+Jaber L, Shohat M, Bu X, Fischel-Ghodsian N, Yang HY, Wang SJ, et al.
+Sensorineural deafness inherited as a tissue specific mitochondrial disorder.
+J Med Genet 1992; 29: 86–90.
+Jaksch M, Klopstock T, Kurlemann G, Dorner M, Hofmann S, Kleinle S, et al.
+Progressive myoclonus epilepsy and mitochondrial myopathy associated
+with mutations in the tRNA(Ser(UCN)) gene. Ann Neurol 1998; 44:
+635–40.
+Jaksch M, Paret C, Stucka R, Horn N, Muller-Hocker J, Horvath R, et al.
+Cytochrome c oxidase deficiency due to mutations in SCO2, encoding a
+mitochondrial copper-binding protein, is rescued by copper in human myo-
+blasts. Hum Mol Genet 2001; 10: 3025–35.
+Jenuth JP, Peterson AC, Fu K, Shoubridge EA. Random genetic drift in the
+female germline explains the rapid segregation of mammalian mitochon-
+drial DNA. Nat Genet 1996; 14: 146–51.
+Jenuth JP, Peterson AC, Shoubridge EA. Tissue-specific selection for
+different mtDNA genotypes in heteroplasmic mice. Nat Genet 1997; 16:
+93–5.
+Kaukonen J, Juselius JK, Tiranti V, Kyttala A, Zeviani M, Comi GP, et al.
+Role of adenine nucleotide translocator 1 in mtDNA maintenance. Science
+2000; 289: 782–5.
+Kim JY, Hwang J-M, Park SS. Mitochondrial DNA C4171A/ND1 is a novel
+primary causitive mutation of Leber’s hereditary optic neuropathy with a
+good prognosis. Ann Neurol 2002; 51: 630–4.
+Koehler CM; Leuenberge D, Merchant S, Renold A, Junne T, Schatz, G.
+Human deafness dystonia syndrome is a mitochondrial disease. Proc Natl
+Acad Sci USA 1999; 96: 2141–6.
+Kwittken J, Barest HD. The neuropathology of hereditary optic atrophy
+(Leber’s disease); the first complete anatomic study. Am J Pathol 1958;
+34: 185–207.
+Lamantea E, Tiranti V, Bordoni A, Toscano A, Bono F, Servidei S, et al.
+Mutations of mitochondrial DNA polymerase gammaA are a frequent
+cause of autosomal dominant or recessive progressive external ophthalmo-
+plegia. Ann Neurol 2002; 52: 211–19.
+Leigh D Subacute necrotizing encephalomyelopathy in an infant. J Neuro-
+chem 1951; 14: 216–21.
+Leonard JV, Schapira AVH. Mitochondrial respiratory chain disorders I:
+mitochondrial DNA defects. Lancet 2000a; 355: 299–304.
+Leonard JV, Schapira AVH. Mitochondrial respiratory chain disorders II:
+neurodegenerative disorders and nuclear gene defects. Lancet 2000b;
+355: 389–94.
+Levy SE, Waymire KG, Kim YL, MacGregor GR, Wallace DC. Transfer of
+chloramphenicol-resistant mitochondrial DNA into the chimeric mouse.
+Transgenic Res 1999; 8: 137–45.
+Li H, Wang J, Wilhelmsson H, Hansson A, Thoren P, Duffy J, et al. Genetic
+modification of survival in tissue-specific knockout mice with mitochon-
+drial cardiomyopathy. Proc Natl Acad Sci USA 2000; 97: 3467–72.
+Limongelli A, Schaefer J, Jackson S, Invernizzi F, Kirino Y, Suzuki T, et al.
+Variable penetrance of a familial progressive necrotising encephalopathy
+due to a novel tRNA(Ile) homoplasmic mutation in the mitochondrial
+genome. J Med Genet 2004; 41: 342–349.
+Lombes A, Mendell JR, Nakase H, Barohn RJ, Bonilla E, Zeviani M, et al.
+Myoclonic epilepsy and ragged-red fibers with cytochrome oxidase
+deficiency: neuropathology, biochemistry, and molecular genetics. Ann
+Neurol 1989; 26: 20–33.
+Luft R. The development of mitochondrial medicine. Proc Natl Acad Sci USA
+1994; 91: 8731–8.
+Mackey D, Howell N. A variant of Leber hereditary optic neuropathy char-
+acterized by recovery of vision and by an unusual mitochondrial genetic
+etiology. Am J Hum Genet 1992; 51: 1218–28.
+Mancuso M, Salviati L, Sacconi S, Otaegui D, Camano P, Marina A, et al.
+Mitochondrial DNA depletion: mutations in thymidine kinase gene with
+myopathy and SMA. Neurology 2002; 59: 1197–202.
+Mandel H, Szargel R, Labay V, Elpeleg O, Saada A, Shalata A, et al. The
+deoxyguanosine kinase gene is mutated in individuals with depleted hepa-
+tocerebral mitochondrial DNA. Nat Genet 2001; 29: 337–41.
+Manfredi G, Fu J, Ojaimi J, Sadlock JE, Kwong JQ, Guy J, et al. Rescue of a
+deficiency in ATP synthesis by transfer of MTATP6, a mitochondrial
+DNA-encoded gene, to the nucleus. Nat Genet 2002; 30: 394–9.
+Mariotti C, Tiranti V, Carrara F, Dallapiccola B, DiDonato S, Zeviani M.
+Defective respiratory capacity and mitochondrial protein synthesis in trans-
+formants cybrids harboring the tRNA
+Leu(UUR)
+mutation associated with
+maternally inherited myopathy and cardiomyopathy. J Clin Invest 1994;
+93: 1102–107.
+Mariotti C, Solari A, Torta D, Marano L, Fiorentini C, Di Donato S. Idebe-
+none treatment in Friedreich patients: one-year-long randomized placebo-
+controlled trial. Neurology 2003; 60: 1676–98.
+McFarland R, Clark KM, Morris AA, Taylor RW, Macphail S,
+Lightowlers RN, et al. Multiple neonatal deaths due to a homoplasmic
+mitochondrial DNA mutation. Nat Genet 2002; 30: 145–6.
+Melov S, Coskun PE, Wallace DC. Mouse models of mitochondrial disease,
+oxidative stress, and senescence. Mutat Res 1999; 434: 233–42.
+Mita S, Schmidt B, Schon EA, DiMauro S, Bonilla E. Detection of ‘deleted’
+mitochondrial genomes in cytochrome-c oxidase-deficient muscle fibers of
+a patient with Kearns–Sayre syndrome. Proc Natl Acad Sci USA 1989; 86:
+9509–13.
+Mizukami K, Sasaki M, Suzuki T, Shiraishi H, Koizumi J, Ohkoshi N, et al.
+Central nervous system changes in mitochondrial encephalomyopathy: a
+light and electron microscopic study. Acta Neuropathol (Berl) 1992; 83:
+449–52.
+Mootha VK, Lepage P, Miller K, Bunkenborg J, Reich M, Hjerrild M, et al.
+Identification of a gene causing human cytochrome c oxidase deficiency by
+integrative genomics. Proc Natl Acad Sci USA 2003; 100: 605–10.
+Moraes CT, Shanske S, Tritschler HJ, Aprille JR, Andreetta F, Bonilla E, et al.
+mtDNA depletion with variable tissue expression: a novel genetic
+abnormality in mitochondrial diseases. Am J Hum Genet 1991; 48:
+492–501.
+Morris AA, Leonard JV, Brown GK, Bidouki SK, Bindoff LA,
+Woodward CE, et al. Deficiency of respiratory chain complex I is a com-
+mon cause of Leigh disease. Ann Neurol 1996; 40: 25–30.
+Musumeci O, Naini A, Slonim AE, Skavin N, Hadjigeorgiou GL, Krawiecki
+N, et al. Familial cerebellar ataxia with muscle coenzyme Q10 deficiency.
+Neurology 2001; 56: 849–55.
+Nijtmans LG, Artal Sanz M, Bucko M, Farhoud MH, Feenstra M,
+Hakkaart GA, et al. Shy1p occurs in a high molecular weight complex
+and is required for efficient assembly of cytochrome c oxidase in yeast.
+FEBS Lett 2001; 498: 46–51.
+Nikoskelainen E, Hoyt WF, Nummelin K. Ophthalmoscopic findings in
+Leber’s hereditary optic neuropathy. II. The fundus findings in the affected
+family members. Arch Ophthalmol 1983; 101: 1059–68.
+Nishino I, Spinazzola A, Hirano M. Thymidine phosphorylase gene
+mutations in MNGIE, a human mitochondrial disorder. Science 1999;
+283: 689–92.
+Nishino I, Spinazzola A, Papadimitriou A, Hammans S, Steiner I, Hahn CD,
+et al. Mitochondrial neurogastrointestinal encephalomyopathy: an
+autosomal recessive disorder due to thymidine phosphorylase mutations.
+Ann Neurol 2000; 47: 792–800.
+Ogasahara S, Engel AG, Frens D, Mack D. Muscle coenzyme Q deficiency in
+familial mitochondrial encephalomyopathy. Proc Natl Acad Sci USA 1989;
+86: 2379–82.
+2170 M. Zeviani and S. Di Donato
+ by guest on November 23, 2010
+brain.oxfordjournals.org
+Downloaded from 
+Oldfors A, Holme E, Tulinius M, Larsson NG. Tissue distribution and disease
+manifestations of the tRNA(Lys) A!G(8344) mitochondrial DNA muta-
+tion in a case of myoclonus epilepsy and ragged red fibres. Acta Neuro-
+pathol (Berl) 1995; 90: 328–33.
+Olichon A, Baricault L, Gas N, Guillou E, Valette A, Belenguer P, et al. Loss
+of OPA1 perturbates the mitochondrial inner membrane structure and
+integrity, leading to cytochrome c release and apoptosis. J Biol Chem
+2003; 278: 7743–6.
+Papadopoulou LC, Sue CM, Davidson MM, Tanji K, Nishino I, Sadlock JE,
+et al. Fatal infantile cardioencephalomyopathy with COX deficiency
+and mutations in SCO2, a COX assembly gene. Nat Genet 1999; 23:
+333–7.
+Ponamarev MV, Longley MJ, Nguyen D, Kunkel TA, Copeland WC. Active
+site mutation in DNA polymerase gamma associated with progressive
+external ophthalmoplegia causes error-prone DNA synthesis. J Biol
+Chem 2002; 277: 15225–8.
+Poulton J, Deadman ME, Gardiner RM. Duplications of mitochondrial DNA
+in mitochondrial myopathy. Lancet 1989; 1: 236–40.
+Poyton RO, McEwen JE. Crosstalk between nuclear and mitochondrial gen-
+omes. Annu Rev Biochem 1996; 65: 563–607.
+Prezant TR, Agapian JV, Bohlman MC, Bu X, Oztas S, Qiu WQ, et al.
+Mitochondrial ribosomal RNA mutation associated with both antibiotic-
+induced and non-syndromic deafness. Nat Genet 1993; 4: 289–94.
+Puccio H, Simon D, Cossee M, Criqui-Filipe P, Tiziano F, Melki J, et al.
+Mouse models for Friedreich ataxia exhibit cardiomyopathy, sensory nerve
+defect and Fe–S enzyme deficiency followed by intramitochondrial iron
+deposits. Nat Genet 2001; 27: 181–6.
+Roesch K, Curran SP, Tranebjaerg L, Koehler CM. Human deafness dystonia
+syndrome is caused by a defect in assembly of the DDP1/TIMM8a–
+TIMM13 complex. Hum Mol Genet 2002; 11: 477–86.
+Rosenberg MJ, Agarwala R, Bouffard G, Davis J, Fiermonte G, Hilliard MS,
+et al. Mutant deoxynucleotide carrier is associated with congenital micro-
+cephaly. Nat Genet 2002; 32: 175–9.
+Rotig A, Cormier V, Blanche S, Bonnefont JP, Ledeist F, Romero N, et al.
+Pearson’s marrow–pancreas syndrome. A multisystem mitochondrial
+disorder in infancy. J Clin Invest 1990; 86: 1601–8.
+Rotig A, Appelkvist EL, Geromel V, Chretien D, Kadhom N, Edery P, et al.
+Quinone-responsive multiple respiratory chain dysfunction due to wide-
+spread coenzyme Q10 deficiency. Lancet 2000; 356: 391–5.
+Rustin P, von Kleist-Retzow JC, Chantrel-Groussard K, Sidi D, Munnich A,
+et al. Effect of idebenone on cardiomyopathy in Friedreich’s ataxia: a
+preliminary study. Lancet 1999; 354: 477–9.
+Saada A, Shaag A, Mandel H, Nevo Y, Eriksson S, Elpeleg O. Mutant
+mitochondrial thymidine kinase in mitochondrial DNA depletion myopa-
+thy. Nat Genet 2001; 29: 342–4.
+Sadun AA, Win PH, Ross-Cisneros FN, Walker S, Carelli V. Leber’s her-
+editary optic neuropathy differentially affects smaller axons in the optic
+nerve. Trans Am Ophthalmol Soc 2000; 98: 223–32.
+Salviati L, Sacconi S, Mancuso M, Otaegui D, Camano P, Marina A, et al.
+Mitochondrial DNA depletion and dGK gene mutations. Ann Neurol
+2002a; 52: 311–17.
+Salviati L, Hernandez-Rosa E, Walker WF, Sacconi S, DiMauro S, Schon EA,
+et al. Copper supplementation restores cytochrome c oxidase activity in
+cultured cells from patients with SCO2 mutations. Biochem J 2002b; 363:
+321–7.
+Salviati L, Sacconi S, Rasalan MM, Kronn DF, Braun A, Canoll P, et al.
+Cytochrome c oxidase deficiency due to a novel SCO2 mutation mimics
+Werdnig–Hoffmann disease. Arch Neurol 2002c; 59: 862–5.
+Santorelli FM, Tessa A, D’amati G, Casali C. The emerging concept of
+mitochondrial cardiomyopathies. Am Heart J 2001; 141: E1.
+Saraste M. Oxidative phosphorylation at the fin de siecle. Science 1999; 283:
+1488–93.
+Schon EA, Rizzuto R, Moraes CT, Nakase H, Zeviani M, DiMauro S. A direct
+repeat is a hotspot for large-scale deletion of human mitochondrial DNA.
+Science 1989; 244: 346–9.
+Schwartz M, Vissing J. Paternal inheritance of mitochondrial DNA. N Engl
+J Med 2002; 347: 576–80.
+Servidei S, Zeviani M, Manfredi G, Ricci E, Silvestri G, Bertini E, et al.
+Dominantly inherited mitochondrial myopathy with multiple deletions of
+mitochondrial DNA: clinical, morphologic, and biochemical studies. Neu-
+rology 1991; 41: 1053–9.
+Shanske S, Tang Y, Hirano M, Nishigaki Y, Tanji K, Bonilla E, et al.
+Identical mitochondrial DNA deletion in a woman with ocular myopathy
+and in her son with Pearson syndrome. Am J Hum Genet 2002; 71:
+679–683.
+Shoffner JM, Lott MT, Voljavec AS, Soueidan SA, Costigan DA, Wallace DC.
+Spontaneous Kearns–Sayre/chronic external ophthalmoplegia plus
+syndrome associated with a mitochondrial DNA deletion: a slip-
+replication model and metabolic therapy. Proc Natl Acad Sci USA
+1989; 86: 7952–56.
+Shoffner JM, Lott MT, Lezza AM, Seibel P, Ballinger SW, Wallace DC.
+Myoclonic epilepsy and ragged-red fiber disease (MERRF) is associated
+with a mitochondrial DNA tRNA
+Lys
+mutation. Cell 1990; 61: 931–7.
+Shoffner JM, Brown MD, Stugard C, Jun AS, Pollock S, Haas RH, et al.
+Leber’s hereditary optic neuropathy plus dystonia is caused by a mitochon-
+drial DNA point mutation. Ann Neurol 1995; 38: 163–9.
+Shoubridge EA. Cytochrome c oxidase deficiency. Am J Med Genet 2001;
+106: 46–52.
+Silvestri G, Moraes CT, Shanske S, Oh SJ, DiMauro S. A new mtDNA
+mutation the tRNA
+Lys
+gene associated with myoclonic epilepsy and
+ragged-red fibers (MERRF). Am J Hum Genet 1992; 51: 1213–17.
+Smeitink J, van den Heuvel L, DiMauro S. The genetics and pathology of
+oxidative phosphorylation. Nat Rev Genet 2001; 2: 342–52.
+Smith JL, Hoyt WF, Susac JO. Ocular fundus in acute Leber optic neuropathy.
+Arch Ophthalmol 1973; 90: 349–54.
+Sobreira C, Hirano M, Shanske S, Keller RK, Haller RG, Davidson E, et al.
+Mitochondrial encephalomyopathy with coenzyme Q10 deficiency.
+Neurology 1997; 48: 1238–43.
+Spelbrink JN, Li FY, Tiranti V, Nikali K, Yuan QP, Tariq M, et al. Human
+mitochondrial DNA deletions associated with mutations in the gene encod-
+ing Twinkle, a phage T7 gene 4-like protein localized in mitochondria. Nat
+Genet 2001; 28: 223–31.
+Spinazzola A, Marti R, Nishino I, Andreu AL, Naini A, Tadesse S, et al.
+Altered thymidine metabolism due to defects of thymidine phosphorylase.
+J Biol Chem. 2002; 277: 4128–33.
+Steinmetz LM, Scharfe C, Deutschbauer AM, Mokranjac D, Herman ZS,
+Jones T, et al. Systematic screen for human disease genes in yeast. Nat
+Genet 2002; 31: 400–4.
+Tatuch Y, Christodoulou J, Feigenbaum A, Clarke JT, Wherret J, Smith C,
+et al. Heteroplasmic mtDNA mutation (T!G) at 8993 can cause Leigh
+disease when the percentage of abnormal mtDNA is high. Am J Hum Genet
+1992; 50: 852–8.
+Taylor RW, Chinnery PF, Turnbull DM, Lightowlers RN. Selective inhibition
+of mutant human mitochondrial DNA replication in vitro by peptide nucleic
+acids. Nat Genet 1997; 15: 212–15.
+Taylor RW, Giordano C, Davidson MM, d’Amati G, Bain H, Hayes CM, et al.
+A homoplasmic mitochondrial transfer ribonucleic acid mutation as a cause
+of maternally inherited hypertrophic cardiomyopathy. J Am Coll Cardiol
+2003; 41: 1786–96.
+Thorburn DR, Dahl HH. Mitochondrial disorders: genetics, counseling,
+prenatal diagnosis and reproductive options. Am J Med Genet 2001;
+106: 102–14.
+Tiranti V, Chariot P, Carella F, Toscano A, Soliveri P, Girlanda P, et al.
+Maternally inherited hearing loss, ataxia and myoclonus associated with a
+novel point mutation in mitochondrial tRNA
+Ser(UCN)
+gene. Hum Mol Genet
+1995; 4: 1421–7.
+Tiranti V, Hoertnagel K, Carrozzo R, Galimberti C, Munaro M, Granatiero M,
+et al. Mutations of SURF-1 in Leigh disease associated with cytochrome c
+oxidase deficiency. Am J Hum Genet 1998; 63: 1609–21.
+Tiranti V, Galimberti C, Nijtmans L, Bovolenta S, Perini MP, Zeviani M.
+Characterization of SURF-1 expression and Surf-1p function in normal and
+disease conditions. Hum Mol Genet. 1999; 8: 2533–40.
+Tiranti V, D’Adamo P, Briem E, Ferrari G, Mineri R, Lamantea E, et al.
+Ethylmalonic encephalopathy is caused by mutations in ETHE1, a gene
+Mitochondrial disorders 2171
+ by guest on November 23, 2010
+brain.oxfordjournals.org
+Downloaded from 
+encoding a mitochondrial matrix protein. Am J Hum Genet 2004; 74:
+239–52.
+Torroni A, Petrozzi M, D’Urbano L, Sellitto D, Zeviani M, Carrara F, et al.
+Haplotype and phylogenetic analyses suggest that one European-specific
+mtDNA background plays a role in the expression of Leber hereditary optic
+neuropathy by increasing the penetrance of the primary mutations 11778
+and 14484. Am J Hum Genet 1997; 60: 1107–21.
+Triepels RH, van Den Heuvel LP, Trijbels JM, Smeitink JA. Respiratory chain
+complex I deficiency. Am J Med Genet 2001; 106: 37–45.
+Tsao K, Aitken PA, Johns DR. Smoking as an aetiological factor in a pedigree
+with Leber’s hereditary optic neuropathy. Br J Ophthalmol 1999; 83:
+577–81.
+Tsuchiya K, Miyazaki H, Akabane H, Yamamoto M, Kondo H, Mizusawa H,
+et al. MELAS with prominent white matter gliosis and atrophy of the
+cerebellar granular layer: a clinical, genetic, and pathological study.
+Acta Neuropathol (Berl) 1999; 97: 520–4.
+Uziel G, Moroni I, Lamantea E, Fratta GM, Ciceri E, Carrara F, et al. Mito-
+chondrial disease associated with the T8993G mutation of the mitochon-
+drial ATPase 6 gene: a clinical, biochemical, and molecular study in six
+families. J Neurol Neurosurg Psychiatry 1997; 63: 16–22.
+Valianpour F, Wanders RJ, Overmars H, Vreken P, Van Gennip AH, Baas F,
+et al. Cardiolipin deficiency in X-linked cardioskeletal myopathy and neu-
+tropenia (Barth syndrome, MIM 302060): a study in cultured skin fibro-
+blasts. J Pediatr 2002; 141: 729–33.
+Valnot I, Osmond S, Gigarel N, Mehaye B, Amiel J, Cormier-Daire V, et al.
+Mutations of the SCO1 gene in mitochondrial cytochrome c oxidase defi-
+ciency with neonatal-onset hepatic failure and encephalopathy. Am J Hum
+Genet 2000a; 67: 1104–9.
+Valnot I, von Kleist-Retzow JC, Barrientos A, Gorbatyuk M, Taanman JW,
+Mehaye B, et al. A mutation in the human heme A:farnesyltransferase gene
+(COX10) causes cytochrome c oxidase deficiency. Hum Mol Genet 2000b;
+9: 1245–9.
+Van Goethem G, Dermaut B, Lofgren A, Martin JJ, Van Broeckhoven C.
+Mutation of POLG is associated with progressive external ophthalmoplegia
+characterized by mtDNA deletions. Nat Genet 2001; 28: 211–12.
+Van Maldergem L,TrijbelsF,DiMauroS, SindelarPJ, Musumeci O, JanssenA,
+et al. Coenzyme Q-responsive Leigh’s encephalopathy in two sisters. Ann
+Neurol 2002; 52: 750–4.
+Visapaa I, Fellman V, Vesa J, Dasvarma A, Hutton JL, Kumar V, et al.
+GRACILE syndrome, a lethal metabolic disorder with iron overload,
+is caused by a point mutation in BCS1L. Am J Hum Genet 2002; 71:
+863–76.
+Wallace DC. Mitochondrial diseases in man and mouse. Science 1999; 283:
+1482–7.
+Wallace DC, Zheng XX, Lott MT, Shoffner JM, Hodge JA, Kelley RI, et al.
+Familial mitochondrial encephalomyopathy (MERRF): genetic, pathophy-
+siological, and biochemical characterization of a mitochondrial DNA dis-
+ease. Cell 1988a; 55: 601–10.
+Wallace DC, Singh G, Lott MT, Hodge JA, Schurr TG, Lezza AM, et al.
+Mitochondrial DNA mutation associated with Leber’s hereditary optic
+neuropathy. Science 1988b; 242: 1427–30.
+Wang J, Wilhelmsson H, Graff C, Li H, Oldfors A, Rustin P, et al. Dilated
+cardiomyopathy and atrioventricular conduction blocks induced by heart-
+specific inactivation of mitochondrial DNA gene expression. Nat Genet
+1999; 21: 133–7.
+Wong A, Cavelier L, Collins-Schramm HE, Seldin MF, McGrogan M,
+Savontaus ML, et al. Differentiation-specific effects of LHON
+mutations introduced into neuronal NT2 cells. Hum Mol Genet 2002;
+11: 431–8.
+Yang MY, Bowmaker M, Reyes A, Vergani L, Angeli P, Gringeri E, et al.
+Biased incorporation of ribonucleotides on the mitochondrial L-strand
+accounts for apparent strand-asymmetric DNA replication. Cell 2002;
+111: 495–505.
+Yao J, Shoubridge EA. Expression and functional analysis of SURF1 in Leigh
+syndrome patients with cytochrome c oxidase deficiency. Hum Mol Genet
+1999; 8: 2541–9.
+Zeviani M, Carelli V. Mitochondrial disorders. Curr Opin Neurol 2003; 16:
+585–94.
+Zeviani M, Moraes CT, DiMauro S, Nakase H, Bonilla E, Schon EA, et al.
+Deletions of mitochondrial DNA in Kearns–Sayre syndrome. Neurology
+1988; 38: 1339–46.
+Zeviani M, Servidei S, Gellera C, Bertini E, DiMauro S, Di Donato S. An
+autosomal dominant disorder with multiple deletions of mitochondrial
+DNA starting at the D-loop region. Nature 1989; 339: 309–11.
+Zeviani M, Muntoni F, Savarese N, Serra G, Tiranti V, Carrara F, et al. A
+MERRF/MELAS overlap syndrome associated with a new point
+mutation in the mitochondrial DNA tRNA
+Lys
+gene. Eur J Hum Genet
+1993; 1: 80–7.
+Zeviani M, Spinazzola A, Carelli V. Nuclear genes in mitochondrial dis-
+orders. Curr Opin Genet Dev 2003; 13: 262–70.
+Zhao H, Li R, Wang Q, Yan Q, Deng JH, Han D, et al. Maternally inherited
+aminoglycoside-induced and nonsyndromic deafness is associated with the
+novel C1494T mutation in the mitochondrial 12S rRNA gene in a large
+Chinese family. Am J Hum Genet 2004; 74: 139–52.
+Zu¨chner S, Mersiyanova IV, Muglia M, Bissar-Tadmouri N, Rochelle J,
+Dadali EL, et al. Mutations in the mitochondrial GTPase mitofusin 2
+cause Charcot–Marie–Tooth neuropathy type 2A. Nat Genet 2004; 36:
+449–51.
+2172 M. Zeviani and S. Di Donato
+ by guest on November 23, 2010
+brain.oxfordjournals.org
+Downloaded from 

@@ -1,0 +1,1256 @@
+Via
+Leeds,
+also began to be applied to individual continents on large
+(w350 bp) segment, however, is accompanied by high
+Review TRENDS in Genetics Vol.22 No.6 June 2006
+areasandpopulations.Recentanalysesofthisvariationat
+human mtDNA is characterized by a much greater
+evolutionary rate than that of the average nuclear gene.
+Thus, its sequence variation has been generated solely by
+the sequential accumulation of new mutations along
+radiating maternal lineages. The time frame of these
+mutations is such that human mtDNA contains a
+molecular record not only of the genealogical history but
+also of the migrations of women who transmitted it
+throughthegenerations.Becausetheprocessofmolecular
+differentiation is relatively fast and occurred mainly
+during and after the recent process of dispersal into
+different parts of the world, subsets of mtDNA variation
+usually tend to be restricted to particular geographic
+levels of recurrent mutation, blurring the structure of the
+tree – while there is insufficient variation to distinguish
+many important ancient branches within the tree.
+Consequently, the phylogeographic signal of mtDNA as
+seen through the window of HVS-I variation can be
+almost invisible. A combination of high-resolution RFLP
+screening with HVS-I sequencing eventually resulted
+in a much more refined picture of the mtDNA world
+phylogeny – one in which the major branches of the
+tree were usually restricted geographically, some to
+sub-Saharan Africans, others to East Asians and yet
+others to Europeans and Near Easterners [2].
+The first large-scale population studies were performed
+recombining unit only through the mother. Furthermore,
+thousands of copies per cell, and transmitted as a non-
+segment (HVS-I) of the non-coding and fast-evolving
+control region. The rich variation seen in this short
+Harvesting the fruit
+mtDNA tree
+Antonio Torroni
+1
+, Alessandro Achilli
+1
+, Vincent
+and Hans-Ju¨rgen Bandelt
+4
+1
+Dipartimento di Genetica e Microbiologia, Universita` di Pavia,
+2
+Department of Statistics, University of Glasgow, University Avenue,
+3
+Institute of Integrative and Comparative Biology, University of
+4
+Department of Mathematics, University of Hamburg, Bundesstr.55,
+Human mitochondrial DNA (mtDNA) studies have
+entered a new phase since the blossoming of complete
+genome analyses. Sequencing complete mtDNAs is
+more expensive and more labour intensive than restric-
+tion analysis or simply sequencing the control region of
+the molecule. But the efforts are paying off, as the
+phylogenetic resolution of the mtDNA tree has been
+greatly improved, and, in turn, phylogeographic
+interpretations can be given correspondingly greater
+precision in terms of the timing and direction of human
+dispersals. Therefore, despite mtDNA being only a
+fraction of our total genome, the deciphering of its
+evolution is profoundly changing our perception about
+how modern humans spread across our planet. Here we
+illustrate the phylogeographic approach with two case
+studies: the initial dispersal out of Africa, and the
+colonization of Europe.
+Introduction
+In human cells, most genes (w25 000) are confined to the
+nucleus, limited to two copies per cell and transmitted
+equally from both parents according to Mendel’s laws.
+A major exception is represented by the 37 mitochondrial
+DNA (mtDNA) genes. They are located within the
+mitochondria, organized in a small (w16.6 Kb) circular
+molecule of DNA, which is present in hundreds to
+numbers of subjects, with the objective of determining
+human origins in each major geographic area. These
+studies were performed by using either RFLP survey of
+the entire mtDNA molecule, thus mainly targeting the
+coding region, or sequencing of the first hypervariable
+of the human
+Macaulay
+2
+, Martin Richards
+3
+Ferrata 1, 27100 Pavia, Italy
+Glasgow, UK, G12 8QQ
+L.C. Miall Building, Leeds, UK, LS2 9JT
+20146 Hamburg, Germany
+the highest possible level of molecular resolution (i.e. that
+of complete mtDNA sequences) are now enabling us to
+determine where and when particular branching events
+are likely to have occurred, as the first step in the
+reconstruction of prehistoric human dispersals.
+Human mtDNA variation
+The earliest mitochondrial DNA research began by
+digesting the entire molecule with just a few restriction
+enzymes. As early as 1980, Brown’s pioneering study of 21
+humans from diverse ethnic and geographic backgrounds
+indicated that mtDNA restriction-enzyme fragment
+length polymorphism (RFLP) patterns could be used to
+trace human genetic history [1]. On the basis of the
+observed diversity in a worldwide sample, he obtained a
+surprisingly recent coalescence age estimate ofw180 000
+years for global mtDNA variation.
+During the early 1990s, in parallel with the studies
+addressing the origin of Homo sapiens, mtDNA analyses
+numbers of ancestral migrations from Asia [3]. It was in
+thisspecific contextthatthe(bynow) universally accepted
+Corresponding author: Torroni, A. (torroni@ipvgen.unipv.it).
+Available online 4 May 2006
+www.sciencedirect.com 0168-9525/$ - see front matter Q 2006 Elsevier Ltd. All rights reserved. doi:10.1016/j.tig.2006.04.001
+in NativeAmericans andfocused on theorigin, timingand
+Review TRENDS in Genetics Vol.22 No.6 June 2006340
+mtDNA haplogroupnomenclature was initiated, withfour
+basal (or primary) branches in the tree, named alphabe-
+tically as A, B, C and D. (A haplogroup is a group of
+mtDNA haplotypes derived by descent from the same
+ancestral mtDNA molecule as revealed by the sharing of a
+distinguishing mutational motif.) Later, the haplogroup
+structures of other continental populations were charac-
+terized [4,5] and cladistic rules for the hierarchical
+ordering of haplogroups and sub-haplogroups were expli-
+citly established [6]. The same principles were later used
+as the basis of the reformed nomenclature for the Y
+chromosomal tree[7].Thenamingofnewhaplogroups has
+since then naturally developed in a self-organizing way,
+ushered forward by those who produce novel data,
+following the rules of the nomenclature system and
+respecting the published record.
+In the medical field, a team led by Ozawa had begun to
+resolve the Japanese mtDNA tree based on complete
+mtDNA sequencing [8–10], which eventually culminated
+in the recent study of Tanaka et al. [11]. However, that
+early work was almost unnoticed by the population
+genetics community until recently [12,13] when complete
+genome analyses started blossoming [14–16]. There are
+now O2000 complete mtDNA sequences published, so
+that the basal branching structure of mtDNA variation
+in many – perhaps most – parts of the world is now well
+understood. Details concerning specific branches of the
+phylogeny, often restricted to microgeographic contexts,
+are available from several recent studies [17–26].Asa
+result, not only the Out-of-Africa debate but also the
+controversy about the origins of Europeans has come into
+sharper focus, so that opposing bold claims of the past can
+givewaytomorerefinedmodellingandinsights,aswewill
+outline next.
+Archaeogenetics
+Amorim [27] coined the elegant term ‘archaeogenetics’
+for ‘the newly-emerged discipline that applies molecular
+genetics to the study of the human past’ [28],thus
+substituting the earlier term ‘historical genetics’ [29].
+Archaeogenetics was prefigured in the work of Luca
+Cavalli-Sforza and his colleagues, working on classical
+genetic markers in the 1970s (see Ref. [30] for a personal
+account;andRef.[31]forasummaryoftheclassicalwork).
+Cavalli-Sforza’s work was the first major attempt to bring
+archaeology and genetics together in a single discipline
+and, perhaps most significantly, he did this by forging
+collaborations with the archaeological community – an
+achievementofwhichmanysubsequentresearchersinthe
+field unfortunately failed to take note.
+Cavalli-Sforza and his colleagues focused particularly
+on the settlement of Europe, using the methodology of
+synthetic genetic maps: geographic maps of isopleths of
+principal components (PCs) values of variation. Although
+ideally suitedto the kind ofdataavailable at thetime, this
+approach could not provide a time frame for the different
+components, so that the interpretation of the maps
+remained ambiguous [28,32,33]. The map of the first PC,
+accounting for w27% of the total variation in classical
+marker frequencies across Europe and the Near East, has
+become something of an icon in the study of European
+www.sciencedirect.com
+origins. It showed a gradient from the southeast to the
+northwest, with the Near East at one pole and Europe at
+the other, which was originally seen as strong evidence for
+the ‘demic diffusion’ hypothesis – implying that Neolithic
+farmers coming from the Near East and autochthonous
+Mesolithic European hunter-gatherers intermingled
+progressively. We will return to this issue later, but first
+we move to the other classic issue in archaeogenetics: the
+exit out of Africa of anatomically modern humans.
+Out of Africa
+TravellingupthehumanmtDNAphylogenyfromtheroot,
+corresponding to what has, often rather confusingly, been
+identified with ‘mitochondrial Eve’ [34],onepasses
+through several bi- and trifurcations until one reaches
+the first multifurcation node, the root of haplogroup L3
+(Figure 1). This root gave rise to many (successful)
+descendant haplogroups, perhaps reflecting some coloni-
+zation event or local population growth w80 000–90 000
+years ago, which might have been triggered by the glacial
+interstadial phase 21 [35,36] and, possibly, followed by
+cultural adaptation in response to the changing climate.
+This event probably occurred in the Horn of Africa
+because the richest branching around the L3 node is
+reflected in modern Ethiopian samples [37], in contrast to
+the somewhat narrower mtDNA pools of other parts of
+sub-Saharan Africa.
+Two splinters of this basal L3 variation, haplogroups M
+and N, cover the mtDNA pool of all non-Africans
+(excluding the descendants of migrations from Africa
+within the past few thousand years, such as those
+engenderedbyvariousslavetrades).HaplogroupNalmost
+immediately diverged further to give rise to haplogroup R
+(Figure 2). All over Eurasia, America, Australasia and
+Oceania descendants of all three corresponding root
+haplotypes (M, N and R) can be found, with only a few
+more impoverished regional exceptions. Therefore, these
+three root types (which originated somewhere between
+East Africa and the Persian Gulf) must have been the
+founder types for the Eurasian settlement w60 000–
+65 000 years ago [22,38]. Not only are the descendants of
+these founders ubiquitous outside Africa but also their
+numerous basal sub-branches are more or less specific to
+the major geographical regions. There is now growing
+evidence that the richest basal variation in the three
+founder haplogroups M, N and R is found along the
+southern stretch of Eurasia, particularly in the Indian
+subcontinent [18,25]. Although Southeast Asia has been
+less comprehensively analysed to date, recent first results
+indicate a similarly high basal diversification in this
+region [22]. This suggests a rapid colonization along the
+southern coast ofAsia,reaching Sahulw60 000 yearsago.
+The expansions northwards to fill the heartland of the
+continent occurred later, w45 000 years ago, when
+technology and climatic conditions enabled the explora-
+tion of the interior of Eurasia. One of the more marginal
+extensions eventually led to the peopling of Europe.
+Into Europe
+Early mtDNA studies of European populations revealed
+that all Europeans essentially share the same set of
+769
+1018
+12705
+8701
+9540
+10398
+10873
+15301
+721
+2357
+1719
+2831
+3777
+4388
+4859
+2707
+3879
+4122
+5147
+5460
+5567
+13105
+678
+792
+3582
+4491
+5393
+3396
+4218
+15514
+15944d
+5601
+9950
+3197
+959
+1692
+4643
+5181
+2352
+14212
+10400
+14783
+15043
+L3
+L3bd = L3bcd
+L3f
+L3f1
+M
+N
+L3h
+6446
+6680
+12403
+12950C
+14110L3d
+3450
+5773
+6221
+9449
+10086
+13914A
+15311
+15824
+5147
+7424
+8618
+13886
+14284
+L3c
+L3a
+7861
+9575
+Review TRENDS in Genetics Vol.22 No.6 June 2006 341
+1048
+4312
+6185
+11914
+12007
+3594
+7256
+13650
+965+3C
+1461
+4964
+5267
+6002
+6284
+3357
+5460
+6167
+7376
+7762
+7775
+8473
+8631
+8697
+870
+2159
+2332
+3254A
+3434
+6231
+8856
+9130A
+9554
+9941
+825A
+8655
+10688
+10810
+13506
+15301
+4104
+7521
+10819
+7645
+14040
+14395
+3483
+6401
+8311
+8817
+Time
+(years)
+L0
+3516A
+5442
+9042
+9347
+10589
+10664
+10915
+13276
+5231
+5460
+8428
+8566
+11176
+12720
+14308
+L0a
+L
+L5
+L2’6 = L2’3’4’6’7
+L3ex = L3eix
+L4’6 = L3’4’6’7
+L3’7 = L3’4’7
+L1’5 = L1’2’3’4’5’6’7
+3666
+7055
+7389
+13789
+14178
+14560
+L1
+2395d
+5951
+6071
+8027
+9072
+10586
+12810
+13485
+14000A
+14911
+L1c
+2416
+8206
+9221
+10115
+13590
+L2
+3693
+L2d
+3918
+8104
+9855
+12609
+13470
+L4
+L7L6
+709
+770
+961
+13710
+15289
+15499
+2758
+2885
+7146
+8468
+13105
+L2’5 = L2’3’4’5’6’7
+2417G
+3027
+3720
+4976
+5213
+8152
+9809C
+10493
+709
+851
+930
+1822
+4496
+5004
+5111
+5147
+5656
+6182
+6297
+7424
+7873
+8155
+8188
+8582
+8754
+9305
+9329
+9899
+11015
+110251598
+3423
+7972
+12432
+12950
+5147
+5711
+6257
+8460
+9bp-del
+11172
+L1c1’2
+10321
+12049
+13149
+L1c2
+6150
+6253
+7076
+7337
+8784
+8877
+10792
+10793
+11654
+L1c2a
+2245
+5603
+9755
+11641
+15136
+15431
+L0af
+4586
+9818
+L0ak
+200 000
+150 000
+100 000
+50 000
+haplogroups as Near Easterners and that those hap-
+logroupswereabsentfromsub-SaharanAfricansandEast
+Asians [39].TheseobservationsconfirmedthatEuropeans
+and Near Easterners share a rather recent common
+ancestry. From the complete mtDNA phylogeny that is
+nowavailable,wecanseethatEuropeanmtDNAvariation
+–embeddedasitisintheWestEurasianmtDNAvariation
+– is surprisingly impoverished in the number of indepen-
+dent basal lineages, compared with the South Asian
+mtDNA variation. Most European mtDNA lineages stem
+from just three R branches, haplogroups R0 (previously
+known as pre-HV), JTand U, in addition to three minor N
+branches, N1, N2 and X (Figure 2). Some further West
+Eurasian branches, such as R1 and R2 [18], seem to be
+rare in Europe. This reduction in basal variation can be
+best explained by the peripheral role that the pioneer
+migration into the Near East and subsequently Europe
+must have had in the broader ‘Out-of-Africa’ scenario
+(in contrast to traditional accounts that gave the Near
+East a pivotal role). The variation in the basal European
+mtDNA haplogroups can be dated to w40 000–50 000
+years, likely to be coincident with interstadial 12 [35,36].
+TRENDS in Genetics 
+HV
+HV0 = pre-V
+HV0a H3H1
+H
+V
+R0a = (pre-HV)1
+R0 = pre-HVUJT
+R X N2
+W N1b N1a’I
+N1
+N1 a I
+N
+Figure 2. Schematic phylogeny of basal European mtDNA haplogroups. The
+haplogroups are denoted as in Ref. [18], but with new names that replace those
+beginning with ‘pre-’. Nodes with a high degree of multifurcation (as testified by at
+least six emanating independent branches) are shaded in orange. In addition to H1
+and H3 (see main text), other H sub-groups [17] could represent multifurcation
+nodes. However, sufficient complete mtDNA sequence data are not yet available to
+define the issue.
+TRENDS in Genetics 
+648
+723
+1413
+5471
+5580
+5746
+10750
+14182
+14861
+9332
+10978
+11116
+11743
+12405
+12714
+12771
+14533A
+14791
+14959
+15244
+10373
+11253
+11344
+11485
+11653
+12280
+12414
+13174
+13344
+14000A
+14302
+10700
+10955
+11353
+11944
+12630
+13239
+14845
+15263
+15458
+15703
+15777C
+750
+1438
+2706
+4769
+7028
+8860
+11719
+14766
+15326
+1 2 3 4 5 6 7 8
+5310
+10184
+10314
+12618
+12816
+13443
+13708
+14461
+14566
+14851
+15553
+24
+5300
+7055
+8767
+9509
+9827
+10044
+10289
+11563
+11590
+11963
+14410
+5813
+5930
+8020
+9098
+9254
+9380
+9965
+11440
+12469
+13080
+13755
+22 23
+7394
+8835
+9337
+9682
+11944
+12373
+14221
+14371
+14560
+14587
+15833
+3459
+5046
+5605
+6272
+6680
+6842
+1193
+3441
+5211
+5581
+9477
+10373
+11002
+15299
+15 16 17
+1822
+3666
+7819A
+8527
+8932
+11440
+14769
+3693
+4048
+4350
+5194
+7270
+8853
+12507
+12634
+14148
+15106
+15952
+6293
+6480
+6602
+8158
+8251
+8400
+9932
+10604
+11176
+11770
+14590
+15940
+745+T
+1719
+1842
+5821
+9365
+15314
+15479
+19 20 21
+rCRS
+2158
+8598
+10679
+11260
+13687
+13800A
+11 12
+4715
+8392
+12561
+15367
+13 14
+3435
+3621
+5894+T
+6392
+7129
+8041
+8197
+8928
+9941
+12340
+14034
+13708
+5899+C
+14750
+15172
+9 10
+813
+3604
+3705
+4375
+4793
+6671
+12346
+13635
+15514
+25
+L3x L3i
+L3e
+R
+M1
+15944d
+L3b
+5441
+8222
+12630
+14818
+15388
+15944d
+5186
+14905
+11065
+11260
+11701
+12188
+12215
+12546T
+12714
+12810
+13569
+13830
+15383
+11881
+12236
+13105
+13722
+14212
+14239
+14581
+14905
+14971
+15217
+15884
+2220
+5162
+5899+C
+6962
+10031
+11164
+11252
+11959
+12477
+12540
+15929
+11143
+14755
+L0a2
+9545
+9554
+13116
+L0a2a
+921
+L3d1
+750
+L3e5
+18
+0
+Figure1. A maximum-likelihood phylogeny of African mtDNA haplogroups, with a calibrated time-scale (left). Sequencing of the 25 entire mtDNAs (1–25) was performed as in
+[17,20,22]. To construct the phylogeny, we focused on the more slowly evolving coding region of the molecule between nucleotide positions (nps) 577 and 16023, using two
+chimpanzee sequences to root the whole tree as described in Ref. [22]. A most parsimonious reconstruction of the coding-region mutations is shown on the branches.
+Mutations are scored relative to the revised Cambridge Reference Sequence (rCRS) [63] and therefore variant nucleotides do not necessarily constitute derived states; the
+rCRS is shown by the dashed lines. Suffixes indicate transversions (to A, G, C or T) or indels (C, d); recurrent mutations are underlined. The branching nodes in the phylogeny
+are shown in yellow, with the mutations above the node being shared by the derived haplogroups. The naming of haplogroups follows the scheme of [6], opting for the most
+compact notation. L3a and L3c denoting novel L3 branches from this study should not to be confused with the obsolete definitions of ‘L3a’ and ‘L3c’ (ZU6a) introduced by
+Ref. [64]. The ancestral motifs for the novel haplogroups L7 (corresponding to L4g in Ref. [37]), L3a, and L3c (in italics) have not been determined. However, note that L4 and
+L7 (L4g) were clustered together in Ref. [37] because of their sharing of the (unstable) control-region mutation 16362. In addition, observe that there are minor differences with
+Ref. [21] in characterizing the mutations for some haplogroups. MtDNA sequences in sky-blue colour boxes are from Ethiopian subjects, whereas those in white boxes are
+from Nigerian (sequences 13, 18 and 21) and Dominican (sequences 1–2, 5, 14–16 and 22) subjects. Complete mtDNA sequences, including their control regions, are available
+in GenBank, accession numbers DQ341058–DQ341082.
+www.sciencedirect.com
+This, however, does not yet clarify to what extent the first
+migration of modern humans into Europe shaped the
+H1
+H3
+V
+U5b
+(a)
+26
+24
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+0
+(b)
+26
+24
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+0
+(c)
+26
+24
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+0
+(d)
+26
+24
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+0
+Review TRENDS in Genetics Vol.22 No.6 June 2006342
+mtDNA pool of modern Europeans, because later immi-
+gration from the Near East could have replaced the
+descendants of the first settlers.
+Sometimeafterthedemicdiffusionhypothesishadbeen
+proposed, a debate arose on the issue of the relative
+contributionsofNeolithicversusPalaeolithicgenepoolsin
+modern Europeans. What was the genetic contribution of
+the incipient Neolithic people, who gradually developed
+proto-forms of agriculture in the Near Eastw11 000 years
+ago, relative to that of the indigenous European hunter-
+gatherers, when the Neolithic package first spread into
+Europew8000yearsago?Thisdebate–fuelledinitiallyby
+mtDNA and later by Y chromosome data – has become
+acrimoniousattimes.Thereceivedwisdomofthenineties,
+positing that the European gene pool predominantly
+resulted from Near Eastern newcomers bringing the
+Neolithic culture with them, was first challenged on the
+basis of mitochondrial HVS-I variation [40]. The new
+suggestion was that only a minority of lineages were a
+resultoftheNeolithicimmigration,whereastheremaining
+lineages – dating back to between 15 000 and 50 000 years
+ago –seemedto haveautochthonous rootsofEarly, Middle
+or Late Upper Palaeolithic origin within Europe. The
+resultswere,however,rathertentativebecausetheyrelied
+on comparisons with a small and inadequate sample from
+the Near East. However, further work provided much
+stronger evidence that more than three-quarters of
+present-day European mtDNAs most likely stemmed
+directly from indigenous Mesolithic or Palaeolithic ances-
+tors,andalsoshowedthat,withasufficientlylargesample
+sizeandabetterresolvedphylogeny[41],putativecladesof
+mtDNA exhibit gradients similar to those of other marker
+systems [31,32].
+This conclusion is supported by some analyses of the
+paternally transmitted Y-chromosome [42,43] but not by
+other studies that inferred admixture coefficients
+considering different potential parental populations [44].
+In the context of this debate, the dissection of one minor
+autochthonous European mtDNA clade, haplogroup V,
+and analyses of its geographic distribution [45,46]
+constituted the first clear evidence that Lateglacial
+expansions of Palaeolithic populations from refuge areas
+in Southern Europe could have had a major impact in
+repopulating the continent. Evidence of the overwhelming
+importance of the Franco-Cantabrian glacial refuge has
+been provided by dissecting haplogroups H – the most
+common haplogroup in Europe (40%–50% of mtDNAs) –
+and U5 into sub-haplogroups. The age estimates and
+geographic distributions of H1, H3, V and U5b (Figure 3)
+strongly support a repopulation of much of Western and
+Northern Europe from the southwestern refuge zone
+in the Late Upper Paleolithic [17,20,47,48]. That this
+Lateglacial expansion must have been dramatic is
+testified by the dominating star-like structure of
+Figure3. The spatial frequency distributions of haplogroups (a) H1; (b) H3; (c) V; and
+(d) U5b. Data from the Saami population were not included because of their outlier
+haplogroup frequencies, which are probably caused by profound drift and/or
+founder events.
+www.sciencedirect.com
+desired diachronic partition of the mtDNA pool. Results
+from short stretches of mtDNA drawn from a few
+of approaches and insights in which these disciplines
+Review TRENDS in Genetics Vol.22 No.6 June 2006 343
+sub-haplogroups H1 and H3. It corresponds with an
+expansion of radiocarbon dates in Western Europe from
+w16 000 years ago, and was probably followed by local
+re-expansions fromw11 500 years ago after the relapse to
+glacial conditions in the Younger Dryas [49].
+On a methodological note, this work has also suggested
+that a reliable estimation of the different temporal layers
+of input to a sub-continental mtDNA pool should now take
+the complete mtDNA phylogeny into full consideration
+and work upwards from the potentially earliest layers
+(pioneer settlement) to the most recent layers (post-
+Neolithic immigration). Having established the basic
+features of the Palaeolithic mtDNA pool of Europe
+towards the end of the Pleistocene, one could now turn
+to the identification of mtDNA lineages that were
+introduced later to Europe in Neolithic and post-Neolithic
+times. It seems that all of the major haplogroups (U, JT
+and R0) now found in Europe were already present in
+the Late Palaeolithic times, most of which were then
+represented by their major sub-branches. The small but
+non-negligible immigration in the Neolithic (and later)
+seems to have brought some younger sub-haplogroups,
+such as J1b1, J2a and T1a, and perhaps some that are
+rare, such as R1, R2 and N1a. The major difficulty in
+deciding the entry time of all ‘founder haplotypes’ [41],
+including the rarer haplotypes, is the enormous amount of
+sampling that is needed to distil a sufficient number of
+descendants of the targeted haplotypes across Europe
+and the Near East. But simplistic admixture analyses
+that are blind to the different time horizons (not to
+mention back-migration) and built on unrealistic ad hoc
+hypotheses do not provide a short-cut.
+Another way to determine the Neolithic contribution to
+European mtDNAs has often been envisioned, especially
+by archaeologists, in the direct analysis of ancient mtDNA
+from Neolithic remains. The difficulties with ancient DNA
+of modern humans are well known, and reliable results
+could only be expected in extraordinary circumstances
+[50,51]. Recently, Haak et al. [52] have apparently
+triumphed in the ‘lottery of ancient DNA studies’ (to use
+the words of Peter Underhill) by detecting variation in a
+minor haplogroup, N1a, from human remains associated
+with Linearbandkeramik (LBK) pottery across Central
+Europe that partially matches modern European and
+Near Eastern haplotypes. This finding, which seems
+impossible to explain as artefactual, indicates that
+haplogroup N1a was present in Europe 7000 years ago
+and suggests that the people involved with the early LBK
+culture were initially limited to a small area in the middle
+Danube basin, enabling drift effects to occur, whereas
+someoftheirdescendantsbegantomigrateandhelpedthe
+new culture to spread and develop. Extrapolating from
+these data to the ‘Neolithic input’ to Europe as a whole
+would, however, be ill-advised, particularly because the
+spreadoftheNeolithicinEuropewasnotamonolithic and
+homogeneous process and, of course, ‘Neolithic’ does not
+equal ‘LBK’, temporally or spatially [53].
+Therefore, it seems that there is no short-cut for
+distinguishing between autochthonous and immigrated
+haplotypes in the modern mtDNA pool at each broad time
+interval. Only the systematic screening of particular
+www.sciencedirect.com
+would fully interact with population genetics still lies
+ahead of us [61] – but is, hopefully, just around the
+corner [62].
+Acknowledgements
+This research received support from The Royal Society, The British
+Academy, The Italian Ministry of the University (Fondo Investimenti
+samples of old bones and teeth can, at best, only
+supplement the inferences drawn from present-day
+complete mitochondrial genomes.
+Perspective and concluding remarks
+Mitochondrial DNA, along with DNA from the non-
+recombining portion of the Y chromosome, will be used
+more and more in elucidating human evolution and
+pioneer settlement patterns because, at least for the
+moment, autosomal genes lack the high resolution of the
+uniparentalmarkers.Aprerequisiteforfutureprogressis,
+however, the use of the information from the entire DNA
+molecule.Thereisstillmuchworktobedonetofindallthe
+polymorphic sites on the Y chromosome, but already the
+SNP set provided by Underhill et al. [54,55] has led to a
+quantum leap in the phylogeographic insights available
+on the male line of descent. The final level of molecular
+resolution has already been reached for mtDNA, but the
+task of determining and interpreting the worldwide
+variation has just begun, with tens of thousands of
+mtDNAs to beselected worldwide for complete sequencing
+inthenextfewyears.Ofcourse,sequencingentiremtDNA
+genomes is much more expensive and is more labour
+intensive than the approaches used in the past – but the
+efforts are paying off, as the resolution of the mtDNA tree,
+and the phylogeographic resolution that goes with it, has
+been greatly improved. This can bedemonstrated with the
+poor HVS-I resolution around the European consensus
+HVS-I sequence, which could ambiguously be allocated to
+H/HV*/U*/R* [40], but is resolved by complete sequencing
+[17,20,56]. HVS-I based haplogroups can yield a definitely
+weaker geographic signal than a comparable number of Y
+chromosome SNP haplogroups (for more details, see
+Figure 8.1 of Ref. [57]).
+The major obstacle (in addition to technical problems)
+hasalwaysbeenthereluctanceofpopulationgeneticiststo
+make full use of complete or partial coding-region data,
+because this would inevitably entail the adoption of
+the principles of phylogeography [58] – the systematic
+comparison of the sequence data under consideration with
+the current database of complete sequences that comprise
+the global mtDNA phylogeny, taking into account both
+geographic and ethnic distributions of haplogroups and
+sub-haplogroups. However, in medical and forensic
+genetics, complete mtDNA sequencing is gaining more
+attention [11,56,59,60]. A new phase of mutual exchange
+mutations from the complete mtDNA phylogeny in large
+samples from all over West Eurasia can give us the
+Ricerca di Base 2001, Progetti Ricerca Interesse Nazionale 2005) and
+Fondazione Cariplo.
+Review TRENDS in Genetics Vol.22 No.6 June 2006344
+References
+1 Brown, W.M. (1980) Polymorphism in mitochondrial DNA of humans
+asrevealedbyrestrictionendonucleaseanalysis.Proc.Natl.Acad.Sci.
+U. S. A. 77, 3605–3609
+2 Macaulay, V. et al. (1999) The emerging tree of West Eurasian
+mtDNAs: a synthesis of control-region sequences and RFLPs. Am.
+J. Hum. Genet. 64, 232–249
+3 Torroni, A. et al. (1993) Asian affinities and continental radiation of
+the four founding Native American mtDNAs. Am. J. Hum. Genet. 53,
+563–590
+4Torroni,A.et al. (1994) Mitochondrial DNA analysis in Tibet:
+implicationsfortheoriginoftheTibetanpopulationanditsadaptation
+to high altitude. Am. J. Phys. Anthropol. 93, 189–199
+5 Torroni, A. et al. (1994) mtDNA and the origin of Caucasians:
+identification of ancient Caucasian-specific haplogroups, one of
+which is prone to a recurrent somatic duplication in the D-loop region.
+Am. J. Hum. Genet. 55, 760–776
+6 Richards, M. et al. (1998) Phylogeography of mitochondrial DNA in
+western Europe. Ann. Hum. Genet. 62, 241–260
+7 The Y Chromosome Consortium (2002) A nomenclature system for the
+tree of human Y-chromosomal binary haplogroups. Genome Res. 12,
+339–348
+8 Ozawa, T. et al. (1991a) Distinct clustering of point mutations in
+mitochondrial DNA among patients with mitochondrial encephalo-
+myopathies and with Parkinson’s disease. Biochem. Biophys. Res.
+Commun. 176, 938–946
+9 Ozawa, T. et al. (1991b) Patients with idiopathic cardiomyopathy
+belong to the same mitochondrial DNA gene family of Parkinson’s
+disease and mitochondrial encephalomyopathy. Biochem. Biophys.
+Res. Commun. 177, 518–525
+10 Ozawa, T. et al. (1995) Genotype and phenotype of severe mitochon-
+drial cardiomyopathy: a recipient of heart transplantation and the
+genetic control. Biochem. Biophys. Res. Commun. 207, 613–620
+11 Tanaka, M. et al. (2004) Mitochondrial genome variation in eastern
+Asia and the peopling of Japan. Genome Res. 14, 1832–1850
+12 Quintana-Murci, L. et al. (1999) Genetic evidence of an early exit of
+Homo sapiens sapiens from Africa through eastern Africa. Nat. Genet.
+23, 437–441
+13 Kivisild, T. et al. (2002) The emerging limbs and twigs of the East
+Asian mtDNA tree. Mol. Biol. Evol. 19, 1737–1751
+14 Ingman, M. et al. (2000) Mitochondrial genome variation and the
+origin of modern humans. Nature 408, 708–713
+15 Maca-Meyer, N. et al. (2001) Major genomic mitochondrial lineages
+delineate early human expansions. BMC Genet. DOI:10.1186/1471-
+2156-2-13 (http://www.biomedcentral.com/1471-2156/2/13)
+16 Finnila¨,S.et al. (2001) Phylogenetic network for European mtDNA.
+Am. J. Hum. Genet. 68, 1475–1484
+17 Achilli,A.etal.(2004)Themolecular dissection of mtDNA haplogroup
+H confirms that the Franco-Cantabrian glacial refuge was a major
+source for the European gene pool. Am. J. Hum. Genet. 75, 910–918
+18 Palanichamy, M.g. et al. (2004) Phylogeny of mitochondrial DNA
+macrohaplogroup N in India, based on complete sequencing:
+implications for the peopling of South Asia. Am. J. Hum. Genet. 75,
+966–978
+19 Friedlaender, J. et al. (2005) Expanding Southwest Pacific mitochon-
+drial haplogroups P and Q. Mol. Biol. Evol. 22, 1506–1517
+20 Achilli, A. et al. (2005) Saami and Berbers – an unexpected
+mitochondrial DNA link. Am. J. Hum. Genet. 76, 883–886
+21 Kivisild, T. et al. (2005) The role of selection in the evolution of human
+mitochondrial genomes. Genetics 172, 373–387
+22 Macaulay, V. et al. (2005) Single, rapid coastal settlement of Asia
+revealed by analysis of complete mitochondrial genomes. Science 308,
+1034–1036
+23 Thangaraj, K. et al. (2005) Reconstructing the origin of Andaman
+Islanders. Science 308, 996
+24 Trejaut, J.A. et al. (2005) Traces of archaic mitochondrial lineages
+persist in Austronesian-speaking Formosan populations. PLoS Biol.
+DOI:10.1371/journal.pbio.0030247 (http://biology.plosjournals.org/)
+25 Sun, C. et al. (2006) The dazzling array of basal branches in the
+mtDNA macrohaplogroup M from India as inferred from complete
+genomes. Mol. Biol. Evol. 23, 683–690
+26 Behar,D.M.etal.(2006)ThematrilinealancestryofAshkenaziJewry:
+portrait of a recent founder event. Am. J. Hum. Genet. 78, 487–497
+www.sciencedirect.com
+27 Amorim, A. (1999) Archaeogenetics. J. Iberian Archaeol. 1, 15–25
+28 Renfrew, C. (2000) Archaeogenetics: towards a population prehistory
+of Europe. In Archaeogenetics: DNA and the Population Prehistory of
+Europe (Renfrew, C. and Boyle, K., eds), pp. 3–11, McDonald Institute
+Monographs
+29 Renfrew, C. (1992) Archaeology, genetics and linguistic diversity. Man
+27, 445–478
+30 Cavalli-Sforza, L.L. (2004) Archaeology, genes and language: reflect-
+ing on five decades of human genetics. In Traces ofancestry: studiesin
+honourofColinRenfrew(Jones,M.,ed.),pp.3–10,McDonaldInstitute
+Monographs
+31 Cavalli-Sforza,L.L.etal.(1994)TheHistoryandGeographyofHuman
+Genes, Princeton University Press
+32 Richards, M. et al. (2002) In search of geographical patterns in
+European mitochondrial DNA. Am. J. Hum. Genet. 71, 1168–1174
+33 Richards, M. et al. (2003) Analyzing genetic data in a model-based
+framework: inferences about European prehistory. In Examining the
+Farming/Language Dispersal Hypothesis (Bellwood, P. and
+Renfrew, C., eds), pp. 459–466, McDonald Institute Monographs
+34 Cann, R.L. et al. (1987) Mitochondrial DNA and human evolution.
+Nature 325, 31–36
+35 Dansgaard, W. et al. (1993) Evidence for general instability of past
+climate from a 250-kyr ice-core record. Nature 364, 218–220
+36 Schulz, H. et al. (1998) Correlation between Arabian Sea and
+Greenland climate oscillations of the past 110 000 years. Nature
+393, 54–57
+37 Kivisild, T. et al. (2004) Ethiopian mitochondrial DNA heritage:
+tracking gene flow across and around the gate of tears. Am. J. Hum.
+Genet. 75, 752–770
+38 Kong, Q-P. et al. (2003) Phylogeny of East Asian mitochondrial DNA
+lineages inferred from complete sequences. Am. J. Hum. Genet. 73,
+671–676
+39 Torroni, A. et al. (1996) Classification of European mtDNAs from an
+analysis of three European populations. Genetics 144, 1835–1850
+40 Richards, M. et al. (1996) Paleolithic and neolithic lineages in the
+European mitochondrial gene pool. Am. J. Hum. Genet. 59, 185–203
+41 Richards, M. et al. (2000) Tracing European founder lineages in the
+Near Eastern mtDNA pool. Am. J. Hum. Genet. 67, 1251–1276
+42 Semino,O.etal.(2000)The geneticlegacyof PaleolithicHomosapiens
+sapiens in extant Europeans: a Y chromosome perspective. Science
+290, 1155–1159
+43 Rootsi, S. et al. (2004) Phylogeography of Y-chromosome haplogroup I
+reveals distinct domains of prehistoric gene flow in Europe. Am.
+J. Hum. Genet. 75, 128–137
+44 Dupanloup, I. et al. (2004) Estimating the impact of prehistoric
+admixture on the genome of Europeans. Mol. Biol. Evol. 21,
+1361–1372
+45 Torroni, A. et al. (1998) mtDNA analysis reveals a major late
+Paleolithic population expansion from southwestern to northeastern
+Europe. Am. J. Hum. Genet. 62, 1137–1152
+46 Torroni, A. et al. (2001) A signal, from human mtDNA, of postglacial
+recolonization in Europe. Am. J. Hum. Genet. 69, 844–852
+47 Loogva¨li, E-L. et al. (2004) Disuniting uniformity: a pied cladistic
+canvas of mtDNA haplogroup H in Eurasia. Mol. Biol. Evol. 21,
+2012–2021
+48 Pereira, L. et al. (2005) High-resolution mtDNA evidence for the late-
+glacial resettlementof Europe from an Iberian refugium. GenomeRes.
+15, 19–24
+49 Gamble, C. et al. (2005) The archaeological and genetic foundations of
+the European population during the Lateglacial: implications for
+‘agricultural thinking’. Camb. Archaeol. J. 15, 193–223
+50 Bandelt, H-J. (2005) Mosaics of ancient mitochondrial DNA: positive
+indicators of non-authenticity. Eur. J. Hum. Genet. 13, 1106–1112
+51 Gilbert, M.T.P. et al. (2005) Assessing ancient DNA studies. Trends
+Ecol. Evol. 20, 541–544
+52 Haak,W.etal.(2005)AncientDNAfromthefirstEuropeanfarmersin
+7500-year-old Neolithic sites. Science 310, 1016–1018
+53 Zvelebil, M. (2004) Who were we 6000 years ago? In search of
+prehistoric identities. In Traces of ancestry: studies in honour of Colin
+Renfrew (Jones, M., ed.), pp. 41–60, McDonald Institute Monographs
+54 Underhill, P.A. et al. (2000) Y chromosome sequence variation and the
+history of human populations. Nat. Genet. 26, 358–361
+55 Underhill, P.A. et al. (2001) The phylogeography of Y chromosome
+binary haplotypesandtheorigins ofmodernhuman populations.Ann.
+Hum. Genet. 65, 43–62
+56 Coble, M.D. et al. (2004) Single nucleotide polymorphisms over the
+entire mtDNA genome that increase the power of forensic testing in
+Caucasians. Int. J. Legal Med. 118, 137–146
+57 Forster, P. et al. (2004) MtDNA markers for Celtic and Germanic
+language areas in the British Isles. In Traces of ancestry: studies in
+honour of Colin Renfrew (Jones, M., ed.), pp. 99–111, McDonald
+Institute Monographs
+58 Avise, J.C. (2000) Phylogeography: the History and Formation of
+Species, Harvard University Press
+59 Howell, N. et al. (2003) Sequence analysis of the mitochondrial
+genomes from Dutch pedigrees with Leber Hereditary Optic Neuro-
+pathy. Am. J. Hum. Genet. 72, 1460–1469
+60 Carelli, V. et al. (2006) Haplogroup effect and recombination of
+mitochondrial DNA: novel clues from the analysis of Leber
+hereditary optic neuropathy pedigrees. Am.J.Hum.Genet.78,
+564–574
+61 Bandelt, H-J. etal. (2005) Low ‘penetrance’ of phylogenetic knowledge
+in mitochondrial disease studies. Biochem. Biophys. Res. Commun.
+333, 122–130
+62 Bandelt, H-J. et al. (2006) Human Mitochondrial DNA and the
+Evolution of Homo sapiens.(Series Nucleic Acids and Molecular
+Biology Vol.18), Springer-Verlag
+63 Andrews, R.M. et al. (1999) Reanalysis and revision of the
+Cambridge reference sequence for human mitochondrial DNA.
+Nat. Genet. 23, 147
+64 Watson, E. et al. (1997) Mitochondrial footprints of human expansions
+in Africa. Am. J. Hum. Genet. 61, 691–704
+Have you contributed to an Elsevier publication?
+Did you know that you are entitled to a 30% discount on books?
+A 30% discount is available to ALL Elsevier book and journal contributors when ordering books or stand-alone CD-ROMs directly
+from us.
+To take advantage of your discount:
+1. Choose your book(s) from www.elsevier.com or www.books.elsevier.com
+2. Place your order
+Americas:
+TEL: +1 800 782 4927 for US customers
+TEL: +1 800 460 3110 for Canada, South & Central America customers
+Review TRENDS in Genetics Vol.22 No.6 June 2006 345
+FAX: +1 314 453 4898
+E-MAIL: author.contributor@elsevier.com
+All other countries:
+TEL: +44 1865 474 010
+FAX: +44 1865 474 011
+E-MAIL: directorders@elsevier.com
+You’ll need to provide the name of the Elsevier book or journal
+orders within the US, Canada, and the UK.
+If you are faxing your order, please enclose a copy of this page.
+3. Make your payment
+This discount is only available on prepaid orders. Please note
+Elsevier Health Sciences products.
+For more information, visit www.books.elsevier.com
+www.sciencedirect.com
+to which you have contributed. Shipping is FREE on pre-paid
+that this offer does not apply to multi-volume reference works or

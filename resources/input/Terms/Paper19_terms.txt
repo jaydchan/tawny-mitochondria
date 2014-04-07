@@ -1,0 +1,3 @@
+line => 254
+green fluorescent protein gfp => paper: paper19 line: 112 pos: 4-7
+moiety => paper: paper19 line: 117 pos: 7

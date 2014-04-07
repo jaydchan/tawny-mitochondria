@@ -1,0 +1,400 @@
+|
+Research Focus
+Mitochondrial building blocks
+Robert E. Jensen, Cory D. Dunn, Matt J. Youngman and Hiromi Sesaki
+Department of Cell Biology, Johns Hopkins University School of Medicine, 725 North Wolfe Street, Baltimore, MD 21205, USA
+Despite many genomic and proteomic attempts,
+approximately half of all mitochondrial proteins remain
+unidentified. Moreover, the composition of mitochon-
+dria varies in different mammalian cell types and the
+details of this tissue specificity are unclear. Two recent
+reports provide a major advance in our understanding
+of mitochondrial function. Sickmann et al. used an
+exhaustive proteomic approach and came very close to
+identifying the complete set of yeast mitochondrial pro-
+teins. Mootha et al. examined mitochondria from
+mouse brain, heart, kidney and liver cells, finding that a
+surprising fraction of the proteins are expressed in only
+a subset of tissues.
+Mitochondria play pivotal roles in both the life and death of
+eukaryotic cells. During cell growth, they are best known
+for their predominant role in ATP production but they also
+contribute to a wide variety of other cell processes, such as
+ion homeostasis and the metabolism of amino acids, heme,
+lipids and urea [1]. Mitochondria are also central players
+in senescence, as well as in programmed cell death [2]. Not
+surprisingly, defects in human mitochondrial function lead
+to a multitude of problems, including cancer, cardiomyo-
+pathies, diabetes, obesity, and many types of neurodegen-
+erative disease [3]. Recent genomic and proteomic studies
+suggest that mammalian mitochondria are composed of at
+least a thousand different proteins, representing,5–15%
+of the eukaryotic proteome. Because mitochondrial DNA
+encodes only a handful of proteins (13 in humans and 28 in
+yeast), the genes for the vast majority of these proteins are
+located in the nucleus. Although many mitochondrial
+proteins are already known, particularly those involved in
+oxidative phosphorylation and the Krebs cycle, nearly half
+of all mitochondrial proteins remain unidentified. These
+missing proteins preclude a comprehensive understanding
+of mitochondria both in sickness and in health.
+Over the past few years, a variety of approaches have
+been used in attempts to identify the full set of
+mitochondrial proteins, a few of which are highlighted in
+Table 1. One commonly used method is a proteomic survey
+of purified mitochondria, such as the recent analysis of
+human heart mitochondria [4]. Solubilized mitochondrial
+proteins are separated using procedures such as 1D or 2D
+polyacrylamide gel electrophoresis (PAGE) or liquid
+chromatography. Proteins extracted from gels or those
+located in different column fractions are digested by
+protease, and the peptides are then identified by mass
+spectrometry. In addition to biochemical techniques,
+several genetic and genomic approaches have been used
+to expand the catalog of mitochondrial proteins (see Box 1
+for a brief description of a few of these methods). Computer
+analyses, such as the search for open reading frames
+containing mitochondrial targeting signals [5], have also
+uncovered new proteins. Specialized databases, including
+MITOP [6] and MitoProteome [7], have been developed to
+house all the known and predicted mitochondrial proteins.
+As mentioned, despite all the different approaches that
+have been used, it is estimated that nearly half of all
+mitochondrial proteins still remain unidentified. Below we
+summarize two recent papers that go a long way towards
+Box 1. Some genomic approaches for a mitochondrial
+inventory
+Genomic GFP tagging and fluorescence microscopy
+Using oligonucleotide-directed homologous recombination, each of
+the known 6234 open reading frames (ORFs) in yeast were tagged at
+the 3
+0
+end with green fluorescent protein (GFP). The subcellular
+location of the fusion protein was determined in the yeast strains
+expressing detectable GFP (70% of the strains) by fluorescence
+microscopy. The distribution of many of the fusion proteins was
+confirmed using reference proteins fused to red fluorescent protein
+or organelle-specific dyes.
+Protein splicing of split GFP in the mitochondrial matrix
+cDNAs were randomly fused to the N-terminal half of GFP and were
+introduced into cells expressing the C-terminal half of GFP in the
+mitochondrial matrix. If the cDNA encoded a protein that was
+imported into mitochondria, full-length GFP was reconstituted in the
+matrix by protein splicing elements carried in both halves of GFP.
+Positive GFP signals were detected by automatic cell sorting.
+Epitope tagging and immunofluorescence microscopy
+By cloning polymerase-chain-reaction-amplified genes and by
+transpositional mutagenesis, ,60% of all yeast ORFs were epitope-
+tagged. The cellular location of each fusion protein was then
+determined by immunofluorescence microscopy, using antibodies
+to the epitope.
+mRNAs that cofractionate with mitochondria
+Polyribosomes bound to the surface of mitochondria are enriched
+with mRNAs encoding imported mitochondrial proteins. Using a
+genome-wide approach, new mitochondrial proteins were identified
+by the analysis of nuclear-encoded mRNAs that cofractionate with
+mitochondria.
+Screening yeast mutants for mitochondrial function and
+morphology
+A collection of deletion mutants, representing all of the nonessential
+yeast genes, was screened for its ability to grow on a nonfermentable
+medium, which is an indicator of mitochondrial function. In addition,
+mutants were stained with a mitochondria-specific dye, and those
+defective in the normal shape and distribution of mitochondria were
+examined by fluorescence microscopy.
+Corresponding author: Robert E. Jensen (rjensen@jhmi.edu).
+Update TRENDS in Cell Biology Vol.14 No.5 May 2004
+www.sciencedirect.com
+solving this problem, and significantly add to our under-
+standing of mitochondrial complexity and function.
+The yeast mitochondrial proteome
+A major step towards a complete inventory of mitochon-
+drial proteins has recently been accomplished using a
+proteomic approach with highly purified yeast mitochon-
+dria [8]. In this report by Sickmann et al. [8], 750 proteins
+were identified, of which 436 had been previously shown to
+be mitochondrial proteins. Based on the observation that
+all of the known subunits of the pyruvate dehydrogenase
+complex, the Krebs cycle enzymes and the inner mem-
+brane complexes of oxidative phosphorylation were
+detected, and that 65 of the 73 known mitochondrial
+ribosomal proteins were found, it is estimated that at least
+90% of the total yeast mitochondrial proteins were
+identified in their study. Before this study, the largest
+proteomic survey identified 615 proteins using human
+heart mitochondria, representing only ,45% of the
+predicted total [4]. In this and other early attempts, it is
+likely that many mitochondrial proteins were not ident-
+ified due to their low abundance or poor solubility.
+Therefore, to maximize the chance of identifying polypep-
+tides with greatly different properties, Sickmann et al.
+used several methods to liberate mitochondrial proteins,
+including 1D-PAGE, 2D-PAGE, liquid chromatography
+and multidimensional chromatography, before their anal-
+ysis by matrix-assisted time-of-flight or tandem mass
+spectroscopy. Two mitochondria-associated fractions (pro-
+teins removed from mitochondria by salt or protease
+treatment) were also analyzed.
+Among the 750 proteins identified by Sickmann et al.
+there are several surprises. For example, more than 100 of
+the proteins had previously been reported to reside in a
+cellular compartment other than mitochondria. Although
+a few of these proteins are clearly plasma membrane,
+vacuolar or other cellular contaminants, most are likely to
+be bone fide mitochondrial proteins. Sickmann et al. chose
+several proteins that had been localized to another
+organelle and showed that each was imported into isolated
+mitochondria in an energy-dependent manner. Although a
+dual localization in mitochondria and other compartments
+can explain the discrepancy with some of these proteins, it
+is likely that many will turn out to be exclusively
+mitochondrial. For example, about half of the contentious
+proteins had been localized using only a tagging approach
+[9,10]. Because Sickmann et al. noted that many known
+mitochondrial proteins are found in the cytosol, endoplas-
+mic reticulum, vacuole or nucleus when they are tagged, it
+should not be a surprise that other fusion proteins are
+mislocalized to the mitochondria – a clear warning to
+those of us who rely solely on tags to determine where our
+favorite protein resides.
+Another surprise from the current work is that three
+proteins thought to reside fully inside the mitochondria
+(lactate dehydrogenase, cytochrome b
+2
+and the matrix-
+localized mtHsp70 protein) were detected in a surface-
+associated fraction with their N-terminal targeting signals
+still intact. Because the precursor form is not normally
+seen in cells, it was taken for granted that mitochondrial
+proteins are very rapidly imported and completely
+processed to their mature form. Clearly, this might not
+always be the case and provides a mechanism for some
+proteins to act at more than one mitochondrial location.
+A survey of mitochondrial proteins from brain, heart,
+kidney, and liver
+Although yeast mitochondria are poised to deliver the
+complete catalog of proteins, determining how mitochon-
+dria are customized for the metabolic demands of diverse
+cell types requires another line of attack. It is known that
+the activity of many biosynthetic and catabolic pathways,
+as well as the size, shape and number of the mitochondria,
+exhibit remarkable variation among different mammalian
+tissues. To pinpoint the molecular basis for this diversity,
+Mootha et al. [11] carried out a proteomic survey of
+mitochondria isolated from mouse brain, heart, kidney,
+and liver cells. A total of 399 proteins were identified and,
+when combined with the mitochondrial proteins already
+known, as well as those from the recent human heart
+proteome [4], the array of mammalian mitochondrial
+proteins now numbers more than 700. For many of these
+mitochondrial genes, the RNA expression profiles from a
+wide range of tissues are known. Mootha et al. identified
+additional candidates for mitochondrial proteins among
+subnetworks of genes with correlated expression patterns.
+For example, the group of genes known to be involved in
+oxidative phosphorylation, b-oxidation and the tricar-
+boxylic acid cycle also contains 11 genes of unknown
+function. Although some of the 11 are likely to encode
+mitochondrial proteins, others might encode non-mito-
+chondrial proteins, such as transcription factors required
+for the coordinated expression of the subnetwork. In either
+case, the RNA analysis is yielding exciting new infor-
+mation that complements the proteomic data.
+Probably the most striking result from the proteomic
+comparison of mitochondria from brain, heart, kidney, and
+liver is the large number proteins that are missing from
+one or more tissues. When this information is combined
+with the RNA expression data, it appears that only half of
+all mitochondrial proteins are found in every cell type.
+Some of the similarities and differences were anticipated.
+Table 1. Some previous attempts at a mitochondrial inventory
+Approach Number of mitochondrial proteins Organism Refs
+Proteomics 615 Human [4]
+Genomic GFP
+a
+tagging and fluorescence microscopy 526 Yeast [10]
+Protein splicing of split GFP in the mitochondrial matrix 70 Mouse [15]
+Epitope tagging and immunofluorescence microscopy 332 Yeast [9]
+mRNAs that cofractionate with mitochondria ,200 Yeast [16]
+Screening yeast mutants for mitochondrial function and morphology .300 Yeast [17]
+a
+Abbreviation: GFP, green fluorescent protein.
+Update TRENDS in Cell Biology Vol.14 No.5 May 2004
+216
+www.sciencedirect.com
+For instance, among the ubiquitous proteins are those
+involved in bioenergetics, and examples of tissue-specific
+expression (e.g. the proteins required for steroidogenesis in
+adrenal cells or heme biosynthesis in bone marrow) are well
+known. However, the possibility that hundreds of mitochon-
+drial proteins vary in their amounts from one cell type to the
+next was not expected. Just how unique mitochondria are in
+different organs awaits the quantitative proteomic and RNA
+analysis from many more tissues.
+Concluding remarks
+The survey of yeast and mammalian mitochondria has
+yielded more than 200 new proteins. A few of these have
+already been shown to be components of known pathways,
+such as a new subunit of complex I of the electron transport
+chain [12]. Others are likely to play roles in poorly
+understood processes, such as the control of organelle
+shape, number, and inheritance (Figure 1). One of the
+remaining challenges will be to determine the functions of
+all these new proteins. Because they number more than 200,
+novel methods could be needed to expedite these analyses.
+For example, it might be helpful to group genes with similar
+mRNA expression patterns, or proteins according to their
+location within mitochondria (i.e. outer membrane, inner
+membrane, intermembrane space or matrix). Systematic
+analysis of mitochondrial protein complexes might also
+provide important information. Ultimately, elucidating the
+function of many of the new mitochondrial proteins might
+require the slow grind of individual investigators chasing
+down the role of individual proteins.
+Another remaining challenge is to complete the mito-
+chondrial proteome. The mammalian inventory is the
+furthest from being done, with hundreds of proteins
+missing. More exhaustive proteomic analyses, similar to
+those used by Sickmann et al., are clearly needed. How-
+ever, even though almost all of the yeast mitochondrial
+proteins have now been identified, it might be very difficult
+to finish the job. Some of the missing proteins could be of
+such low abundance or solubility that new biochemical
+methods will be needed for their detection. Other
+mitochondrial proteins might require yeast cells to be
+grown under special conditions or on different media for
+their expression. Because mitochondria from different
+mammalian cell types show a wide range of tissue-specific
+diversity, completing the human mitochondrial proteome
+will be even more difficult. Many of the remaining
+mammalian and yeast proteins could, therefore, await
+identification by novel genetic or genomic methods. None-
+theless, the work by both Sickmann et al. and Mootha et al.
+provides a crucial framework for ultimately understanding
+the complexity of mitochondrial function and the contri-
+bution of this organelle to disease.
+References
+1 Schatz, G. (1995) Mitochondria: beyond oxidative phosphorylation.
+Biochim. Biophys. Acta 1271, 123–126
+2 Newmeyer, D.D. and Ferguson-Miller, S. (2003) Mitochondria: releas-
+ing power for life and unleashing the machineries of death. Cell 112,
+481–490
+3 Wallace, D.C. (1999) Mitochondrial diseases in man and mouse.
+Science 283, 1482–1488
+4 Taylor, S.W. et al. (2003) Characterization of the human heart
+mitochondrial proteome. Nat. Biotechnol. 21, 281–286
+5 Claros, M.G. and Vincens, P. (1996) Computational method to predict
+mitochondrially imported proteins and their targeting sequences. Eur.
+J. Biochem. 241, 779–786
+6 Scharfe, C. et al. (2000) MITOP, the mitochondrial proteome database:
+2000 update. Nucleic Acids Res. 28, 155–158
+7 Cotter, D. et al. (2004) MitoProteome: mitochondrial protein sequence
+database and annotation system. Nucleic Acids Res. 32, D463–D467
+8 Sickmann, A. et al. (2003) The proteome of Saccharomyces cerevisiae
+mitochondria. Proc. Natl. Acad. Sci. U. S. A. 100, 13207–13212
+9 Kumar, A. et al. (2002) Subcellular localization of the yeast proteome.
+Genes Dev. 16, 707–719
+10 Huh, W.K. et al. (2003) Global analysis of protein localization in
+budding yeast. Nature 425, 686–691
+11 Mootha, V.K. et al. (2003) Integrated analysis of protein composition,
+tissue diversity, and gene regulation in mouse mitochondria. Cell 115,
+629–640
+12 Fearnley, I.M. et al. (2001) GRIM-19, a cell death regulatory gene
+product, is a subunit of bovine mitochondrial NADH:ubiquinone
+oxidoreductase (complex I). J. Biol. Chem. 276, 38345–38348
+13 Bereiter-Hahn, J. and Voth, M. (1994) Dynamics of mitochondria in
+Figure 1. Fluorescent images of mitochondria. Images shown are of mitochondria in (a) Saccharomyces cerevisiae cells expressing a matrix-targeted green fluorescent
+protein and in (b) bovine pulmonary-artery endothelial cells stained with the mitochondria-specific dye MitoTrackere. Although most yeast cells contain ,5–10 tubule-
+shaped mitochondria, mammalian cells show much more variety in the shape of their mitochondria, ranging from the tubules seen in the endothelial cells to small spheres
+in liver cells and large, round organelles in corneal cells [13,14]. The number of mitochondria in mammalian cells can also vary greatly. Scale bars correspond to 10 mm.
+Update TRENDS in Cell Biology Vol.14 No.5 May 2004
+217
+www.sciencedirect.com
+living cells: shape changes, dislocations, fusion, and fission of
+mitochondria. Microsc. Res. Tech. 27, 198–219
+14 Tandler, B. and Hoppel, C.L. (1972) Mitochondria, Academic Press
+15 Ozawa, T. et al. (2003) A genetic approach to identifying mitochondrial
+proteins. Nat. Biotechnol. 21, 287–293
+16 Marc, P. et al. (2002) Genome-wide analysis of mRNAs targeted to
+yeast mitochondria. EMBO Rep. 3, 159–164
+17 Dimmer, K.S. et al. (2002) Genetic basis of mitochondrial function
+and morphology in Saccharomyces cerevisiae. Mol. Biol. Cell 13,
+847–853
+0962-8924/$ - see front matter q 2004 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.tcb.2004.03.006
+O-GlcNAc modification: a nutritional sensor that
+modulates proteasome function
+Natasha E. Zachara and Gerald W. Hart
+Department of Biological Chemistry, The Johns Hopkins University Medical School, Baltimore, MD 21205-2185, USA
+The addition of O-linked b-N-acetylglucosamine
+(O-GlcNAc) to serine and threonine residues is a post-
+translational modification of nucleocytoplasmic
+proteins that is thought to act in a manner analogous
+to protein phosphorylation. Recent work shows that
+many proteins of the metazoan proteasome are modi-
+fied by O-GlcNAc and that the level of glycosylation is
+responsive to the nutritional state of the cell. More-
+over, increased glycosylation of the 19S (or PA700)
+regulatory subcomplex has been correlated with
+decreased proteasomal activity, suggesting a new
+model of proteasomal regulation.
+TheadditionofO-linkedb-N-acetylglucosamine(O-GlcNAc)
+to serine and threonine residues of nuclear and cyto-
+plasmic proteins (Table 1) is an essential post-transla-
+tional modification of metazoans [1]. O-GlcNAc levels
+change rapidly and dynamically in response to cellular
+stress [2], extracellular stimuli, morphogens, the cell cycle
+and development, which alludes to key roles for O-GlcNAc
+in regulating cellular function [1]. On key nuclear and
+cytoplasmic proteins, such as RNA polymerase II [3],
+endothelial nitric oxide synthase [4,5], SV-40 large T
+antigen [6], estrogen receptor-b (ER-b) [7] and the c-Myc
+proto-oncogene [8], glycosylation and phosphorylation
+have been mapped to the same amino acid, suggesting a
+complex interplay exists between these two post-transla-
+tional modifications (Figure 1). Recent work from two
+groups shows that the metazoan proteasome is modified
+extensively by O-GlcNAc [9] and that increased glycosyla-
+tion ablates the ATPase activity of the 19S (or PA700)
+subcomplex towards some substrates [10]. O-GlcNAc
+modification of proteasomal function appears to be
+dependent on the nutritional status of cells, providing
+further evidence for the roles of O-GlcNAc in nutritional
+sensing and subsequent cellular regulation.
+Between 2 and 5% of the glucose transported into cells is
+converted to UDP-GlcNAc (the donor sugar for the
+biosynthesis of O-GlcNAc) through the hexosamine bio-
+synthetic pathway [11]. Elevated extracellular glucose or
+glucosamine concentrations lead to increased modification
+of intracellular proteins with O-GlcNAc [12]. Moreover,
+the substrate specificity of O-GlcNAc transferase (OGT),
+the enzyme that catalyzes the addition of O-GlcNAc,
+changes at different UDP-GlcNAc concentrations [13].
+Recent in vitro and in vivo data support a model in which
+increased UDP-GlcNAc levels, due to hyperglycemia,
+result in increased O-GlcNAc levels, leading to insulin
+resistance – a hallmark of type II diabetes [14–17]. These
+data and others have led researchers to propose that
+Table 1. Key cellular proteins are modified by O-GlcNAc
+a,b
+Functional protein group Examples
+Chaperones HSP27; HSP70; HSP90; HSC70; HSP90
+Transcription factors and polymerises RNA polymerase II large subunit; Sp1; c-Fos; c-Jun; c-Myc; p53; b-catenin; NF-kB; YY1;
+RB; CREB
+Nuclear pore proteins and chromatin-associated proteins p62; Nup153; Nup180; Nup214; Nup358
+RNA-binding proteins hnRNP G; eIF4a; ribosomal proteins
+Kinases and adaptor proteins CKII; IRS1; IRS2; GSK3b; PtdIns 3-kinase
+Cytoskeletal proteins Keratins 8, 13, 18; neurofilaments H, M, L; band 4.1; talin; vinculin; ankyrin G;
+synapsin 1; myosin; E-cadherin; tubulin; tau; AP-3; AP-188; b-APP; b-synuclein
+Others eNOS; enolase; glycogen synthase; glut-1; OGT
+a
+Abbreviations: AP, clathrin assembly protein; b-APP, b-amyloid precursor protein; CKII, casein kinase II; CREB, cAMP-response-element-binding protein; eIF4a, eukaryotic
+initiation factor 4a; eNOS, endothelial nitric oxide synthase; glut-1, glucose transporter-1; GSK3b, glycogen synthase kinase3b; hnRNP G, heterogeneous nuclear
+ribonucleoprotein G; HSP, heat shock protein; IRS, insulin-receptor substrate; NF-kB, nuclear factor-kB; Nup, nucleoporin; O-GlcNAc, O-linked b-N-acetylglucosamine;
+OGT, O-GlcNAc transferase; p62, nuclear pore protein 62; PtdIns 3-kinase, phosphatidylinositol 3-kinase; RB, retinoblastoma protein; YY1, yin yang-1.
+b
+More than 100 proteins that are modified by O-GlcNAc have been identified. For comprehensive details, see Ref. [26].
+Corresponding author: Gerald W. Hart (gwhart@jhmi.edu).
+Update TRENDS in Cell Biology Vol.14 No.5 May 2004
+218
+www.sciencedirect.com

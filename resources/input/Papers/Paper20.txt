@@ -1,0 +1,1208 @@
+Colombo
+Padua,
+power station for ATP production, however, other key cell
+functions are also controlled by these organelles, such as
+ently exceed the mean Ca
+2+
+concentration of the bulk
+cytoplasm by several fold. Such microdomains have key
+Review TRENDS in Cell Biology Vol.17 No.10
+lipid oxidation, oxygen radical production and hormone
+metabolism[1].Overrecentyears,twoadditionalfunctions
+of mitochondria have received particular attention: Ca
+2+
+homeostasis and the release of apoptotic factors in
+response to death signals [2]. The ER is also involved in
+Ca
+2+
+homeostasis because it acts as the principal internal
+store of Ca
+2+
+ions. In addition, it is responsible for the
+synthesis of the majority of phospholipids and, in the case
+of the rough ER, of most membrane proteins and of soluble
+proteins destined to the secretory pathway. In striated
+muscle, the ER is organized structurally and functionally
+differently from that of other cells and is named sarcoplas-
+mic reticulum (SR); the majority of the SR membrane
+network is devoid of bound ribosomes and is dedicated
+solely to the uptake and release of Ca
+2+
+.
+roles in cell physiology; for example, for the release of
+neurotransmitters in synaptic terminals or for enabling
+fast mitochondrial uptake (reviewed in Ref. [4]). The Ca
+2+
+signals are complex not only spatially but also temporally.
+Thus, in excitable cells, the Ca
+2+
+increases follow the
+pattern of membrane-potential oscillations, however, in
+non-excitable cells, activation of membrane receptors also
+often results in repetitive cytosolic Ca
+2+
+oscillations owing
+to cycles of Ca
+2+
+release and uptake from the ER. Note-
+worthy, cells have devised ways to decode not only the
+amplitude but also the frequency of such Ca
+2+
+oscillations
+[5,6].
+In this review, we will focus on the structural and
+functional aspects of ER–mitochondria interactions that
+are pivotal in the control of Ca
+2+
+signaling and of the
+processes that depend on them. In particular, as discussed
+in more detail later, physical interactions exist between
+thetwoorganellesthatmighthaveamajorrole,bothinthe
+Corresponding author: Pizzo, P. (paola.pizzo@unipd.it).
+Available online 11 September 2007.
+www.sciencedirect.com 0962-8924/$ – see front matter C223 2007 Elsevier Ltd. All rights reserved. doi:10.1016/j.tcb.2007.07.011
+Mitochondria series
+Mitochondria–endoplasmic
+choreography: structure
+signaling dynamics
+Paola Pizzo
+1,2
+and Tullio Pozzan
+1,2,3
+1
+Department Biomedical Sciences, University of Padua, Viale G.
+2
+CNR Institute of Neuroscience, University of Padua, Viale G. Colombo
+3
+Venetian Institute of Molecular Medicine, Via G. Orus 2, 35129
+Mitochondria and endoplasmic reticulum (ER) have
+different roles in living cells but they interact both phy-
+sically and functionally. A key aspect of the mitochon-
+dria–ER relationship is the modulation of Ca
+2+
+signaling
+during cell activation, which thus affects a variety of
+physiologicalprocesses.Wefocushereonthemolecular
+aspectsthat controlthe dynamics of the organelle–orga-
+nelle interaction and their relationship withCa
+2+
+signals,
+also discussing the consequences that these phenom-
+ena have, not only for cell physiology but also in the
+control of cell death.
+Introduction
+The presence of intracellular membrane-bound organelles
+isoneofthedefiningfeaturesofeukaryotescompared with
+prokaryotes.Inthisreview,weconcentrateontherelation-
+ships between two of these organelles, the endoplasmic
+reticulum (ER) and mitochondria. Although their classical
+rolesaredistinct,evidencehasaccumulatedpointingtothe
+importance of their reciprocal structural and functional
+interactions for some key integrated cellular functions.
+The best known role of mitochondria is that of the cell
+reticulum
+and
+3, 35121 Padua, Italy
+3, 35121 Padua, Italy
+Italy
+As discussed in more details in the following para-
+graphs, a major area of functional interaction between
+the ER and mitochondria is the control of Ca
+2+
+signaling.
+Thisisatopicofmajorinterestinphysiologyandpathology
+(for recent reviews, see [3]). Here, we summarize briefly a
+few general concepts. The [Ca
+2+
+] of the cytoplasm of
+all eukaryotic cells is maintained at very low levels
+under resting conditions (10–100 nM) and rapid increases
+(C201–2 mM) in cytoplasmic [Ca
+2+
+] are triggered either by
+Ca
+2+
+releasefromtheER/SRand/orbyCa
+2+
+influxthrough
+plasma membrane channels. The Ca
+2+
+signal is then ter-
+minatedthroughCa
+2+
+re-accumulationinthestoresand/or
+extrusion into the external milieu. All cellular organelles
+participate in Ca
+2+
+signaling, however, mitochondria that
+accumulate transiently (and then release) part of the Ca
+2+
+coming from the ER/SR or through plasma membrane
+channels have a key role (see later). Owing to the high
+number of immobile Ca
+2+
+buffers in the cytoplasm, the
+speed of Ca
+2+
+diffusion is slow, C2410 mm
+2
+/sec and this
+enablestheformationofintracellulargradientsandmicro-
+domains (localized small cell regions in the proximity of
+Ca
+2+
+channels) where the Ca
+2+
+concentrations can transi-
+512 Review TRENDS in Cell Biology Vol.17 No.10
+exchange of metabolites and in determining the efficiency
+of Ca
+2+
+uptake by mitochondria in living cells, as well as in
+regulating the extent and speed of Ca
+2+
+release from the
+ER/SR.
+ER and mitochondria: structure and dynamics
+The ER and mitochondria are known to be highly motile
+within most eukaryotic cells. Such dynamics depend on
+continuous fusion and budding of vesicles from the main
+membrane network (in the ER), fusion and fissionbetween
+mitochondria and short- or long-range movements of indi-
+vidual vesicular elements along cytoskeletal structures. In
+afew cell types, suchas striated muscle, the morphology of
+the two organelles is highly ordered and stable, character-
+ized by the localization of part of the mitochondria in
+close apposition to SR terminal cysternae. The problem
+ofSR–mitochondriainteractionsinstriatedmusclewillnot
+be dealt with here in any detail (but see [7] for more
+information).
+The ER is a complex organelle composed of membrane
+sheets that enclose the nucleus (the nuclear envelope) and
+an elaborate interconnected tubular network in the cyto-
+sol. This highly dynamic and elaborate structure is main-
+tained by a constant remodeling process that involves the
+formation of new tubules, their transport along the cytos-
+keleton and homotypic fusion [8]. The movement of ER
+tubules in animal cells is known to depend on the micro-
+tubule network, mainly reflecting microtubule dynamics
+and involving kinesinfamily proteins, althoughperipheral
+ER tubules also move along actin filaments [9]. Several
+proteins are involved in the interaction of polymerizing
+microtubules and ER structures [8]. These include p22, a
+myristoylated protein containing an EF-hand Ca
+2+
+-bind-
+ingdomain;thisproteinbindsmicrotubulesandassociates
+to ER membranes in a Ca
+2+
+-dependent manner [10], pro-
+viding a potential Ca
+2+
+-regulated link between the ER and
+the cytoskeleton (see also later).
+The classical view of mitochondria, that is, small
+(<1 mm in size) vesicular structures scattered throughout
+the cytoplasm, has been challenged over recent decades
+by the demonstration that mitochondria are rather
+represented by organelles of different sizes, in equilibrium
+with a highly dynamic reticular network, where the shape
+andsizeofeachindividualorganellecanvarydramatically
+[11].Themovementofmitochondriacanbelimitedtolocal,
+short-range motility from morphological alterations of the
+mitochondrial network or migrations of the circular orga-
+nelles across long distances (e.g. along axons). It is gener-
+ally believed that the movement of mitochondria depends
+on, and occurs along, the microtubule network, typically
+mediated by the molecular motor proteins kinesin and
+dynein; the actin cytoskeletonisalsoinvolved,although
+itsroleislessdefined[12] (see also Ref. [13] in this issue).
+How molecular motors control mitochondrial movement
+is not completely clear. Recent work in Drosophila ident-
+ified two proteins that seem to be important for mito-
+chondrial transport: Milton, a cytoplasmic protein that
+can be co-immunoprecipitated with kinesin heavy chains
+[14], and Miro, an integral protein of the outer mitochon-
+drial membrane (OMM) [15]. Kinesin, Milton and Miro
+are thought to work together, with Milton responsible
+www.sciencedirect.com
+for the attachment of kinesin to the organelles through
+Miro [16].
+An interesting and unique feature of mitochondria is
+that the distribution of these organelles seems to vary
+according to local energy requirements. For example,
+within neurons, mitochondria are more crowded at sites
+associated with high energy demands, such as presynaptic
+terminals, active growth cones and branches, nodes of
+Ranvier or regions of axonal protein synthesis [17]. More-
+over, glutamate-induced cytosolic Ca
+2+
+increases inhibit
+mitochondrial mobility in neurons and this was suggested
+to occur as a result of local ATP depletion [18]. It is,
+however, still unclear whether ATP itself or other signals,
+Ca
+2+
+in particular, control this mitochondrial localization.
+For example, in HEK293 cells, maximal mitochondrial
+movement occurs at the resting level of cytosolic Ca
+2+
+,
+whereas complete suppression of motility is observed at
+the peak ofagonist-induced cytosolic Ca
+2+
+oscillations [19].
+These and other findings have led to the proposal of a
+model in which the temporal and spatial coordinated
+regulation of mitochondria movement and their subcellu-
+lar distribution is controlled by the cytosolic concentration
+ofboth Ca
+2+
+and ATP,ensuringthe right amountofenergy
+is available at the right time and place within the cell [20].
+Of interest, the mitochondrial protein Miro contains two
+predicted EF-hand domains [21,22] and it might be specu-
+lated that, thanks to these domains, Miro might be
+involved in Ca
+2+
+-dependent regulation of mitochondrial
+motility [23]. It should be stressed that mitochondrial
+localization might also be modulated in response to other
+physiological signals: for example, in dorsal root ganglion
+neurons, activation of TrkA receptors by NGF activates
+PI3K, which results in actin-dependent docking of mito-
+chondria in axons [24].
+ER–mitochondrial interactions
+It has been known for a long time that, in electron
+micrographs of different cell types, mitochondria and ER
+cysternae are often in close contact but such images were
+considered to be largely artifacts of fixation. Experiments
+in living cells with the two organelles labeled by green-
+fluorescent protein (GFP) [25] and electron micrograph
+images of samples frozen quickly [26] have demonstrated
+conclusively that such physical interactions between the
+two organelles indeed exist. Recently, it has also been
+shown by electron tomography that ER and mitochondria
+areadjoinedbytethers(10 nmatthesmoothERand25 nm
+at the rough ER) and that coupling between these two
+organelles can be weakened and strengthened by demoli-
+tion and enforcement of this inter-organellar protein link-
+age [27]. Some evidence supports the hypothesis that the
+movement of mitochondria might occur concomitantly and
+in synchrony with that of specific ER regions. The mech-
+anism of this reciprocal organelle-docking remains unre-
+solved but it has been proposed that it depends on the
+expression on both membranes of complementary proteins
+that link the two organelles together, possibly at specific
+sites (Figure 1). For example, the voltage-dependent anion
+channel (VDAC) of the OMM interacts physically with the
+inositol 1,4,5-trisphosphate receptor (Ins(1,4,5)P
+3
+R) on
+the ER through the molecular chaperone grp75 [28].It
+Review TRENDS in Cell Biology Vol.17 No.10 513
+is unknown presently whether and to what extent the
+physical interactions between the ER and mitochondria
+are stable or dynamic. However, it should be stressed that
+the close apposition of mitochondria to the ER membrane
+coversasmallfractionoftheorganellesurface[25].Accord-
+ingly, in the case of elongated mitochondria, only one part
+of the organelle is anchored to the ER and the rest can
+move independently.
+The interactions between the two organelles seem to
+also be modulated by fission and fusion of mitochondria.
+Fission and fusion are regulated by a family of ‘mitochon-
+dria-shaping proteins’ (Figure 1). In mammals, the best
+characterized of these proteins is DRP-1 [29], a cytosolic
+dynamin-relatedproteinthatinteractsatfissionsites with
+its molecular adaptor hFis1 [30] (an integral protein of the
+OMM), and promotes mitochondrial fragmentation. Mito-
+fusin (MFN)1 and 2 also reside in the OMM and regulate
+mitochondrial fusion [31]; the fusion mediated by MFN1
+Figure 1. Local ER–mitochondria interactions. A representation is depicted of ER–mitochond
+the organelles. Ca
+2+
+released from the ER through Ins(1,4,5)P
+3
+Rs is taken up by mitochondria
+dehydrogenase activity and thus ATP production. Moreover, mitochondrial Ca
+2+
+uptake
+many Ca
+2+
+-dependent cellular processes. Massive and/or a prolonged accumulation of Ca
+of the organelle or, acting on mitochondria-shaping proteins [DRP-1, hFis1, OPA1, mitofusins
+The ‘in concert’ action of the two organelles in cell death is further supported by the presence
+family that have either a pro- (BIK, BAX, BAK) or an anti-apoptotic role (Bcl-2, Bcl-XL).
+molecules (grp75, PACS-2), either directly or through proteins expressed on the two membranes
+Ca
+2+
+sensitive mitochondrial dehydrogenases; Cyt c, cytochrome c; IMM, inner mitochondrial
+mitochondrial membrane; MCU, mitochondrial Ca
+2+
+uniporter; PTP, permeability transition
+dependent anion channel.
+www.sciencedirect.com
+but not by MFN2 requires the inner mitochondrial mem-
+brane (IMM) protein OPA1 [32].
+Fusion and fission of mitochondria can be regulated by
+Ca
+2+
+. The recruitment of DRP-1 to mitochondria seems to
+be stimulated by Ca
+2+
+uptake into the organelles [33],
+whereas fragmentation of the mitochondrial network,
+induced by over-production of DRP-1, reduces the global
+amplitude of mitochondrial Ca
+2+
+responses [34]. Along the
+same lines, over-production of the ER-associated protein
+p20, a cleavage product of the Bcl-2-interacting protein
+BAP31, stimulates Ca
+2+
+release from the ER and the
+subsequent recruitment of the fission protein DRP-1 to
+mitochondria [33]. Moreover, depletion of the multifunc-
+tionalcytosolic-sortingproteinPACS-2hasasimilareffect,
+causing BAP31-dependent mitochondria fragmentation
+and uncoupling from the ER. In addition, PACS-2 regu-
+latestheformationofERlipid-synthesizingcentersaswell
+as the translocation of the pro-apoptotic protein Bid to
+ria relationships and of some of the proteins involved in the cross-talk between
+through the MCU. Within mitochondria, Ca
+2+
+modulates mitochondrial
+regulates the spatio-temporal pattern of the cytosolic Ca
+2+
+signal and, therefore,
+2
+in the mitochondria can lead to the opening of the PTP in the IMM and swelling
+(MFNs)], to mitochondrial cristae remodeling and modulation of apoptosis.
+on both the ER membrane and the OMM of different components of the Blc-2
+ER and mitochondria could be linked physically at specific sites by cytoplasmic
+(IP
+3
+R, VDAC). Readers are referred to the text for further details. CsmtDHs,
+membrane; IP
+3
+R, inositol 1,4,5-trisphosphate receptor; OMM, outer
+pore; SERCA, sarcoplasmic-endoplasmic reticulum Ca
+2+
+ATPase; VDAC, voltage-
+important
+the
+from
+activity
+on
+chondrial
+the
+channels.
+to
+matrix
+genases).
+We
+2.
+514 Review TRENDS in Cell Biology Vol.17 No.10
+mitochondria in response to apoptotic stimuli [35].It
+has thus been suggested that PACS-2 could control the
+apposition of rod-like mitochondria to the ER, influencing
+multiple organelle-specific functions, such as mitochon-
+drial fusion–fission events, lipid metabolism and apopto-
+sis. The existence of mutual interactions between the two
+organelles is further supported by the finding that BIK, a
+BH3-only member of the Bcl-2 family, is anchored on
+the ER surface and induces the recruitment of DRP-1 to
+mitochondria [36] (Figure 1).
+Insummary,theprocessesregulatingthemorphologyof
+thetwoorganellesandtheirdynamicinteractionshavekey
+functional consequences that will be analyzed in more
+detail in the following paragraphs. As to mitochondrial
+fusionandfission,thistopichasbeenthesubjectofintense
+studies over recent years and the interested reader is
+referred to recent reviews for more detailed discussion
+(e.g. [37],or[38] in this issue).
+ER–mitochondria interactions in cell signaling and
+metabolism
+ExchangeofmetabolitesbetweenmitochondriaandtheER
+occurs continuously during the life span of a cell. For
+example, ATP produced by oxidative phosphorylation is
+used by ATPases located within the ER (membrane or
+lumen); in the opposite direction, products of ER metabolic
+pathways, such as phospholipids, are transferred continu-
+ously to the mitochondrial membranes. As to ER–mito-
+chondria phospholipid transfer, probably one of the best
+studied is that involved in phosphatidyletanolamine bio-
+synthesis.Phosphatidylserine(PS)is,infact,synthesizedin
+the ER by two enzymes (phosphatidylserine synthase and
+phosphatidylethanolamine N-methyltransferase), trans-
+portedto the mitochondria and decarboxylatedat the outer
+surface of the IMM by phosphatidylserine decarboxylase
+[39]. This process of lipid transfer depends on the physical
+association between the two organelles. The transfer of
+phospholipidsbetweenthetwoorganellesisconsistentwith
+a collision-based mechanism in which the two structures
+come into close contact with one another [40]. Indeed, a
+majorfractionofPSislocalizedinanER-relatedmembrane
+fraction that is tightly associated to mitochondria, the so
+called ‘mitochondria-associated membranes’.
+However, the aspect of functional interaction between
+the ER and mitochondria that has received most attention
+in recent decades is undoubtedly that involving Ca
+2+
+ions.
+This is because Ca
+2+
+exchange between the ER and
+mitochondria not only has a crucial role in regulating
+the physical interactions between the two organelles,
+as described earlier, but it also regulates a variety of
+physiological processes, including aspects of apoptosis
+and necrosis.
+The process of Ca
+2+
+exchange between the ER and the
+mitochondria is often looked at simplistically as the ER
+being the Ca
+2+
+-storage compartment releasing Ca
+2+
+on
+stimulation and the mitochondria as the Ca
+2+
+sinks that
+sequester part of the released cation. Although the uptake
+ofCa
+2+
+releasedfromtheERintothemitochondrialmatrix
+is probably the best known and studied aspect of the
+2+
+crosstalk between the two organelles, Ca on the cytosolic
+surface of both the ER and mitochondria can also have
+www.sciencedirect.com
+3. Extensiveliteraturehasalsobeenpublishedontherole
+of intramitochondrial Ca
+2+
+in the regulation of three
+matrix dehydrogenases (e.g. [47]). The best studied is
+the pyruvate dehydrogenase complex (Ca
+2+
+activates a
+phosphatase, which in turn dephosphorylates three
+serine residues on the a-subunit of the enzyme,
+increasing the activity of the complex). The other
+Ca
+2+
+-sensitive matrix dehydrogenases, NAD-isocitrate
+and the 2-oxoglutarate dehydrogenases, are activated
+by Ca
+2+
+directly (reviewed in Ref. [42]). Thus,
+the overall result is that an increase in mitochondrial
+Ca
+2+
+uptake, stimulated by ER Ca
+2+
+release, activates
+ATP production, matching aerobic metabolism to
+release
+this topic [43,44]. Local [Ca
+2+
+] can have both a positive
+andanegativeeffectontheopeningprobabilityofthese
+Ca
+2+
+channels;mitochondria,bysequesteringintotheir
+matrix part of the released Ca
+2+
+might modify the
+cytosolic local Ca
+2+
+level and thus the Ca
+2+
+activation/
+inhibition of the ER channels themselves. Thus,
+resident mitochondria, especially acting as Ca
+2+
+sinks
+in spatially restricted areas, could reduce the positive
+Ca
+2+
+feedback on the Ins(1,4,5)P
+3
+R (or RyR) and could
+also prevent the Ca
+2+
+-dependent inactivation of the
+channels. In other words, depending on the tissue
+and the Ca
+2+
+-release channel isoforms expressed,
+mitochondrial Ca
+2+
+uptake can favor or reduce Ca
+2+
+from the ER (e.g. [45,46]).
+excellent
+Two mitochondrial metabolite transporters, aralar1
+and citrin, which are isoforms of the mitochondrial
+aspartate/glutamate carrier, are regulated by cytosolic
+Ca
+2+
+thanks to the presence on their cytosolic tail of
+four EF-hand Ca
+2+
+-binding motifs [41]. Similarly, the
+enzyme glycerol phosphate dehydrogenase, which is
+particularly active in insect flight muscle, but which is
+also a component of the redox shuttle whereby some
+mammalian tissues oxidize glycolytically derived
+NADH, is controlled by [Ca
+2+
+] in the intermembrane
+space [42]. Thus, Ca
+2+
+released from the ER, even
+without entering the mitochondria, can participate in
+themodulationofmitochondrialmetabolismandhence
+of ATP synthesis.
+The allosteric modulation by Ca
+2+
+of the two best
+known ER Ca
+2+
+-release channels [the Ins(1,4,5)P
+3
+R
+and the ryanodine receptor (RyR)] has been the subject
+of intense research over recent years and many
+reviews have been published that deal with
+ately:
+1.
+regulatory roles. In particular: (i) the [Ca
+2+
+]in
+intermembrane space (known to be indistinguishable
+that of the surrounding cytosol) modulates the
+ofmetabolitecarriersorofdehydrogenaseslocated
+the outer surface of the IMM; and (ii) the local mito-
+Ca
+2+
+sequestration has profound effects on
+allosteric modulation by Ca
+2+
+of the ER Ca
+2+
+-release
+Astothe[Ca
+2+
+]withinmitochondria,itisknown
+activate three key metabolic enzymes located in the
+(pyruvate, a-ketoglutarate and isocitrate dehydro-
+will now consider these three Ca
+2+
+effects separ-
+energy demand (Figure 1). Direct measurement of
+mitochondrial ATP levels, by using a targeted chimera
+the
+such
+aldosterone
+accumulation
+lasting
+relea
+of
+responses to subsequent stimuli [64]. For example, such a
+process can contribute to post-tetanic potentiation at the
+crayfish neuromuscular junction [65].
+Mitochondria and ER cross-talk in cell death
+Celldeath,whetherduetoinjuryleadingtonecrosisordue
+to the tightly controlled process of apoptosis, has been the
+subject of a large number of studies over recent decades. It
+is firmly established that Ca
+2+
+can have a major role in
+either form of cell death, as reviewed extensively recently
+(see [2,66]). Here, we limit ourselves to a few consider-
+ationslinkingtheprocessofapoptosistomitochondria–ER
+interactions.
+The key process connecting apoptosis to the ER–mito-
+chondriainteractionsisthediscoverythatamassiveand/or
+aprolongedaccumulationofCa
+2+
+intothemitochondriacan
+lead to the opening of a large conductance pore in the IMM
+[the permeability transition pore (PTP)], swelling of the
+organelle,breakageoftheOMMandreleaseintothecytosol
+of a series of proapoptotic proteins, such as cytochrome c,
+apoptosis-inducingfactor(AIF)andsmac/diablo[67](Box1).
+The role of the ER in supporting the mitochondrial
+apoptosis pathway is further demonstrated by several
+Box 1. Interplay between ER and mitochondria in the
+regulation of apoptosis
+A key step in the cell death signaling cascade involving mitochon-
+dria is the release from the inter-membrane space of several
+proapoptotic proteins, such as cytochrome c, apoptosis-inducing
+factor (AIF) and smac/diablo [67]. Loss of the outer mitochondrial
+membrane (OMM) permeability barrier might be dependent on the
+formation of specific pores (permeable to small proteins) made by
+the oligomerization on the OMM of proapoptotic proteins or on the
+rupture of the OMM, owing to swelling of the matrix. Swelling of the
+matrix depends on the activation of the so called ‘permeability-
+Review TRENDS in Cell Biology Vol.17 No.10 515
+www.sciencedirect.
+AbidirectionalCa couplingbetweenmitochondriaand
+ER has been suggested to regulate other processes,
+as thermogenesis in brown adipocytes [62] and
+synthesis [63]. Finally, mitochondrial Ca
+2+
+on cell stimulation could also have a long-
+effect on cytoplasmic Ca
+2+
+signals. Indeed Ca
+2+
+sefromloadedmitochondriamightextendtheduration
+(iv) they act in restricted microenvironments, modulating
+the behavior of specific Ca
+2+
+channels [46,59–61].
+of the ATP-sensitive photoprotein luciferase, indeed
+demonstrated directly that the Ca
+2+
+rise within
+mitochondria enhances ATP production, an effect that
+lasts longer than the Ca
+2+
+signal itself, highlighting a
+novel form of ‘metabolic memory’ at the cellular level
+[48].
+This Ca
+2+
+-dependent ER–mitochondria crosstalk in
+part depends on the capacity of mitochondria to accumu-
+late Ca
+2+
+within their matrix through the so-called ‘Ca
+2+
+uniporter’.Thisisagateddivalentcationchannel[49]that
+drivesCa
+2+
+intothemitochondrialmatrixattheexpenseof
+the membrane potential, which is negative inside, gener-
+ated by the respiratory chain (or by ATP hydrolysis). Ca
+2+
+is then extruded back into the cytosol by antiporters (Na
++
+or H
++
+/Ca
+2+
+), driven by the ion gradients [4]. The molecular
+identities of the uniporter and of the antiporters are still
+unknown but a very recent report [50] has shed some light
+on the nature of the uniporter. In particular, it has been
+shown (using siRNA, cells from knockout mice and protein
+over-expression) that the so called ‘uncoupling proteins 2
+and 3’ might be part of this elusive entity that has escaped
+identification, despite intense research, for over 40 years.
+The speed and amplitude of Ca
+2+
+accumulation in
+response to ER Ca
+2+
+release in living cells are much faster
+and larger than expected from the low affinity for Ca
+2+
+of
+the uniporter, as measured in vitro [51]. In situ, the rapid
+accumulation of Ca
+2+
+by mitochondria seems to depend on
+the generation, close to the organelles, of cytosolic micro-
+domains of high [Ca
+2+
+](Figure 1) due either to Ca
+2+
+influx
+or ER Ca
+2+
+release. Thus, in living cells, mitochondria
+respond promptly to physiological rises in cytosolic Ca
+2+
+with very rapid and large increases in their matrix [Ca
+2+
+],
+as shown clearly in different cell types (reviewed recently
+inRef.[4]).Importantly, thereseemnottobemajorkinetic
+limitations in the capacity of mitochondria to accumulate
+andreleaseCa
+2+
+rapidlybecausefastuptakeandreleaseof
+Ca
+2+
+from the organelles occurs in tissues, such as cardiac
+myoblasts [52] or skeletal muscle fibers [53], in which a
+single contraction–relaxation cycle is elicited by a cytosolic
+Ca
+2+
+transient increase as short as 100–200 ms.
+It should be stressed that, thanks to their Ca
+2+
+-uptake
+capacity, mitochondria influence the spatio–temporal pat-
+tern of the Ca
+2+
+signal within the cell and therefore many
+Ca
+2+
+-dependent cellular processes. Indeed: (i) by buffering
+local Ca
+2+
+and/or by returning it back to the cytosol after
+sequestration, mitochondria have a fundamental role in
+enabling the maintenance of cytosolic Ca
+2+
+oscillations
+[54–56], (ii) by functioning as high-capacity Ca
+2+
+sinks,
+they modulate the propagation of Ca
+2+
+waves (e.g. in
+exocrine pancreas) [57], (iii) they reduce the amount of
+Ca
+2+
+available to trigger exocytosis in adrenal cells [58] or
+2+
+the cytosolic Ca
+2+
+response, which could influence cell
+com
+transition pore’ (PTP), a large nonselective channel (permeable to
+ions and solutes C201000–2000 Da) formed in the inner mitochondrial
+membrane (IMM) that causes massive ion and water influx into the
+matrix. The PTP can be opened by various conditions, including a
+prolonged Ca
+2+
+influx. The Bcl-2 family includes more than 25
+proteins that contain one or more Bcl-2 homology domain (BH
+domains). Functionally, Bcl-2s are divided into anti-apoptotic
+proteins, such as Bcl-2 and Bcl-X(L), and proapoptotic proteins,
+including Bax, Bak, Bid and Bad [77]. Bcl-2 proteins form oligomers
+with each other commonly and a delicate balance between anti- and
+pro-apoptotic proteins is required to maintain the integrity of the
+OMM permeability barrier. Bcl-2 members can either constitutively
+bind to both the ER and the mitochondrial membrane and/or are
+recruited from the cytoplasm onto the organelles on activation.
+Some anti-apoptotic Bcl-2 members (Bcl-2 itself and Bcl-XL) can
+affect ER Ca
+2+
+storage. For example, Bcl-2 over-expression results in
+a decrease of ER luminal [Ca
+2+
+] and this effect has been attributed to
+an increase in the Ca
+2+
+leak from the organelle [68–71]. Moreover,
+knockdown of Bax and Bak increases the interaction of Bcl-2 with the
+type-1 IP3Rs and promotes both the phosphorylation of the IP3R and
+a constitutive Ca
+2+
+leak through the IP3Rs under basal conditions
+[72–74] (Figure 1). A reduced ER Ca
+2+
+content, as in the case of Bcl-2
+overexpression or knockdown of Bax/Bak, reduces the amount of
+Ca
+2+
+that can be released from the ER owing to an apoptotic
+stimulus and thus decreases the probability of a Ca
+2+
+-dependent
+PTP opening (reviewed recently in [76–79]). In addition, released
+Ca
+2+
+from the ER, acting on mitochondria-shaping proteins (DRP-1,
+hFis1, OPA1, MFNs; Figure 1), can also influence mitochondrial
+cristae remodeling and thus the amount of cytochrome c that can be
+released in the cytosol [33].
+516 Review TRENDS in Cell Biology Vol.17 No.10
+findings,amongwhich:(i)over-expressionofanti-apoptotic
+proteins, such as Bcl–2, reduce the ER Ca
+2+
+level [68–71];
+(ii) down-regulation of proapoptotic proteins, such as
+Bak and Bax, reduces the ER Ca
+2+
+concentration [72–
+74]; (iii) cytochrome c release linked to DRP-dependent
+mitochondrial fragmentation depends on ER Ca
+2+
+release
+andBAP-31cleavage[33,36](Figure1).Itremainsunclear
+how the rise in mitochondrial Ca
+2+
+(that has probably
+evolved to couple cell signaling to metabolic activation)
+can be transformed into a trigger of cell death. Both the
+amplitude and, most importantly, the duration of the Ca
+2+
+riseinthemitochondriahaveamajorroleinthetransition.
+Itisourbiasedopinion,however,thatevenmoreimportant
+to transform Ca
+2+
+into a trigger of cell death is the con-
+comitant production of other insults that affect mitochon-
+drial functions (e.g. ceramide, oxygen radicals). In other
+words, the trigger for Ca
+2+
+-dependent mitochondrial acti-
+vation of cell death seems to be a form of coincidence
+detection system: only when both signals (Ca
+2+
+and the
+toxic insult) are triggered simultaneously will the whole
+machinery of apoptosis become activated [75,76].
+In the context of the mitochondria–ER relationship, it
+should be stressed that several proteins of the Bcl-2 family
+that have either a pro- or an anti-apoptotic role are located
+on both the ER membrane and the OMM, such as Bcl-2
+itself, Bax, Bak and Bcl-XL (Figure 1), again indicating
+that the two organelles act in concert in this key process
+[77]. Space limitations prevent us from discussing further
+the involvement of mitochondria and ER Ca
+2+
+in the con-
+trol of apoptosis; the interested reader is referred to recent
+reviews [2,4,78,79] (Box 1).
+Concluding remarks
+The correct organization and the mutual interactions
+between the ER and mitochondria seem to coordinate
+importantfunctionsofthetwoorganellesandtodetermine
+key aspects of cell physiology, death and survival. Future
+researchinthisfieldwillbefundamentalinunderstanding
+themolecular mechanismsthat underliespecificER–mito-
+chondriacommunicationinrelationtotheparticularneeds
+of different cells.
+In particular, a few hot questions are still largely unan-
+swered, such as: (i) what is the molecular nature of the
+proteins that link the ER and mitochondrial membranes?
+(ii) How are they regulated? (iii) What is the nature of the
+mitochondrialCa
+2+
+uniportandoftheantiporters?Wealso
+expect that more quantitative data will become available
+on the size and concentration of the Ca
+2+
+microdomains
+generated at the mitochondria–ER interface, on the mech-
+anisms, regulation and role of mitochondrial fusion and
+fission and on the role of mitochondria/ER Ca
+2+
+-dependent
+crosstalk in the control of apoptosis.
+Acknowledgements
+The original work of the authors was supported by grants from Telethon,
+AIRC, the Italian Ministry of University, the Veneto region program
+‘Biotech II’ and the University of Padova.
+References
+1 Nicholls, D.G. and Ferguson, S.J., eds (2002) Bioenergetics 3,
+Academic Press, London
+www.sciencedirect.com
+2 Hajnoczky, G. et al. (2006) Mitochondrial calcium signalling and cell
+death: approaches for assessing the role of mitochondrial Ca
+2+
+uptake
+in apoptosis. Cell Calcium 40, 553–560
+3 Rizzuto, R. et al. (2004) Flirting in little space: the ER/mitochondria
+Ca
+2+
+liaison. Sci. STKE 2004 (215), RE1
+4 Rizzuto, R. and Pozzan, T. (2006) Microdomains of intracellular Ca
+2+
+:
+moleculardeterminantsand functional consequences.Physiol.Rev.86,
+369–408
+5 Dolmetsch, R.E. et al. (1998) Calcium oscillations increase the
+efficiency and specificity of gene expression. Nature 392, 933–936
+6 Li, W. et al. (1998) Cell-permeant caged InsP
+3
+ester shows that Ca
+2+
+spike frequency can optimize gene expression. Nature 392, 936–941
+7 Franzini-Armstrong, C. et al. (1998) Comparative ultrastructure of
+Ca
+2+
+release units in skeletal and cardiac muscle. Ann. N. Y. Acad.
+Sci. 853, 20–30
+8 Borgese, N. et al. (2006) Endoplasmic reticulum architecture:
+structures in flux. Curr. Opin. Cell Biol. 18, 358–364
+9 Waterman-Storer, C.M. and Salmon, E.D. (1998) Endoplasmic
+reticulum membrane tubules are distributed by microtubules
+in living cells using three distinct mechanisms. Curr. Biol. 8,
+798–806
+10 Andrade,J.etal.(2004)TheEF-hand Ca
+2+
+-bindingprotein p22playsa
+role in microtubule and endoplasmic reticulum organization and
+dynamics with distinct Ca
+2+
+-binding requirements. Mol. Biol. Cell
+15, 481–496
+11 Anesti, V. and Scorrano, L. (2006) The relationship between
+mitochondrial shape and function and the cytoskeleton. Biochim.
+Biophys. Acta 1757, 692–699
+12 Reynolds, I.J. and Rintoul, G.L. (2004) Mitochondrial stop and go:
+signalsthatregulateorganellemovement.Sci.STKE2004(251), PE46
+13 Boldogh, I.R. and Pon, L.A. (2007) Mitochondria on the move. Trends
+Cell Biol. 17, 502–510
+14 Stowers, R.S. et al. (2002) Axonal transport of mitochondria to
+synapses depends on milton, a novel Drosophila protein. Neuron 36,
+1063–1077
+15 Guo, X.etal.(2005)TheGTPasedMiroisrequiredforaxonaltransport
+of mitochondria to Drosophila synapses. Neuron 47, 379–393
+16 Glater, E.E. et al. (2006) Axonal transport of mitochondria requires
+milton to recruit kinesin heavy chain and is light chain independent.
+J. Cell Biol. 173, 545–557
+17 Hollenbeck, P.J. and Saxton, W.M. (2005) The axonal transport of
+mitochondria. J. Cell Sci. 118, 5411–5419
+18 Rintoul, G.L. et al. (2003) Glutamate decreases mitochondrial size and
+movement in primary forebrain neurons. J. Neurosci. 23, 7881–7888
+19 Brough, D. et al. (2005) Agonist-induced regulation of mitochondrial
+and endoplasmic reticulum motility. Biochem. J. 392, 291–297
+20 Yi,M.etal.(2004)Controlofmitochondrialmotilityanddistributionby
+the calcium signal: a homeostatic circuit. J. Cell Biol. 167, 661–672
+21 Fransson, A. et al. (2003) Atypical Rho GTPases have roles in
+mitochondrial homeostasis and apoptosis. J. Biol. Chem. 278,
+6495–6502
+22 Frederick, R.L. et al. (2004) Yeast Miro GTPase, Gem1p, regulates
+mitochondrialmorphologyviaanovelpathway.J.CellBiol.167,87–98
+23 Yoon,Y. (2005)Regulation ofmitochondrialdynamics:anotherprocess
+modulated by Ca
+2+
+signals? Sci. STKE 2005 (280), PE18
+24 Chada, S.R. and Hollenbeck, P.J. (2004) Nerve growth factor signaling
+regulates motility and docking of axonal mitochondria. Curr. Biol. 14,
+1272–1276
+25 Rizzuto, R. et al. (1998) Close contacts with the endoplasmic reticulum
+as determinants of mitochondrial Ca
+2+
+responses. Science 280,
+1763–1766
+26 Mannella, C.A. (2006) The relevance of mitochondrial membrane
+topology to mitochondrial function. Biochim. Biophys. Acta 1762,
+140–147
+27 Csordas, G. et al. (2006) Structural and functional features and
+significance of the physical linkage between ER and mitochondria.
+J. Cell Biol. 174, 915–921
+28 Szabadkai, G. et al. (2006) Chaperone-mediated coupling of
+endoplasmic reticulum and mitochondrial Ca
+2+
+channels. J. Cell
+Biol. 175, 901–911
+29 Smirnova, E. et al. (2001) Dynamin-related protein Drp1 is required
+for mitochondrial division in mammalian cells. Mol. Biol. Cell 12,
+2245–2256
+30 James, D.I. et al. (2003) hFis1, a novel component of the mammalian
+mitochondrial fission machinery. J. Biol. Chem. 278, 36373–36379
+31 Chen, H. et al. (2003) Mitofusins Mfn1 and Mfn2 coordinately regulate
+mitochondrial fusion and are essential for embryonic development.
+J. Cell Biol. 160, 189–200
+32 Cipolat, S. et al. (2004) OPA1 requires mitofusin 1 to promote
+54 Zimmermann, B. (2000) Control of InsP
+3
+-induced Ca
+2+
+oscillations
+in permeabilized blowfly salivary gland cells: contribution of
+mitochondria. J. Physiol. 525, 707–719
+55 Ishii, K. et al. (2006) Ca
+2+
+shuttling between endoplasmic reticulum
+and mitochondriaunderlyingCa
+2+
+oscillations.EMBORep.7,390–396
+56 Vay,L.etal.(2007)ModulationofCa
+2+
+-releaseandCa
+2+
+oscillationsby
+Review TRENDS in Cell Biology Vol.17 No.10 517
+mitochondrial fusion. Proc. Natl. Acad. Sci. U. S. A. 101, 15927–15932
+33 Breckenridge, D.G. et al. (2003) Caspase cleavage product of BAP31
+induces mitochondrial fission through endoplasmic reticulum calcium
+signals,enhancingcytochromecreleasetothecytosol.J.CellBiol.160,
+1115–1127
+34 Szabadkai, G. et al. (2004) Drp-1-dependent division of the
+mitochondrial network blocks intraorganellar Ca
+2+
+waves and
+protects against Ca
+2+
+-mediated apoptosis. Mol. Cell 16, 59–68
+35 Simmen, T. et al. (2005) PACS-2 controls endoplasmic reticulum-
+mitochondria communication and Bid-mediated apoptosis.
+EMBO J. 24, 717–729
+36 Germain, M. et al. (2005) Endoplasmic reticulum BIK initiates DRP1-
+regulated remodelling of mitochondrial cristae during apoptosis.
+EMBO J. 24, 1546–1556
+37 Dimmer, K.S. and Scorrano, L. (2006) (De)constructing mitochondria:
+what for? Physiology (Bethesda) 21, 233–241
+38 Cerveny, K.L. et al. Regulation of mitochondrial fusion and division.
+Trends Cell Biol. (in press)
+39 Ardail, D. et al. (1989) Characterization of the submitochondrial
+compartments: study of the site of synthesis of dolichol and
+dolichol-linked sugars. Biochem. Biophys. Res. Commun. 164,
+1009–1017
+40 Vance, J.E. (1990) Phospholipid synthesis in a membrane fraction
+associated with mitochondria. J. Biol. Chem. 265, 7248–7256
+41 Lasorsa, F.M. et al. (2003) Recombinant expression of the Ca
+2+
+-
+sensitive aspartate/glutamate carrier increases mitochondrial ATP
+production in agonist-stimulated Chinese hamster ovary cells.
+J. Biol. Chem. 278, 38686–38692
+42 Hansford, R.G. and Zorov, D. (1998) Role of mitochondrial calcium
+transport inthecontrolofsubstrateoxidation.Mol.Cell.Biochem.184,
+359–369
+43 Choe, C.U. and Ehrlich, B.E. (2006) The inositol 1,4,5-trisphosphate
+receptor (IP
+3
+R) and its regulators: sometimes good and sometimes bad
+teamwork. Sci. STKE 2006 (363), re15
+44 Eisner, D.A. et al. (2004) Physiological and pathological modulation of
+ryanodine receptor function in cardiac muscle. Cell Calcium 35, 583–
+589
+45 Boitier, E. et al. (1999) Mitochondria exert a negative feedback on the
+propagation of intracellular Ca
+2+
+waves in rat cortical astrocytes. J.
+Cell Biol. 145, 795–808
+46 Landolfi, B. et al. (1998) Ca
+2+
+homeostasis in the agonist-sensitive
+internal store: functional interactions between mitochondria and the
+ER measured In situ in intact cells. J. Cell Biol. 142, 1235–1243
+47 Devin, A. and Rigoulet, M. (2007) Mechanisms of mitochondrial
+response to variations in energy demand in eukaryotic cells.
+Am. J. Physiol. Cell Physiol. 292, C52–C58
+48 Jouaville, L.S. et al. (1999) Regulation of mitochondrial ATP synthesis
+by calcium: evidence for a long-term metabolic priming. Proc. Natl.
+Acad. Sci. U. S. A. 96, 13807–13812
+49 Kirichok, Y. et al. (2004) The mitochondrial calcium uniporter is a
+highly selective ion channel. Nature 427, 360–364
+50 Trenker, M. et al. (2007) Uncoupling proteins 2 and 3 are fundamental
+for mitochondrial Ca
+2+
+uniport. Nat. Cell Biol. 9, 445–452
+51 Kroner,H.(1986)Ca
+2+
+ions,anallostericactivatorofcalciumuptakein
+rat liver mitochondria. Arch. Biochem. Biophys. 251, 525–535
+52 Robert,V. etal.(2001) Beat-to-beat oscillationsofmitochondrial [Ca
+2+
+]
+in cardiac cells. EMBO J. 20, 4998–5007
+53 Rudolf, R. et al. (2004) In vivo monitoring of Ca
+2+
+uptake into
+mitochondria of mouse skeletal muscle during contraction. J. Cell
+Biol. 166, 527–536
+www.sciencedirect.com
+mitochondrial Ca
+2+
+uniporter stimulation. J. Physiol. 580, 39–49
+57 Tinel, H. et al. (1999) Active mitochondria surrounding the pancreatic
+acinar granule region prevent spreading of inositol trisphosphate-
+evoked local cytosolic Ca
+2+
+signals. EMBO J. 18, 4999–5008
+58 Montero, M. et al. (2000) Chromaffin-cell stimulation triggers fast
+millimolar mitochondrial Ca
+2+
+transients that modulate secretion.
+Nat. Cell Biol. 2, 57–61
+59 Hoth, M. et al. (2000) Mitochondrial control of calcium-channel gating:
+a mechanism for sustained signaling and transcriptional activation in
+T lymphocytes. Proc. Natl. Acad. Sci. U. S. A. 97, 10607–10612
+60 Glitsch, M.D. et al. (2002) Store-operated Ca
+2+
+entry depends on
+mitochondrial Ca
+2+
+uptake. EMBO J. 21, 6744–6754
+61 Malli, R. et al. (2005) The role of mitochondria for Ca
+2+
+refilling of the
+endoplasmic reticulum. J. Biol. Chem. 280, 12114–12122
+62 Kuba, M. etal.(2007)Bidirectional Ca
+2+
+coupling of mitochondria with
+the endoplasmic reticulum and regulation of multimodal Ca
+2+
+entries
+in rat brown adipocytes. Am. J. Physiol. Cell Physiol. 292, C896–C908
+63 Brandenburger, Y. et al. (1996) Possible role for mitochondrial calcium
+in angiotensin II- and potassium-stimulated steroidogenesis in bovine
+adrenal glomerulosa cells. Endocrinology 137, 5544–5551
+64 Baron, K.T. and Thayer, S.A. (1997) CGP37157 modulates
+mitochondrial Ca
+2+
+homeostasis in cultured rat dorsal root ganglion
+neurons. Eur. J. Pharmacol. 340, 295–300
+65 Tang, Y-g. and Zucker, R.S. (1997) Mitochondrial involvement in post-
+tetanic potentiation of synaptic transmission. Neuron 18, 483–491
+66 Bano, D. and Nicotera, P. (2007) Ca
+2+
+signals and neuronal death in
+brain ischemia. Stroke 38, 674–676
+67 Bernardi, P. et al. (2001) A mitochondrial perspective on cell death.
+Trends Biochem. Sci. 26, 112–117
+68 Pinton,P.etal.(2000) Reduced loadingof intracellular Ca
+2+
+storesand
+downregulation of capacitative Ca
+2+
+influx in Bcl-2-overexpressing
+cells. J. Cell Biol. 148, 857–862
+69 Foyouzi-Youssefi, R. et al. (2000) Bcl-2 decreases the free Ca
+2+
+concentration within the endoplasmic reticulum. Proc. Natl. Acad.
+Sci. U. S. A. 97, 5723–5728
+70 Palmer, A.E. et al. (2004) Bcl-2-mediated alterations in endoplasmic
+reticulum Ca
+2+
+analyzed with an improved genetically encoded
+fluorescent sensor. Proc. Natl. Acad. Sci. U. S. A. 101, 17404–17409
+71 White,C.etal.(2005)Theendoplasmic reticulumgatewaytoapoptosis
+by Bcl-X(L) modulation of the InsP
+3
+R. Nat. Cell Biol. 7, 1021–1028
+72 Scorrano, L. et al. (2003) BAX and BAK regulation of endoplasmic
+reticulum Ca
+2+
+: a control point for apoptosis. Science 300, 135–139
+73 Oakes, S.A. et al. (2003) Regulation of endoplasmic reticulum Ca
+2+
+dynamics by proapoptotic BCL-2 family members. Biochem.
+Pharmacol. 66, 1335–1340
+74 Oakes,S.A.etal.(2005)ProapoptoticBAXandBAKregulatethetype1
+inositol trisphosphate receptor and calcium leak from the endoplasmic
+reticulum. Proc. Natl. Acad. Sci. U. S. A. 102, 105–110
+75 Pinton, P. et al. (2001) The Ca
+2+
+concentration of the endoplasmic
+reticulum is a key determinant of ceramide-induced apoptosis:
+significance for the molecular mechanism of Bcl-2 action. EMBO J.
+20, 2690–2701
+76 Szalai, G. et al. (1999) Apoptosis driven by IP(3)-linked mitochondrial
+calcium signals. EMBO J. 18, 6349–6361
+77 Oakes,S.A.etal.(2006)Thecontrolofendoplasmic reticulum-initiated
+apoptosis by the BCL-2 family of proteins. Curr. Mol. Med. 6, 99–109
+78 Pinton, P. and Rizzuto, R. (2006) Bcl-2 and Ca
+2+
+homeostasis in the
+endoplasmic reticulum. Cell Death Differ. 13, 1409–1418
+79 Giacomello, M. et al. (2007) Mitochondrial Ca
+2+
+as a key regulator of
+cell life and death. Cell Death Differ. 14, 1267–1274

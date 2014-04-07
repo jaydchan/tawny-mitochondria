@@ -1,0 +1,2376 @@
+J Mol Cell Cardiol 33, 1065–1089 (2001)
+doi:10.1006/jmcc.2001.1378, available online at http://www.idealibrary.com on
+Review Article
+Mitochondrial Dysfunction in Cardiac
+Disease: Ischemia–Reperfusion, Aging,
+and Heart Failure
+Edward J. Lesnefsky
+1,5
+, Shadi Moghaddas
+1
+, Bernard Tandler
+6
+, Janos Kerner
+4
+and Charles L. Hoppel
+2,3,5
+Departments of
+1
+Divisions of Cardiology and
+2
+Clinical Pharmacology and Departments of
+3
+Pharmacology and
+4
+Nutrition,
+5
+Case Western Reserve University and Geriatric Research, Education
+and Clinical Center, Louis Stokes Veterans Affairs Medical Center, Cleveland, Ohio, 44106 and the
+6
+Institute of Environmental and Human Health, Texas Tech University, Lubbock, TX 79409, USA
+(Received 21 February 2001, accepted in revised form 1 March 2001)
+E. J. L,S.M,B.T,J.K  C. L. H. Mitochondrial Dysfunction in Cardiac
+Disease: Ischemia–Reperfusion, Aging, and Heart Failure. Journal of Molecular and Cellular Cardiology (2001) 33,
+1065–1089. Mitochondria contribute to cardiac dysfunction and myocyte injury via a loss of metabolic capacity
+and by the production and release of toxic products. This article discusses aspects of mitochondrial structure and
+metabolism that are pertinent to the role of mitochondria in cardiac disease. Generalized mechanisms of
+mitochondrial-derived myocyte injury are also discussed, as are the strengths and weaknesses of experimental
+models used to study the contribution of mitochondria to cardiac injury. Finally, the involvement of mitochondria
+in the pathogenesis of specific cardiac disease states (ischemia, reperfusion, aging, ischemic preconditioning, and
+cardiomyopathy) is addressed.  2001 Academic Press
+K W: Cytochrome; Fatty acid oxidation; Reactive oxygen species; Apoptosis; Preconditioning; Aging;
+Ischemia; Reperfusion.
+of inner membrane invaginate into the matrix as
+Mitochondrial Morphology
+cristae. The cristae include the electron transport
+chain (ETC), phosphorylation apparatus, and mem-Mitochondrial structure (Figs 1–3) provides com-
+partmentalization of mitochondrial metabolism. An brane transporters. Pedicles are portions of inner
+membrane that connect the cristae to the innerouter membrane encapsulates the organelle, while
+an inner membrane surrounds the central matrix boundary membrane (Figs 3 and 4). The inner
+boundary membrane participates in transport re-space of the mitochondrion. The outer membrane
+provides a permeability barrier to cytosol molecules actions, including the formation of contact sites.
+The mitochondrial matrix space contains metaboliclarger than 1500 Da and separates the in-
+termembrane space from the cytosol. The in- enzymes, mitochondrial DNA (mtDNA), and RNA.
+Contact sites are dynamic structures that involvetermembrane space has an ionic composition
+similar to the cytosol,
+1
+and contains a distinct group a fusion of the inner and outer mitochondrial mem-
+branes, and are key participants in protein import;
+3
+of proteins, including the mobile electron carrier,
+cytochrome c.
+2
+The inner mitochondrial membrane energy coupling, with the cytosol via formation of
+creatine phosphate;
+4
+and uptake of fatty acids of ox-consists of regions of inner boundary membrane
+that are parallel to the outer membrane. Portions idative metabolism.
+5,6
+Contact sites in heart mito-
+Please address all correspondence to: Edward J. Lesnefsky, M.D., Cardiology Section, Medical Service 111(W), Louis Stokes VA Medical
+Center, 10701 East Boulevard, Cleveland, OH 44106, USA. E-mail: EXL9@po.cwru.edu
+0022–2828/01/061065+25 $35.00/0  2001 Academic Press
+E. J. Lesnefsky et al.1066
+Figure 3 Schematic drawing of a mitochondrion show-
+ing contact sites. Contact sites consist of a fusion of
+the inner and outer membranes and contain octameric
+creatine kinase. The inner mitochondrial membrane is
+subdivided into inner boundary membrane, pedicles and
+cristae. See text for details.
+Figure 1 Electron micrograph of isolated hamster car-
+diac mitochondria showing the multiplicity of cristae
+still in their native configuration and inner and outer
+mitochondrial membranes. ×28 000.
+Figure 4 Scanning electron micrograph of a mito-
+chondrion within an oncocyte of the human sub-
+mandibular gland. This sample was prepared by
+macerating the tissue for a long period in osmium tetr-
+oxide, which removes all soluble components, but which
+leaves membranes intact. A crista is seen en face; it is
+connected to the boundary membrane by numerous
+pedicles, several of which are indicated by arrows.
+×35 000. (Micrograph courtesy of Alessandro Riva.)
+from the mitochondria to the cytosol.
+4,7
+A potential
+Figure 2 Classical view of an isolated mitochondrion
+role for contact sites in the mitochondrial uptake ofwith major structures identified.
+long-chain fatty acids has been shown in rat liver
+mitochondria,
+5,6,8,9
+and a similar role has been pro-
+posed in heart mitochondria.
+10
+The number of con-chondria are composed of porin in the outer mem-
+brane, the octameric form of creatine kinase in the tact sites varies during oxidative metabolism, with an
+increased number of contact sites present in activelyintermembrane space, and the inner membrane ad-
+enine nucleotide translocase, facilitating energy flux respiring mitochondria.
+11
+Mitochondria in Cardiac Disease 1067
+the predominant isoform in heart, to malonyl-CoA
+Mitochondria in Cell Physiology and
+(K
+i
+≅0.1 afii9839) (Fig. 5).
+22
+Malonyl-CoA has been pro-
+Metabolism
+posed as a key component in the regulation of fuel
+selection by mitochondria. Although this hypo-
+Regulation of mitochondrial substrate selection
+thesis is supported by experimental data, un-
+answered questions remain. First, the mechanism
+The principal substrates for mitochondrial oxidation
+that distinguishes between acetyl-CoA derived from
+are carbohydrates and fats. Carbohydrate meta-
+the oxidation of either pyruvate or fatty acids re-
+bolism generates pyruvate for mitochondrial up-
+mains unclear. Are there separate mitochondrial
+take. Triglyceride hydrolysis or myocyte uptake of
+acetyl-CoA pools? One pool derived from pyruvate
+fatty acids provides acyl-groups for mitochondrial
+oxidation would be amenable to export to the cy-
+activation and uptake. Mitochondrial substrate se-
+tosol for malonyl-CoA synthesis, whereas the other
+lection is tightly controlled in response to exogenous
+pool, derived from afii9826-oxidation of fatty acids, is re-
+substrate availability and the (patho)physiologic
+stricted to the matrix. Second, the reported malonyl-
+state of the myocyte.
+12–16
+Pyruvate metabolism re-
+CoA content in the heart (approx. 2–5 afii9839)
+23,24
+quires uptake by the pyruvate transporter followed
+is several-fold higher than the K
+i
+of malonyl-CoA
+by oxidation by pyruvate dehydrogenase (PDH) to
+for CPT-I. Yet fatty acids still are oxidized, providing
+acetyl-CoA. The enzymes involved in fatty acid
+the main fuel for the heart under resting conditions.
+activation and transport are located in the outer
+To resolve this apparent conundrum, a com-
+membrane and contact sites.
+12
+Fatty acid oxidation
+partmentalization of malonyl-CoA has been pro-
+requires activation of fatty acids by long-chain fatty
+posed, but not experimentally verified. Indirect
+acid CoA synthetase, followed by formation of acyl-
+evidence for malonyl-CoA compartmentalization re-
+carnitines by carnitine palmitoyltransferase-I (CPT-
+cently has been obtained by demonstrating an equal
+I).
+12
+The reciprocal regulation of carbohydrate and
+subcellular distribution of malonyl-CoA de-
+fatty acid oxidation is controlled at PDH and CPT-
+carboxylase, representing the main route of ma-
+I, enzymes that catalyze the committed steps for
+lonyl-CoA disposal, in mitochondrial and
+the oxidation of pyruvate and fatty acids, re-
+extramitochondrial compartments in heart (Kerner
+spectively (Fig. 5).
+and Hoppel, unpublished data). Third, changes in
+The activity of PDH is regulated by phos-
+the flux of fatty acid oxidation do not always result
+phorylation of the afii9825-subunit of E1 of PDH by PDH
+in appropriate directional changes in tissue ma-
+kinase, inactivating PDH. Dephosphorylation by
+lonyl-CoA concentrations, suggesting the presence
+PDH phosphatase activates PDH.
+17
+In heart, PDH
+of additional regulatory mechanisms. Cytoskeletal
+kinase isoform 4 predominates, and is rapidly in-
+proteins in liver interact with mitochondria and
+duced by starvation and diabetes, leading to de-
+modulate CPT-I activity.
+25
+Palmitoyl-CoA, the sub-
+creased PDH activity. Isoform 4 is relatively
+strate for CPT-I, also competes with malonyl-CoA
+insensitive to suppression by dichloroacetate and
+for binding at the regulatory site. Thus, increasing
+pyruvate.
+18
+Fatty acids may directly decrease PDH
+tissue concentrations of palmitoyl-CoA should
+activity via activation of peroxisome proliferator-
+dampen CPT-I inhibition at any given malonyl-CoA
+activated receptor-afii9825, leading to increased isoform
+concentration, leading to an increased flux through
+4 expression in skeletal muscle.
+19
+Whether this also
+fatty acid oxidation as the ratio of palmitoyl-CoA:
+is the case in heart is not known.
+malonyl-CoA increases. Experimental support for
+PDH kinase activity is directly inhibited by py-
+this regulatory mechanism recently has been pre-
+ruvate, leading to increased PDH activity. High
+sented.
+15
+An increased palmitoyl-CoA:malonyl-CoA
+rates of fatty acid oxidation inhibit PDH via elevated
+ratio due to increased uptake and activation of fatty
+mitochondrial contents of acetyl-CoA and NADH,
+acids and decreased malonyl-CoA content could
+which activate PDH kinase. In addition, end prod-
+also explain the high rates of fatty acid oxidation
+15
+ucts of fatty acid oxidation also have a direct in-
+observed during reperfusion.
+26
+hibitory effect on PDH.
+20
+The activity of PDH
+phosphatase is increased by Ca
+2+
+and Mg
+2+
+, leading
+to increased PDH activity.
+21
+Oxidative mitochondrial metabolism
+Increased oxidation of pyruvate from carbo-
+hydrates inhibits fatty acid oxidation by increasing The matrix space contains the enzymes of the
+the content of malonyl-CoA, leading to inhibition tricarboxylic acid (TCA) cycle, biosynthetic en-
+of CPT-I. The molecular basis of inhibition is the zymes, and antioxidant defense enzymes. TCA cycle
+oxidation of acetyl-CoA generates NADH andextreme sensitivity of the muscle isoform of CPT-I,
+E. J. Lesnefsky et al.1068
+Figure 5 CPT-I, the first enzyme of the mitochondrial carnitine system, is localized in the outer membrane with the
+malonyl-CoA binding site exposed to the cytosol. Intramitochondrial acetyl-CoA must be converted to cytosolic malonyl-
+CoA to inhibit fatty acid oxidation. Increased pyruvate decarboxylation leads to increased mitochondrial acetyl-CoA
+G
+and to incresead citrate formation. Citrate is transported into the cytosol and reconverted by citrate lyase to acetyl-
+CoA, which is carboxylated to malonyl-CoA by acetyl-CoA carboxylase. (An alternative mechanism of mitochondrial
+acetyl-CoA export, not depicted here, is via acetylcarnitine and carnitine–acylcarnitine translocase as described in the
+text.) Conversely, increased fatty acid oxidation leads to an increased acetyl-CoA (acetyl-CoA
+F
+) and NADH formation.
+Activation of PDH-kinase and direct inhibition of PDH
+a
+leads to the decrease in mitochondrial pyruvate oxidation.
+FADH
+2
+for oxidation by the ETC (Fig. 6). The ETC ions from the matrix side to the cytosolic side of
+the inner membrane stores energy released duringconsists of four multi-subunit enzyme complexes,
+and the mobile electron carriers, coenzyme Q (inner electron transport. The inner membrane contains
+transporters that regulate the uptake of smallmembrane) and cytochrome c (intermembrane
+space), that pass electrons sequentially from high molecules and ions into the matrix.
+The phosphorylation apparatus consists of the(NADH or FADH
+2
+) to low (molecular oxygen) redox
+potential (Fig. 6). The multi-subunit complexes of complex V inner membrane ATPase, phosphate
+transporter, and adenine nucleotide translocase.
+33
+the ETC diffuse individually in the semi-fluid inner
+membrane cristae. Electron transfer occurs via pro- Inorganic phosphate and ADP are translocated
+across the inner mitochondrial membrane. Complexductive collisions.
+2
+Recently, the organization of
+complexes into a larger supercomplex, a res- V provides a path for protons to flow down the
+electrochemical gradient from cytosol to the matrixpirasome, has been proposed.
+27
+The subunit com-
+position, 3-dimensional structure, and structure– side of the inner membrane, harnessing the energy
+to phosphorylate ADP.
+34
+Mitochondrial oxidation isfunction relationships of the ETC complexes [com-
+plex I,
+28
+complex II,
+29
+complex III,
+30
+and complex coupled in part to myocyte energy demand through
+this process. A decreased availability of ADP slowsIV (cytochrome oxidase)
+31
+] have been extensively
+studied and reviewed. the rate of phosphorylation (state 4 respiration),
+leads to an enhanced electrochemical proton po-The inner membrane is impermeable to ions and
+small molecules as predicted by the chemiosmotic tential across the inner membrane, and slows the
+rate of electron transport to oxygen. An increase intheory of Mitchell.
+32
+Active transport of hydrogen
+Mitochondria in Cardiac Disease 1069
+Figure 6. The entry of reducing equivalents from NADH, succinate, durohydroquinone (DHQ), and TMPD-ascorbate
+(TMPD-asc) into the electron transport chain is shown. Glutamate generates NADH via glutamate dehydrogenase that
+is oxidized by complex I with electron flow via coenzyme Q (Q), complex III, cytochrome c, and cytochrome oxidase
+(complex IV). Succinate is oxidized by complex II. DHQ is oxidized by complex III. TMPD-ascorbate reduces cytochrome
+c that is oxidized by complex IV. Complex III contains cytochromes b and c
+1
+. Complex IV contains cytochrome aa
+3
+.
+Rotenone and amytal inhibit complex I, myxothiazole and antimycin A inhibit complex III, and azide and potassium
+cyanide (KCN) inhibit complex IV.
+ADP content secondary to increased energy demand provide insight into the likely sources of increased
+oxyradical production in pathologic states. Thewill increase phosphorylation and utilization of the
+NADH dehydrogenase in complex I and the ubiqui-proton gradient by complex V, stimulating electron
+none–cytochrome b area of complex III generatetransport and oxygen consumption (state 3 res-
+•O
+2
+−
+during normal respiration.
+39–42
+In contrast, al-piration).
+though complex IV contains intermediates cor-Uncoupling of the rate of respiration from ADP
+responding to the three oxyradicals:•O
+2
+−
+, hydrogenavailability occurs due to physiologic control and
+peroxide (H
+2
+O
+2
+), and the reactive hydroxyl radicalin pathologic states. Complex IV permits continued
+(•OH), these intermediates are tightly bound andelectron transfer in the absence of proton trans-
+chemically ‘‘disguised’’, preventing production of re-location.
+35
+Continued electron transfer prevents the
+active oxygen species by complex IV.
+43
+Conditionsaccumulation of electrons on upstream redox cen-
+that support the accumulation of electrons at redoxters, and decreases the formation of reactive oxygen
+centers susceptible to electron leak enhance the pro-species.
+35,36
+Uncoupled respiration occurs in ther-
+duction of oxyradicals.
+39,41,42,44,45
+An increased re-mogenesis due to the action of uncoupling protein.
+37
+duction of the ETC favoring electron leak occursUncoupling in pathologic states can occur as a
+during state 4 respiration
+44,45
+and ischemia
+46,47
+whenresult of inappropriate activation or induction of
+contents of NADH and FADH
+2
+are increased and stim-uncoupling proteins
+38
+or damage to either the in-
+ulants of electron transport, ADP and/or O
+2
+, are de-tegrity of the inner membrane or of complex V.
+creased. Based on the localization of the sites of theDamage to complex V or the inner membrane
+production of oxyradicals within complex I, •O
+2
+−
+allows back diffusion of protons, dissipates the elec-
+formation should occur on the matrix side of the
+trochemical gradient ‘‘de-energizing’’ mitochondria,
+inner membrane. Complex III can release ox-
+and blunts phosphorylation.
+yradicals to either the matrix
+41,42
+or intermembrane
+space
+48
+compartments. The continuous ‘‘low level’’
+oxyradical generation during normal respiration in-
+Production of reactive oxygen species by mitochondria creases the oxidation of mitochondrial proteins,
+49
+lip-
+and mitochondrial antioxidant defense ids,
+50
+and DNA.
+51
+More extensive oxidative damage
+is prevented by mitochondrial antioxidant enzyme
+During normal respiration, approximately 2–4% of systems.
+52–57
+electron flow through the ETC results in only partial Manganese-containing mitochondrial superoxide
+reduction of O
+2
+, generating superoxide (•O
+2
+−
+).
+39,40
+dismutase, located in the matrix, eliminates •O
+2
+−
+by catalyzing dismutation to H
+2
+O
+2
+.H
+2
+O
+2
+is in-The sites of ‘‘electron leak’’ during normal respiration
+E. J. Lesnefsky et al.1070
+activated by either catalase
+52
+or by the glutathione seems unlikely that 80% of the mitochondria in any
+cardiac myocyte would sustain the same stochasticredox system consisting of reduced glutathione as
+the cofactor for glutathione peroxidase and glu- somatic mutation and induce a phenotype, several
+factors make the occurrence more likely. First,tathione reductase.
+53–55
+The relative contributions
+of catalase
+52
+and glutathione peroxidase
+53
+in H
+2
+O
+2
+mtDNA mutations appear to segregate, leading to
+a ‘‘mosaic’’ pattern of myocyte involvement.
+65
+Thus,degradation in cardiac mitochondria remain un-
+clear. These enzymes serve to minimize the ac- rather than each myocyte consisting of 20% im-
+paired mitochondria, 20% of the cells may havecumulation of•O
+2
+−
+and H
+2
+O
+2
+, which in the presence
+of the redox-active transition metals, copper and nearly 100% of mitochondria affected. Mosaic pat-
+terns of loss of complex IV occur in the aging heart.
+68
+iron, form the very reactive and damaging •OH,
+for which no antioxidant enzyme system exists.
+55
+Second, mitochondria containing mutations can
+segregate along the length of the myocyte.
+66
+Ad-Enzyme systems also exist in mitochondria that
+repair oxidative damage. Phospholipid hydro- ditionally, while currently not well understood, cer-
+tain mutations, such as the ‘‘large deletion’’, appearperoxide glutathione peroxidase is a selenium-con-
+taining enzyme that directly reduces peroxidized to occur more frequently than other deletions, sug-
+gesting that deletion occurrence may not be aacyl-groups in phospholipids.
+56
+Repair of oxidized
+protein sulfhydryl groups occurs via thioredoxin completely stochastic process.
+63,64
+Finally, while
+‘‘loss of function’’ may require a substantial numberand thioltransferase enzymes.
+58,59
+Phospholipid
+hydroperoxide glutathione peroxidase has both cy- of affected mitochondria, acquisition of pathologic
+function, including cell damage secondary to en-tosolic and mitochondrial isoforms.
+56
+hanced production of oxyradicals or release of cyto-
+chrome c, may require far fewer affected
+mitochondria per myocyte.Mitochondrial DNA (mtDNA)
+mtDNA consists of circular double-stranded DNA
+located in the matrix in close proximity to the Mitochondrial proteins
+inner membrane.
+60
+Propinquity to the sites of the
+generation of reactive oxygen species suggests that Mitochondria contain both nuclear-encoded pro-
+teins and proteins encoded by mtDNA. mtDNAmtDNA is highly susceptible to oxidative damage.
+51
+Oxidative modification of bases in mtDNA is ob- encodes for specific subunits of the ETC complexes,
+most of which are catalytic subunits directly in-served more frequently than in nuclear DNA.
+51,60
+Recent work has shown that mitochondria contain volved in the transfer of electrons. mtDNA encodes
+for 13 proteins, including seven subunits of the 42DNA repair enzymes, including those for base ex-
+cision repair.
+62,63
+The susceptibility orf mtDNA to subunit complex I, cytochrome b of the 11 subunit
+complex III, and subunits I, II, III of 13 subunitoxidative damage is probably less than previously
+thought. complex IV.
+60
+The mitochondrial genome is tran-
+scribed in an ‘‘all or none’’ fashion without tran-Nearly all of the mitochondria in the zygote
+are derived from the oocyte.
+68
+Thus, mitochondrial scriptional regulation of individual genes.
+The majority of mitochondrial proteins are en-cytopathies secondary to mtDNA mutations display
+a maternal inheritance.
+60
+mtDNA also is subject coded by the nuclear genome, synthesized on cy-
+tosolic ribosomes, and imported into mitochondria.to somatic mutations during the life of the cell,
+important in the post-mitotic cardiac myocyte.
+60,62
+Mitochondrial protein import is highly regulated,
+with import mechanisms consisting of protein chap-The frequency of mutations in mtDNA in cardiac
+myocytes increases with age in both experimental erones
+69,70
+and transmembrane peptide import sys-
+tems. The transmembrane peptide importanimals and humans.
+62,63
+A frequently observed
+mutation is a deletion of 4977 bp.
+60,63,64
+Disease complexes translocate proteins into the appropriate
+mitochondrial space (translocase outer mem-states, including chronic myocardial ischemia, in-
+crease the frequency of mutations in mtDNA.
+64
+brane—TOM,
+69
+translocase inner membrane—
+TIM
+70
+) based upon specific mitochondrial targetingHowever, the link between a genotype of mtDNA
+mutation and a phenotype of cellular dysfunction sequences in amino terminal portion of the pre-
+protein that are cleaved following import.
+69
+Dir-has proved more elusive in the case of acquired
+mutations. Due to heteroplasmy (many copies of ection of proteins to specific mitochondrial
+compartments contributes to the regulation of mito-mtDNA per cell), approximately 80% of mito-
+chondria must be affected in order to result in chondrial metabolism.
+Cytochrome c is synthesized as a nuclear-encodedloss of mitochondrial function.
+65–67
+While it initially
+Mitochondria in Cardiac Disease 1071
+apoprotein with a mitochondrial targeting metabolic efficiency.
+74
+Contractile recovery and the
+extent of tissue injury during post-ischemic re-sequence.
+71
+During import into mitochondria, the
+intermembrane space enzyme, ferrochelatase, in- perfusion varies as a function of the substrate fur-
+nished to the heart,
+75–78
+providing insight into theserts the iron into apocytochrome c. Addition of
+iron is required for successful import into the in- contributions of altered mitochondrial metabolism
+to physiology of the intact heart.termembrane space.
+71
+The presequence is then
+cleaved, generating functional cytochrome c.
+The role of mitochondrial–nuclear genomic inter-
+actions in the proper assembly of ETC complexes, Isolated myocytes
+composed of both nuclear and mtDNA-encoded
+subunits, remains unknown. Subunits present in Intact, isolated myocytes provide an approach to
+study in situ mitochondrial function, includinggreater excess than required for assembly of ETC
+complexes are degraded by matrix proteases.
+72
+It is membrane potential,
+79
+calcium content,
+80
+and pro-
+duction of reactive oxygen species.
+47
+In situ studiescurrently unclear if ETC complexes, or their dam-
+aged subunits, can be replaced in existing mito- require the use of fluorescent dyes as indicators of
+mitochondrial function, usually assessed by con-chondria, or if assembly of electron transport chain
+complexes occurs only during mitochondrial pro- focal laser microscopy. The major strength of this
+approach is the ability to study mitochondria inliferation. The signals for replacement of defective
+subunits or complexes, or even the question if situ. Studies using fluorescent dyes as endpoints are
+limited by the specificity of the particular dye andmtDNA transcription can drive synthesis of nuclear-
+encoded subunits required to complete assembly of by issues regarding fluorescence quenching, and
+linearity of response.
+81,82
+Care must be taken tothe ETC complexes remain unknown. If tran-
+scription of nuclear-encoded proteins does respond achieve proper dye concentrations so that mito-
+chondrial, and not plasma membrane, potentialto defects in ETC complexes, this response can
+provide a sensitive index for the loss of mito- is observed.
+81,82
+With attention to these concerns,
+studies utilizing intact myocytes have provided im-chondrial function at the cellular level. These issues
+have an impact upon the potential for restoration portant insight into mitochondrial function in pa-
+thologic states.of mitochondrial function in pathologic states. It has
+been reported recently that heart failure increases Permeabilized myofibers or myocytes are used to
+study substrate oxidation by in situ mitochondria.transcription of adenine nucleotide translocator-
+1 and subunits of complex V,
+73
+suggesting that The plasma membrane is permeabilized with digit-
+onin or saponin to allow equilibration of cytosoltranscription of nuclear-encoded mitochondrial pro-
+teins are regulated in response to changing con- and media. Substrates are added and oxygen con-
+sumption measured. With this approach, the inter-ditions in the myocyte.
+action of in situ mitochondria with cytoskeletal
+components can be studied, whereas interactions
+with the cytosol are lost. Due to the presence of non-
+Experimental Approaches to Study
+mitochondrial ATPases, oxidative phosphorylation
+Mitochondrial Metabolism
+and coupling of respiration to energy demand can-
+not be studied in detail.
+Experimental preparations ranging from the intact
+heart to structural and functional characterization
+of individual molecular components of mito-
+Isolated mitochondria
+chondria are studied. The different experimental
+systems each have strengths and weaknesses, and
+Using isolated mitochondria (Fig. 7), oxidative
+provide complementary strategies to elucidate the
+metabolism can be studied in detail, including the
+role of mitochondria in cardiac disease.
+coupling of oxidation and phosphorylation. Titra-
+tion of activity with inhibitors of respiration is
+used to study the control strength of the different
+components on the overall rate of oxidative phos-Isolated perfused heart
+phorylation.
+83–85
+Cardiac mitochondria exist in two functionallyThe isolated, perfused heart is used to study the
+impact of substrate selection on resting cardiac distinct populations, subsarcolemmal mitochondria
+(SSM) residing beneath the plasma membrane, andfunction. Measured oxygen consumption compared
+with mechanical work yields estimates of cardiac interfibrillar mitochondria (IFM) located between
+E. J. Lesnefsky et al.1072
+study of processes localized to the inner membrane
+or to the matrix in a preparation with retained
+respiration and respiratory coupling.
+5,94,95
+Mitoplast
+preparation releases contents of the intermembrane
+space for isolation and study. Sonication of intact
+mitochondria followed by sedimentation of the re-
+sulting ‘‘inside-out’’ inner membrane vesicles yields
+submitochondrial particles (SMP).
+96
+SMP are devoid
+of matrix contents and lack respiratory control.
+SMP are useful for studies that require an increased
+concentration of ETC complexes, including EPR.
+97
+The lack of antioxidant enzymes makes SMP at-
+tractive for the study of the generation of reactive
+oxygen species from specific sites in the ETC.
+Integrative approach to the study of mitochondrial
+pathophysiology
+The polarographic study of oxidative phos-
+phorylation in isolated mitochondria provides an
+approach to localize defects in the ETC and to
+identify damage to the phosphorylation apparatus
+that results in diminished coupling of respiration.
+Figure 7 Survey micrograph of a pellet of mitochondria Substrates that donate electrons to specific sites in
+isolated from the rat heart. Note purity of the sample.
+the ETC are used to localize the sites of defects (Fig.
+×4400.
+6). Measurement of uncoupled respiration evaluates
+whether or not damage to the phosphorylation
+apparatus is the mechanism of decreased oxidative
+the myofibrils (Fig. 8).
+86–93
+ADP-stimulated res-
+phosphorylation. Exposure of mitochondria to freez-
+piratory rates (state 3) are greater in IFM than in
+ing–thawing and hypotonic conditions per-
+SSM, whereas the coupling of respiration is similar
+meabilizes the inner membrane, removing transport
+in both populations.
+88,89
+IFM have an increased
+barriers. Measurement of oxygen consumption in
+content of respiratory cytochromes, and the activity
+permeabilized mitochondria bypasses defects in sub-
+of ETC complexes is greater in IFM than in SSM.
+88,89
+strate carriers or dehydrogenases and confirms
+Differences in respiratory rates and enzyme contents
+localization of defects to the ETC. Measurement of
+persist following exposure of each population to the
+enzyme activities of the specific ETC complexes in
+methods used to isolate the other population.
+89
+A
+solubilized mitochondria directly localizes defects in
+distinct structural marker for each population has
+the ETC predicted from the study of intact and
+not been identified. However, the two populations
+permeabilized mitochondria.
+are affected differently in pathologic states, in-
+cluding calcium overload,
+90
+cardiomyopathy,
+91
+aging,
+92
+and ischemia.
+87,88,93
+Thus, consideration of
+regional differences in mitochondrial response to Mechanisms of Mitochondrial-derived
+disease states is required in order to identify novel
+Tissue Injury
+mitochondrial defects present in pathophysiologic
+states. Mitochondria contribute to myocyte injury via loss
+of physiologic function or acquisition of pathologic
+function. The physiologic significance of damage to
+mitochondrial DNA, proteins, or lipids should beMitochondrial components
+established at the level of the mitochondrion, myo-
+cyte, and whole heart. Since many mitochondrialMitoplasts are obtained from isolated mitochondria
+following removal of the outer mitochondrial mem- enzyme systems are present in excess relative to
+the amount required to support maximal rates ofbrane by digitonin, French press, or osmotic swell-
+ing and shrinking. Mitoplasts are useful for the oxidative phosphorylation in intact mitochondria,
+Mitochondria in Cardiac Disease 1073
+Figure 8 Cardiac mitochondria exist in two functionally distinct populations. Subsarcolemmal mitochondria are
+situated beneath the plasma membrane (sarcolemma), while interfibrillar mitochondria are ensconced among the
+myofibrils. Transverse section of a cardiomyocyte in the hamster heart showing a cluster of subsarcolemmal mitochondria
+at the top of the micrograph and a cluster of interfibrillar mitochondria at the lower left corner. Other interfibrillar
+mitochondria are scattered among the myofibrils. ×7200.
+the physiologic significance of loss of mitochondrial function should have an impact on cell physiology
+via the deleterious accumulation of substrates or theenzyme activity needs to be established. Loss of
+function secondary to molecular damage is es- impairment of energy-dependent cellular processes.
+The loss of mitochondrial function present at thetablished at the mitochondrial level by the per-
+sistence of defects in mitochondrial oxidative cellular level should translate to loss of physiologic
+function or to enhanced tissue injury in the intactphysiology under non-maximal, as well as maximal
+rate conditions. While the use of maximally ex- heart.
+Loss of mitochondrial function may be com-pressed activity is useful to establish the presence
+of enzyme defects, mitochondrial respiration in situ pensated for at a cellular or organ level, thus re-
+quiring a comprehensive approach to study theoperates at non-maximal rates.
+83–85
+Significant de-
+fects should also exhibit a greater sensitivity to impact of mitochondrial defects. It remains un-
+certain if all mitochondria are impaired to a similarinhibitor titration,
+98
+providing evidence for new sites
+of control of mitochondrial oxidative metabolism extent, or if a fraction of mitochondria is severely
+affected. In the latter case, mitochondria with pre-secondary to newly acquired partial blocks in ox-
+idative metabolism. Loss of function also is expected served function may compensate for affected mito-
+chondria. Mitochondria also may be affected on ato result in the accumulation of substrates that are
+ordinarily oxidized. Significant loss of mitochondrial cell by cell basis, rather than all cells containing a
+E. J. Lesnefsky et al.1074
+similar fraction of affected mitochondria. Thus, membrane dissipates the proton gradient, de-en-
+ergizing mitochondria and blocking phos-while mosaic patterns of involvement dramatically
+impair metabolism in severely affected cells, perhaps phorylation. Last, damage to mitochondrial creatine
+kinase, an oxidatively sensitive enzyme,
+100
+impairseven leading to cell death, other myocytes with
+unimpaired mitochondrial function may com- the creatine shuttle, blunting export of high energy
+phosphates from mitochondria. Thus, damage topensate for severely affected cells, preserving cardiac
+function. Development of a disease phenotype thus mitochondria at any one of several sites can impair
+energy production.requires progression until the number of involved
+myocytes is sufficient to alter cardiac physiology.
+The acquisition of pathologic mitochondrial func-
+Accumulation of metabolic intermediatestion occurs secondary to the production of com-
+pounds not present during normal metabolism; an
+Loss of mitochondrial function also may result in the
+increase in the content of a deleterious compound
+accumulation of compounds toxic to the myocyte.
+present at a low concentration during normal meta-
+Decreased oxidation of pyruvate leads to lactate
+bolism; or release of a constituent normally se-
+production and acidosis observed in ischemia and
+questered in mitochondria. In contrast to loss of
+mitochondrial myopathies. Impaired oxidation of
+function, gain of pathologic function is likely to
+lipid substrates results in accumulation of long-
+require fewer mitochondria to produce deleterious
+chain acyl-CoA and acylcarnitines.
+101–104
+These
+consequences for the myocyte. Functional or ana-
+compounds inhibit PDH, block carbohydrate ox-
+tomic subpopulations of cardiac mitochondria thus
+idation,
+103
+accumulate in myocyte membranes,
+101
+can exert harmful effects upon the myocyte. The
+enhance myocyte calcium loading,
+104
+and lead to
+physiologic relevance of injurious mitochondrial
+arrhythmias by direct detergent action and by ac-
+effectors should be demonstrated by the use of
+tivating calcium channels.
+101
+interventions, either metabolic or pharmacologic,
+that negate production of the deleterious metabolite
+and allay cell and organ dysfunction and tissue
+injury. Acquisition of pathologic mitochondrial function
+Production of reactive oxygen species
+Damage to mitochondria enhances the production
+Loss of mitochondrial function of reactive oxygen species.
+100
+Two mechanisms com-
+bine to increase oxyradical production. First, de-
+Decrease in production of high energy phosphates creased flux through the ETC increases the
+reduction of proximal sites in the ETC, enhancing
+Damage to cardiac mitochondria impairs energy
+‘‘electron leak’’ that forms •O
+2
+−
+.
+44,45
+Second, dam-
+production by several mechanisms. First, direct
+age to individual ETC complexes directly results in
+damage to the ETC leads to decreased rates of
+electron leak and oxyradical production. Damage
+substrate oxidation.
+87,93,99
+Enzyme activities of ETC
+to complex I directly increases the production of
+complexes are present in excess relative to oxidative
+oxyradicals.
+106–108
+Ischemic damage to complex III
+phosphorylation, so decreases in ETC enzyme ac-
+superimposed upon preexisting aging defects may
+tivities of 30–50% are needed to lower the rate of
+enhance the production of oxyradicals in the aging
+oxidative phosphorylation.
+83–85
+In the baseline state,
+heart.
+109
+the sites of greatest control of oxidative phos-
+phorylation are present in complex I, the adenine
+nucleotide translocase, and complex V.
+83–85
+These
+Release of cytochrome c
+sites require the least inhibition for decreases in
+the rate of oxidative phosphorylation to become Release of cytochrome c from mitochondria is a
+key step leading to programmed cell death.
+110–112
+apparent. Damage to specific sites in the ETC in-
+troduces additional sites of partial block in electron Although apoptosis can occur in the absence of
+cytochrome c release, cytochrome c directly activatestransport, generating new sites of control of ox-
+idative phosphorylation. downstream effectors when injected into the cytosol
+in the absence of upstream signals.
+113
+Following re-Damage to the phosphorylation apparatus also
+impairs energy production. Direct damage to com- lease of cytochrome c, a complex is formed in the
+cytosol in the presence of APAF-1, deoxyATP, andplex V decreases the rate of efficiency (coupling) of
+phosphorylation of ADP.
+99
+Damage to the inner the cysteine protease caspase-9. This complex then
+Mitochondria in Cardiac Disease 1075
+directly activates downstream effectors of the apop-
+totic pathway including caspase-3.
+Regulation of cytochrome c release by mito-
+chondria currently is being investigated. Release
+may occur secondary to the onset of mitochondrial
+permeability transition (MPT).
+113
+MPT occurs sec-
+ondary to formation of an inner membrane pore
+permeable to solutes of less than 1200 Da.
+113,114
+The onset of MPT leads to loss of mitochondrial
+membrane potential and to swelling of the matrix
+space with eventual disruption of mitochondrial
+membranes and release of cytochrome c.
+110,113
+This
+catastrophic event is caused by oxidative damage Figure 9 Subsarcolemmal mitochondria (SSM) have a
+decreased capacity to accumulate calcium compared to
+to mitochondria in concert with mitochondrial cal-
+IFM. SSM release cytochrome c in response to calcium
+cium overload, conditions frequently observed dur-
+accumulation while IFM do not (the data are redrawn
+ing ischemia and reperfusion. The ‘‘pore’’ of MPT
+from American Journal of Physiology 1986; 250: H741–
+contains porin and adenine nucleotide translocase,
+H748).
+both components of contact sites, and might rep-
+resent pathologic alteration of a contact site. Under
+ischemic conditions, there is a transition from the
+instead of to energy production.
+124
+Mitochondrial
+octameric to the dimeric form of creatine kinase.
+115
+calcium loading predisposes to MPT.
+113,114
+SSM have
+The dimeric form of creatine kinase, porin, and
+a decreased capacity for calcium accumulation (Fig.
+adenine nucleotide translocase exhibit some prop-
+9).
+90
+Furthermore, calcium loading in SSM led to the
+erties of the MPT pore when incorporated into
+release of cytochrome c whereas calcium loading in
+membrane systems.
+116,117
+IFM did not result in cytochrome c release, even
+However, cytochrome c release is highly regu-
+when the capacity of IFM to retain calcium was
+lated, and probably occurs following events other
+exceeded.
+90
+Elevated calcium content in the matrix
+than the catastrophic mitochondrial damage ob-
+activates proteases and phospholipase A
+2
+, degrading
+served with MPT in experimental studies. First,
+proteins and phospholipids.
+50
+Matrix dense bodies
+MPT itself may be a transient and even reversible
+visible by electron microscopy are a hallmark of
+phenomenon, reflecting a dynamic balance of regu-
+irreversible mitochondrial damage secondary to cal-
+lators for and against MPT.
+118
+Independent of MPT,
+cium accumulation.
+families of proteins located in the mitochondrial
+outer membrane, Bax and Bcl-X, exert coun-
+tervailing influences on cytochrome c release, fa-
+Mitochondria as Sources and Targets of
+voring and inhibiting release, respectively.
+110
+Some
+Injury in Specific Cardiac Disease States
+proteins important in the apoptotic cascade, such
+as APAF-1, may be located in the intermembrane
+Ischemia
+space.
+119
+The significance and roles of the proteins,
+and the impact of their submitochondrial local-
+Ischemia progressively damages mitochondria
+ization, remain incompletely understood. A pre-
+disposition to myocyte apoptosis might contribute Mitochondrial ultrastructural
+125
+and functional
+126
+injury occur early in the course of ischemia, andto the loss of myocytes observed in congestive heart
+failure
+120
+and in the aging heart.
+121
+progresses during ischemia.
+87,126
+Ischemic damage
+to mitochondrial respiration also progresses as the
+duration of ischemia increases (Fig. 10).
+87,93,99
+Ten to
+Mitochondrial calcium accumulation
+20 min of ischemia decreases complex I activity.
+99,126
+Damage to the phosphorylation apparatus, in-Cytosolic calcium content increases during myo-
+cardial ischemia and reperfusion
+122
+leading to cal- cluding complex V
+99
+and the adenine nucleotide
+transporter,
+33,127
+also occurs early in ischemia. How-cium accumulation by mitochondria via uptake
+by the inner membrane calcium uniporter.
+123,124
+ever, mitochondrial oxidative function and cardiac
+contractile function recover following these periodsIncreased matrix calcium content leads to mito-
+chondrial calcium release and reuptake, generating of ischemia.
+126
+As ischemia continues for 30 and
+45 min, at the onset of irreversible myocyte damageenergy-consuming futile cycles that divert use of the
+inner membrane proton gradient to cation transport a second defect occurs in the ETC distal to complex
+E. J. Lesnefsky et al.1076
+Figure 10 The progression of ischemic damage to SSM in the isolated perfused heart is shown. Fifteen minutes of
+ischemia leads to a complex I defect that is reversible with reperfusion. Complex III activity decreases by 25 min of
+ischemia as observed in the isolated perfused rat heart. By 30 min of ischemia, cardiolipin content decreases in SSM
+and oxidative phosphorylation through complex IV is decreased. Cardiolipin content and oxidative phosphorylation
+through complex IV remain decreased at 45 min ischemia. The onset of the transition from reversible to irreversible
+myocyte damage occurs at approximately 30 min of ischemia.
+I.
+87
+Ischemic damage in the distal ETC involves both the control strength of the electron transport chain,
+including complex I and complex III.
+85
+complexes III
+110
+and IV
+87
+(Fig. 6). Thus, while a com-
+plex I defect occurs early, as ischemia continues dam-
+age progresses to involve complexes III and IV.
+Molecular targets of ischemic damage to the ETC
+ADP-stimulated respiration (state 3) is decreased
+during ischemia. Damage to the phosphorylation Complex I is the initial site of ischemic damage
+to the ETC. Complex I activity decreases duringapparatus does not explain the decrease in state 3
+respiration observed as ischemia progresses since ischemia secondary to a decrease in the NADH
+dehydrogenase component of the complex,
+99,130
+pos-dinitrophenol-uncoupled respiration is also de-
+creased, localizing the functionally significant site sibly due to the loss of the flavin mononucleotide
+coenzyme.
+131
+Damage to the NADH dehydrogenaseof damage to the ETC.
+87
+Complex V catalyzes ATP hydrolysis during isch- component of complex I can increase electron leak
+and the production of reactive oxygen species.
+39
+emia, the reverse reaction of ADP phosphorylation
+that occurs during normal oxidative metabolism.
+128
+Ischemic damage then progresses to involve com-
+plexes III and IV in the distal ETC.The enhanced consumption of ATP during ischemia
+accelerates the time course of ischemic injury. Car- Ischemia damages complex III by functional in-
+activation of the iron–sulfur protein (ISP) subunitdiac myocytes contain a peptide inhibitor that binds
+to complex V during ischemia and blocks the hy- in the isolated rat heart.
+109
+The ISP is a 22 kDa
+protein that contains a 2 Fe–2 S redox-active iron–drolysis of ATP.
+129
+Inhibition of complex V by ATPase
+inhibitor protein is cardioprotective during isch- sulfur cluster. Ischemic damage to the ISP results
+in loss of the EPR signal of the iron–sulfur clusteremia.
+129
+Ischemic damage to the ETC is physiologically without loss of the ISP peptide, suggesting that
+ischemia results in disruption of the cluster withoutsignificant in terms of both loss of metabolic func-
+tion and gain of pathologic alteration. The ischemia- degradation of the ISP subunit.
+109
+Conserved cyst-
+eine and histidine residues are ligands for the Feinduced decrease in the activity of complex IV is
+observed under both submaximally and maximally atoms in the cluster.
+132
+In vitro oxidative damage
+to the histidine residues leads to loss of complex IIIexpressed rates of oxidative phosphorylation
+through complex IV.
+87
+Ischemic damage increases activity.
+133
+In addition to the ligands of the iron
+Mitochondria in Cardiac Disease 1077
+atoms, the integrity of the cluster requires that content occurs in the setting of preserved integrity
+of the inner membrane measured both by functionalthe native conformation of ISP be preserved. An
+intramolecular disulfide bond between two highly and morphologic criteria. The inner membrane
+retains the capacity to support a proton gradient.
+146
+conserved cysteine residues remote from the cluster
+itself is required to preserve the integrity of the State respiration is not increased.
+87
+Morphologic
+evidence of increased disruption of in situ and isol-cluster.
+134
+These sites provide likely targets for isch-
+emia to disrupt the 2 Fe–2 S cluster without a loss ated populations of mitochondria is not observed
+using electron microscopy.
+87
+Ischemia does increaseof the peptide.
+Complex IV is a membrane-associated enzyme the viscosity of the inner membrane,
+139,147
+possibly
+as a consequence of cardiolipin depletion.
+139
+Losscomplex composed of 13 peptide subunits, including
+catalytic, structural, and regulatory subunits.
+31
+of membrane fluidity decreases the activity of inner
+membrane transport systems and potentially of ETCFunctional assays of complex IV systematically ex-
+cluded ischemic damage to catalytic, regulatory, complexes as well.
+148
+and structural subunits, including subunits that
+bind cytochrome c.
+87
+Ischemic damage to a protein
+Oxidative damage to mitochondria occurs during
+subunit of complex IV is an unlikely mechanism
+ischemia
+for the ischemic defect in SSM in the rabbit heart.
+87
+Complex IV requires a lipid environment in the The ETC is a probable source of reactive oxygen
+species that damage cardiolipin,
+39–41
+even duringinner membrane enriched in cardiolipin
+135,136
+in
+addition to the integrity of peptide subunits for ischemia. Inhibitor blockade of the ETC decreases
+oxyradical production in isolated cardiac myocytesoptimal activity. Ischemia decreases the content of
+cardiolipin in concert with the onset of the complex during simulated ischemia.
+47
+During ischemia, free
+radical generation occurs in myocardial tissue.
+46,47
+IV defect during the time course of ischemia in the
+isolated rabbit heart.
+137
+While cardiolipin content In the isolated rabbit heart, blockade of the proximal
+ETC with rotenone prevents the ischemia-inducedwas decreased, the content of the remaining phos-
+pholipids was preserved.
+137
+The composition of the decrease in cardiolipin content in SSM, consistent
+with the notion of oxidative damage to cardiolipinremaining cardiolipin was unaltered.
+137
+Mito-
+chondrial cardiolipin content decreased in both in mediated by the ETC (Lesnefsky and Hoppel, un-
+published data).vitro
+138,139
+and in vivo
+140,141
+experimental models of
+myocardial ischemia. Ischemia also leads to oxidative damage to mito-
+chondrial proteins. Ischemia decreases mito-The mitochondrial inner membrane is enriched
+in cardiolipin, a phospholipid unique to mito- chondrial protein sulfhydryl (SH) content
+148,149
+and
+increases oxidatively-modified proteins detected bychondria.
+142
+Cardiolipin is a diphosphatidylglycerol
+with two diacylglycerol residues.
+142
+Cardiolipin per the carbonyl assay.
+150
+The mitochondrial ratio of
+reduced:oxidized glutathione decreases during isch-se is highly enriched in oxidatively-sensitive acyl-
+groups, containing 90–95% linoleic acid (C18: emia, confirming a shift in redox state toward
+increased SH-oxidation.
+151
+Oxidative protein mo-2).
+137,143
+The two double bonds in C18:2 can
+rearrange to a resonance-stabilized, conjugated difications accelerate degradation by proteases,
+which are activated by ischemia.
+153
+Thus, duringdiene following free radical-mediated abstraction
+of an allylic hydrogen.
+144
+C18:2 readily participates ischemia there is both functional and chemical
+evidence of oxidative damage.in free radical-initiated reactions in the membrane,
+with the formation of lipid peroxides. While Ischemia decreases mitochondrial antioxidant de-
+fense, further enhancing the likelihood of oxidativeoxidatively altered acyl-groups were not detected
+in cardiolipin from mitochondria from ischemic damage. MnSOD activity decreases while cytosolic
+SOD activity remains unchanged.
+152
+Ischemia de-hearts, lipid peroxy-groups are unstable and may
+not be available for detection. Decomposition of creased mitochondrial glutathione peroxidase ac-
+tivity, a major source of the detoxification of H
+2
+O
+2
+.
+152
+lipid peroxides in cardiolipin can lead to the
+direct destruction of cardiolipin
+144
+or to covalent
+phospholipid–protein complexes that render the
+Ischemia and release of cytochrome c
+phospholipid no longer detectable as a phos-
+pholipid.
+146
+Ischemia predisposes mitochondria to release cyto-
+chrome c from the intermembrane space.
+153
+Cyto-Ischemic damage to cardiolipin is selective be-
+cause the contents of other mitochondrial phos- chrome c is detected in the cytosol at 30 min of
+ischemia in the rabbit heart.
+153
+The content of cyto-pholipids remain unaltered during ischemia in the
+isolated rabbit heart.
+137
+The decrease in cardiolipin chrome c decreases in SSM at 30 min of ischemia,
+E. J. Lesnefsky et al.1078
+concomitant with cardiolipin loss in SSM.
+87,137
+The initial step in the progression of ischemic mito-
+chondrial damage.
+87
+SSM produce reactive oxygenproduction of oxidants, de-energization secondary to
+cessation of electron transport, calcium ac- species following ischemic damage, while oxy-
+radicals production by IFM is not enhanced.
+147
+Thecumulation, and sulfhydryl oxidation all increase the
+likelihood of MPT, with subsequent release of cyto- increased damage may occur secondarily either to
+their location in the subsarcolemmal compartmentchrome c. Loss of cardiolipin during ischemia may
+also cause loss of cytochrome c from the inner mem- of the myocyte, or due to a greater intrinsic sus-
+ceptibility to damage during ischemia. Even in thebrane, delocalizing cytochrome c from the inner
+membrane space. Cytochrome c is highly positively baseline state, SSM display an increased sensitivity
+to calcium-mediated damage compared to IFM,
+90
+charged at physiologic pH (pI 10.3) due to the pres-
+ence of multiple lysine residues.
+154
+Cardiolipin con- raising the possibility that SSM inherently are more
+sensitive to ischemic damage than are IFM. Thetains negatively-charged phosphatidic acid head
+groups (pK
+a
+4.8)
+142
+that bind cytochrome c.
+155,156
+selectivity of ischemic damage to SSM provides a
+mechanism whereby damage to a subset of mito-Ischemia-induced loss of cardiolipin thus may pre-
+dispose to cytochrome c release. chondria leads to myocyte death.
+Mitochondrial calcium overload contributes to myocyte
+Reperfusion
+damage
+Reperfusion damage to the ETC
+Ischemia leads to mitochondrial calcium loading.
+122
+Since mitochondrial calcium uptake during isch-
+Recovery of mitochondrial function during re-
+emia occurs via the uniporter,
+123
+blockade of the
+perfusion depends in part on the duration of the
+uniporter with ruthenium red can determine if
+preceding ischemia. Following brief periods of isch-
+mitochondrial calcium uptake during ischemia
+emia, decreased rates of glutamate oxidation im-
+leads to cardiac injury. Treatment of isolated hearts
+prove during reperfusion.
+126
+In contrast, following
+with ruthenium red reduced mitochondrial calcium
+the onset of ischemic damage to complexes III and
+uptake and ischemic myocardial injury.
+123
+If cal-
+IV, the rate of oxidative phosphorylation further
+cium-mediated injury is based upon the activation
+deteriorates during reperfusion,
+157
+suggesting that
+of PLA
+2
+, a generalized decrease in mitochondrial
+additional mitochondrial injury occurs.
+phospholipid content with a corresponding increase
+The activities of ETC complexes I
+126
+and III
+157
+in lysophospholipids would be expected.
+50
+This find-
+decrease during reperfusion. The sites of damage
+ing was not observed during ischemia.
+137
+Total
+to these complexes during reperfusion is un-
+mitochondrial phospholipid content did not de-
+known. Although complex IV activity is decreased
+crease in SSM following 45 min of ischemia in the
+by ischemia and reperfusion,
+139
+damage during
+rabbit heart,
+137
+60 min of global ischemia in the rat
+ischemia dominates, since the rate of oxidative
+heart,
+138
+nor 120 min of regional ischemia in the
+phosphorylation through complex IV in intact
+pig heart.
+141
+Thus, generalized PLA
+2
+activation ap-
+mitochondria does not further deteriorate during
+pears to be an unlikely mechanism for calcium-
+reperfusion (Lesnefsky and Hoppel, unpublished
+mediated mitochondrial damage during cardiac
+data). Consistent with cardiolipin loss as the mech-
+ischemia.
+anism of the complex IV defect in SSM, cardiolipin
+content in SSM does not further deteriorate during
+early reperfusion in the isolated heart in vitro
+Ischemic damage is greater in SSM than in IFM
+(Lesnefsky and Hoppel, unpublished data) or dur-
+ing reperfusion following regional ischemia in
+SSM sustain a more rapid onset of ischemic damage
+vivo.
+140
+than do IFM in multiple experimental models.
+33,87,
+88,93,140,147
+An increased susceptibility of SSM to
+ischemic damage has been observed in isolated rat
+Mitochondria mediate oxidative damage during
+and rabbit hearts in vitro
+33,87
+and during regional
+reperfusion
+ischemia in vivo.
+140
+In the isolated, perfused rabbit
+heart, at 30 and 45 min of ischemia, SSM exhibit Ischemic damage to the ETC leads to increased
+•O
+2
+−
+and H
+2
+O
+2
+generation during reperfusion.
+105,
+decreased oxidative phosphorylation through com-
+plex IV and the distal ETC
+87
+and loss of cardiolipin
+137 158–161
+The oxidation of either glutamate or succinate
+increases •O
+2
+−
+generation during reperfusion. Dur-and cytochrome c
+87
+content. In contrast, IFM only
+display decreases in the oxidation of glutamate, the ing reperfusion, mitochondria generate reactive
+Mitochondria in Cardiac Disease 1079
+oxygen species
+105,146,159,160
+that lead to additional IV is under respiratory control or independent
+of respiratory control (‘‘uncoupled’’).
+35
+Uncoupledmitochondrial
+105,158,161
+and myocyte injury.
+158,159,161
+Post-ischemic mitochondria generate the reactive electron flow through complex IV decreases the
+relative reduction of complexes I and III,
+35,36
+de-and damaging hydroxyl radical (•OH).
+105,160
+In the
+isolated perfused heart, reperfusion following creasing the likelihood of electron leak by these
+complexes to form oxyradicals. Ischemia-induced30 min of ischemia increases oxyradical generation
+measured by ESR spin-trapping technique.
+158
+In- decreases in complex IV activity predispose to
+oxidant production by removing an antioxidantcreased mitochondrial •OH generation also has
+been detected by the salicylate hydroxylation tech- mechanism in the ETC.
+nique.
+160
+A critical amount of damage to the ETC
+by ischemia is required for the generation of reactive
+oxygen species. Normal cardiac mitochondria gen- Dysregulation of substrate oxidation during reperfusion
+erate little •OH, while intermediate degrees of dam-
+Damage due to ischemia or reperfusion disrupts the
+age markedly accentuate •OH production.
+tight regulation of substrate selection for mito-
+However, severe injury resulting in markedly re-
+chondrial oxidation, having a negative impact on
+duced oxygen consumption greatly decreases •OH
+cardiac metabolic and mechanical function during
+formation.
+105
+reperfusion.
+75,76
+Cardiac recovery is enhanced by
+Reperfusion-induced declines in cardiac function
+the oxidation of carbohydrates, rather than of fatty
+and accumulation of oxidatively damaged lipids are
+acids, during early reperfusion.
+75,76
+Reperfusion
+diminished when mitochondrial respiration was
+leads to an increase in uncoupled respiration that
+reversibly inhibited during early reperfusion using
+is observed in isolated mitochondria.
+75–77
+The in-
+amytal,
+158
+underlining the physiologic significance
+crease in uncoupled respiration is manifested as an
+of mitochondrial oxyradical production. In contrast,
+excess oxidation of substrates compared to energy
+inhibition of complex IV with CN
+−
+does not confer
+production during reperfusion, decreasing the
+protection.
+158
+Amytal treatment helps to dissect the
+metabolic efficiency of the reperfused heart. The
+relative contributions of complexes I and III in
+uncoupling of substrate oxidation from energy de-
+the genesis of oxidative damage.
+162
+Amytal blocks
+mand is enhanced with lipid substrates compared
+complex I near the binding site for ubiquinol, the
+to carbohydrate substrates.
+166
+Reperfusion leads to
+electron acceptor from complex I.
+162
+Block of com-
+the loss of regulation of fatty acid oxidation by CPT-
+plex I at this distal site in electron flow through
+I, probably secondarily to a decrease in content
+the complex enhances reduction of the NADH de-
+of malonyl-CoA.
+168
+The content of malonyl-CoA
+hydrogenase in complex I, increasing electron leak
+decreases during ischemia and further decreases
+from complex I to form reactive oxygen species.
+39
+during reperfusion.
+168
+As a consequence of in-
+Thus, rotenone blockade should enhance, not de-
+creased supply of non-esterified fatty acids present
+crease, oxyradical production by complex I. There-
+in the intact organism during ischemia, the control
+fore, the observed decrease in the production of
+strength at CPT-I is further attenuated due to the
+oxyradicals and improved myocardial protection in
+increased cytosolic content of long-chain acyl-CoAs.
+the presence of amytal strongly suggest that the
+Whether the acyl-CoA modulation of CPT-I activity
+site of production of reactive oxygen species occurs
+dominates or modifies intrinsic changes in the ma-
+distal to the site of amytal block. Myxothiazole
+lonyl-CoA sensitivity of CPT-I remains to be elu-
+blocks electron entry into complex III
+163
+and blunts
+cidated.
+the production of reactive oxygen species by iso-
+lated mitochondria
+164
+and by cardiomyocytes.
+47
+Thus, blockage of electron influx into complex III
+Reperfusion predisposes to onset of mitochondrial
+is a likely mechanism of amytal-mediated protec-
+permeability transition (MPT)
+tion.
+Ischemic damage to complex IV also can con- Mitochondrial oxidative damage is enhanced during
+reperfusion.
+161
+Increased calcium enhances mito-tribute to oxidative damage during reperfusion.
+While direct production of reactive oxygen species chondrial calcium loading.
+122–124
+Enhanced mito-
+chondrial oxidative damage and calcium loadingby complex IV does not occur, inhibition of com-
+plex IV enhances oxidant-mediated cell death in predispose to the onset of MPT, which has been
+observed in reperfused myocardium in situ duringvitro,
+165
+and does not protect against myocardial
+oxidative damage during reperfusion.
+158
+Complex early reperfusion.
+112,113
+Based upon their greater
+sensitivity to calcium-mediated damage,
+90
+MPTIV modulates the redox status of upstream ETC
+complexes (Fig. 6). Electron flow through complex formation during reperfusion may involve largely
+E. J. Lesnefsky et al.1080
+SSM. Inhibitors of MPT decrease myocardial dam- heart model of aging.
+93,96
+Aging decreases the pro-
+tein yield and rate of oxidative phosphorylation inage during ischemia and reperfusion.
+169
+MPT ap-
+pears to be reversible during reperfusion, with IFM.
+91,96
+In contrast to aging defects in IFM, the
+protein yield of SSM and the rate of oxidativeclosure of the permeability transition pore enhanced
+by pyruvate oxidation during early reperfusion.
+170
+phosphorylation in SSM remains unaltered by
+aging. Aging decreases the activity of ETC com-The contributions of MPT as an effector of oxidative
+and calcium-mediated processes to reperfusion plexes III
+96
+and IV
+91
+in IFM. The activity of com-
+plexes I and II does not decrease with age in IFM.
+91
+damage requires further investigation.
+Aging-related decreases in fatty acid oxida-
+tion
+138,174
+and complex IV activity
+148,176
+previously
+described in mixed populations of cardiac mito-
+Ischemic preconditioning
+chondria were localized to IFM.
+92
+In previous
+work by other laboratories, heart mitochondria
+Brief periods of ischemia decrease the myocardial
+isolated by tissue homogenization alone
+177
+that
+damage that results from a subsequent prolonged
+were expected to yield a population consisting of
+period of ischemia.
+125
+Ischemic preconditioning
+SSM, did not exhibit aging-related decreases in
+ameliorates ischemic mitochondrial damage, im-
+mitochondrial respiration. Previous results have
+proving rates of oxidative phosphorylation toward
+been reconciled by the finding that aging-related
+rates observed in mitochondria from non-ischemic
+decrements in mitochondrial respiration occur
+hearts.
+171
+Preconditioning protection is mediated
+selectively in IFM.
+in part via activation of adenosine (A-1) receptors
+An appreciation of the selective effect of aging
+on the plasma membrane.
+172
+A-1 receptor ac-
+on IFM is critical to the study of aging-related
+tivation leads to activation of protein kinase C,
+alterations in the heart. The use of tissue ho-
+including the afii9830 isoform.
+172
+A major downstream
+mogenization alone to isolate cardiac mitochondria
+effector of preconditioning protection is activation
+paradoxically targets for study the SSM population,
+of the ATP-dependent potassium channel (K-
+which is without aging-related oxidative defects.
+AT P
+mito
+) in the inner mitochondrial mem-
+Recent studies of mitochondrial physiology in the
+brane.
+172,173
+Activation of K-ATP
+mito
+channels leads
+aging heart, including the production of reactive
+to partial depolarization of the inner membrane
+173
+oxygen species
+178
+and protein import,
+179
+found that
+and to partial uncoupling with increased oxygen
+aging did not alter these processes. However, the
+consumption and decreased ATP synthesis.
+171
+techniques of mitochondrial isolation used in these
+Mitochondrial calcium release also is increased.
+171
+studies very likely yielded only SSM. The study
+Perhaps as a consequence of the increase in res-
+of IFM, in which key aging-related alterations in
+piration, the oxidation of FADH
+2
+is increased.
+173
+oxidative phosphorylation reside, without the con-
+The partial uncoupling of respiration may de-
+founding effects of admixed SSM that remain un-
+crease the production of oxidants by mito-
+altered by aging, will facilitate the study of
+chondria. Calcium release and less oxidative
+mitochondria-related mechanisms of dysfunction in
+damage would be expected to decrease the like-
+the aging heart.
+lihood of MPT and cytochrome c release. The
+mechanisms of mitochondrial-driven pre-
+conditioning-mediated protection will require fur-
+Molecular defects in complexes III and IV in aging IFM
+ther study. The mechanism by which protein
+kinase C activates the K-ATP
+mito
+channel remains
+Aging decreased the rate of oxidative phos-
+unclear at present.
+phorylation stimulated by TMPD-ascorbate, an elec-
+tron donor to complex IV via cytochrome c (Fig. 6)
+in IFM.
+92
+The rate of uncoupled respiration was de-
+creased, localizing the defect to the ETC.
+92
+The defect
+Aging
+in electron transport was present under both sub-
+maximally and maximally expressed rates of ox-
+Aging decreases oxidative phosphorylation selectively in
+idative phosphorylation.
+92
+Complex IV activity
+IFM
+measured in permeabilized mitochondria in the pres-
+ence of exogenous cytochrome c remained decreasedMitochondrial oxidative metabolism declines with
+age in many tissues. Oxidative phosphorylation was in IFM, localizing the aging defect to complex IV
+rather than to cytochrome c. The decrease in com-studied in SSM and IFM from 6-month adult and
+24-month aging hearts using the Fischer 344 rat plex IV activity observed in permeabilized IFM from
+Mitochondria in Cardiac Disease 1081
+aging hearts was reversed by the addition of exo- injury in aging tissues.
+180,181
+Mitochondria isolated
+from senescent animals exhibit higher rates of oxy-genous phospholipid liposomes.
+92
+In a mixed popu-
+lation of cardiac mitochondria, aging-related radical production than do those from young an-
+imals. H
+2
+O
+2
+generation increases by 25% indecreases in complex IV activity were reversed by
+the addition of the phospholipid cardiolipin.
+176
+These mitochondria from 24-month-old rats.
+182
+Cardiac
+mitochondria from elderly hearts sustain greaterfindings strongly suggest that the aging decrease in
+complex IV is secondary to a defect in the phos- lipid peroxidation and injury following exposure to
+exogenous iron and H
+2
+O
+2
+.
+183
+Mitochondria frompholipid environment, probably cardiolipin, of com-
+plex IV. aging tissues have increased oxidative stress even in
+the baseline state.
+51,63
+Cardiac mitochondria isolatedComplex IV requires cardiolipin,
+142
+especially car-
+diolipin enriched in unsaturated acyl-groups,
+143
+for from elderly rats had an increased content of 8-
+hydroxydeoxyguanosine, a marker of oxidativeoptimal activity. The findings in aging IFM suggest
+that an aging-induced cardiolipin defect participates mtDNA damage, compared to adult controls.
+63
+The
+mtDNA changes are observed in heart, but not inin the genesis of the complex IV defect. However, the
+content of cardiolipin, quantified by lipid phos- liver,
+63
+suggestive of an increased susceptibility to
+oxidative injury in cardiac mitochondria from eld-phorous,
+143
+is preserved in IFM from aging hearts
+(Moghaddas, Lesnefsky, Hoppel, unpublished data). erly animals.
+The recovery of cardiolipin from mitochondrial phos-
+pholipids was excellent. A previous study only es-
+timated cardiolipin content by UV absorbance (a
+Aging-related mitochondrial defects may predispose to
+function of acyl-group composition) relative to the
+increased injury in the aging heart
+other phospholipids without independent quan-
+titation, suggesting that a decrease in relative car- The elderly heart sustains greater injury during
+ischemia and reperfusion compared to the adultdiolipin composition occurred in aging heart
+mitochondria.
+148,176
+The possible role of aging-related heart in both patients
+184
+and experimental mod-
+els.
+185–188
+There is greater oxidative damage,
+186
+in-alterations in the composition, rather than in the
+content of cardiolipin, in IFM requires further study. cluding oxidative protein modification,
+186
+as well as
+calcium-mediated damage
+122
+compared to the adultThe rate of oxidative phosphorylation stimulated
+by durohydroquinone, an electron donor to com- heart. The enhanced calcium-mediated and ox-
+idative damage in the aging heart suggests mito-plex III, was decreased by aging in IFM, but not
+in SSM.
+97
+The rate of uncoupled respiration was chondria-driven mechanisms of injury in the aging
+heart. The addition of ischemic mitochondrial dam-decreased, localizing the aging defect to the electron
+transport chain. Complex III activity was decreased age to pre-existing aging-related mitochondrial de-
+fects is a likely mechanism of enhancedby aging in IFM, but remained unchanged in SSM.
+97
+The decrease in complex III activity was observed mitochondrial-derived injury in the aging heart.
+109
+Complex III, implicated as a source of reactiveunder both maximal and submaximal conditions.
+97
+Studies were performed to localize the site of the oxygen species during reperfusion in the adult
+heart, is a probable source of enhanced oxidativeaging defect in complex III. Aging did not alter the
+content of catalytic centers of complex III (cyto- damage during reperfusion in the aging heart.
+109
+The addition of ischemia-induced defects in complexchromes b and c
+1
+and iron–sulfur protein). Func-
+tional studies of complex III activity localized the III to the preexisting aging-related defects can en-
+hance mitochondrial-derived injury during re-aging defect to the cytochrome c binding site of
+complex III.
+97
+However, the subunit peptides (sub- perfusion. Ischemia damages the iron–sulfur
+subunit of complex III.
+109
+Aging causes a defect atunits VIII, X, and cytochrome c
+1
+) that compose the
+cytochrome c binding site were present in complex the cytochrome c binding site.
+97
+Thus, at the onset
+of reperfusion in the aging heart, complex III inIII isolated from aging IFM.
+97
+Thus, modification,
+rather than loss, of peptide subunits that constitute IFM contains sequential defects in the path of elec-
+tron flow. The two partial blocks in sequence arethe cytochrome c binding site is a likely mechanism
+of the aging defect in complex III.
+97
+likely to act in concert to further slow electron
+flow within complex III, increase the reduction of
+cytochrome b, and enhance production of reactive
+Aging increases oxidative damage in cardiac
+oxygen species compared to either defect alone. An
+mitochondria
+increase in intracellular oxidative injury leads to
+cell death by necrosis or apoptosis, processes thatAging defects present in cardiac mitochondria are
+probable sources of the increase in chronic oxidative are increased in the aging heart during reperfusion.
+E. J. Lesnefsky et al.1082
+Cardiomyopathy and congestive heart failure studies have detected only neutral polymorphisms
+in the cytochrome b gene despite decreases in com-
+Considerable attention has been given to the po- plex III activity.
+197
+Thus, the relationship of mtDNA
+mutations in cardiomyopathy to decreased activitytential role of mitochondrial defects in the genesis
+of dilated cardiomyopathy in the adult. As a model, of ETC complexes and decreased mitochondrial ox-
+idative phosphorylation remains to be established.inherited diseases of mitochondrial metabolism im-
+pair oxidative phosphorylation in the heart, leading The potential for mitochondrial-derived myocyte
+injury exists in the cardiomyopathic heart. In pa-to cardiac lactate production and globally hy-
+pocontractile, dilated ventricles. The phenotype of cing-induced canine models of heart failure, mito-
+chondrial production of reactive oxygen species isneonatal heart failure has been observed with de-
+fects in ETC complexes I
+189
+and IV.
+190
+Defects in increased, with complex I the likely source.
+195
+In
+addition to an increased production of reactivemitochondrial fatty acid oxidation also lead to this
+phenotype.
+191
+While mutations in mtDNA impair oxygen species, mitochondria from the failing heart
+release cytochrome c. Tumor necrosis factor pro-ETC activity, as observed in complexes I and IV,
+defects in nuclear-encoded mitochondrial proteins duction is increased in failing hearts.
+201,202
+Tumor
+necrosis factor leads to the production of the secondalso are frequent sources of cardiomyopathy.
+97,192
+Mutations in the nuclear genome not only account messenger ceramide,
+203
+which inhibits complex
+III.
+204
+Decreased activity of complex III has beenfor defects referable to non-ETC proteins, but also
+delete or alter nuclear-encoded ETC subunit pro- observed in the failing heart.
+203–205
+Ceramide-me-
+diated inhibition of complex III increases the pro-teins, impairing the function of ETC complexes. The
+MnSOD-homozygote mouse develops a cardio- duction of reactive oxygen species
+205
+and
+predisposes to mitochondrial-driven apoptotic path-myopathy in the neonatal period, indicative of a
+mitochondrial-driven cardiac phenotype.
+193
+The ways.
+205,206
+Extra-mitochondrial localization of cyto-
+chrome c, accompanied by activation of theneonatal cardiomyopathy phenotype provides in-
+sights into the mitochondrial mechanisms of cardio- downstream effector, caspase 3, are present in fail-
+ing human hearts.
+206,207
+Thus, via either the in-myopathies observed in adults.
+Experimental models support a role of mito- dependent or concerted action of oxidative damage
+and cytochrome c release, mitochondria are likelychondrial defects in the genesis of cardiomyopathy.
+Syrian hamster cardiomyopathy provides an animal contributors to the enhanced myocyte dropout ob-
+served in the congestive heart failure state.model of human dilated cardiomyopathy.
+91
+The
+cardiomyopathic hamster heart contains a defect
+selective to IFM, whereas SSM are unaffected.
+91
+IFM
+Summary
+do not contain a defect in the ETC, but rather one
+localized to the inner membrane and phos-
+Mitochondrial damage leads to loss of mitochondrial
+phorylation apparatus,
+91
+expected to impair energy
+function, impairing energy production and cell
+production. Decreases in mitochondrial respiration
+physiology, and to the enhancement of pathologic
+in experimental heart failure also are observed at
+function, producing oxidative-, calcium-, and apo-
+the myocyte level using saponin-skinned muscle
+ptosis-mediated myocyte injury. Mitochondria are
+bundles obtained from dogs with pacing-induced
+key intermediates of myocyte damage during isch-
+dilated cardiomyopathy and heart failure.
+194
+These
+emia and reperfusion. These organelles are likely
+experimental approaches provide key data sup-
+contributors to the chronic, relentless myocyte in-
+porting decrease in mitochondrial respiration in
+jury that culminates in myocyte dropout in aging
+cardiomyopathy and heart failure, data lacking in
+and heart failure. Studies of mitochondrial function
+human hearts.
+in cardiac disease states using models ranging from
+Enzyme activity of ETC complexes is decreased
+isolated molecular constituents, through isolated
+in hearts explanted from patients with end-stage
+mitochondria and intact cells, to tissues and isolated
+heart failure.
+195–200
+Decreases in complexes I, III,
+organs will continue to provide new insights into
+and IV have been reported. Other studies have
+the mechanisms of mitochondrial damage and of
+detected deletion mutations in mtDNA.
+198,200
+Un-
+mitochondrial-mediated myocyte injury.
+fortunately, data linking these two observations are,
+in general, lacking. One report attempted to link the
+two observations in a patient with cardiomyopathy
+Acknowledgements
+who had a point mutation in the mtDNA cyto-
+chrome b gene and a concomitant decrease This work was supported by Grants
+1RO1AG12447, 1K04AG00676 and 1POAGin complex III enzyme activity.
+200
+However, other
+Mitochondria in Cardiac Disease 1083
+exercise. Am J Physiol 2000; 279: H1490–H1501.
+15885 from the National Institutes of Health, and
+16. L G. Regulation of carbohydrate meta-
+by the Office of Research and Development, Medical
+bolism in ischemia and reperfusion. Am Heart J
+Research Service, Department of Veterans Affairs.
+2000; 139: S115–S119.
+17. B RH, B DB, R JG, O MS.
+Regulation of pyruvate dehydrogenase multi-
+enzyme complex. Annu Rev Nutr 1993; 13: 497–
+References
+520.
+18. B-K MM, D WI, W P, H RA,
+1. C JD, V AL, H CR. The P KM. Evidence for existence of tissue-specific
+regulation of mammalian pyruvate dehydrogenaseionic strength of the intermembrane space of intact
+mitochondria is not affected by the pH or volume complex. Biochem J 1998; 329: 191–196.
+19. W P, I K, B-K MM, P KM,of the intermembrane space. Biochim Biophys Acta
+1992; 1100: 189–197. H RA. Mechanism responsible for inactivation
+of skeletal muscle pyruvate dehydrogenase complex2. G SS, H CR. Multidimensional dif-
+fusion modes and collision frequencies of cyto- in starvation and diabetes. Diabetes 1999; 48:
+1593–1599.chrome c with its redox partners. J Biol Chem 1988;
+263: 5241–5247. 20. G EW, W JA, S WC, N RA.
+Myocardial substrate utilization during exercise in3. V  K IJ, V M, N W.Amor-
+phological view on mitochondrial protein targeting. humans; Dual carbon-labeled carbohydrate isotope
+experiments. J Clin Invest 1988; 82: 2017–2025.Microsc Res Tech 1994; 27: 284–293.
+4. B D, W T. The importance of the 21. MC JG, H AP, D RM. Role
+of calcium ions in regulation of mammalian in-outer mitochondrial compartment in regulation of
+energy metabolism. Mol Cell Biochem 1994; 133/ tramitochondrial metabolism. Physiol Rev 1990;
+70: 391–425.134: 69–83.
+5. H CL, K J, T P, T J,T 22. MG JD, M SE, L CS, F DW. Ob-
+servations on the affinity for carnitine, and malonyl-B. The malonyl-CoA-sensitive form of carnitine pal-
+mitoyltransferase is not localized exclusively in the CoA sensitivity, of carnitine palmitoyltransferase I
+in animal and human tissues. Biochem J 1983;outer membrane of rat liver mitochondria. J Biol
+Chem 1998; 273: 23495–23503. 214: 21–28.
+23. S M, G J, W LA, L GD.6. F F, Z VA. Enrichment of carnitine
+palmitoyltransferase I and II in the contact sites Acetyl-CoA carboxylase regulation of fatty acid
+oxidation in the heart. J Biol Chem 1993; 268:of rat liver mitochondria. Biochem J 1998; 329:
+225–229. 255836–25845.
+24. H C, S ED. Malonyl-CoA meta-7. N K, R M, W T, D R, H
+R. The role of contact sites between inner and bolism in cardiac myocytes. Biochem J 2000; 350:
+61–67.outer mitochondrial membrane in energy transfer.
+Biochim Biophys Acta 1990; 1018: 229–233. 25. V G, G MJ, D P TG, G M.
+Malonyl-CoA-independent acute control of hepatic8. T P, K J, H CL. A 22 kDa polyanion
+inhibits carnitine-dependent fatty acid oxidation carnitine plamitoyltransferase I activity. Role of
+Ca
+2+
+/calmodulin-dependent protein kinase II andin rat liver mitochondria. FEBS Lett 1999; 460:
+241–245. cytoskeletal components. J Biol Chem 1998; 273:
+21497–21504.9. Z VA, F F, O CG. Regulation
+of mitochondrial outer-membrane carnitine pal- 26. K N, B AJ, B RL, D S, L
+GD. High rates of fatty acid oxidation during re-mitoyltransferase (CPTI): role of membrane-to-
+pology. Adv Enzyme Reg 1997; 37: 295–317. perfusion of ischemic hearts are associated with a
+decrease in malonyl-CoA levels due to an increase10. K J, Z E, G D, B LL. Charac-
+terization of the malonyl-CoA-sensitive carnitine in 5′-AMP-activated protein kinase inhibition of
+acetyl-CoA carboxylase. J Biol Chem 1995; 270:palmitoyltransferase (CPT
+o
+) of a rat heart mito-
+chondrial particle: Evidence that the catalytic unit 17513–17520.
+27. S H, P K. Supercomplexes in theis CPT
+i
+. J Biol Chem 1994; 269: 8209–8219.
+11. B D, B K, K M, A V, respiratory chains of yeast and mammalian mito-
+chondria. EMBO J 2000; 19: 1777–1783.N VK. Characterization and metabolic func-
+tion of mitochondrial contact sites. Biochim Biophys 28. S LA, P-C SY, F IM, W
+JE. Resolution of the membrane domain of bovineActa 1990; 1018: 234–238.
+12. K J, H CL. Fatty acid import into mito- complex I into subcomplexes: implications for the
+structural organization of the enzyme. Biochemistrychondria. Biochim Biophys Acta 2000; 1486: 1–17.
+13. O LH. Cardiac metabolism—emergence, decline, 2000; 39: 7229–7235.
+29. L CR, K A. Succinate: quinoneand resurgence. Part II. Cardiovasc Res 1992; 26:
+817–830. oxidoreductases: new insights from X-ray crystal
+structures. Biochim Biophys Acta 2000; 1459: 422–14. G GW, A F, D T, T H.
+Energy provision from glycogen, glucose, and fatty 431.
+30. X D, Y CA, K H, X JZ, K AM, Zacids on adrenergic stimulation of isolated working
+rat hearts. Am J Physiol 1998; 274: H1239–H1247. L, Y L, D J. Crystal structure of the
+cytochrome bc1 complex from bovine heart mito-15. G GW, T H. Improved energy
+homeostasis of the heart in the metabolic state of chondria. Science 1997; 277: 60–66.
+E. J. Lesnefsky et al.1084
+31. C CE, N P, F JA. Cytochrome transport chain. Mol Cell Biochem 1998; 184: 21–
+33.c oxidase: structure, function, and membrane to-
+pology of the polypeptide subunits. Biochem Cell 49. H B, G JMC. Oxygen toxicity,
+oxygen radicals, transition metals and disease. Bio-Biol 1991; 69: 586–607.
+32. M P. Possible mechanisms of the pro- chem J 1984; 219: 1–14.
+50. S A. Lipid Peroxidation, Membrane Damage,tonmotive function of cytochrome systems. J Theor
+Biol 1976; 62: 327–367. and Phospholipase A
+2
+action. Cellular Antioxidant
+Defense Mechanisms, Vol. II. CRC Press, Boca Raton,33. D J, K M. Relationship between ox-
+idative phosphorylation and adenine nucleotide FL, 1988.
+51. R C, P JW, A BN. Normal oxidativetranslocase activity of two populations of cardiac
+mitochondria and mechanical recovery of ischemic damage to mitochondrial and nuclear DNA is ex-
+tensive. Proc Nat Acad Sci 1988; 85: 6465–6467.hearts following reperfusion. Can J Physiol Phar-
+macol 1989; 67: 704–709. 52. R R, T JF, C LY, B KM, C
+JD, F BA. Detection of catalase in rat heart34. S M. Oxidative phosphorylation at the fin
+de siecle. Science 1999; 283: 1488–1493. mitochondria. J Biol Chem 1991; 266: 22028–
+22034.35. P S, G F, C N. A possible role
+of slips in cytochrome c oxidase in the antioxygen 53. S TW, J IS. Relative importance of
+intracellular glutathione peroxidase and catalase indefense system of the cell. Biosci Rep 1997; 17:
+23–31. vivo for prevention of peroxidation to the heart.
+Cardiovasc Res 1989; 23: 774–779.36. C B, W GR. Respiratory enzymes in
+oxidative phosphorylation. III. The steady state. 54. L EJ, D IM, H LD. Myocardial
+sulfhydryl pool alterations occur during reperfusionJohnson Research Foundation, University of Penn-
+sylvania, Philadelphia, PA, pp. 409–427, 1955. after brief and prolonged myocardial ischemia in
+vivo. Circ Res 1991; 68: 605–613.37. R D, B F. Mitochondrial uncoupling
+proteins: from mitochondria to the regulation of 55. L EJ. Reduction of infarct size by cell-
+permeable oxygen metabolite scavengers. Free Radenergy balance. J Physiol 2000; 529: 3–10.
+38. B O, H T, L BB. Uncoupling proteins 2 Biol Med 1992; 12: 429–446.
+56. A M, I H, K T, Y M, E K,and 3: potential regulators of mitochondrial energy
+metabolism. Diabetes 2000; 49: 143–156. U M, C N, N Y. Mitochondrial
+phospholipid hydroperoxide glutathione peroxidase39. T JF, B A. Generation of superoxide
+anion by the NADH dehydrogenase of bovine heart plays a major role in preventing oxidative injury
+to cells. J Biol Chem 1999; 274: 4924–4933.mitochondria. Biochem J 1980; 191: 421–427.
+40. T JF. Superoxide production by the mito- 57. R S, ME GE, M AT, R BH.
+Superoxides from mitochondrial complex III: thechondrial respiratory chain. Biosci Rep 1997; 17:
+3–8. role of manganese superoxide dismutase. Free Rad
+Biol Med 2000; 29: 170–180.41. S K, N M, T-N H, M-
+ H, T-K S, I Y. M 58. G SA, M JJ. Thioltransferase is a specific
+glutathionyl mixed disulfide oxidoreductase. Bio- O
+2
+−
+generation in reduction and oxidation cycle
+of ubiquinones in a model of mitochondrial electron chemistry 1993; 32: 3368–3376.
+59. S DW, C Y, B CP, L EJ,transport systems. Biochim Biophys Acta 1988; 936:
+377–385. M JJ. Sensitivity of protein sulfhydryl repair
+enzymes to oxidative stress. Free Rad Biol Med 1997;42. T JF, A A, L AL. Ubi-
+semiquinone is the electron donor for superoxide 23: 373–384.
+60. C DL, S RH, B VA. Mitochondrialformation by complex III of heart mitochondria.
+Arch Biochem Biophys 1985; 237: 408–414. DNA repair pathways. Mutat Res 1999; 434: 137–
+148.43. B GT, V C. Discrete steps in dioxygen
+activation—the cytochrome oxidase/O
+2
+reaction. J 61. B VA, A RM. Mitochondrial DNA repair
+pathways. J Bioenerg Biomembr 1999; 31: 391–398.Bioenerg Biomemb 1993; 252: 71–80.
+44. K LK, S RS. Substrate and site specificity 62. T M, H M, S S, H
+K, I T, O T. Age-associated damage in mito-of hydrogen peroxide generation in mouse mito-
+chondria. Arch Biochem Biophys 1998; 350: 118– chondrial function in rat hearts. Exp Gerontol 1993;
+28: 269–280.126.
+45. L SS. Cooperation of a ‘‘reactive oxygen cycle’’ 63. W DC. Mitochondrial defects in cardio-
+myopathy and neuromuscular disease. Am Heart Jwith the Q cycle and the proton cycle in the res-
+piratory chain-superoxide generating and cycling 2000; 139: S70–S85.
+64. C-D M, S JM, L MT, W-mechanisms in mitochondria. J Bioenerg Biomembr
+1999; 31: 367–376.  DC. Association of mitochondrial DNA damage
+with aging and coronary atherosclerotic heart dis-46. D MJ. Direct detection of radical production in
+the ischaemic and reperfused myocardium: current ease. Mutat Res 1992; 275: 169–180.
+65. N P, M IR, B A, M RJ,status. Free Rad Res Comm 1989; 7: 275–284.
+47. B LB, V H TL, S Z-H, L C-Q, V F, W ZX, Z C, L AW.
+Mitochondrial DNA mutation associated with agingS PT. Generation of superoxide in car-
+diomyocytes during ischemia before reperfusion. and degenerative disease. Ann N Y Acad Sci 1992;
+673: 92–102.Am J Physiol 1999; 277: H2240–H2246.
+48. D OV, K BN, S VP. A model 66. L CM, L ME, W R, A JM. As-
+sociation of age-related mitochondrial ab-of O
+2
+−
+generation in the complex III of the electron
+Mitochondria in Cardiac Disease 1085
+normalities with skeletal muscle fiber atrophy. Free caused by lysosomal loading of Ca(2+)-indicating
+Rad Biol Med 1998; 25: 964–972. fluorophores. Biophys J 2000; 79: 39–50.
+67. T RW, C PF, T DM, L- 82. S LM, S N. Localization of di-
+ RN. In-vitro genetic modification of mito- chlorofluorescin in cardiac myocytes: implications
+chondrial function. Hum Reprod 2000; 15 Suppl 2: for assessment of oxidative stress. Am J Physiol
+79–85. 2000; 278: H982–H990.
+68. M-H J. Cytochrome-c-oxidase deficient 83. G AK, W RJ, W HV, V D
+cardiomyocytes in the human heart—an age-re-
+M R, T JM. Quantification of the con-
+lated phenomenon. A histochemical ultra-
+tribution of various steps to the control of mito-
+cytochemical study. Am J Pathol 1989; 134:
+chondrial respiration. J Biol Chem 1982; 257:
+1167–1173.
+2754–2757.
+69. K CM. Protein translocation pathways of the
+84. G FN, B R, K W. Control of
+mitochondrion. FEBS Lett 2000; 476: 27–31.
+mitochondrial respiration. The contribution of the
+70. L T. Targeting of proteins to mitochondria.
+adenine nucleotide translocator depends on the
+FEBS Lett 2000; 476: 22–26.
+ATP- and ADP-consuming enzymes. Biochim Bio-
+71. H B, K H, N W. Receptor sites
+phys Acta 1983; 722: 381–391.
+involved in posttranslational transport of apo-
+85. B V, M V, B GC, B MD.
+cytochrome c into mitochondria: specificity, affinity,
+Control and kinetic analysis of ischemia-damaged
+and number of sites. Proc Natl Acad Sci 1983; 80:
+heart mitochondria: which parts of the oxidative
+4963–4967.
+phosphorylation system are affected by ischemia?
+72. L T, N W. Regulated protein de-
+Biochim Biophys Acta 1995; 1272: 154–158.
+gradation in mitochondria. Experientia 1996; 52:
+86. P JW, T B, H CL. Biochemical
+1069–1076.
+properties of subsarcolemmal and interfibrillar
+73. N XH, Z J, L J, Y Y, C SH, F AH,
+mitochondria isolated from rat cardiac muscle. J
+B RJ, P MA. Signaling and expression
+Biol Chem 1977; 252: 8731–8739.
+for mitochondrial membrane proteins during left
+87. L EJ, T B, Y J, S TJ, T J,
+ventricular remodeling and contractile failure after
+H CL. Myocardial ischemia decreases oxidative
+myocardial infarction. J Am Coll Cardiol 2000; 36:
+phosphorylation through complex IV in sub-
+282–287.
+sarcolemmal mitochondria. Am J Physiol 1997;
+74. N JR, R MJ, W JT, M HE.
+273: H1544–H1554.
+Effects of ischemia on function and metabolism of
+88. S G, S M, S T, K A, S
+the isolated working rat heart. Am J Physiol 1973;
+H, O R. Detection of mitochondrial membrane
+225: 651–658.
+damages in myocardial ischemia with ESR spin
+75. E FR, W EO, G WN, H GL,
+labeling technique. J Mol Cell Cardiol 1989; 21:
+A CS. Protective effect of increased glycolytic
+1029–1036.
+substrate against systolic and diastolic dysfunction
+89. P JW, T B, H CL. Biochemical
+and increased coronary resistance from prolonged
+differences between subsarcolemmal and in-
+global under perfusion and reperfusion in isolated
+terfibrillar mitochondria from rat cardiac muscle:
+rabbit hearts perfused with erythrocyte sus-
+effects of procedural manipulations. Archiv Biochem
+pensions. Circ Res 1991; 68: 466–481.
+Biophys 1985; 236: 691–702.
+76. L GD, S MA. Energy substrate
+90. P JW, T B, H CL. Heterogeneous
+utilization by isolated working hearts from newborn
+response of subsarcolemmal heart mitochondria to
+rabbits. Am J Physiol 1990; 258: H1274–H1280.
+calcium. Am J Physiol 1986; 250: H741–H748.
+77. D T, G PH, C JM, Z R,
+91. H CL, T B, P W, T JS,
+T H. Fasting, lactate, and insulin improve
+A LD. Hamster cardiomyopathy. A defect in
+ischemia tolerance in rat heart: a comparison with
+oxidative phosphorylation in the cardiac in-
+ischemic preconditioning. Am J Physiol 1996; 270:
+terfibrillar mitochondria. J Biol Chem 1982; 257:
+H1607–H1615.
+1540–1548.
+78. C CB, F AA, W JM, H
+92. F SW, L EJ, S TJ, H MO,
+AH, B A. Postischemic administration of
+H CL. Aging selectively decrease oxidative
+succinate reverses the impairment of oxidative
+capacity in rat heart interfibrillar mitochondria.
+phosphorylation after cardiac ischemia and re-
+Arch Biochem Biophys 1999; 372: 399–407.
+perfusion injury. Circulation 1997; 96 (Suppl II): II-
+93. P HM, S O, S M, S P,
+260–II-265.
+H JF, S PG. Development of isch-
+79. D L F, B PS, C R, G G,
+emia-induced damage in defined mitochondrial sub-
+S HS, S MD, H RG. Mito-
+populations. J Mol Cell Cardiol 1985; 17: 885–896.
+chondrial membrane potential in single living adult
+94. S VA, K AV, K VV, M
+rat cardiac myocytes exposed to anoxia or metabolic
+MV, J WE. Creatine kinase of rat heart mito-
+inhibition. J Physiol 1995; 486: 1–13.
+chondria. The demonstration of functional coupling
+80. M KK, S MS, C RA.
+to oxidative phosphorylation in an inner mem-
+Changes in mitochondrial function induced in isol-
+brane-matrix preparation. J Biol Chem 1985; 260:ated guinea-pig ventricular myocytes by calcium
+7757–7764.overload. J Physiol 1994; 476: 459–471.
+95. C JD, V AL, H CR. Per-81. T DR, C WE, L JJ. Mito-
+sistence of cytochrome c binding to membranes atchondrial calcium transients in adult rabbit cardiac
+myocytes: inhibition by ruthenium red and artifacts physiological mitochondrial intermembrane space
+E. J. Lesnefsky et al.1086
+ionic strength. Biochim Biophys Acta 1995; 1228: apoptosis by Bcl-2; release of cytochrome c from
+mitochondria blocked. Science 1997; 275: 1129–216–228.
+96. H C, C C. Studies on the nucleotide 1132.
+112. L F, S A, W Y, A RC, T-specificity of mitochondrial inner membrane part-
+icles. Arch Biochem Biophys 1969; 135: 184–193.  KJ, F L. Cells-specific induction of apoptosis
+by microinjection of cytochrome c, Bcl-x has ac-97. L EJ, G TI, M S, M CT,
+S MI, T PJ, H CL. Aging decreases tivity independent of cytochrome c release. J Biol
+Chem 1997; 272: 30299–30305.electron transport complex III activity in heart
+interfibrillar mitochondria by alteration of the cyto- 113. C M. The mitochondrial permeability
+transition pore and its role in cell death. Biochem Jchrome c binding site. J Mol Cell Cardiol 2001; 33:
+37–47. 1990; 341: 233–249.
+114. K YE, S PM. Prooxidants open98. M-Y A, H Y. Ubiquinol:cytochrome
+c oxidoreductase. Effects of inhibitors on reverse both the mitochondrial permeability transition pore
+and a low-conductance channel in the inner mito-electron transfer from the iron-sulfur protein to
+cytochrome b. J Biol Chem 1999; 274: 9283–9288. chondrial membrane. Arch Biochem Biophys 2000;
+376: 377–388.99. R W. Mitochondrial complexes I, II, III, IV
+and V in myocardial ischemia and autolysis. Am J 115. S S, B D, J D, S A,
+S U, W S, W M, W T.Physiol 1983; 244: H743–H748.
+100. B JA, W ML, J WE. Creatine Octamerdimer transition of mitochondrial creatine
+kinase in heart disease. J Mol Cell Cardiol 1999; 31:kinase of heart mitochondria. The progressive loss
+of enzyme activity during in vivo ischemia and its 857–866.
+116. O’G E, B G, D M, K AP,correlation to depressed myocardial function. J Biol
+Chem 1985; 260: 208–214. B D, W T. The role of creatine
+kinase in inhibition of mitochondrial permeability101. C PB, S DW, C ME, C WA J,
+G RW, S BE. Electrophysiological effects of transition. FEBS Lett 1997; 414: 253–257.
+117. S O, D M, W T, Ramphiphiles on canine purkinje fibers. Implications
+for dysrhythmia secondary to ischemia. Circ Res C. Mitochondrial creatine kinase is a prime target
+of peroxynitrite-induced modification and in-1981; 49: 354–363.
+102. C PB, S BE. Arrhythmogenic properties of activation. J Biol Chem 1998; 273: 16694–16699.
+118. B MYU, K VV, Z G. Modu-phospholipid metabolites associated with myo-
+cardial ischemia. Fed Proc 1983; 42: 2454–2459. lation of the mitochondrial permeability transition
+by nitric oxide. Eur J Biochem 1997; 246: 710–718.103. C PB, G RW, S BE. Amphipathic meta-
+bolites and membrane dysfunction in ischemic myo- 119. A S, G RA, B BM. Lack of release
+of cytochrome C from mitochondria into cytosolcardium. Circ Res 1984; 55: 135–154.
+104. K MT, S JE, C PB, S BE. The early in the course of Fas-mediated apoptosis of
+Jurkat cells. J Biol Chem 1998; 273: 19892–19894.dependence of electrophysiological derangements
+on accumulation of endogenous long-chain acyl 120. P D, Z-P R, Z M. Apoptosis
+and proliferation of cardiomyocytes in heart failurecarnitine in hypoxic neonatal rat myocytes. Circ
+Res 1986; 58: 230–240. of different etiologies. Cardiovasc Pathol 2000; 9:
+149–152.105. O H, T H, I T, U M, O
+K, T K, S T, O T, M A, N- 121. W JY. Age and the cardiovascular system. NEJM
+1992; 327: 1735–1739. A, K T. In vitro study on contribution
+of oxidative metabolism of isolated rabbit heart 122. A K, C D, L S, J E, F
+H. Effect of aging on intracellular Ca
+2+
+, pHi, andmitochondria to myocardial reperfusion injury. Circ
+Res 1984; 55: 168–175. contractility during ischemia and reperfusion. Cir-
+culation 1992; 86: II371–II376.106. L G, B C, F G, C GP.
+Mitochondria, oxidative stress, and antioxidant de- 123. G GJ, D S, S PG. Ruthenium
+red improves postischemic contractile function infenses. Acta Biochim Pol 1999; 46: 1–21.
+107. L G, D’A M, M P M, G isolated rat hearts. J Cardiovasc Pharm 1990; 16:
+783–789.ML, V B, B C, F G, P
+C G. Mitochondrial bioenergetics in aging. 124. G TE, P DR. Mechanisms by which
+mitochondria transport calcium. Am J Physiol 1990;Biochim Biophys Acta 2000; 1459: 397–404.
+108. T JF, B M, B J, C UB, 258: C755–C786.
+125. M CE, R VJ, R KA, J RB.MC JM. Mitochondrial generation of oxygen
+radicals during reoxygenation of ischemic tissues. Ischemic preconditioning slows energy metabolism
+and delays ultrastructural damage during a sus-Free Rad Res Comm 1991; 12–13: 681–689.
+109. L EJ, G TI, M CT, S MI, H tained ischemic episode. Circ Res 1990; 66: 913–
+931.MO, T PJ, H CL. Ischemic injury to
+mitochondrial electron transport in the aging heart: 126. F W, A J, F P, M
+M, V B H. Mitochondrial function in myo-damage to the iron–sulfur protein subunit of elec-
+tron transport complex III. Arch Biochem Biophys cardial stunning. J Mol Cell Cardiol 1991; 23: 1–11.
+127. A GK, C VR. Myocardial ischemia: cor-2001; 385: 117–128.
+110. G DR, R JC. Mitochondria and apoptosis. relation of mitochondrial adenine nucleotide and
+respiratory function. J Mol Cell Cardiol 1984; 16:Science 1998; 281: 1309–1316.
+111. Y J, L X, B K, K CN, I AM, 439–448.
+128. R W, B CW, G IL. ATP depletionC J, P TI, J DP, W X. Prevention of
+Mitochondria in Cardiac Disease 1087
+and mitochondrial functional loss during ischemia and analogues of cardiolipin. Biochim Biophys Acta
+1990; 1020: 34–42.in slow and fast heart-rate hearts. Am P Physiol
+1990; 259: H1759–H1766. 144. O’B PJ. Intracellular mechanisms for the de-
+composition of a lipid peroxide. I. Decomposition of129. R W, B CW, G F, C G.
+ATPase activity, IF1 content, and proton con- a lipid peroxide by metal ions, heme compounds,
+and nucleophiles. Can J Biochem 1969; 47: 485–ductivity of ESMP from control and ischemic slow
+and fast heart-rate hearts. J Bioenerg Biomembr 499.
+145. P NL, Z CW, S HHO. Free1995; 27: 459–466.
+130. N H. Generation of superoxide radicals as by- radical-induced alterations of myocardial mem-
+brane proteins. Arch Biochem Biophys 1991; 289:product of cellular respiration. Ann Biol Clin 1994;
+52: 199–204. 118–123.
+146. T A, D P, P A, J A.131. R W, R S. Impaired function of
+mitochondrial electron transfer complex I in canine Mitochondrial functions in ischemic myocardium.
+I. Proton electrochemical gradient, inner membranemyocardial ischemia: loss of flavin mononucleotide.
+J Mol Cell Cardiol 1983; 15: 537–542. permeability, calcium transport and oxidative phos-
+phorylation in isolated mitochondria. J Mol Cell132. K H, X D, Y CA, X JZ, K AM, Z
+L, Y L, D J. Inhibitor binding changes Cardiol 1979; 11: 57–76.
+147. U H, O R, S M, K A,domain mobility in the iron–sulfur protein of the
+mitochondrial bc1 complex from bovine heart. Proc S G. Spin trapping on cardiac submitochondrial
+particles isolated from ischemic and non-ischemicNatl Acad Sci 1998; 95: 8026–8033.
+133. M T, Y L, Y CA. Hematoporphyrin-promoted myocardium. J Mol Cell Cardiol 1990; 22: 893–899.
+148. P G, R FM, P G, Q-photo inactivation of mitochondrial ubiquinol-cyto-
+chrome c reductase: selective destruction of the  E. Age-dependent decrease in the cyto-
+chrome c oxidase activity and changes inhistidine ligands of the iron–sulfur cluster and pro-
+tective effect of ubiquinone. Biochemistry 1991; 30: phospholipids in rat-heart mitochondria. Arch
+Gerontol Geriatr 1993; 16: 263–272.230–238.
+134. D E, M-Z T, H OM, 149. A A, M A, P E, L D,
+D J, M L, P G, C F.S CH, L TA, T BL. Alteration of
+the midpoint potential and catalytic activity of the Effect of ischemia and reperfusion on antioxidant
+enzymes and mitochondrial inner membrane pro-rieske iron–sulfur protein by changes of amino acids
+forming hydrogen bonds to the iron–sulfur cluster. teins in perfused rat heart. Biochim Biophys Acta
+1988; 970: 113–121.J Biol Chem 1998; 273: 9085–9093.
+135. R NC, S F, T L. Investigation 150. P DF, K KA, MM JB. Carnitine palm-
+itoyltransferase in cardiac ischemia. A potential siteof the essential boundary layer phospholipids of
+cytochrome c oxidase using triton X-100 de- for altered fatty acid metabolism. Circ Res 1991;
+68: 1085–1094.lipidation. Biochemistry 1980; 19: 3656–3661.
+136. V SB, C RA. Lipid requirements for cyto- 151. D KJ, D ME. Protein damage and
+degradation by oxygen radicals. III. Modification ofchrome c oxidase activity. Biochemistry 1997; 16:
+5755–5759. secondary and tertiary structure. J Biol Chem 1987;
+262: 9908–9913.137. L EJ, S TJ, S MSK, M PJ,
+H CL. Myocardial ischemia selectively depletes 152. S M, M CL, A S. Mitochondrial
+hydrogen peroxide generation and activities of glu-cardiolipin in rabbit heart subsarcolemmal mito-
+chondria. Am J Physiol 2001 (in press). tathione peroxidase and superoxide dismutase fol-
+lowing global ischemia. J Mol Cell Cardiol 1987;138. E Y,   M E, S D, K JCN,
+S C, L A. Normothermic ischemic 19: 1195–1206.
+153. F T-HM, X J, P TS, K M, C MV,cardiac arrest of the isolated working rat heart. Circ
+Res 1983; 53: 663–678. D JM. Diazoxide inhibits mitochondrial cyto-
+chrome c release in ischemic rabbit myocardium.139. P G, P G, P M, D
+N, S D, R FM. Lipid peroxidation and Circulation 1999; 100: I–630 (abstract).
+154. F T. Cytochrome c pI. Acta Chem Scandalterations to oxidative metabolism in mitochondria
+isolated from rat heart subjected to ischemia and 1966; 20: 1476–1486.
+155. S Y, H K, K S, O N, Y K.reperfusion. Free Rad Biol Med 1999; 27: 42–50.
+140. K K, P DF, H H, Y BY, E- Loss of molecular interaction between cytochrome c
+and cardiolipin due to lipid peroxidation. Biochem ML, MM-W JB. Protection by vera-
+pamil of mitochondrial glutathione equilibrium and Biophys Res Comm 1999; 264: 343–347.
+156. R M, K PKJ. Evidence for two dis-phospholipid changes during reperfusion of isch-
+emic canine myocardium. Circ Res 1987; 61: 301– tinct acidic phospholipid-binding sites in cyto-
+chrome c. J Biol Chem 1994; 269: 1770–1774.310.
+141. V SC, B GP. Membrane changes induced 157. V K, H A, C D, P
+H, H L. Global ischaemia induces a biphasicby early myocardial ischemia in the dog. Can J
+Biochem 1980; 58: 1112–1119. response of the mitochondrial respiratory chain.
+Anoxic pre-perfusion protects against ischaemic142. H FL. Cardiolipins and biomembrane function.
+Biochim Biophys Acta 1992; 1113: 71–133. damage. Biochem J 1992; 281: 709–715.
+158. A G, Z JL, D C, K P,143. A DA, M D, P GL. Activation
+of beef heart cytochrome c oxidase by cardiolipin S G, E PP, T I, C P, C
+E. J. Lesnefsky et al.1088
+M, C M, F JT. Evidence that mito- of mitochondrial respiration in senescence. J Cell
+Physiol 1972; 80: 141–148.chondrial respiration is a source of potentially toxic
+oxygen free radical in intact rabbit hearts subjected 175. H RG. Lipid oxidation by heart mito-
+chondria from young adult and senescent rats.to ischemia and reflow. J Biol Chem 1993; 268:
+18432–18541. Biochem J 1978; 170: 285–295.
+176. P G, R FM, P G, G159. S M, G KP, A S. Hydrogen
+peroxide generation by mitochondria isolated from MN, Q E. Effect of aging and acetyl-L-
+carnitine on the activity of cytochrome oxidaseregionally ischemic and nonischemic dog myo-
+cardium. Bas Res Cardiol 1990; 85: 318–329. and adenine nucleotide translocase in rat heart
+mitochondria. FEBS Lett 1994; 350: 213–215.160. P JW, C YS, K YH, K CH, K MS.
+Ischemic preconditioning reduces Op6 generation 177. P G, R FM, P G, Q-
+ E. Age-dependent impairment of mito-and prevents respiratory impairment in the mito-
+chondria of post-ischemic reperfused heart of rat. chondrial function in rat heart tissue. Effect of
+pharmacological agents. Ann N Y Acad Sci 1996;Life Sci 1997; 60: 2207–2219.
+161. A G, F JT. Effects of the superoxide 86: 252–263.
+178. M C, F M, G C, Cradical scavenger superoxide dismutase, and of the
+hyroxyl radical scavenger mannitol, on reperfusion CM. Mitochondrial function and superoxide gen-
+eration from submitochondrial particles of aged ratinjury in isolated rabbit hearts. Cardiovasc Drugs
+Ther 1992; 6: 623–632. hearts. Biochim Biophys Acta 1990; 1015: 200–
+204.162. O JG, L P, B U. Three classes of
+inhibitors share a common binding domain in mito- 179. C EE, H DA. Influence of aging on protein
+import into cardiac mitochondria. Am J Physiolchondrial complex I (NADH:ubiquinone oxido-
+reductase). J Biol Chem 1999; 274: 2625–2630. 1997; 272: H2983–H2988.
+180. K LK, S RS. Age-related changes in ac-163. T BL. The protonmotive Q cycle. J Biol
+Chem 1990; 265: 11409–11412. tivities of mitochondrial electron transport com-
+plexes in various tissues of the mouse. Arch Biochem164. B B, D AJ. Mitochondrial mutations
+may increase oxidative stress: implications for car- Biophys 2000; 373: 16–22.
+181. B G. Mitochondrial free radical production andcinogenesis and aging. Free Rad Biol Med 1990; 8:
+523–539. aging in mammals and birds. Ann N Y Acad Sci
+1998; 854: 224–238.165. D TL, G GL, N AL, H B,
+L JJ. Mitochondria as a source of reactive 182. M C, C CM, G C. Age-
+dependent production of mitochondrial hydrogenoxygen species during reductive stress in rat hepa-
+tocytes. Am K Physiol 1993; 264: C961–C966. peroxide, lipid peroxides, and fluorescent pigments
+in the rat heart. Basic Res Card 1990; 85: 172–178.166. H O, K B, B-T J. Mitochondria
+uncoupling by a long chain fatty acyl analogue. J 183. C BJ, M PS, A T, V LD,
+O RD. Aging alters the force–frequency re-Biol Chem 1998; 273: 3937–3942.
+167. F E, S J, A BA, D S, K J. lationship and toxicity of oxidative stress in rabbit
+heart. Life Sci 1991; 48: 1769–1777.Relation between myocardial substrate utilization,
+oxygen consumption and regional oxygen balance 184. L EJ, L CF, H JM, N R,
+R JS, G SW, C RM, R AM.in the dog heart in vivo. Arch Int Physiol Biochim
+1986; 94: 285–293. Increased left ventricular dysfunction in elderly
+patients despite successful thrombolysis: the168. K JA, K AJ, M GA, P MA,
+H JD. Effect of perhexiline and oxfenicine on GUSTO-I angiographic experience. J Am Coll Cardiol
+1996; 28: 331–337.myocardial function and metabolism during low-
+flow ischemia/reperfusion in the isolated rat heart. 185. L EJ, G DS, Y J, W TS,
+L WD. Aging increases ischemia-reperfusion in-J Cardiovasc Pharm 2000; 36: 794–801.
+169. G EJ, H AP. Protection by cyclo- jury in the isolated, buffer perfused heart. J Lab Clin
+Med 1994; 124: 843–851.sporin A of ischemia/reperfusion-induced damage
+in isolated rat hearts. J Mol Cell Cardiol 1993; 25: 186. L DT, S LI. Cardiac reperfusion injury:
+aging, lipid peroxidation, and mitochondrial dys-1461–1469.
+170. C M. Mitochondrial intermembrane junc- function. Proc Natl Acad Sci 1998; 95: 510–514.
+187. F VV, F RA, M LS, Ftional complexes and their role in cell death. J
+Physiol 2000; 529: 11–21. VE. Age-dependent effects of ischemia and re-
+perfusion on cardiac function and Ca
+2+
+transport171. H EL, J S, D PP, J-
+ A, T A. Mitochondrial ATP-sensitive in myocardium. Gerontology 1991; 37: 233–239.
+188. L L, A G, G W, Z X, W JY. Bcl-2 andK+channels modulate cardiac mitochondrial func-
+tion. Am J Physiol 1998; 275: H1567–H1576. Bax expression in adult rat hearts after coronary
+occlusion:age-associated differences. Am J Physiol172. D J JW, D J R, K E, B S.
+The role of adenosine in preconditioning. Pharmacol 1998; 275: R315–R322.
+189. L JL, S JA, T JM, J AJ,Ther 2000; 87: 141–149.
+173. L Y, S T, O’R B, M E. Mitochondrial T RH, S RC,   H LP.
+Isolated complex I deficiency in children: clinical,ATP-dependent potassium channels: novel effectors
+of cardioprotection? Circulation 1998; 97: 2463– biochemical and genetic aspects. Hum Mutat 2000;
+15: 123–134.2469.
+174. C JC, W JB, S DR. Regulation 190.  C R, D M L. Mitochondrial
+Mitochondria in Cardiac Disease 1089
+cytopathies and neuromuscular disorders. Acta mitochondrial respiratory chain in human dilated
+cardiomyopathy. Eur Heart J 1990; 11: 509–516.Neurol Belg 2000; 100: 156–161.
+200. M-G J, H Y, A R,191. T I. Neonatal metabolic myopathies. Semin Per-
+P ME, P GL, G MJ. A pointinatol 1999; 23: 125–151.
+mutation in the cyt b gene of cardiac mtDNA192. H J, K P, F D, A H,
+associated with complex III deficiency in ischemic
+H J, K M, H H,
+cardiomyopathy. Biochem Mol Biol Int 1996; 40:
+H’ H, C SK, R T, K
+487–495.
+S, S L, Z J. A novel deficiency of
+201. K T, M M, A RJ, K
+mitochondrial ATPase of nuclear origin. Hum Mol
+R, R WD, D AJ, S MJ,
+Genet 1999; 8: 1967–1974.
+D GW, H R, MT CF, M DL,
+193. M S, C P, P M, T R, C
+F AM, MN DM. Expression of pro-
+B, J AS, Z TH, D M, G
+inflammatory cytokines in the failing human heart:
+SI, H TT, M H, E CJ, W
+comparison of recent-onset and end-stage con-
+DC. Mitochondrial disease in superoxide dismutase
+gestive heart failure. J Heart Lung Transplant 2000;
+2 mutant mice. Proc Natl Acad Sci 1999; 96: 846–
+19: 819–824.
+851.
+202. Y P, M BM, S PC, L CS. Cytokine
+194. S VG, G A, L M, G S,
+expression increases in nonmyocytes from rats with
+S HN. Abnormal mitochondrial function in
+postinfatction heart failure. Am J Physiol 1998;
+myocardium of dogs with chronic heart failure. J
+275: H250–H258.
+Mol Cell Cardiol 1998; 30: 1757–1762.
+203. MT CF, F AM. The role of tumor
+195. I T, T H, K S, U H, K D,
+necrosis factor alpha in the pathophysiology of
+H N, U K, A K,E
+congestive heart failure. Curr Cardiol Rep 2000; 2:
+K, T A. Mitochondrial electron transport
+189–197.
+complex I is a potential source of oxygen free
+204. G TI, T KY, H CL. Direct inhibition
+radicals in the failing myocardium. Circ Res 1999;
+of mitochondrial respiratory chain complex III by
+85: 357–363.
+cell-permeable ceramide. J Biol Chem 1997; 272:
+196. Q AF, K RM, E D, H G, B
+24154–24158.
+E. Mitochondrial respiratory chain activity in idio-
+205. D E M, ML H. Mitochondria and
+pathic dilated cardiomyopathy. J Card Fail 2000; 6:
+cells produce reactive oxygen species in virtual
+47–55.
+anaerobiosis: relevance to ceramide-induced apo-
+197. J D, O J, B A, M O, R E,
+ptosis. FEBS Lett 1998; 430: 338–342.
+H M, M CT, C F, C
+206. R C, G P. Ceramide induces cyto-
+J. Mitochondrial function in heart muscle from
+chrome c release from isolated mitochondria. Bio-
+patients with idiopathic dilated cardiomyopathy.
+chem Soc Symp 1999; 66: 27–31.
+Cardiovasc Res 2000; 45: 860–865.
+207. N J, P P, A E, H N, N-
+198. M-G J, G MJ, P EM,
+ N, K FD, D B B, S MJ,
+A R, P-A A. Is age a
+B-M A, D GW, I S, B
+contributory factor of mitochondrial bioenergetic
+M, V R, S S, K S. Apoptosis
+decline and DNA defects in idiopathic dilated cardio- in heart failure: release of cytochrome c from mito-
+myopathy? Cardiovasc Pathol 1999; 8: 217–222. chondria and activation of caspase-3 in human
+199. B A, T H, U C, O cardiomyopathy. Proc Natl Acad Sci 1999; 96:
+8144–8149.R, F HR, W V. Alterations of the
