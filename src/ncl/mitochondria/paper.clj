@@ -18,10 +18,9 @@
 (ns ^{:doc "Translating paper information."
       :author "Jennifer Warrender"}
   ncl.mitochondria.paper
-  (:use [tawny.owl]
-        (incanter core io excel))
-  (:require [clojure.java.io :as io]
-            [clojure.string :only split]))
+  (:use [tawny.owl])
+  (:require [clojure.string :only split]
+            [ncl.mitochondria.generic :as g]))
 
 (defontology paper
   :iri "http://ncl.ac.uk/mitochondria/paper"
@@ -39,12 +38,6 @@
    :domain Paper)
 
 ;; Auxiliary functions
-(defn get-lines
-  "Reads in file-name line by line. Returns a java.lang.Cons"
-  [file-name]
-  (with-open [r (io/reader file-name)]
-    (doall (line-seq r))))
-
 (defn fact-title
   "TODO"
   [title]
@@ -71,16 +64,11 @@
               (fact-pmid pmid)))
 
 ;; MAIN
-(def ^{:doc "The paper information read in from resources text file as
-  java.lang.Cons."
-       :private true}
-  string-results (get-lines (.getFile (io/resource "./input/papers.log"))))
+;; read file
+(let [papers (g/read-file
+              (g/get-resource
+               "./input/papers.log"))]
 
-(def ^{:doc "The resolution information read in from resources text
-  file as LazySeq."
-       :private true}
-  results (for [r string-results]
-            (read-string r)))
-
-(doseq [r results]
-    (apply create-paper r))
+  ;; generate paper classes
+  (doseq [p papers]
+    (apply create-paper p)))
