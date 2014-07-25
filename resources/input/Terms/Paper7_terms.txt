@@ -1,4 +1,3 @@
-line => 1213
 10158t>c => paper: paper7 line: 1364 pos: 1
 10191t>c => paper: paper7 line: 1364 pos: 2
 11778g>a => paper: paper7 line: 504 pos: 13

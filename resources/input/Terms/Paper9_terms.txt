@@ -1,4 +1,3 @@
-line => 535
 affinity probes => paper: paper9 line: 17 pos: 5-6
 alpha-proteobacteria => paper: paper9 line: 319 pos: 8 oldterm: alpha-proteo-
 bifunctional => paper: paper9 line: 425 pos: 7

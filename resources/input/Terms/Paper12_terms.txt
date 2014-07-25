@@ -1,4 +1,3 @@
-line => 689
 3t3 protocol => paper: paper12 line: 330 pos: 5-6
 abnormal cristae => paper: paper12 line: 65 pos: 5-6
 aconitase activities => paper: paper12 line: 464 pos: 4-5

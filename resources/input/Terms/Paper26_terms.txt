@@ -1,4 +1,3 @@
-line => 779
 aac => paper: paper26 line: 96 pos: 6
 aac atp/adp carrier => paper: paper26 line: 96 pos: 6-8
 acyltransferases => paper: paper26 line: 220 pos: 2

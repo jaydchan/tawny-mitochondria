@@ -1,4 +1,3 @@
-line => 1055
 amorim => paper: paper11 line: 153 pos: 1
 archaeogenetics => paper: paper11 line: 153 pos: 7
 artefactual => paper: paper11 line: 981 pos: 5

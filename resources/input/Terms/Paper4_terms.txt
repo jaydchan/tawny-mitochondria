@@ -1,4 +1,3 @@
-line => 573
 accession number => paper: paper4 line: 86 pos: 3-4
 accession numbers => paper: paper4 line: 138 pos: 3-4
 alias => paper: paper4 line: 178 pos: 13

@@ -1,4 +1,3 @@
-line => 460
 adenine nucleotide translocator ant => paper: paper18 line: 302 pos: 7-8 oldterm: adenine nucleotide
 amoeba => paper: paper18 line: 252 pos: 3
 atp21p => paper: paper18 line: 377 pos: 1

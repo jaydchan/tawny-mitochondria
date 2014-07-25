@@ -1,4 +1,3 @@
-line => 517
 als => paper: paper28 line: 227 pos: 1
 amyotrophic lateral sclerosis => paper: paper28 line: 226 pos: 11-13
 antiapoptotic => paper: paper28 line: 360 pos: 6

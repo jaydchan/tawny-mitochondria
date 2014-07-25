@@ -1,4 +1,3 @@
-line => 1240
 aff4_human => paper: paper22 line: 897 pos: 1
 aif => paper: paper22 line: 565 pos: 1
 alpha-enolase => paper: paper22 line: 850 pos: 3

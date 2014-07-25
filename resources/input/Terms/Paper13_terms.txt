@@ -1,4 +1,3 @@
-line => 1514
 adp => paper: paper13 line: 126 pos: 5
 adpeo => paper: paper13 line: 44 pos: 2
 adrenal medulla => paper: paper13 line: 1127 pos: 4-5

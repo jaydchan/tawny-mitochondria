@@ -1,4 +1,3 @@
-line => 371
 aggregation => paper: paper15 line: 300 pos: 3
 amino terminus => paper: paper15 line: 230 pos: 1-2
 amphiphilic presequence => paper: paper15 line: 77 pos: 5-6

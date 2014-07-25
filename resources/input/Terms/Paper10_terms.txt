@@ -1,4 +1,3 @@
-line => 1125
 a mosaic defect => paper: paper10 line: 802 pos: 2-4
 a12320g => paper: paper10 line: 609 pos: 4
 a1555g => paper: paper10 line: 615 pos: 6

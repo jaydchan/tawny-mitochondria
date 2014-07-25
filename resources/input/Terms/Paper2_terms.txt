@@ -1,4 +1,3 @@
-line => 767
 18-anilinonaphthalenesulfonate ans => paper: paper2 line: 367 pos: 3-4
 24-mer spherical aggregates => paper: paper2 line: 552 pos: 8-10 oldterm: 24-mer spherical aggre-
 5’-phosphate plp-dependent gamma-lyase enzyme => paper: paper2 line: 385 pos: 1-4

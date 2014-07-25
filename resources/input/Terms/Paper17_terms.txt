@@ -1,4 +1,3 @@
-line => 1834
 acylcarnitines => paper: paper17 line: 750 pos: 4
 ameliorates => paper: paper17 line: 1489 pos: 1
 apaf-1 => paper: paper17 line: 827 pos: 6

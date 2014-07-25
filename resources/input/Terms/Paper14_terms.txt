@@ -1,4 +1,3 @@
-line => 963
 acat => paper: paper14 line: 295 pos: 2
 agonist stimulation => paper: paper14 line: 352 pos: 6-7
 antiporters => paper: paper14 line: 339 pos: 4

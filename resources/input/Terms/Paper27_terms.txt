@@ -1,4 +1,3 @@
-line => -1
 cardiac hypertrophy => paper: paper27 line: 92 pos: 5-6
 cyclosporine a => paper: paper27 line: 91 pos: 1-2
 cypd => paper: paper27 line: 23 pos: 6

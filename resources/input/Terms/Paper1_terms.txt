@@ -1,4 +1,3 @@
-line => 417
 a-type nuclear lamins => paper: paper1 line: 301 pos: 5-7
 actin => paper: paper1 line: 66 pos: 3
 actin cytoskeleton => paper: paper1 line: 67 pos: 9-10

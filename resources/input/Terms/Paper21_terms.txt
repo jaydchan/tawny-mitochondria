@@ -1,4 +1,3 @@
-line => 1380
 a => paper: paper21 line: 856 pos: 3
 abad => paper: paper21 line: 1102 pos: 3
 aconitase => paper: paper21 line: 1170 pos: 6
