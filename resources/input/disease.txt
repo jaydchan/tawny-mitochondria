@@ -1,0 +1,41 @@
+Alpers Disease
+Barth Syndrome
+Beta-oxidation Defects
+Cernitine-Acyl-Carnitine Deficiency
+Cernitine Deficiency
+Creatine Deficiency Syndromes
+Co-Enzyme Q10 Deficiency
+Complex I Deficiency
+Complex II Deficiency
+Complex III Deficiency
+Complex IV Deficiency
+Complex V Deficiency
+CPEO
+CPT I Deficiency
+CPT II Deficiency
+KSS
+Lactic Acidosis
+LBSL
+LCAD
+LCHAD
+Leigh Disease
+Luft Disease
+MAD
+MCAD
+MELAS
+MERRF
+MIRAS
+Mitochondrial Cytopathy
+Mitochondiral DNA Depletion
+Mitochondrial Encephalopathy
+Mitochondrial Myopathy
+MNGIE
+NARP
+Pearson Syndrome
+Pyruvate Carboxylase Deficiency
+Pyruvate Dehydrogenase Deficiency
+POLG Mutations
+Respiratory Chain
+SCAD
+SCHAD
+VLCHAD

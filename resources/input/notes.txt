@@ -1,0 +1,4 @@
+disease.txt source http://www.umdf.org/site/c.8qKOJ0MvF7LUG/b.7934629/k.4C9B/Types_of_Mitochondrial_Disease.htm
+body.txt source http://www.enchantedlearning.com/wordlist/body.shtml
+gene.xlsx source http://www.ncbi.nlm.nih.gov/gene (Search query (mitochondria) AND "Homo sapiens"[porgn:__txid9606])
+protein.xlsx source http://www.uniprot.org/uniprot/?query=mitochondria+AND+organism%3a%22Homo+sapiens+[9606]%22&offset=25&sort=score
