@@ -70,3 +70,8 @@
           :append append)
     (catch
         Exception exp (println error exp))))
+
+(defn substring?
+  "Does STR contains SUBSTR?"
+  [substr str]
+  (.contains str substr))
