@@ -61,5 +61,7 @@ do
     done < $temp
 done < $omim
 
+## clean-up
+rename 's/_/ /g' $htmlpath
 rm $temp
 rm $omim
