@@ -5,3 +5,4 @@
 *.xml
 target/
 output/
+*OMIM_Entry*
