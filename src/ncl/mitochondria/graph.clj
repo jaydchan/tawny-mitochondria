@@ -30,7 +30,7 @@ DATA."
   (let [plot (line-chart
               (keys data)
               (vals data)
-              :title "Paper results"
+              ;; :title "Paper results"
               :x-label "Paper number"
               :y-label "Number of unique terms")]
     ;; (view plot)
