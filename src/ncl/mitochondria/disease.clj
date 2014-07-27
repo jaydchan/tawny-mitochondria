@@ -34,10 +34,14 @@
   :subclass Disease)
 
 ;; PATTERNS
-(defn create-disease [name]
-  (owl-class (g/make-safe name)
-             :label name
-             :subclass Disease))
+(defn create-disease [name omim]
+  (let [dname (g/make-safe name)]
+    (owl-class dname
+               :label name
+               :subclass Disease)
+    (if-not (nil? omim)
+      (owl-class dname
+                 :annotation (see-also (str "OMIMID:" omim))))))
 
 (defn create-disease-related [o name]
   (owl-class o
@@ -48,15 +52,15 @@
 ;; MAIN
 
 ;; read file
-(let [diseases (g/get-lines
+(let [diseases (g/read-file
                 (g/get-resource  "./input/disease.txt"))]
 
   ;; generate disease classes
   (doseq [d diseases]
-    (create-disease d))
+    (create-disease (first d) (second d)))
 
   ;; Auxiliary functions
   (defn disease? [term]
     (some #(= % term) diseases))
   (defn disease-related? [term]
-    (some #(re-find (re-pattern %) term) diseases)))
+    (some #(re-find (re-pattern %) term) (map first diseases))))
