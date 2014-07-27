@@ -1,41 +1,41 @@
-Alpers Disease
-Barth Syndrome
-Beta-oxidation Defects
-Cernitine-Acyl-Carnitine Deficiency
-Cernitine Deficiency
-Creatine Deficiency Syndromes
-Co-Enzyme Q10 Deficiency
-Complex I Deficiency
-Complex II Deficiency
-Complex III Deficiency
-Complex IV Deficiency
-Complex V Deficiency
-CPEO
-CPT I Deficiency
-CPT II Deficiency
-KSS
-Lactic Acidosis
-LBSL
-LCAD
-LCHAD
-Leigh Disease
-Luft Disease
-MAD
-MCAD
-MELAS
-MERRF
-MIRAS
-Mitochondrial Cytopathy
-Mitochondiral DNA Depletion
-Mitochondrial Encephalopathy
-Mitochondrial Myopathy
-MNGIE
-NARP
-Pearson Syndrome
-Pyruvate Carboxylase Deficiency
-Pyruvate Dehydrogenase Deficiency
-POLG Mutations
-Respiratory Chain
-SCAD
-SCHAD
-VLCHAD
+["Alpers Disease" "203700"]
+["Barth Syndrome" "302060"]
+["Beta-oxidation Defects" nil]
+["Cernitine-Acyl-Carnitine Deficiency" nil]
+["Cernitine Deficiency" "212160"]
+["Creatine Deficiency Syndromes" nil]
+["Co-Enzyme Q10 Deficiency" nil]
+["Complex I Deficiency" "252010"]
+["Complex II Deficiency" "252011"]
+["Complex III Deficiency" "516020"]
+["Complex IV Deficiency" "220110"]
+["Complex V Deficiency" "516060"]
+["CPEO" "157640"]
+["CPT I Deficiency" nil]
+["CPT II Deficiency" "600650"]
+["KSS" "530000"]
+["Lactic Acidosis" nil]
+["LBSL" "611105"]
+["LCAD" nil]
+["LCHAD" "609016"]
+["Leigh Disease" "256000"]
+["Luft Disease" nil]
+["MAD" "231680"]
+["MCAD" "201450"]
+["MELAS" "540000"]
+["MERRF" "545000"]
+["MIRAS" nil]
+["Mitochondrial Cytopathy" nil]
+["Mitochondiral DNA Depletion" nil]
+["Mitochondrial Encephalopathy" nil]
+["Mitochondrial Myopathy" "251900"]
+["MNGIE" "603041"]
+["NARP" "551500"]
+["Pearson Syndrome" "557000"]
+["Pyruvate Carboxylase Deficiency" "266150"]
+["Pyruvate Dehydrogenase Deficiency" "312170"]
+["POLG Mutations" nil]
+["Respiratory Chain" nil]
+["SCAD" "201470"]
+["SCHAD" "601609"]
+["VLCHAD" "201475"]
