@@ -18,31 +18,70 @@
 (ns ^{:doc "TODO"
       :author "Jennifer Warrender"}
   ncl.mitochondria.refine
-  (:use (incanter core io excel))
   (:require [ncl.mitochondria
              [generic :as g]]))
 
 ;; Auxiliary functions
 
-;; used by fuzzy
-(defn substring?
-  "Does STR contains SUBSTR?"
-  [substr str]
-  (.contains str substr))
+;; DNA Substitution
+;; REF http://www.hgmd.cf.ac.uk/docs/mut_nom.html
+(defn- dna-mutation? [str]
+  "Does STR contain dna-mutation pattern?"
+  (re-find #"[acgt]>[acgt]" str))
+
+(defn get-pdmutations
+  "Returns all possible 'dna mutation' terms."
+  [set]
+  (filterv dna-mutation? set))
+
+;; Protein Substitution
+;; REF http://www.hgmd.cf.ac.uk/docs/mut_nom.html
+(defn- protein-mutation? [str]
+  "Does STR contain protein-mutation pattern?"
+  (re-find
+   #"[gpavlimcfywhkrqnedst]\d+[gpavlimcfywhkrqnedst]"
+   str))
+
+(defn get-ppmutations
+  "Returns all possible 'protein mutation' terms."
+  [set]
+  (filterv protein-mutation? set))
 
 (defn get-pduplicate
   "Returns vector: [ITEM A] where A is all possible 'duplicates' (terms that
   contains the ITEM substring) found in COLL."
   [coll item]
   [item (filter
-         #(and (substring? item %) (not (= item %))) coll)])
+         #(and (g/substring? item %) (not (= item %))) coll)])
 
 (defn get-pduplicates
-  "Returns a list of terms that have possible dupilictes."
-  [set]
+  "Returns a subset of S1 terms that are possible dupilictes of S2
+  terms. S1 terms are the possible substrings while S2 si the base
+  collection. This is not necessarily commutative."
+  [s1 s2]
   (remove #(empty? (second %))
-          (for [term set]
-            (get-pduplicate set term))))
+          (for [term s1]
+            (get-pduplicate s2 term))))
+
+(defn get-pwordduplicate
+  "Returns vector: [ITEM A] where A is all possible 'word
+  duplicates' (terms that contains the ITEM substring) found in COLL."
+  [coll item]
+  (let [words (clojure.string/split item #"\s")]
+    [item (clojure.set/union
+           (for [word words]
+             (filter (partial g/substring? word) coll)))]))
+
+(defn get-pwordduplicates
+  "Returns a list of terms that have possible word dupilictes. Should
+  remove tersm that are of length 1 as they were already checked in
+  pduplicates."
+  [set]
+  (let [subset (filter #(> (count %) 1) set)]
+    (println (count subset))
+    (remove #(empty? (second %))
+            (for [term subset]
+              (get-pwordduplicate set term)))))
 
 (defn get-acronym
   "Returns 'acronym' of given TERM i.e. first letter of each word in
@@ -76,6 +115,25 @@ in COLL."
   [data]
   (filterv #(duplicate? (map first data) (first %)) data))
 
+;; TODO -- think this through a bit
+(defn without-punct
+  [term]
+  (clojure.string/replace
+   (clojure.string/replace term #"[\_\/]" " ")
+   #"[^a-z\s]" ""))
+
+;; ;; without-punct tests
+;; (let [tests ["hello" "hello world"
+;;              "hello_world" "hello/world"
+;;              "hello-world" "hello'world"
+;;              "hello\"" "hello?" "hello>world"
+;;              "(hello)" "[hello]"]]
+;;   (doseq [test tests]
+;;     (try
+;;       (println (str test ": " (without-punct test)))
+;;       (catch Exception e (println (str "error: " test))))
+;;     ))
+
 (defn fuzzy
   "Returns a list of s1 terms that contain s2 term(s) (i.e. the s2 terms
   are used as possible substrings). This is done by combining subsets
@@ -86,17 +144,17 @@ in COLL."
          (filter #(< (count %) n)
                  (for [term s2]
                    (into #{}
-                         (filter (partial substring? term)
+                         (filter (partial g/substring? term)
                                  s1))))))
 
 ;; fuzzy tests
 ;; (let [capture (set ["hello world" "hello" "world" "simon"])
 ;;       omim (set ["hello" "mon"])]
 ;;   (println (type (first capture)))
-;;   (println (substring? "hello" "hello world"))
-;;   (println (substring? "yello" "hello world"))
+;;   (println (g/substring? "hello" "hello world"))
+;;   (println (g/substring? "yello" "hello world"))
 ;;   (println (filter (partial substring? "hello") capture))
-;;   (println (fuzzy-test 33 capture omim))
+;;   (println (fuzzy 33 capture omim))
 ;;   (println (filter #(< (count %) 50) [(repeat 100 1) (repeat 2 1)]))
 ;; )
 
@@ -104,46 +162,58 @@ in COLL."
 (defn driver
   []
   ;; read files and create sets
-  (let [files (map #(str "Paper" % "_terms.txt") (range 1 31))
-        all (for [f files]
-              (g/get-lines
-               (g/get-resource
-                (str "./input/Terms/" f))))
-        input (apply clojure.set/union all)
+  (let [cfiles (map #(str "Paper" % "_terms.txt") (range 1 31))
+        cterms (for [f cfiles]
+                 (g/get-lines
+                  (g/get-resource
+                   (str "./input/Terms/" f))))
+        allterms (apply clojure.set/union cterms)
         data (map
-              #(clojure.string/split  % #"\s=>\spaper:\spaper|\sline:\s|\spos:\s")
-              input)
-        duplicate (sort-by first (get-duplicates data))
+              #(clojure.string/split
+                %
+                #"\s=>\spaper:\spaper|\sline:\s|\spos:\s")
+              allterms)
         cmap (apply merge (map #(sorted-map (first %) (into [] (rest %)))
                                (sort-by second data)))
         capture (into #{} (keys cmap))
-        omim (into #{} (g/get-lines
-                        (g/get-resource "omim.txt")))
-        english (into #{} (g/get-lines
-                           (g/get-resource "cenglish.txt")))
+
+        ofiles (rest (file-seq (clojure.java.io/file "./output/omim")))
+        oterms (for [f ofiles]
+               (g/get-lines f))
+        omim (into #{} (apply clojure.set/union oterms))
+
+        english (into #{} (g/get-lines "./output/cenglish.txt"))
         filtered (clojure.set/difference omim english)
         disease (clojure.set/intersection capture filtered)
         related (into #{} (fuzzy 33 capture filtered))
+
         refined (clojure.set/union disease related)
         refined_full (select-keys cmap refined)
-        quarentined (clojure.set/difference capture refined)
-        quarentined_full (select-keys cmap quarentined)
-        rrefined (for [i (range 0 100)]
+        nrefined (for [i (range 0 100)]
                    (rand-nth (seq refined)))
-        rquarentined (for [i (range 0 100)]
-                       (rand-nth (seq quarentined)))
-        pduplicate (get-pduplicates refined)
-        pacronym (get-pacronyms refined)
+        quarantined (clojure.set/difference capture refined)
+        quarantined_full (select-keys cmap quarantined)
+        nquarantined (for [i (range 0 100)]
+                       (rand-nth (seq quarantined)))
+
+        duplicate (sort-by first (get-duplicates data))
+
+        pduplicate (get-pduplicates capture capture)
+        pwordduplicate (get-pwordduplicates capture)
+        pacronym (get-pacronyms capture)
+        ppmutation (get-ppmutations capture)
+        pdmutation (get-pdmutations capture)
+
         cq (into #{} (map clojure.string/lower-case
                           (g/get-lines
                            (g/get-resource "./input/cq.txt"))))
         refined_cq (fuzzy 10 cq filtered)
-        quarentined_cq (clojure.set/difference cq refined_cq)
+        quarantined_cq (clojure.set/difference cq refined_cq)
         ]
 
     ;; output stats
-    ;; all -- includes redundant terms
-    (let [name "all_results.txt"
+    ;; cterms -- includes redundant terms
+    (let [name "cterms_results.txt"
           outfile (str "./output/stats/" name)
           error (str "Error: output stats to " name)]
       ;; clear old file
@@ -151,7 +221,20 @@ in COLL."
 
       ;; number of terms per paper
       (g/output outfile
-                (clojure.string/join "\n" (map count all))
+                (clojure.string/join "\n" (map count cterms))
+                true error))
+
+    ;; output stats
+    ;; oterms -- includes redundant terms
+    (let [name "oterms_results.txt"
+          outfile (str "./output/stats/" name)
+          error (str "Error: output stats to " name)]
+      ;; clear old file
+      (g/output outfile "" false error)
+
+      ;; number of terms per paper
+      (g/output outfile
+                (clojure.string/join "\n" (map count oterms))
                 true error))
 
     ;; output stats
@@ -171,13 +254,24 @@ in COLL."
                   true error)))
 
     ;; save terms
-    (let [coll [duplicate cmap capture omim english filtered disease related
-               refined refined_full quarentined quarentined_full rrefined
-               rquarentined pduplicate pacronym]
-          name ["duplicate" "cmap" "capture" "omim" "english" "filtered"
-                "disease" "related" "refined" "refined_full" "quarentined"
-                "quarentined_full" "rrefined" "rquarentined" "pduplicate"
-                "pacronym"]]
+    (let [coll [
+                cmap capture
+                omim english filtered disease related
+                refined refined_full nrefined
+                quarantined quarantined_full nquarantined
+                duplicate
+                pduplicate pwordduplicate pacronym
+                ppmutation pdmutation
+                ]
+          name [
+                "cmap" "capture"
+                "omim" "english" "filtered" "disease" "related"
+                "refined" "refined_full" "nrefined"
+                "quarantined" "quarantined_full" "nquarantined"
+                "duplicate"
+                "pduplicate" "pwordduplicate" "pacronym"
+                "ppmutation" "pdmutation"
+                ]]
       (doseq [i (range 0 (count coll))]
         (let [n (get name i)
               file (str "./output/terms/" n ".txt") ;; TODO make sure this exists
@@ -196,8 +290,8 @@ in COLL."
                     true error))))
 
     ;; save cqs
-    (let [set [cq refined_cq quarentined_cq]
-          name ["cq" "refined_cq" "quarentined_cq"]]
+    (let [set [cq refined_cq quarantined_cq]
+          name ["cq" "refined_cq" "quarantined_cq"]]
       (doseq [i (range 0 (count set))]
         (let [n (get name i)
               file (str "./output/cqs/" n ".txt") ;; TODO make sure exists
