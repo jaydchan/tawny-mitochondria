@@ -17,11 +17,15 @@
 
 (ns ncl.mitochondria.core
   (:use [tawny.owl :exclude [save-ontology]]
-        [ncl.mitochondria.generic :only [save-ontology]])
+        [ncl.mitochondria.generic :only [save-ontology]]
+        [clojure.java.shell :only [sh]])
   (:require [ncl.mitochondria
-             ;; refine
-             paper body mitochondria component disease gene protein
-             mutation term
+             refine
+             ;; paper body mitochondria component
+             disease gene protein
+             ;; mutation
+             ;; term
+             omim
              ;; graph
              ])
   (:gen-class))
@@ -34,38 +38,54 @@
   ;; TRUE read in ontology
   ;; FALSE start from scratch
 
-  ;; generate lists
+  ;; (save-ontology ncl.mitochondria.paper/paper "paper.omn" :omn)
+  ;; (save-ontology ncl.mitochondria.paper/paper "paper.owl" :owl)
+
+  ;; (save-ontology ncl.mitochondria.body/body "body.omn" :omn)
+  ;; (save-ontology ncl.mitochondria.body/body "body.owl" :owl)
+
+  ;; (save-ontology
+  ;;  ncl.mitochondria.mitochondria/mitochondria "mitochondria.omn" :omn)
+  ;; (save-ontology
+  ;;  ncl.mitochondria.mitochondria/mitochondria "mitochondria.owl" :owl)
+
+  ;; (save-ontology ncl.mitochondria.component/component "component.omn" :omn)
+  ;; (save-ontology ncl.mitochondria.component/component "component.owl" :owl)
+
+  ;; (save-ontology ncl.mitochondria.gene/gene "gene.omn" :omn)
+  ;; (save-ontology ncl.mitochondria.gene/gene "gene.owl" :owl)
+
+  ;; (save-ontology ncl.mitochondria.protein/protein "protein.omn" :omn)
+  ;; (save-ontology ncl.mitochondria.protein/protein "protein.owl" :owl)
+
+  ;; (save-ontology ncl.mitochondria.mutation/mutation "mutation.omn" :omn)
+  ;; (save-ontology ncl.mitochondria.mutation/mutation "mutation.owl" :owl)
+
+  ;; ;; refine lists
+  ;; (println "Refining lists: Start")
+  ;; (sh "./scripts/make-wordlist.sh")
+  ;; (sh "./scripts/check-english.sh")
+  ;; (println "Refining lists: Loading...")
   ;; (ncl.mitochondria.refine/driver)
+  ;; (println "Refining lists: Complete.")
 
-  (save-ontology ncl.mitochondria.paper/paper "paper.omn" :omn)
-  (save-ontology ncl.mitochondria.paper/paper "paper.owl" :owl)
+  ;; ;; generate term classes
+  ;; (println "Generating term classes: Start")
+  ;; (ncl.mitochondria.term/driver)
+  ;; (save-ontology ncl.mitochondria.term/term "term.omn" :omn)
+  ;; (save-ontology ncl.mitochondria.term/term "term.owl" :owl)
+  ;; (println "Generating term clases: Complete.")
 
-  (save-ontology ncl.mitochondria.body/body "body.omn" :omn)
-  (save-ontology ncl.mitochondria.body/body "body.owl" :owl)
-
-  (save-ontology
-   ncl.mitochondria.mitochondria/mitochondria "mitochondria.omn" :omn)
-  (save-ontology
-   ncl.mitochondria.mitochondria/mitochondria "mitochondria.owl" :owl)
-
-  (save-ontology ncl.mitochondria.component/component "component.omn" :omn)
-  (save-ontology ncl.mitochondria.component/component "component.owl" :owl)
-
+  ;; incorporate omim relations
+  (println "Incorporating OMIM relations: Start")
+  (ncl.mitochondria.omim/driver)
   (save-ontology ncl.mitochondria.disease/disease "disease.omn" :omn)
   (save-ontology ncl.mitochondria.disease/disease "disease.owl" :owl)
 
-  (save-ontology ncl.mitochondria.gene/gene "gene.omn" :omn)
-  (save-ontology ncl.mitochondria.gene/gene "gene.owl" :owl)
+  (println "Incorporating OMIM relations: Complete.")
 
-  (save-ontology ncl.mitochondria.protein/protein "protein.omn" :omn)
-  (save-ontology ncl.mitochondria.protein/protein "protein.owl" :owl)
-
-  (save-ontology ncl.mitochondria.mutation/mutation "mutation.omn" :omn)
-  (save-ontology ncl.mitochondria.mutation/mutation "mutation.owl" :owl)
-
-  (save-ontology ncl.mitochondria.term/term "term.omn" :omn)
-  (save-ontology ncl.mitochondria.term/term "term.owl" :owl)
-
-  ;; generate graphs
+  ;; ;; generate graphs
+  ;; (println "Generating graphs: Start")
   ;; (ncl.mitochondria.graph/driver)
+  ;; (println "Generating graphs: Complete.")
 )
