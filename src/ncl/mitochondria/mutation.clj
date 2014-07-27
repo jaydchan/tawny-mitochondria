@@ -34,36 +34,61 @@
  (defclass DNA_Mutation)
  (defclass Protein_Mutation))
 
-;; Mutations nomenclature
-;; http://www.hgmd.cf.ac.uk/docs/mut_nom.html
+;; ;; Mutations nomenclature
+;; ;; http://www.hgmd.cf.ac.uk/docs/mut_nom.html
 
-;; DNA Substitution
-(defn- dna-mutation? [term]
-  (re-find #"[acgt]>[acgt]" term))
+;; ;; DNA Substitution
+;; (defn- dna-mutation? [term]
+;;   (re-find #"[acgt]>[acgt]" term))
 
-;; Protein Substitution
-(defn- protein-mutation? [term]
-  (re-find
-   #"[gpavlimcfywhkrqnedst]\d+[gpavlimcfywhkrqnedst]"
-;;   #"^[gpavlimcfywhkrqnedst]\d+[gpavlimcfywhkrqnedst]$"
-   term))
+;; ;; Protein Substitution
+;; (defn- protein-mutation? [term]
+;;   (re-find
+;;    #"[gpavlimcfywhkrqnedst]\d+[gpavlimcfywhkrqnedst]"
+;; ;;   #"^[gpavlimcfywhkrqnedst]\d+[gpavlimcfywhkrqnedst]$"
+;;    term))
 
-(defn mutation? [term]
-  (or (dna-mutation? term) (protein-mutation? term)))
+;; (defn mutation? [term]
+;;   (or (dna-mutation? term) (protein-mutation? term)))
 
 (defn- create-dna-mutation [o name]
-  (owl-class o
-             (g/make-safe name)
+  (owl-class (g/make-safe name)
              :label name
              :subclass DNA_Mutation))
 
-(defn- create-protein-mutation [o name]
-  (owl-class o
-             (g/make-safe name)
+(defn- create-protein-mutation [name]
+  (owl-class (g/make-safe name)
              :label name
              :subclass Protein_Mutation))
 
-(defn create-mutation [o name]
-  (if (dna-mutation? name)
-    (create-dna-mutation o name)
-    (create-protein-mutation o name)))
+;; (defn create-mutation [o name]
+;;   (if (dna-mutation? name)
+;;     (create-dna-mutation o name)
+;;     (create-protein-mutation o name)))
+
+;; MAIN
+
+;; read file
+(let [dmutations (g/get-lines
+                  "./output/terms/pdmutation.txt")
+      pmutations (g/get-lines
+                  "./output/terms/ppmutation.txt")
+      mutations (clojure.set/union dmutations pmutations)]
+
+  ;; generate dna mutation classes
+  (doseq [m dmutations]
+    (create-dna-mutation m))
+
+  ;; generate protein mutation classes
+  (doseq [m pmutations]
+    (create-protein-mutation m))
+
+  ;; Auxiliary functions
+  (defn mutation? [term]
+    (some #(= % term) mutations))
+
+  ;; ;; also need to look out for related withour _human ;; ALREADY DONE ???
+  ;; (defn protein-related? [term]
+  ;;   (some #(re-find (re-pattern %) term) proteins))
+
+)
