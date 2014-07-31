@@ -26,12 +26,12 @@
 (defn- tc-plot
   "Produces (and saves) line chart showing term capture results using given
 DATA."
-  [name data]
+  [name data xlabel]
   (let [plot (line-chart
               (keys data)
               (vals data)
               ;; :title "Paper results"
-              :x-label "Paper number"
+              :x-label xlabel
               :y-label "Number of unique terms")]
     ;; (view plot)
     (save plot (str "./output/graphs/term-capture-" name ".png"))))
@@ -45,11 +45,11 @@ DATA."
         one (apply merge (map #(sorted-map %1 %2) (range 1 31) results))
         five (apply merge
                     (map #(sorted-map %1 %2)
-                         (range 5 36 5)
+                         (range 1 7)
                          (map #(apply + %) (partition 5 results))))]
 
     ;; create line chart showing the number of unique terms per paper
-    (tc-plot "one" one)
+    (tc-plot "one" one "Paper number")
 
     ;; create line chart showing the number of unique terms per 5 papers
-    (tc-plot "five" five)))
+    (tc-plot "five" five "Batch number")))
