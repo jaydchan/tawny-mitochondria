@@ -52,7 +52,7 @@
 (as-subclasses
  Term
  (defclass Refined)
- (defclass Quarentined))
+ (defclass Quarantined))
 
 
 ;; define object properties
@@ -66,17 +66,7 @@
 ;; PATTERNS
 (defn source [paper]
 ;;  (has-value contained (individual ppr/paper paper)))
-   (owl-some containedIn paper))
-
-(defn rterm [clazz paper]
-  (refine clazz
-          :subclass Refined
-          (source paper)))
-
-(defn qterm [clazz paper]
-  (refine clazz
-          :subclass Quarentined
-          (source paper)))
+   (owl-some term containedIn paper))
 
 (defn create-term [o name]
   (owl-class o
@@ -84,13 +74,16 @@
              :label name))
 
 ;; Auxiliary functions
-(defn create-class [rtype term paper create o]
+(defn existing-class [rtype term paper o]
+  (owl-class o
+             (g/make-safe term)
+             :subclass rtype
+             (source paper)))
+
+(defn create-class [rtype term paper o create]
   (do
     (create o term)
-    (rtype (owl-class o (g/make-safe term)) paper)))
-
-(defn existing-class [rtype term paper o]
-  (rtype (owl-class o (g/make-safe term)) paper))
+    (existing-class rtype term paper o)))
 
 ;; MAIN
 (defn driver
@@ -102,14 +95,15 @@
         cmap (apply merge (map #(hash-map (first %) (second %)) imap))
         refined (g/get-lines
                  "./output/terms/refined.txt")
-        quarentined (g/get-lines
-                     "./output/terms/quarentined.txt")
+        quarantined (g/get-lines
+                     "./output/terms/quarantined.txt")
         ]
 
     ;; for each term in refined
     (doseq [t (keys cmap)]
       (let [p (str "paper" (first (get cmap t)))
-            rtype (if (contains? (into #{} quarentined) t) qterm rterm)
+            rtype (if (contains? (into #{} quarantined) t)
+                    Quarantined Refined)
             eclazz (partial existing-class rtype t p)
             cclazz (partial create-class rtype t p)]
 
@@ -134,25 +128,25 @@
          ;; TRUE generate term AND :subclass Body_Part_related
 
          (b/body-related? t)
-         (cclazz b/create-body-related b/body)
+         (cclazz b/body b/create-body-related)
          (c/component-related? t)
-         (cclazz c/create-component-related c/component)
+         (cclazz c/component c/create-component-related)
          (d/disease-related? t)
-         (cclazz d/create-disease-related d/disease)
+         (cclazz d/disease d/create-disease-related)
          (gne/gene? t)
-         (cclazz gne/create-gene-related gne/gene)
+         (cclazz gne/gene gne/create-gene-related)
          (pro/protein? t)
-         (cclazz pro/create-protein-related pro/protein)
+         (cclazz pro/protein pro/create-protein-related)
 
          ;; ELSE generate term
 
          :else
-         (cclazz create-term term)))))
+         (cclazz term create-term)))))
 
   ;; check --
   (let [capture (subclasses term Term) ;; todo missing one, make-safe problem ???
         refined (subclasses term Refined)
-        quarentined (subclasses term Quarentined)
+        quarantined (subclasses term Quarantined)
         paper (subclasses ppr/paper ppr/Paper)
         ;; dmutation (subclasses mut/mutation mut/DNA_Mutation)
         ;; pmutation (subclasses mut/mutation mut/Protein_Mutation)
@@ -174,21 +168,21 @@
         rl_mito (apply clojure.set/union
                        [rl_component rl_disease rl_gene rl_protein])
         rf_mito (clojure.set/intersection mito refined) ;; mito vs refined
-        q_mito (clojure.set/intersection mito quarentined) ;; mito vs quarentined
+        q_mito (clojure.set/intersection mito quarantined) ;; mito vs quarantined
         all (clojure.set/union mito body paper)
         rl_all (clojure.set/union rl_mito rl_body)
         rf_done (clojure.set/intersection refined all)
-        q_done (clojure.set/intersection quarentined all)
+        q_done (clojure.set/intersection quarantined all)
         rf_left (clojure.set/difference refined rl_all)
-        q_left (clojure.set/difference quarentined rl_all)
+        q_left (clojure.set/difference quarantined rl_all)
         rl_rf_done (clojure.set/intersection refined rl_all)
-        rl_q_done (clojure.set/intersection quarentined rl_all)
+        rl_q_done (clojure.set/intersection quarantined rl_all)
         rl_rf_left (clojure.set/difference refined rl_all)
-        rl_q_left (clojure.set/difference quarentined rl_all)
+        rl_q_left (clojure.set/difference quarantined rl_all)
         ]
 
     ;; print stats
-    (let [set [capture refined quarentined
+    (let [set [capture refined quarantined
                paper
                ;; dmutation pmutation
                rl_body rl_component rl_disease rl_gene rl_protein
@@ -197,7 +191,7 @@
                all rl_all
                rf_done q_done rf_left q_left
                rl_rf_done rl_q_done rl_rf_left rl_q_left]
-          name ["capture" "refined" "quarentined"
+          name ["capture" "refined" "quarantined"
                 "paper"
                 ;; "dmutation" "pmutation"
                 "rl_body" "rl_component" "rl_disease" "rl_gene" "rl_protein"
@@ -205,12 +199,24 @@
                 "mito" "rl_mito" "rf_mito" "q_mito"
                 "all" "rl_all"
                 "rf_done" "q_done" "rf_left" "q_left"
-                "rl_rf_done" "rl_q_done" "rl_rf_left" "rl_q_left"]]
+                "rl_rf_done" "rl_q_done" "rl_rf_left" "rl_q_left"]
+          outfile "construction.txt"]
 
+      ;; clear old file
+      (g/output
+       (str "./output/stats/" outfile)
+       ""
+       false
+       (str "Error: output stats to " outfile))
+
+      ;; save stats to file
       (doseq [i (range 0 (count set))]
-        (println
+        (g/output
+         (str "./output/stats/" outfile)
          (str "subclasses of " (get name i) ": "
-              (count (get set i))))))
+              (count (get set i)) "\n")
+         true
+         (str "Error: output stats to " outfile))))
 
     ;; save class sets
     (let [set [refined
