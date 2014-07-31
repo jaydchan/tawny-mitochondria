@@ -26,25 +26,26 @@
              [disease :as d]
              [refine :as r]]))
 
-
 (def hasAssociatedProtein
-  (object-property p/protein
+  (object-property d/disease
                    "hasAssociatedProtein"
                    :domain d/Disease
                    :range p/Protein))
 
 (def hasAssociatedGene
-  (object-property gne/gene
+  (object-property d/disease
                    "hasAssociatedGene"
                    :domain d/Disease
                    :range gne/Gene))
 
 ;; Auxiliary functions
 (defn add-association
+  "'Refines' the DISEASE definition to include an exstential OPROPERTY
+  property that links DISEASE with CLAZZ."
   [disease oproperty clazz]
-  (refine d/disease
-          (g/make-safe disease)
-          :subclass (some oproperty clazz)))
+  (owl-class d/disease
+             disease
+             :subclass (owl-some oproperty clazz)))
 
 ;; MAIN
 (defn driver
@@ -92,23 +93,24 @@
                                                           (get omap %)))
                      ids))
         pgmap (apply merge
-                    (map
-                     #(hash-map %
-                                (r/get-pduplicates genes (get omap %)))
-                     ids))
+                     (map
+                      #(hash-map %
+                                 (r/get-pduplicates genes (get omap %)))
+                      ids))
         ]
 
-    (for [id ids]
-      (let [disease (get dmap id)
-            protein (get pmap id)
-            gene (get gmap id)]
+    ;; implement omim relations
+    (doseq [id ids]
+      (let [disease (owl-class d/disease (g/make-safe (get dmap id)))
+            protein (map (partial owl-class p/protein) (get pmap id))
+            gene (map (partial owl-class gne/gene) (get gmap id))]
 
-        (if (some? protein)
+        (if-not (empty? protein)
           (add-association disease
                            hasAssociatedProtein
                            protein))
 
-        (if (some? gene)
+        (if (not (empty? gene))
           (add-association disease
                            hasAssociatedGene
                            gene))))
