@@ -126,8 +126,7 @@ TERM."
 
 (defn- get-pacronym
   "Returns vector: [ITEM A] where A is all possible 'acronyms' found
-in COLL. To restrict the amount of results, we ensure that the
-acronyms have length gt 1."
+in COLL."
   [coll item]
   [item (filter
          #(= (get-acronym item) %)

@@ -66,9 +66,9 @@
   ;; (println "Refining lists: Start")
   ;; (sh "./scripts/make-wordlist.sh")
   ;; (sh "./scripts/check-english.sh")
-  ;; (println "Refining lists: Loading...")
-  ;; (ncl.mitochondria.refine/driver)
-  ;; (println "Refining lists: Complete")
+  (println "Refining lists: Loading...")
+  (ncl.mitochondria.refine/driver)
+  (println "Refining lists: Complete")
 
   ;; generate term classes
   ;; (println "Generating term classes: Start")

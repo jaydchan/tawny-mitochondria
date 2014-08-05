@@ -54,7 +54,7 @@
   (fact hasPMID (literal (str "PMID:" pmid) :RDF :RDF_Literal_String)))
 
 (defn create-paper
-  "Pattern - defines paper instances. TODO"
+  "Pattern - defines paper instances."
   [name title authors pmid]
   (individual name
               :type Paper
