@@ -86,7 +86,9 @@
   (let [words (get-words eng item)]
     [item (clojure.set/union
            (for [word words]
-             (filter (partial g/substring? word) coll)))]))
+             (filter #(not (= item %))
+                     (filter (partial g/substring? word)
+                             coll))))]))
 
 ;; (defn get-pwordduplicates
 ;;   "Returns a list of terms that have possible word dupilictes. Should
@@ -124,7 +126,8 @@ TERM."
 
 (defn- get-pacronym
   "Returns vector: [ITEM A] where A is all possible 'acronyms' found
-in COLL."
+in COLL. To restrict the amount of results, we ensure that the
+acronyms have length gt 1."
   [coll item]
   [item (filter
          #(= (get-acronym item) %)
@@ -199,7 +202,8 @@ in COLL."
                                (sort-by #(read-string (second %))
                                         #(compare %2 %1)
                                         data)))
-        capture (into #{} (keys cmap))
+        ignore (into #{} ["a" "and" "of" "or", "sub-", "the"])
+        capture (clojure.set/difference (into #{} (keys cmap)) ignore)
 
         ofiles (rest (file-seq (clojure.java.io/file "./output/omim")))
         oterms (for [f ofiles]
@@ -213,29 +217,41 @@ in COLL."
 
         refined (clojure.set/union disease related)
         refined_full (select-keys cmap refined)
-        nrefined (for [i (range 0 100)]
-                   (rand-nth (seq refined)))
+        nrefined (select-keys cmap
+                              (for [i (range 0 92)]
+                                (rand-nth (seq refined))))
         quarantined (clojure.set/difference capture refined)
         quarantined_full (select-keys cmap quarantined)
-        nquarantined (for [i (range 0 100)]
-                       (rand-nth (seq quarantined)))
+        nquarantined (select-keys cmap
+                                  (for [i (range 0 87)]
+                                    (rand-nth (seq quarantined))))
 
         duplicate_full (sort-by first (get-duplicates data))
         duplicate (map first (get-duplicates data))
 
-        pduplicate (get-pduplicates capture capture)
-        pwordduplicate (get-pwordduplicates english capture capture)
+        pduplicate
+        (sort-by
+         first
+         (apply clojure.set/union
+                (for [term (get-pduplicates capture capture)]
+                  (into #{} (map #(vector (first term) %) (second term))))))
+        ;; pwordduplicate
+        ;; (sort-by
+        ;;  first
+        ;;  (apply clojure.set/union
+        ;;         (for [term (get-pwordduplicates english capture capture)]
+        ;;           (into #{} (map #(vector (first term) %) (second term))))))
         pacronym (get-pacronyms capture)
         pdmutation (get-pdmutations capture)
         ppmutation (get-ppmutations capture)
 
-        cq (into #{} (map clojure.string/lower-case
-                          (g/get-lines
-                           (g/get-resource "./input/cq.txt"))))
-        refined_cq (fuzzy 10 cq filtered)
-        quarantined_cq (clojure.set/difference cq refined_cq)
+        ;; cq (into #{} (map clojure.string/lower-case
+        ;;                   (g/get-lines
+        ;;                    (g/get-resource "./input/cq.txt"))))
+        ;; refined_cq (fuzzy 10 cq filtered)
+        ;; quarantined_cq (clojure.set/difference cq refined_cq)
 
-        pcqwordterm (get-pwordduplicates english cq capture)
+        ;; pcqwordterm (get-pwordduplicates english cq capture)
 
         outfile "refine_results.txt"
         ]
@@ -296,7 +312,9 @@ in COLL."
                 omim english filtered disease related
                 refined refined_full nrefined
                 quarantined quarantined_full nquarantined
-                pduplicate pwordduplicate pacronym
+                pduplicate
+                ;; pwordduplicate
+                pacronym
                 ppmutation pdmutation
                 ]
           name [
@@ -306,7 +324,9 @@ in COLL."
                 "omim" "english" "filtered" "disease" "related"
                 "refined" "refined_full" "nrefined"
                 "quarantined" "quarantined_full" "nquarantined"
-                "pduplicate" "pwordduplicate" "pacronym"
+                "pduplicate"
+                ;; "pwordduplicate"
+                "pacronym"
                 "ppmutation" "pdmutation"
                 ]
           ]
@@ -331,31 +351,31 @@ in COLL."
                     true error))))
 
     ;; save cqs
-    (let [set [
-               cq refined_cq quarantined_cq
-               pcqwordterm
-               ]
-          name [
-                "cq" "refined_cq" "quarantined_cq"
-                "pcqwordterm"
-                ]]
-      (doseq [i (range 0 (count set))]
-        (let [n (get name i)
-              file (str "./output/cqs/" n ".txt") ;; TODO make sure exists
-              error (str "Error: output stats to " n ".txt")
-              s (get set i)]
+    ;; (let [set [
+    ;;            cq refined_cq quarantined_cq
+    ;;            pcqwordterm
+    ;;            ]
+    ;;       name [
+    ;;             "cq" "refined_cq" "quarantined_cq"
+    ;;             "pcqwordterm"
+    ;;             ]]
+    ;;   (doseq [i (range 0 (count set))]
+    ;;     (let [n (get name i)
+    ;;           file (str "./output/cqs/" n ".txt") ;; TODO make sure exists
+    ;;           error (str "Error: output stats to " n ".txt")
+    ;;           s (get set i)]
 
-          ;; print number of cqs for each set
-          (g/output (str "./output/stats/" outfile)
-                    (str "Total number of " n "s: " (count s) "\n")
-                    true
-                    (str "Error: output stats to " outfile))
+    ;;       ;; print number of cqs for each set
+    ;;       (g/output (str "./output/stats/" outfile)
+    ;;                 (str "Total number of " n "s: " (count s) "\n")
+    ;;                 true
+    ;;                 (str "Error: output stats to " outfile))
 
-          ;; clear old file
-          (g/output file "" false error)
+    ;;       ;; clear old file
+    ;;       (g/output file "" false error)
 
-          ;; save cq set to file
-          (g/output file
-                    (clojure.string/join "\n" s)
-                    true error))))
+    ;;       ;; save cq set to file
+    ;;       (g/output file
+    ;;                 (clojure.string/join "\n" s)
+    ;;                 true error))))
     ))
