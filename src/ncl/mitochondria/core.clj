@@ -16,8 +16,7 @@
 ;; along with this program. If not, see http://www.gnu.org/licenses/.
 
 (ns ncl.mitochondria.core
-  (:use [tawny.owl :exclude [save-ontology]]
-        [ncl.mitochondria.generic :only [save-ontology]]
+  (:use [ncl.mitochondria.generic :only [save-ontology]]
         [clojure.java.shell :only [sh]])
   (:require [ncl.mitochondria
              refine
@@ -64,12 +63,12 @@
 
   ;; refine lists
   (println "Refining lists: Start")
-  (if (not (.exists (clojure.java.io/as-file "./output/omim")))
+  (if-not (.exists (clojure.java.io/as-file "./output/omim"))
     (sh "./scripts/make-wordlist.sh"))
-  (if (not (.exists (clojure.java.io/as-file "./output/cenglish.txt")))
+  (if-not (.exists (clojure.java.io/as-file "./output/cenglish.txt"))
     (sh "./scripts/check-english.sh"))
   (println "Refining lists: Loading...")
-  ;; (ncl.mitochondria.refine/driver)
+  (ncl.mitochondria.refine/driver)
   (println "Refining lists: Complete")
 
   ;; generate term classes
