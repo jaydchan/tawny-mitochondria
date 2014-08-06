@@ -18,21 +18,19 @@
 (ns ^{:doc "TODO"
       :author "Jennifer Warrender"}
   ncl.mitochondria.generic
-  (:use [tawny.owl :exclude [save-ontology]]
-        [clojure.java.shell :only [sh]]
-        [clojure.java.io :only [as-file reader]]))
+  (:use [clojure.java.shell :only [sh]]
+        [clojure.java.io :only [as-file reader]])
+  (:require [tawny.owl :only save-ontology]))
 
-(defonce output-file-path "./output/ontologies/")
-
-(if (not (.exists (clojure.java.io/as-file output-file-path)))
-  (sh "mkdir" "-p" output-file-path))
+(defonce output-file-path "./output/")
 
 (defn save-ontology
   "'Overloads' save-ontology function."
-  [o name type]
-  (if (not (.exists (clojure.java.io/as-file output-file-path)))
-    (sh "mkdir" "-p" output-file-path))
-  (tawny.owl/save-ontology o (str output-file-path name) type))
+  [o name format]
+  (if-not (.exists
+           (clojure.java.io/as-file (str output-file-path "ontologies")))
+    (sh "mkdir" "-p" (str output-file-path "ontologies")))
+  (tawny.owl/save-ontology o (str output-file-path name) format))
 
 (defn get-lines
   "Reads in file line by line. Returns a java.lang.Cons."
