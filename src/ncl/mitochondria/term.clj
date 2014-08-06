@@ -18,7 +18,8 @@
 (ns ^{:doc "TODO"
       :author "Jennifer Warrender"}
   ncl.mitochondria.term
-  (:use [tawny.owl])
+  (:use [tawny.owl]
+        [clojure.java.shell :only [sh]])
   (:require [ncl.mitochondria
              [generic :as g]
              [paper :as ppr]
@@ -88,6 +89,11 @@
 ;; MAIN
 (defn driver
   []
+
+  (if (not (.exists (clojure.java.io/as-file "./output/stats/")))
+    (sh "mkdir" "-p" "./output/stats/"))
+  (if (not (.exists (clojure.java.io/as-file "./output/classes/")))
+    (sh "mkdir" "-p" "./output/classes/"))
 
   ;; read files
   (let [imap (g/read-file
@@ -164,42 +170,55 @@
               (subclasses gne/gene gne/Gene) rl_gene)
         protein (clojure.set/difference
                  (subclasses pro/protein pro/Protein) rl_protein)
-        mito (apply clojure.set/union [component disease gene protein])
-        rl_mito (apply clojure.set/union
-                       [rl_component rl_disease rl_gene rl_protein])
-        rf_mito (clojure.set/intersection mito refined) ;; mito vs refined
-        q_mito (clojure.set/intersection mito quarantined) ;; mito vs quarantined
-        all (clojure.set/union mito body paper)
-        rl_all (clojure.set/union rl_mito rl_body)
-        rf_done (clojure.set/intersection refined all)
-        q_done (clojure.set/intersection quarantined all)
-        rf_left (clojure.set/difference refined rl_all)
-        q_left (clojure.set/difference quarantined rl_all)
-        rl_rf_done (clojure.set/intersection refined rl_all)
-        rl_q_done (clojure.set/intersection quarantined rl_all)
-        rl_rf_left (clojure.set/difference refined rl_all)
-        rl_q_left (clojure.set/difference quarantined rl_all)
+
+        ;; mito (apply clojure.set/union [component disease gene protein])
+        ;; rl_mito (apply clojure.set/union
+        ;;                [rl_component rl_disease rl_gene rl_protein])
+        ;; rf_mito (clojure.set/intersection mito refined) ;; mito vs refined
+        ;; q_mito (clojure.set/intersection mito quarantined) ;; mito vs quarantined
+        ;; all (clojure.set/union mito body paper)
+        ;; rl_all (clojure.set/union rl_mito rl_body)
+        ;; rf_done (clojure.set/intersection refined all)
+        ;; q_done (clojure.set/intersection quarantined all)
+        ;; rf_left (clojure.set/difference refined rl_all)
+        ;; q_left (clojure.set/difference quarantined rl_all)
+        ;; rl_rf_done (clojure.set/intersection refined rl_all)
+        ;; rl_q_done (clojure.set/intersection quarantined rl_all)
+        ;; rl_rf_left (clojure.set/difference refined rl_all)
+        ;; rl_q_left (clojure.set/difference quarantined rl_all)
+
+        rf_body (clojure.set/intersection refined body)
+        rf_component (clojure.set/intersection refined component)
+        rf_disease (clojure.set/intersection refined disease)
+        rf_gene (clojure.set/intersection refined gene)
+        rf_protein (clojure.set/intersection refined protein)
         ]
 
     ;; print stats
-    (let [set [capture refined quarantined
+    (let [set [
+               capture refined quarantined
                paper
                ;; dmutation pmutation
                rl_body rl_component rl_disease rl_gene rl_protein
                body component disease gene protein
-               mito rl_mito rf_mito q_mito
-               all rl_all
-               rf_done q_done rf_left q_left
-               rl_rf_done rl_q_done rl_rf_left rl_q_left]
-          name ["capture" "refined" "quarantined"
+               ;; mito rl_mito rf_mito q_mito
+               ;; all rl_all
+               ;; rf_done q_done rf_left q_left
+               ;; rl_rf_done rl_q_done rl_rf_left rl_q_left
+               rf_body rf_component rf_disease rf_gene rf_protein
+               ]
+          name [
+                "capture" "refined" "quarantined"
                 "paper"
                 ;; "dmutation" "pmutation"
                 "rl_body" "rl_component" "rl_disease" "rl_gene" "rl_protein"
                 "body" "component" "disease" "gene" "protein"
-                "mito" "rl_mito" "rf_mito" "q_mito"
-                "all" "rl_all"
-                "rf_done" "q_done" "rf_left" "q_left"
-                "rl_rf_done" "rl_q_done" "rl_rf_left" "rl_q_left"]
+                ;; "mito" "rl_mito" "rf_mito" "q_mito"
+                ;; "all" "rl_all"
+                ;; "rf_done" "q_done" "rf_left" "q_left"
+                ;; "rl_rf_done" "rl_q_done" "rl_rf_left" "rl_q_left"
+                "rf_body" "rf_component" "rf_disease" "rf_gene" "rf_protein"
+                ]
           outfile "construction.txt"]
 
       ;; clear old file
@@ -219,20 +238,26 @@
          (str "Error: output stats to " outfile))))
 
     ;; save class sets
-    (let [set [refined
+    (let [set [
+               refined
                rl_body rl_component rl_disease rl_gene rl_protein
-               rl_all
-               rf_done q_done rf_left q_left
-               rl_rf_done rl_q_done rl_rf_left rl_q_left]
-          name ["refined"
+               ;; rl_all
+               ;; rf_done q_done rf_left q_left
+               ;; rl_rf_done rl_q_done rl_rf_left rl_q_left
+               rf_body rf_component rf_disease rf_gene rf_protein
+               ]
+          name [
+                "refined"
                 "rl_body" "rl_component" "rl_disease" "rl_gene" "rl_protein"
-                "rl_all"
-                "rf_done" "q_done" "rf_left" "q_left"
-                "rl_rf_done" "rl_q_done" "rl_rf_left" "rl_q_left"]]
+                ;; "rl_all"
+                ;; "rf_done" "q_done" "rf_left" "q_left"
+                ;; "rl_rf_done" "rl_q_done" "rl_rf_left" "rl_q_left"
+                "rf_body" "rf_component" "rf_disease" "rf_gene rf_protein"
+                ]]
 
       (doseq [i (range 0 (count set))]
         (let [n (get name i)
-              file (str "./output/classes/" n ".txt") ;; TODO make sure exists
+              file (str "./output/classes/" n ".txt")
               error (str "Error: output stats to " n ".txt")
               s (get set i)]
 
@@ -245,6 +270,6 @@
                     true error))))
 
     ;; body vs capture
-    (println (clojure.set/intersection capture body))
+    ;; (println (clojure.set/intersection capture body))
 
     ))

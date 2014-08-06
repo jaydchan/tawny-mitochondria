@@ -18,6 +18,7 @@
 (ns ^{:doc "TODO"
       :author "Jennifer Warrender"}
   ncl.mitochondria.refine
+  (:use [clojure.java.shell :only [sh]])
   (:require [ncl.mitochondria
              [generic :as g]]))
 
@@ -185,6 +186,14 @@ in COLL."
 ;; MAIN
 (defn driver
   []
+
+  (if (not (.exists (clojure.java.io/as-file "./output/stats/")))
+    (sh "mkdir" "-p" "./output/stats/"))
+  (if (not (.exists (clojure.java.io/as-file "./output/terms/")))
+    (sh "mkdir" "-p" "./output/terms/"))
+  (if (not (.exists (clojure.java.io/as-file "./output/cqs/")))
+    (sh "mkdir" "-p" "./output/cqs/"))
+
   ;; read files and create sets
   (let [cfiles (map #(str "Paper" % "_terms.txt") (range 1 31))
         cterms (for [f cfiles]
@@ -244,13 +253,13 @@ in COLL."
         pdmutation (get-pdmutations capture)
         ppmutation (get-ppmutations capture)
 
-        ;; cq (into #{} (map clojure.string/lower-case
-        ;;                   (g/get-lines
-        ;;                    (g/get-resource "./input/cq.txt"))))
-        ;; refined_cq (fuzzy 10 cq filtered)
-        ;; quarantined_cq (clojure.set/difference cq refined_cq)
+        cq (into #{} (map clojure.string/lower-case
+                          (g/get-lines
+                           (g/get-resource "./input/cq.txt"))))
+        refined_cq (fuzzy 10 cq filtered)
+        quarantined_cq (clojure.set/difference cq refined_cq)
 
-        ;; pcqwordterm (get-pwordduplicates english cq capture)
+        pcqwordterm (get-pwordduplicates english cq capture)
 
         outfile "refine_results.txt"
         ]
@@ -331,7 +340,7 @@ in COLL."
           ]
       (doseq [i (range 0 (count coll))]
         (let [n (get name i)
-              file (str "./output/terms/" n ".txt") ;; TODO make sure this exists
+              file (str "./output/terms/" n ".txt")
               error (str "Error: output stats to " n ".txt")
               s (get coll i)]
 
@@ -350,31 +359,31 @@ in COLL."
                     true error))))
 
     ;; save cqs
-    ;; (let [set [
-    ;;            cq refined_cq quarantined_cq
-    ;;            pcqwordterm
-    ;;            ]
-    ;;       name [
-    ;;             "cq" "refined_cq" "quarantined_cq"
-    ;;             "pcqwordterm"
-    ;;             ]]
-    ;;   (doseq [i (range 0 (count set))]
-    ;;     (let [n (get name i)
-    ;;           file (str "./output/cqs/" n ".txt") ;; TODO make sure exists
-    ;;           error (str "Error: output stats to " n ".txt")
-    ;;           s (get set i)]
+    (let [set [
+               cq refined_cq quarantined_cq
+               pcqwordterm
+               ]
+          name [
+                "cq" "refined_cq" "quarantined_cq"
+                "pcqwordterm"
+                ]]
+      (doseq [i (range 0 (count set))]
+        (let [n (get name i)
+              file (str "./output/cqs/" n ".txt") ;; TODO make sure exists
+              error (str "Error: output stats to " n ".txt")
+              s (get set i)]
 
-    ;;       ;; print number of cqs for each set
-    ;;       (g/output (str "./output/stats/" outfile)
-    ;;                 (str "Total number of " n "s: " (count s) "\n")
-    ;;                 true
-    ;;                 (str "Error: output stats to " outfile))
+          ;; print number of cqs for each set
+          (g/output (str "./output/stats/" outfile)
+                    (str "Total number of " n "s: " (count s) "\n")
+                    true
+                    (str "Error: output stats to " outfile))
 
-    ;;       ;; clear old file
-    ;;       (g/output file "" false error)
+          ;; clear old file
+          (g/output file "" false error)
 
-    ;;       ;; save cq set to file
-    ;;       (g/output file
-    ;;                 (clojure.string/join "\n" s)
-    ;;                 true error))))
+          ;; save cq set to file
+          (g/output file
+                    (clojure.string/join "\n" s)
+                    true error))))
     ))
