@@ -2,8 +2,8 @@
 
 temp=temp.txt
 omim=omim.txt
-htmlpath="./resources/OMIM/*.html"
-outpath="./output/omim"
+htmlpath="./resources/omim_html/*.html"
+outpath="./input/omim"
 
 ## list all omim files
 ## ensure file names contain no whitespace
