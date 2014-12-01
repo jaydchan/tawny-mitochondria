@@ -55,7 +55,6 @@
  (defclass Refined)
  (defclass Quarantined))
 
-
 ;; define object properties
 (as-inverse
  (defoproperty containedIn)
@@ -74,13 +73,13 @@
              (g/make-safe name)
              :label name))
 
-;; Auxiliary functions
 (defn existing-class [rtype term paper o]
   (owl-class o
              (g/make-safe term)
              :subclass rtype
              (source paper)))
 
+;; Auxiliary functions
 (defn create-class [rtype term paper o create]
   (do
     (create o term)
