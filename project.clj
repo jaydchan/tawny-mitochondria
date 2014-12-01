@@ -17,7 +17,7 @@
 
 (defproject ncl.mitochondria "1.0.0-SNAPSHOT"
   :description "Modelling mitochondrial disease in OWL"
-  :dependencies [[uk.org.russet/tawny-owl "1.1.1-SNAPSHOT"]
+  :dependencies [[uk.org.russet/tawny-owl "1.3.0-SNAPSHOT"]
                  [incanter "1.5.5"]]
   :scm {:url "https://github.com/jaydchan/tawny-mitochondria.git"
         :name "git"}
