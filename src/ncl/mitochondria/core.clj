@@ -63,7 +63,7 @@
 
   ;; refine lists
   (println "Refining lists: Start")
-  (if-not (.exists (clojure.java.io/as-file "./output/omim"))
+  (if-not (.exists (clojure.java.io/as-file "./input/omim"))
     (sh "./scripts/make-wordlist.sh"))
   (if-not (.exists (clojure.java.io/as-file "./output/cenglish.txt"))
     (sh "./scripts/check-english.sh"))
@@ -72,18 +72,18 @@
   (println "Refining lists: Complete")
 
   ;; generate term classes
-  (println "Generating term classes: Start")
-  (ncl.mitochondria.term/driver)
-  (save-ontology ncl.mitochondria.term/term "term.omn" :omn)
-  (save-ontology ncl.mitochondria.term/term "term.owl" :owl)
-  (println "Generating term clases: Complete.")
+  ;; (println "Generating term classes: Start")
+  ;; (ncl.mitochondria.term/driver)
+  ;; (save-ontology ncl.mitochondria.term/term "term.omn" :omn)
+  ;; (save-ontology ncl.mitochondria.term/term "term.owl" :owl)
+  ;; (println "Generating term clases: Complete.")
 
   ;; incorporate omim relations
-  (println "Incorporating OMIM relations: Start")
-  (ncl.mitochondria.omim/driver)
-  (save-ontology ncl.mitochondria.disease/disease "disease.omn" :omn)
-  (save-ontology ncl.mitochondria.disease/disease "disease.owl" :owl)
-  (println "Incorporating OMIM relations: Complete")
+  ;; (println "Incorporating OMIM relations: Start")
+  ;; (ncl.mitochondria.omim/driver)
+  ;; (save-ontology ncl.mitochondria.disease/disease "disease.omn" :omn)
+  ;; (save-ontology ncl.mitochondria.disease/disease "disease.owl" :owl)
+  ;; (println "Incorporating OMIM relations: Complete")
 
   ;; cqs
   ;; (println "Incorporating cq queries: Start")
