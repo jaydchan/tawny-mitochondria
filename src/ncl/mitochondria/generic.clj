@@ -30,7 +30,7 @@
   (if-not (.exists
            (clojure.java.io/as-file (str output-file-path "ontologies")))
     (sh "mkdir" "-p" (str output-file-path "ontologies")))
-  (tawny.owl/save-ontology o (str output-file-path name) format))
+  (tawny.owl/save-ontology o (str output-file-path "ontologies/" name) format))
 
 (defn get-lines
   "Reads in file line by line. Returns a java.lang.Cons."
