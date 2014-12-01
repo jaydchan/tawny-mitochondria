@@ -213,7 +213,7 @@ in COLL."
         ignore (into #{} ["a" "and" "of" "or", "sub-", "the"])
         capture (clojure.set/difference (into #{} (keys cmap)) ignore)
 
-        ofiles (rest (file-seq (clojure.java.io/file "./output/omim")))
+        ofiles (rest (file-seq (clojure.java.io/file "./resources/input/omim")))
         oterms (for [f ofiles]
                (g/get-lines f))
         omim (into #{} (apply clojure.set/union oterms))
