@@ -17,43 +17,43 @@
 
 (ns ^{:doc "TODO"
       :author "Jennifer Warrender"}
-  ncl.mitochondria.body
+  ncl.mitochondria.hanatomy
   (:use [tawny.owl])
   (:require [ncl.mitochondria.generic :as g]))
 
-(defontology body
-  :iri "http://ncl.ac.uk/mitochondria/body"
-  :prefix "bod:")
+(defontology hanatomy
+  :iri "http://ncl.ac.uk/mitochondria/hanatomy"
+  :prefix "hana:")
 
 ;; OWL CLASSES
-(defclass Body_Part)
-(defclass Body_Part_related
-  :subclass Body_Part)
+(defclass Human_Anatomy)
+(defclass Human_Anatomy_related
+  :subclass Human_Anatomy)
 
 ;; PATTERNS
-(defn create-body [name]
+(defn hanatomy-class [name]
   (owl-class (g/make-safe name)
              :label name
-             :subclass Body_Part))
+             :subclass Human_Anatomy))
 
-(defn create-body-related [o name]
+(defn create-hanatomy-related [o name]
   (owl-class o
              (g/make-safe name)
              :label name
-             :subclass Body_Part_related))
+             :subclass Human_Anatomy_related))
 
 ;; MAIN
 
 ;; read file
 (let [parts (g/get-lines
-             (g/get-resource "./input/body.txt"))]
+             (g/get-resource "./input/hanatomy.txt"))]
 
-  ;; generate body classes
+  ;; generate hanatomy classes
   (doseq [p parts]
-    (create-body p))
+    (hanatomy-class p))
 
   ;; Auxiliary functions
-  (defn body? [term]
+  (defn hanatomy? [term]
     (some #(= % term) parts))
-  (defn body-related? [term]
+  (defn hanatomy-related? [term]
     (some #(re-find (re-pattern %) term) parts)))

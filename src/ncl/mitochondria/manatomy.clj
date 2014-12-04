@@ -17,57 +17,57 @@
 
 (ns ^{:doc "TODO"
       :author "Jennifer Warrender"}
-  ncl.mitochondria.component
+  ncl.mitochondria.manatomy
   (:use [tawny.owl])
   (:require [ncl.mitochondria
              mitochondria
              [generic :as g]]))
 
-(defontology component
-  :iri "http://ncl.ac.uk/mitochondria/component"
-  :prefix "com:")
+(defontology manatomy
+  :iri "http://ncl.ac.uk/mitochondria/manatomy"
+  :prefix "mana:")
 
 ;; OWL CLASSES
-(defclass Component
+(defclass Mitochondrion_Anatomy
   :subclass ncl.mitochondria.mitochondria/Mitochondria)
-(defclass Component_related
-  :subclass Component)
+(defclass Mitochondrion_Anatomy_related
+  :subclass Mitochondrion_Anatomy)
 
 ;; PATTERNS
-(defn create-component [name]
+(defn manatomy-class [name]
   (owl-class (g/make-safe name)
              :label name
-             :subclass Component))
+             :subclass Mitochondrion_Anatomy))
 
-(defn create-component-related [o name]
+(defn create-manatomy-related [o name]
   (owl-class o
              (g/make-safe name)
              :label name
-             :subclass Component_related))
+             :subclass Mitochondrion_Anatomy_related))
 
 ;; MAIN
-(let [components ["Outer membrane"
-                  "Porin"
-                  "Intermembrane space"
-                  "Intracristal space"
-                  "Peripheral space"
-                  "Lamella"
-                  "Inner membrane"
-                  "Inner boundary membrane"
-                  "Cristal membrane"
-                  "Matrix"
-                  "Cristae"
-                  "Mitochondrial DNA"
-                  "Matrix granule"
-                  "Ribosome"
-                  "ATP synthase"]]
+(let [parts ["Outer membrane"
+             "Porin"
+             "Intermembrane space"
+             "Intracristal space"
+             "Peripheral space"
+             "Lamella"
+             "Inner membrane"
+             "Inner boundary membrane"
+             "Cristal membrane"
+             "Matrix"
+             "Cristae"
+             "Mitochondrial DNA"
+             "Matrix granule"
+             "Ribosome"
+             "ATP synthase"]]
 
   ;; generate body classes
-  (doseq [c components]
-    (create-component c))
+  (doseq [p parts]
+    (manatomy-class p))
 
   ;; Auxiliary functions
-  (defn component? [term]
-    (some #(= % term) components))
-  (defn component-related? [term]
-    (some #(re-find (re-pattern %) term) components)))
+  (defn manatomy? [term]
+    (some #(= % term) parts))
+  (defn manatomy-related? [term]
+    (some #(re-find (re-pattern %) term) parts)))
