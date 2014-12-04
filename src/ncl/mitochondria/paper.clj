@@ -38,30 +38,30 @@
    :domain Paper)
 
 ;; Auxiliary functions
-(defn fact-title
+(defn title-fact
   "TODO"
   [title]
   (fact hasTitle (literal title :lang "en")))
 
-(defn fact-author
+(defn author-fact
   "TODO"
   [author]
   (fact hasAuthor (literal author :lang "en")))
 
-(defn fact-pmid
+(defn pmid-fact
   "TODO"
   [pmid]
   (fact hasPMID (literal (str "PMID:" pmid) :RDF :RDF_Literal_String)))
 
-(defn create-paper
+(defn paper-class
   "Pattern - defines paper instances."
   [name title authors pmid]
   (individual name
               :type Paper
               :fact
-              (fact-title title)
-              (map fact-author authors)
-              (fact-pmid pmid)))
+              (title-fact title)
+              (map author-fact authors)
+              (pmid-fact pmid)))
 
 ;; MAIN
 ;; read file
@@ -71,4 +71,4 @@
 
   ;; generate paper classes
   (doseq [p papers]
-    (apply create-paper p)))
+    (apply paper-class p)))

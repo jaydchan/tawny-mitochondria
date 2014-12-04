@@ -34,7 +34,7 @@
   :subclass Disease)
 
 ;; PATTERNS
-(defn create-disease [name omim lname]
+(defn disease-class [name omim lname]
   (let [dname (g/make-safe name)]
     (owl-class dname
                :label name
@@ -61,7 +61,7 @@
 
   ;; generate disease classes
   (doseq [d diseases]
-    (create-disease (get d 0) (get d 1) (get d 2)))
+    (disease-class (get d 0) (get d 1) (get d 2)))
 
   ;; Auxiliary functions
   (defn disease? [term]

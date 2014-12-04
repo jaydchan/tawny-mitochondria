@@ -51,12 +51,12 @@
 ;; (defn mutation? [term]
 ;;   (or (dna-mutation? term) (protein-mutation? term)))
 
-(defn- create-dna-mutation [o name]
+(defn- dna-mutation-class [o name]
   (owl-class (g/make-safe name)
              :label name
              :subclass DNA_Mutation))
 
-(defn- create-protein-mutation [name]
+(defn- protein-mutation-class [name]
   (owl-class (g/make-safe name)
              :label name
              :subclass Protein_Mutation))
@@ -77,11 +77,11 @@
 
   ;; generate dna mutation classes
   (doseq [m dmutations]
-    (create-dna-mutation m))
+    (dna-mutation-class m))
 
   ;; generate protein mutation classes
   (doseq [m pmutations]
-    (create-protein-mutation m))
+    (protein-mutation-class m))
 
   ;; Auxiliary functions
   (defn mutation? [term]

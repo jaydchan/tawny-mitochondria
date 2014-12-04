@@ -34,7 +34,7 @@
   :subclass Protein)
 
 ;; PATTERNS
-(defn create-protein [name]
+(defn protein-class [name]
   (owl-class (g/make-safe name)
              :label name
              :subclass Protein))
@@ -55,7 +55,7 @@
 
   ;; generate protein classes
   (doseq [p proteins]
-    (create-protein p))
+    (protein-class p))
 
   ;; Auxiliary functions
   (defn protein? [term]

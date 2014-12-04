@@ -23,9 +23,9 @@
   (:require [ncl.mitochondria
              [generic :as g]
              [paper :as ppr]
-             [body :as b]
+             [hanatomy :as h]
              [mitochondria :as mit]
-             [component :as c]
+             [manatomy :as man]
              [disease :as d]
              [gene :as gne]
              [protein :as pro]
@@ -39,9 +39,9 @@
 
 ;; import other ontologies
 (owl-import ppr/paper)
-(owl-import b/body)
+(owl-import h/hanatomy)
 (owl-import mit/mitochondria)
-(owl-import c/component)
+(owl-import man/manatomy)
 (owl-import d/disease)
 (owl-import gne/gene)
 (owl-import pro/protein)
@@ -58,17 +58,17 @@
 ;; define object properties
 (as-inverse
  (defoproperty containedIn)
-;;   :domain ppr/Paper)
+ ;;   :domain ppr/Paper)
  (defoproperty contains))
 
 (defdproperty contained)
 
 ;; PATTERNS
 (defn source [paper]
-;;  (has-value contained (individual ppr/paper paper)))
-   (owl-some term containedIn paper))
+  ;;  (has-value contained (individual ppr/paper paper)))
+  (owl-some term containedIn paper))
 
-(defn create-term [o name]
+(defn term-class [o name]
   (owl-class o
              (g/make-safe name)
              :label name))
@@ -80,7 +80,7 @@
              (source paper)))
 
 ;; Auxiliary functions
-(defn create-class [rtype term paper o create]
+(defn refine-term [rtype term paper o create]
   (do
     (create o term)
     (existing-class rtype term paper o)))
@@ -110,16 +110,16 @@
             rtype (if (contains? (into #{} quarantined) t)
                     Quarantined Refined)
             eclazz (partial existing-class rtype t p)
-            cclazz (partial create-class rtype t p)]
+            cclazz (partial refine-term rtype t p)]
 
         (cond
          ;; check if term already exists in other ontologies
          ;; TRUE refine class st :subclass Refined
 
-         (b/body? t)
-         (eclazz b/body)
-         (c/component? t)
-         (eclazz c/component)
+         (h/hanatomy? t)
+         (eclazz h/hanatomy)
+         (man/manatomy? t)
+         (eclazz man/manatomy)
          (d/disease? t)
          (eclazz d/disease)
          (gne/gene? t)
@@ -132,10 +132,10 @@
          ;; check if term is related to any term
          ;; TRUE generate term AND :subclass Body_Part_related
 
-         (b/body-related? t)
-         (cclazz b/body b/create-body-related)
-         (c/component-related? t)
-         (cclazz c/component c/create-component-related)
+         (h/hanatomy-related? t)
+         (cclazz h/hanatomy h/create-hanatomy-related)
+         (man/manatomy-related? t)
+         (cclazz man/manatomy man/create-manatomy-related)
          (d/disease-related? t)
          (cclazz d/disease d/create-disease-related)
          (gne/gene? t)
@@ -146,23 +146,23 @@
          ;; ELSE generate term
 
          :else
-         (cclazz term create-term)))))
+         (cclazz term term-class)))))
 
   ;; check --
-  (let [capture (subclasses term Term) ;; todo missing one, make-safe problem ???
+  (let [capture (subclasses term Term) ;; TODO missing one, make-safe???
         refined (subclasses term Refined)
         quarantined (subclasses term Quarantined)
         paper (subclasses ppr/paper ppr/Paper)
         ;; dmutation (subclasses mut/mutation mut/DNA_Mutation)
         ;; pmutation (subclasses mut/mutation mut/Protein_Mutation)
-        rl_body (subclasses b/body b/Body_Part_related)
-        rl_component (subclasses c/component c/Component_related)
+        rl_hanatomy (subclasses h/hanatomy h/Human_Anatomy_related)
+        rl_manatomy (subclasses man/manatomy man/Mitochondrion_Anatomy_related)
         rl_disease (subclasses d/disease d/Disease_related)
         rl_gene (subclasses gne/gene gne/Gene_related)
         rl_protein (subclasses pro/protein pro/Protein_related)
-        body (clojure.set/difference (subclasses b/body b/Body_Part) rl_body)
-        component (clojure.set/difference
-                   (subclasses c/component c/Component) rl_component)
+        hanatomy (clojure.set/difference (subclasses h/hanatomy h/Human_Anatomy) rl_hanatomy)
+        manatomy (clojure.set/difference
+                   (subclasses man/manatomy man/Mitochondrion_Anatomy) rl_manatomy)
         disease (clojure.set/difference
                  (subclasses d/disease d/Disease) rl_disease)
         gene (clojure.set/difference
@@ -170,13 +170,13 @@
         protein (clojure.set/difference
                  (subclasses pro/protein pro/Protein) rl_protein)
 
-        ;; mito (apply clojure.set/union [component disease gene protein])
+        ;; mito (apply clojure.set/union [manatomy disease gene protein])
         ;; rl_mito (apply clojure.set/union
-        ;;                [rl_component rl_disease rl_gene rl_protein])
+        ;;                [rl_manatomy rl_disease rl_gene rl_protein])
         ;; rf_mito (clojure.set/intersection mito refined) ;; mito vs refined
         ;; q_mito (clojure.set/intersection mito quarantined) ;; mito vs quarantined
-        ;; all (clojure.set/union mito body paper)
-        ;; rl_all (clojure.set/union rl_mito rl_body)
+        ;; all (clojure.set/union mito hanatomy paper)
+        ;; rl_all (clojure.set/union rl_mito rl_hanatomy)
         ;; rf_done (clojure.set/intersection refined all)
         ;; q_done (clojure.set/intersection quarantined all)
         ;; rf_left (clojure.set/difference refined rl_all)
@@ -186,8 +186,8 @@
         ;; rl_rf_left (clojure.set/difference refined rl_all)
         ;; rl_q_left (clojure.set/difference quarantined rl_all)
 
-        rf_body (clojure.set/intersection refined body)
-        rf_component (clojure.set/intersection refined component)
+        rf_hanatomy (clojure.set/intersection refined hanatomy)
+        rf_manatomy (clojure.set/intersection refined manatomy)
         rf_disease (clojure.set/intersection refined disease)
         rf_gene (clojure.set/intersection refined gene)
         rf_protein (clojure.set/intersection refined protein)
@@ -198,25 +198,25 @@
                capture refined quarantined
                paper
                ;; dmutation pmutation
-               rl_body rl_component rl_disease rl_gene rl_protein
-               body component disease gene protein
+               rl_hanatomy rl_manatomy rl_disease rl_gene rl_protein
+               hanatomy manatomy disease gene protein
                ;; mito rl_mito rf_mito q_mito
                ;; all rl_all
                ;; rf_done q_done rf_left q_left
                ;; rl_rf_done rl_q_done rl_rf_left rl_q_left
-               rf_body rf_component rf_disease rf_gene rf_protein
+               rf_hanatomy rf_manatomy rf_disease rf_gene rf_protein
                ]
           name [
                 "capture" "refined" "quarantined"
                 "paper"
                 ;; "dmutation" "pmutation"
-                "rl_body" "rl_component" "rl_disease" "rl_gene" "rl_protein"
-                "body" "component" "disease" "gene" "protein"
+                "rl_hanatomy" "rl_manatomy" "rl_disease" "rl_gene" "rl_protein"
+                "hanatomy" "manatomy" "disease" "gene" "protein"
                 ;; "mito" "rl_mito" "rf_mito" "q_mito"
                 ;; "all" "rl_all"
                 ;; "rf_done" "q_done" "rf_left" "q_left"
                 ;; "rl_rf_done" "rl_q_done" "rl_rf_left" "rl_q_left"
-                "rf_body" "rf_component" "rf_disease" "rf_gene" "rf_protein"
+                "rf_hanatomy" "rf_manatomy" "rf_disease" "rf_gene" "rf_protein"
                 ]
           outfile "construction.txt"]
 
@@ -239,19 +239,19 @@
     ;; save class sets
     (let [set [
                refined
-               rl_body rl_component rl_disease rl_gene rl_protein
+               rl_hanatomy rl_manatomy rl_disease rl_gene rl_protein
                ;; rl_all
                ;; rf_done q_done rf_left q_left
                ;; rl_rf_done rl_q_done rl_rf_left rl_q_left
-               rf_body rf_component rf_disease rf_gene rf_protein
+               rf_hanatomy rf_manatomy rf_disease rf_gene rf_protein
                ]
           name [
                 "refined"
-                "rl_body" "rl_component" "rl_disease" "rl_gene" "rl_protein"
+                "rl_hanatomy" "rl_manatomy" "rl_disease" "rl_gene" "rl_protein"
                 ;; "rl_all"
                 ;; "rf_done" "q_done" "rf_left" "q_left"
                 ;; "rl_rf_done" "rl_q_done" "rl_rf_left" "rl_q_left"
-                "rf_body" "rf_component" "rf_disease" "rf_gene rf_protein"
+                "rf_hanatomy" "rf_manatomy" "rf_disease" "rf_gene rf_protein"
                 ]]
 
       (doseq [i (range 0 (count set))]
@@ -268,7 +268,7 @@
                     (clojure.string/join "\n" s)
                     true error))))
 
-    ;; body vs capture
-    ;; (println (clojure.set/intersection capture body))
+    ;; hanatomy vs capture
+    ;; (println (clojure.set/intersection capture hanatomy))
 
     ))

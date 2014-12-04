@@ -20,7 +20,7 @@
         [clojure.java.shell :only [sh]])
   (:require [ncl.mitochondria
              refine
-             paper body mitochondria component
+             paper hanatomy mitochondria manatomy
              disease gene protein
              ;; mutation
              term
@@ -41,16 +41,16 @@
   (save-ontology ncl.mitochondria.paper/paper "paper.omn" :omn)
   (save-ontology ncl.mitochondria.paper/paper "paper.owl" :owl)
 
-  (save-ontology ncl.mitochondria.body/body "body.omn" :omn)
-  (save-ontology ncl.mitochondria.body/body "body.owl" :owl)
+  (save-ontology ncl.mitochondria.hanatomy/hanatomy "hanatomy.omn" :omn)
+  (save-ontology ncl.mitochondria.hanatomy/hanatomy "hanatomy.owl" :owl)
 
   (save-ontology
    ncl.mitochondria.mitochondria/mitochondria "mitochondria.omn" :omn)
   (save-ontology
    ncl.mitochondria.mitochondria/mitochondria "mitochondria.owl" :owl)
 
-  (save-ontology ncl.mitochondria.component/component "component.omn" :omn)
-  (save-ontology ncl.mitochondria.component/component "component.owl" :owl)
+  (save-ontology ncl.mitochondria.manatomy/manatomy "manatomy.omn" :omn)
+  (save-ontology ncl.mitochondria.manatomy/manatomy "manatomy.owl" :owl)
 
   (save-ontology ncl.mitochondria.gene/gene "gene.omn" :omn)
   (save-ontology ncl.mitochondria.gene/gene "gene.owl" :owl)

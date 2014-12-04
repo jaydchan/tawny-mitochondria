@@ -34,7 +34,7 @@
   :subclass Gene)
 
 ;; PATTERNS
-(defn create-gene [name]
+(defn gene-class [name]
   (owl-class (g/make-safe name)
              :label name
              :subclass Gene))
@@ -54,7 +54,7 @@
 
   ;; generate protein classes
   (doseq [gene genes]
-    (create-gene gene))
+    (gene-class gene))
 
   ;; Auxiliary functions
   (defn gene? [term]

@@ -22,9 +22,9 @@
   (:require [ncl.mitochondria
              [generic :as g]
              [paper :as ppr]
-             [body :as b]
+             [hanatomy :as h]
              [mitochondria :as mit]
-             [component :as c]
+             [manatomy :as man]
              [disease :as d]
              [gene :as gne]
              [protein :as pro]
@@ -39,9 +39,9 @@
 
 ;; import other ontologies
 (owl-import ppr/paper)
-(owl-import b/body)
+(owl-import h/hanatomy)
 (owl-import mit/mitochondria)
-(owl-import c/component)
+(owl-import man/manatomy)
 (owl-import d/disease)
 (owl-import gne/gene)
 (owl-import pro/protein)
