@@ -1,6 +1,6 @@
 ;; The contents of this file are subject to the LGPL License, Version 3.0.
 
-;; Copyright (C) 2014, Newcastle University
+;; Copyright (C) 2014-2015, Newcastle University
 
 ;; This program is free software: you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
@@ -18,7 +18,8 @@
 (ns ^{:doc "TODO"
       :author "Jennifer Warrender"}
   ncl.mitochondria.disease
-  (:use [tawny.owl])
+  (:use [tawny.owl]
+	[tawny.read :only [intern-entity]])
   (:require [ncl.mitochondria
              mitochondria
              [generic :as g]]))
@@ -28,70 +29,76 @@
   :prefix "dis:")
 
 ;; OWL CLASSES
-(defclass Disease
-  :subclass ncl.mitochondria.mitochondria/Mitochondria)
-(defclass Disease_related
-  :subclass Disease)
+(defclass Disease)
+;; (defclass Disease_related
+;;   :subclass Disease)
 
 ;; PATTERNS
 (defn disease-class [name omim lname]
+  (println "disease-class")
   (let [dname (g/make-safe name)]
-    (owl-class dname
-               :label name
-               :subclass Disease)
-    (if-not (nil? omim)
+    (intern-entity
+     (owl-class dname
+		:label name
+		:subclass Disease))
+     (if-not (nil? omim)
       (owl-class dname
                  :annotation (see-also (str "OMIMID:" omim))))
     (if-not (nil? lname)
       (owl-class dname
-                 :label (str "The long name for this disease is " lname)))))
+                 :annotation
+                 (see-also lname)))))
 
-(defn create-disease-related [o name]
-  (owl-class o
-             (g/make-safe name)
-             :label name
-             :subclass Disease_related))
+;; (defn create-disease-related [o name]
+;;   (owl-class o
+;;              (g/make-safe name)
+;;              :label name
+;;              :subclass Disease_related))
+
 
 ;; MAIN
-
 ;; read file
 (let [diseases (into [] (g/read-file
                          (g/get-resource
-                          "./input/disease.txt")))]
+                          "./input/disease.txt")))
+     dterms (for [d diseases] (get d 0))]
 
   ;; generate disease classes
   (doseq [d diseases]
     (disease-class (get d 0) (get d 1) (get d 2)))
 
   ;; Auxiliary functions
+  (defn get-disease [term]
+    (g/find-first #(= (clojure.string/lower-case %) term) dterms))
   (defn disease? [term]
-    (some #(= % term) diseases))
-  (defn disease-related? [term]
-    (some #(re-find (re-pattern %) term) (map first diseases))))
+    (not (empty? (get-disease term))))
+  ;; (defn disease-related? [term]
+  ;;   (some #(re-find (re-pattern %) term) (map first diseases)))
+)
 
-  ;; Additional information
-  (doseq [clazz ["LCAD" "LCHAD" "MAD" "MCAD" "SCAD" "SCHAD" "VLCAD"]]
-    (refine (owl-class (g/make-safe clazz))
-            :subclass (owl-class (g/make-safe "Beta-oxidation Defects"))))
+;; Additional information
+(doseq [clazz [lcad lchad mad mcad scad schad vlchad]]
+       (refine (owl-class clazz)
+               :subclass (owl-class beta-oxidation_defects)))
 
-(doseq [clazz ["Co-Enzyme Q10 Deficiency" "Complex I Deficiency"
-               "Complex II Deficiency" "Complex III Deficiency"
-               "Complex IV Deficiency" "Leigh Disease" "LCAD"
-               "LCHAD" "MCAD" "MELAS" "MNGIE" "NARP" "SCHAD" "VLCHAD"]]
-  (refine (owl-class (g/make-safe clazz))
-          :subclass (owl-class (g/make-safe "Mitochondrial Encephalopathy"))))
+(doseq [clazz [co-enzyme_q10_deficiency complex_i_deficiency
+       complex_ii_deficiency complex_iii_deficiency
+       complex_iv_deficiency leigh_disease lcad
+       lchad mcad melas mngie narp schad vlchad]]
+       (refine (owl-class clazz)
+               :subclass (owl-class mitochondrial_encephalopathy)))
 
-(doseq [clazz ["Barth Syndrome" "Complex I Deficiency"
-               "Complex III Deficiency" "Complex IV Deficiency"
-               "CPEO" "LCHAD" "Mitochondrial DNA Depletion"]]
-  (refine (owl-class (g/make-safe clazz))
-          :subclass (owl-class (g/make-safe "Mitochondrial Myopathy"))))
+(doseq [clazz [barth_syndrome complex_i_deficiency
+       complex_iii_deficiency complex_iv_deficiency
+       cpeo lchad mitochondrial_dna_depletion]]
+       (refine (owl-class clazz)
+               :subclass (owl-class mitochondrial_myopathy)))
 
-(doseq [clazz ["Complex I Deficiency" "Complex II Deficiency"
-               "Complex III Deficiency" "Complex IV Deficiency"
-               "Complex V Deficiency" "NARP"]]
-  (refine (owl-class (g/make-safe clazz))
-          :subclass (owl-class (g/make-safe "Respiratory Chain"))))
+(doseq [clazz [complex_i_deficiency complex_ii_deficiency
+       complex_iii_deficiency complex_iv_deficiency
+       complex_v_deficiency narp]]
+       (refine (owl-class clazz)
+               :subclass (owl-class respiratory_chain)))
 
-(refine (owl-class (g/make-safe "Mitochondrial Cytopathy"))
+(refine (owl-class mitochondrial_cytopathy)
         :equivalent Disease)
