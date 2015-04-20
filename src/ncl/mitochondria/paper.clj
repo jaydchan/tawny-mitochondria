@@ -1,6 +1,6 @@
 ;; The contents of this file are subject to the LGPL License, Version 3.0.
 
-;; Copyright (C) 2014, Newcastle University
+;; Copyright (C) 2014-2015, Newcastle University
 
 ;; This program is free software: you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
@@ -29,39 +29,58 @@
 ;; OWL CLASSES
  (defclass Paper)
 
-;; define data properties
-(defdproperty hasTitle
-  :domain Paper)
-(defdproperty hasAuthor
-   :domain Paper)
-(defdproperty hasPMID
-   :domain Paper)
+;; ;; define data properties
+;; (defdproperty hasTitle
+;;   :domain Paper)
+;; (defdproperty hasAuthor
+;;    :domain Paper)
+;; (defdproperty hasPMID
+;;    :domain Paper)
+
+;; define annotation properties
+(defaproperty hasTitle)
+(defaproperty hasAuthor)
+(defaproperty hasPMID)
 
 ;; Auxiliary functions
 (defn title-fact
   "TODO"
   [title]
-  (fact hasTitle (literal title :lang "en")))
+  (println "title")
+  ;; (fact hasTitle (literal title :lang "en"))
+  (annotation hasTitle (literal title :lang "en")))
 
 (defn author-fact
   "TODO"
   [author]
-  (fact hasAuthor (literal author :lang "en")))
+  (println "author")
+  ;; (fact hasAuthor (literal author :lang "en"))
+  (annotation hasAuthor (literal author :lang "en")))
 
 (defn pmid-fact
   "TODO"
   [pmid]
-  (fact hasPMID (literal (str "PMID:" pmid) :RDF :RDF_Literal_String)))
+  (println "pmid")
+  ;; (fact hasPMID (literal (str "PMID:" pmid) :RDF :RDF_Literal_String))
+  (annotation hasPMID (literal (str "PMID:" pmid) :RDF :RDF_Literal_String)))
 
 (defn paper-class
   "Pattern - defines paper instances."
   [name title authors pmid]
-  (individual name
-              :type Paper
-              :fact
-              (title-fact title)
-              (map author-fact authors)
-              (pmid-fact pmid)))
+  (println "paper")
+  ;; (individual name
+  ;;             :type Paper
+  ;;             :fact
+  ;;             (title-fact title)
+  ;;             (map author-fact authors)
+  ;;             (pmid-fact pmid)))
+  (owl-class name
+             :super Paper
+             :annotation
+             (title-fact title)
+             (map author-fact authors)
+             (pmid-fact pmid)))
+
 
 ;; MAIN
 ;; read file
