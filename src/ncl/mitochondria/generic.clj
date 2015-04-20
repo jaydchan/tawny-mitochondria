@@ -1,6 +1,6 @@
 ;; The contents of this file are subject to the LGPL License, Version 3.0.
 
-;; Copyright (C) 2014, Newcastle University
+;; Copyright (C) 2014-2015, Newcastle University
 
 ;; This program is free software: you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
@@ -73,3 +73,8 @@
   "Does STR contains SUBSTR?"
   [substr str]
   (.contains str substr))
+
+(defn find-first
+  "Find the first occurance of F pattern from COLL."
+  [f coll]
+  (first (filter f coll)))
