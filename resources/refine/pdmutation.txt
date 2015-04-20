@@ -1,16 +1,6 @@
 8993t>g mtatp6 subunit 6 of mitochondrial atp synthase mutation
 8344a>g
-8356t>c
 8993t>c
-1555a>g
 8993t>g
-3271t>c
 8933t>g mtatp6 mutation
-3243a>g
-11778g>a
-14709t>c
-10158t>c
 8344a>g trnk a trna gene
-3460g>a
-10191t>c
-14484t>c
