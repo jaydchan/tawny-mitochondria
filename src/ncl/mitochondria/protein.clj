@@ -1,6 +1,6 @@
 ;; The contents of this file are subject to the LGPL License, Version 3.0.
 
-;; Copyright (C) 2014, Newcastle University
+;; Copyright (C) 2014-2015, Newcastle University
 
 ;; This program is free software: you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
@@ -28,22 +28,22 @@
   :prefix "pro:")
 
 ;; OWL CLASSES
-(defclass Protein
-  :subclass ncl.mitochondria.mitochondria/Mitochondria)
-(defclass Protein_related
-  :subclass Protein)
+(defclass Protein)
+;; (defclass Protein_related
+;;   :subclass Protein)
 
 ;; PATTERNS
 (defn protein-class [name]
+  (println "protein-class")
   (owl-class (g/make-safe name)
              :label name
              :subclass Protein))
 
-(defn create-protein-related [o name]
-  (owl-class o
-             (g/make-safe name)
-             :label name
-             :subclass Protein_related))
+;; (defn create-protein-related [o name]
+;;   (owl-class o
+;;              (g/make-safe name)
+;;              :label name
+;;              :subclass Protein_related))
 
 ;; MAIN
 
@@ -60,9 +60,10 @@
   ;; Auxiliary functions
   (defn protein? [term]
     (some #(= % term) proteins))
-;; also need to look out for related withour _human
-  (defn protein-related? [term]
-    (some #(re-find (re-pattern %) term) proteins)))
+  ;; ;; also need to look out for related without _human
+  ;; (defn protein-related? [term]
+  ;;   (some #(re-find (re-pattern %) term) proteins))
+)
 
 ;; tests
 ;; (println (protein? "srac1"))

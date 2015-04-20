@@ -1,6 +1,6 @@
 ;; The contents of this file are subject to the LGPL License, Version 3.0.
 
-;; Copyright (C) 2014, Newcastle University
+;; Copyright (C) 2014-2015, Newcastle University
 
 ;; This program is free software: you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
@@ -28,22 +28,22 @@
   :prefix "gne:")
 
 ;; OWL CLASSES
-(defclass Gene
-  :subclass ncl.mitochondria.mitochondria/Mitochondria)
-(defclass Gene_related
-  :subclass Gene)
+(defclass Gene)
+;; (defclass Gene_related
+;;   :subclass Gene)
 
 ;; PATTERNS
 (defn gene-class [name]
+  (println "gene-class")
   (owl-class (g/make-safe name)
              :label name
              :subclass Gene))
 
-(defn create-gene-related [o name]
-  (owl-class o
-             (g/make-safe name)
-             :label name
-             :subclass Gene_related))
+;; (defn create-gene-related [o name]
+;;   (owl-class o
+;;              (g/make-safe name)
+;;              :label name
+;;              :subclass Gene_related))
 
 ;; MAIN
 
@@ -59,5 +59,6 @@
   ;; Auxiliary functions
   (defn gene? [term]
     (some #(= % term) genes))
-  (defn gene-related? [term]
-    (some #(re-find (re-pattern %) term) genes)))
+  ;; (defn gene-related? [term]
+  ;;   (some #(re-find (re-pattern %) term) genes))
+)

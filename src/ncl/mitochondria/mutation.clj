@@ -1,6 +1,6 @@
 ;; The contents of this file are subject to the LGPL License, Version 3.0.
 
-;; Copyright (C) 2014, Newcastle University
+;; Copyright (C) 2014-2015, Newcastle University
 
 ;; This program is free software: you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
@@ -26,8 +26,7 @@
   :prefix "mut:")
 
 ;; OWL CLASSES
-(defclass Mutation
-  :subclass ncl.mitochondria.mitochondria/Mitochondria)
+(defclass Mutation)
 
 (as-subclasses
  Mutation
@@ -51,12 +50,14 @@
 ;; (defn mutation? [term]
 ;;   (or (dna-mutation? term) (protein-mutation? term)))
 
-(defn- dna-mutation-class [o name]
+(defn- dna-mutation-class [name]
+  (println "dna-mutation")
   (owl-class (g/make-safe name)
              :label name
              :subclass DNA_Mutation))
 
 (defn- protein-mutation-class [name]
+  (println "protein-mutation")
   (owl-class (g/make-safe name)
              :label name
              :subclass Protein_Mutation))
@@ -70,9 +71,9 @@
 
 ;; read file
 (let [dmutations (g/get-lines
-                  "./output/terms/pdmutation.txt")
+                  "./resources/refine/pdmutation.txt")
       pmutations (g/get-lines
-                  "./output/terms/ppmutation.txt")
+                  "./resources/refine/ppmutation.txt")
       mutations (clojure.set/union dmutations pmutations)]
 
   ;; generate dna mutation classes

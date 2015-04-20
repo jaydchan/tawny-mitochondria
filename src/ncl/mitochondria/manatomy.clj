@@ -1,6 +1,6 @@
 ;; The contents of this file are subject to the LGPL License, Version 3.0.
 
-;; Copyright (C) 2014, Newcastle University
+;; Copyright (C) 2014-2015, Newcastle University
 
 ;; This program is free software: you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
@@ -28,22 +28,22 @@
   :prefix "mana:")
 
 ;; OWL CLASSES
-(defclass Mitochondrion_Anatomy
-  :subclass ncl.mitochondria.mitochondria/Mitochondria)
-(defclass Mitochondrion_Anatomy_related
-  :subclass Mitochondrion_Anatomy)
+(defclass Mitochondrion_Anatomy)
+;; (defclass Mitochondrion_Anatomy_related
+;;   :subclass Mitochondrion_Anatomy)
 
 ;; PATTERNS
 (defn manatomy-class [name]
+  (println "manatomy")
   (owl-class (g/make-safe name)
              :label name
              :subclass Mitochondrion_Anatomy))
 
-(defn create-manatomy-related [o name]
-  (owl-class o
-             (g/make-safe name)
-             :label name
-             :subclass Mitochondrion_Anatomy_related))
+;; (defn create-manatomy-related [o name]
+;;   (owl-class o
+;;              (g/make-safe name)
+;;              :label name
+;;              :subclass Mitochondrion_Anatomy_related))
 
 ;; MAIN
 (let [parts ["Outer membrane"
@@ -67,7 +67,10 @@
     (manatomy-class p))
 
   ;; Auxiliary functions
+  (defn get-manatomy [term]
+    (g/find-first #(= (clojure.string/lower-case %) term) parts))
   (defn manatomy? [term]
-    (some #(= % term) parts))
-  (defn manatomy-related? [term]
-    (some #(re-find (re-pattern %) term) parts)))
+    (not (empty? (get-manatomy term))))
+  ;; (defn manatomy-related? [term]
+  ;;   (some #(re-find (re-pattern %) term) parts))
+)

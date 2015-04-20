@@ -1,6 +1,6 @@
 ;; The contents of this file are subject to the LGPL License, Version 3.0.
 
-;; Copyright (C) 2014, Newcastle University
+;; Copyright (C) 2014-2015, Newcastle University
 
 ;; This program is free software: you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
@@ -27,20 +27,21 @@
 
 ;; OWL CLASSES
 (defclass Human_Anatomy)
-(defclass Human_Anatomy_related
-  :subclass Human_Anatomy)
+;; (defclass Human_Anatomy_related
+;;   :subclass Human_Anatomy)
 
 ;; PATTERNS
 (defn hanatomy-class [name]
+  (println "hanatomy")
   (owl-class (g/make-safe name)
              :label name
              :subclass Human_Anatomy))
 
-(defn create-hanatomy-related [o name]
-  (owl-class o
-             (g/make-safe name)
-             :label name
-             :subclass Human_Anatomy_related))
+;; (defn create-hanatomy-related [o name]
+;;   (owl-class o
+;;              (g/make-safe name)
+;;              :label name
+;;              :subclass Human_Anatomy_related))
 
 ;; MAIN
 
@@ -55,5 +56,6 @@
   ;; Auxiliary functions
   (defn hanatomy? [term]
     (some #(= % term) parts))
-  (defn hanatomy-related? [term]
-    (some #(re-find (re-pattern %) term) parts)))
+  ;; (defn hanatomy-related? [term]
+  ;;   (some #(re-find (re-pattern %) term) parts))
+)
