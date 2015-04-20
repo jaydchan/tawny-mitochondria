@@ -26,7 +26,7 @@
 ["MERRF" "545000" "Myoclonic Epilepsy and Ragged-Red Fiber Disease"]
 ["MIRAS" nil "Mitochondrial Recessive Ataxia Syndrome"]
 ["Mitochondrial Cytopathy" nil nil]
-["Mitochondiral DNA Depletion" nil nil]
+["Mitochondrial DNA Depletion" nil nil]
 ["Mitochondrial Encephalopathy" nil nil]
 ["Mitochondrial Myopathy" "251900" nil]
 ["MNGIE" "603041" "Myoneurogastointestinal Disorder and Encephalopathy"]
