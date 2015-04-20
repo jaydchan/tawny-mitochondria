@@ -21,7 +21,7 @@
   (:use [tawny.owl]))
 
 (defontology mitochondria
-  :iri "http://ncl.ac.uk/mitochondria/mitochondria"
+  :iri "http://homepages.cs.ncl.ac.uk/jennifer.warrender/mitochondria/latest/mitochondria"
   :prefix "mit:")
 
 ;; OWL CLASSES

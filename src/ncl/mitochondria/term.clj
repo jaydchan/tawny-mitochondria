@@ -34,7 +34,7 @@
 
 ;; new ontology
 (defontology term
-  :iri "http://ncl.ac.uk/mitochondria/term"
+  :iri "http://homepages.cs.ncl.ac.uk/jennifer.warrender/mitochondria/latest/term"
   :prefix "term:"
   :noname true)
 

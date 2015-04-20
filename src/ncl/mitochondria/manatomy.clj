@@ -24,7 +24,7 @@
              [generic :as g]]))
 
 (defontology manatomy
-  :iri "http://ncl.ac.uk/mitochondria/manatomy"
+  :iri "http://homepages.cs.ncl.ac.uk/jennifer.warrender/mitochondria/latest/manatomy"
   :prefix "mana:")
 
 ;; OWL CLASSES

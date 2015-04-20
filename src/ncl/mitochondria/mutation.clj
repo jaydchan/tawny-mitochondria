@@ -22,7 +22,7 @@
   (:require [ncl.mitochondria.generic :as g]))
 
 (defontology mutation
-  :iri "http://ncl.ac.uk/mitochondria/mutation"
+  :iri "http://homepages.cs.ncl.ac.uk/jennifer.warrender/mitochondria/latest/mutation"
   :prefix "mut:")
 
 ;; OWL CLASSES
