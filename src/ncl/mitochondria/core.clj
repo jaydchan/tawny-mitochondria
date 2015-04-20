@@ -1,6 +1,6 @@
 ;; The contents of this file are subject to the LGPL License, Version 3.0.
 
-;; Copyright (C) 2014, Newcastle University
+;; Copyright (C) 2014-2015, Newcastle University
 
 ;; This program is free software: you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
@@ -22,7 +22,7 @@
              refine
              paper hanatomy mitochondria manatomy
              disease gene protein
-             ;; mutation
+             mutation
              term
              omim
              cq
@@ -31,13 +31,31 @@
   (:gen-class))
 
 (defn -main
-  ;; "Save ontologies in .omn and .owl format"
   [& args]
 
   ;; check if args exists
   ;; TRUE read in ontology
   ;; FALSE start from scratch
 
+  ;; refine lists
+  (println "Refining lists: Start")
+  ;; no longer used
+  ;; (if-not (.exists (clojure.java.io/as-file "./resources/input/omim"))
+  ;;   (sh "./scripts/make-wordlist.sh"))
+  ;; (if-not (.exists (clojure.java.io/as-file "./output/cenglish.txt"))
+  ;;   (sh "./scripts/check-english.sh"))
+  (println "Refining lists: Loading...")
+  (ncl.mitochondria.refine/driver)
+  (println "Refining lists: Complete")
+
+  ;; generate term classes
+  (println "Generating term classes: Start")
+  (ncl.mitochondria.term/driver)
+  (save-ontology ncl.mitochondria.term/term "term.omn" :omn)
+  (save-ontology ncl.mitochondria.term/term "term.owl" :owl)
+  (println "Generating term clases: Complete.")
+
+  ;; Save ontologies in .omn and .owl format
   (save-ontology ncl.mitochondria.paper/paper "paper.omn" :omn)
   (save-ontology ncl.mitochondria.paper/paper "paper.owl" :owl)
 
@@ -58,25 +76,11 @@
   (save-ontology ncl.mitochondria.protein/protein "protein.omn" :omn)
   (save-ontology ncl.mitochondria.protein/protein "protein.owl" :owl)
 
-  ;; (save-ontology ncl.mitochondria.mutation/mutation "mutation.omn" :omn)
-  ;; (save-ontology ncl.mitochondria.mutation/mutation "mutation.owl" :owl)
+  (save-ontology ncl.mitochondria.mutation/mutation "mutation.omn" :omn)
+  (save-ontology ncl.mitochondria.mutation/mutation "mutation.owl" :owl)
 
-  ;; refine lists
-  (println "Refining lists: Start")
-  (if-not (.exists (clojure.java.io/as-file "./resources/input/omim"))
-    (sh "./scripts/make-wordlist.sh"))
-  (if-not (.exists (clojure.java.io/as-file "./output/cenglish.txt"))
-    (sh "./scripts/check-english.sh"))
-  (println "Refining lists: Loading...")
-  (ncl.mitochondria.refine/driver)
-  (println "Refining lists: Complete")
-
-  ;; generate term classes
-  ;; (println "Generating term classes: Start")
-  ;; (ncl.mitochondria.term/driver)
-  ;; (save-ontology ncl.mitochondria.term/term "term.omn" :omn)
-  ;; (save-ontology ncl.mitochondria.term/term "term.owl" :owl)
-  ;; (println "Generating term clases: Complete.")
+  (save-ontology ncl.mitochondria.disease/disease "disease.omn" :omn)
+  (save-ontology ncl.mitochondria.disease/disease "disease.owl" :owl)
 
   ;; incorporate omim relations
   ;; (println "Incorporating OMIM relations: Start")

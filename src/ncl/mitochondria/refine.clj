@@ -1,6 +1,6 @@
 ;; The contents of this file are subject to the LGPL License, Version 3.0.
 
-;; Copyright (C) 2014, Newcastle University
+;; Copyright (C) 2014-2015, Newcastle University
 
 ;; This program is free software: you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
@@ -18,9 +18,11 @@
 (ns ^{:doc "TODO"
       :author "Jennifer Warrender"}
   ncl.mitochondria.refine
-  (:use [clojure.java.shell :only [sh]])
+  (:use (incanter core io excel)
+	[clojure.java.shell :only [sh]])
   (:require [ncl.mitochondria
-             [generic :as g]]))
+             [generic :as g]]
+            [clojure.java.io :as io]))
 
 ;; Auxiliary functions
 (defn fuzzy
@@ -183,6 +185,22 @@ in COLL."
 ;;       (catch Exception e (println (str "error: " test))))
 ;;     ))
 
+(defn get-terms-from-xls
+  "Read data from .xlsx FILE and get terms from column KEYWORD that
+  have value 1.0 (i.e. true)"
+  [file keyword]
+  (with-data
+   ;; Read data from .xlsx FILE
+   (read-xls (.getFile (io/resource file)))
+   (let
+       [values (into #{} ($ :true?))
+       terms (into #{} ($ keyword))]
+       (into #{}
+             (for [i (range (count terms))
+                   :let [t (get terms i)]
+                   :when (= 1.0 (get values i))]
+               t)))))
+
 ;; MAIN
 (defn driver
   []
@@ -195,7 +213,9 @@ in COLL."
     (sh "mkdir" "-p" "./output/cqs/"))
 
   ;; read files and create sets
-  (let [cfiles (map #(str "Paper" % "_terms.txt") (range 1 31))
+  (let [
+        ;; Stage 1 -- Term Capture
+        cfiles (map #(str "Paper" % "_terms.txt") (range 1 31))
         cterms (for [f cfiles]
                  (g/get-lines
                   (g/get-resource
@@ -213,30 +233,12 @@ in COLL."
         ignore (into #{} ["a" "and" "of" "or", "sub-", "the"])
         capture (clojure.set/difference (into #{} (keys cmap)) ignore)
 
-        ofiles (rest (file-seq (clojure.java.io/file "./resources/input/omim")))
-        oterms (for [f ofiles]
-               (g/get-lines f))
-        omim (into #{} (apply clojure.set/union oterms))
-
-        english (into #{} (g/get-lines "./output/cenglish.txt"))
-        filtered (clojure.set/difference omim english)
-        disease (clojure.set/intersection capture filtered)
-        related (into #{} (fuzzy 33 capture filtered))
-
-        refined (clojure.set/union disease related)
-        refined_full (select-keys cmap refined)
-        nrefined (select-keys cmap
-                              (for [i (range 0 92)]
-                                (rand-nth (seq refined))))
-        quarantined (clojure.set/difference capture refined)
-        quarantined_full (select-keys cmap quarantined)
-        nquarantined (select-keys cmap
-                                  (for [i (range 0 87)]
-                                    (rand-nth (seq quarantined))))
-
+        ;; Stage 1 -- Identifying the duplicate terms; count should be
+        ;; < (3666-3311)
         duplicate_full (sort-by first (get-duplicates data))
         duplicate (map first (get-duplicates data))
 
+        ;; Stage 3 -- Identify potential duplicates and acronyms
         pduplicate
         (sort-by
          first
@@ -250,16 +252,47 @@ in COLL."
         ;;         (for [term (get-pwordduplicates english capture capture)]
         ;;           (into #{} (map #(vector (first term) %) (second term))))))
         pacronym (get-pacronyms capture)
-        pdmutation (get-pdmutations capture)
-        ppmutation (get-ppmutations capture)
+        ;; pcqwordterm (get-pwordduplicates english cq capture)
 
-        cq (into #{} (map clojure.string/lower-case
-                          (g/get-lines
-                           (g/get-resource "./input/cq.txt"))))
-        refined_cq (fuzzy 10 cq filtered)
-        quarantined_cq (clojure.set/difference cq refined_cq)
+        ;; Stage 3 -- Canonicalising terms
+        racronyms (into #{} (g/get-lines "./resources/input/acronyms.txt"))
+        rduplicates (into #{} (g/get-lines "./resources/input/duplicates.txt"))
+        rcapture (clojure.set/difference capture racronyms rduplicates)
 
-        pcqwordterm (get-pwordduplicates english cq capture)
+        ;; IGNORE: Stage 3 -- refinement using omim files
+        ;; ofiles (rest (file-seq (clojure.java.io/file "./resources/input/omim")))
+        ;; oterms (for [f ofiles]
+        ;;        (g/get-lines f))
+        ;; omim (into #{} (apply clojure.set/union oterms))
+
+        ;; english (into #{} (g/get-lines "./output/cenglish.txt"))
+        ;; filtered (clojure.set/difference omim english)
+        ;; disease (clojure.set/intersection rcapture filtered)
+        ;; related (into #{} (fuzzy 33 rcapture filtered))
+
+        ;; refined (clojure.set/union disease related)
+        ;; refined_full (select-keys cmap refined)
+        ;; nrefined (select-keys cmap
+        ;;                       (for [i (range 0 92)]
+        ;;                         (rand-nth (seq refined))))
+        ;; quarantined (clojure.set/difference rcapture refined)
+        ;; quarantined_full (select-keys cmap quarantined)
+        ;; nquarantined (select-keys cmap
+        ;;                           (for [i (range 0 87)]
+        ;;                             (rand-nth (seq quarantined))))
+
+        ;; cq (into #{} (map clojure.string/lower-case
+        ;;                   (g/get-lines
+        ;;                    (g/get-resource "./input/cq.txt"))))
+        ;; refined_cq (fuzzy 10 cq filtered)
+        ;; quarantined_cq (clojure.set/difference cq refined_cq)
+
+        ;; Stage 3 -- Identifying disease related terms
+        refined (into #{} (g/get-lines "./resources/refine/refined.txt"))
+
+        ;; Stage 4 -- identify possible valid mutations from paper terms
+        pdmutation (get-pdmutations refined)
+        ppmutation (get-ppmutations refined)
 
         outfile "refine_results.txt"
         ]
@@ -295,16 +328,16 @@ in COLL."
 
     ;; output stats
     ;; oterms -- includes redundant terms
-    (let [name "oterms_results.txt"
-          outfile (str "./output/stats/" name)
-          error (str "Error: output stats to " name)]
-      ;; clear old file
-      (g/output outfile "" false error)
+    ;; (let [name "oterms_results.txt"
+    ;;       outfile (str "./output/stats/" name)
+    ;;       error (str "Error: output stats to " name)]
+    ;;   ;; clear old file
+    ;;   (g/output outfile "" false error)
 
-      ;; number of terms per paper
-      (g/output outfile
-                (clojure.string/join "\n" (map count oterms))
-                true error))
+    ;;   ;; number of terms per paper
+    ;;   (g/output outfile
+    ;;             (clojure.string/join "\n" (map count oterms))
+    ;;             true error))
 
     ;; clear old file
     (g/output (str "./output/stats/" outfile)
@@ -317,9 +350,10 @@ in COLL."
                 allterms
                 duplicate duplicate_full
                 cmap capture
-                omim english filtered disease related
-                refined refined_full nrefined
-                quarantined quarantined_full nquarantined
+                ;; omim english filtered disease related
+                racronyms rduplicates rcapture
+                ;; refined refined_full nrefined
+                ;; quarantined quarantined_full nquarantined
                 pduplicate
                 ;; pwordduplicate
                 pacronym
@@ -329,9 +363,10 @@ in COLL."
                 "allterms"
                 "duplicate" "duplicate_full"
                 "cmap" "capture"
-                "omim" "english" "filtered" "disease" "related"
-                "refined" "refined_full" "nrefined"
-                "quarantined" "quarantined_full" "nquarantined"
+                ;; "omim" "english" "filtered" "disease" "related"
+                "racronyms" "rduplicates" "rcapture"
+                ;; "refined" "refined_full" "nrefined"
+                ;; "quarantined" "quarantined_full" "nquarantined"
                 "pduplicate"
                 ;; "pwordduplicate"
                 "pacronym"
@@ -359,31 +394,31 @@ in COLL."
                     true error))))
 
     ;; save cqs
-    (let [set [
-               cq refined_cq quarantined_cq
-               pcqwordterm
-               ]
-          name [
-                "cq" "refined_cq" "quarantined_cq"
-                "pcqwordterm"
-                ]]
-      (doseq [i (range 0 (count set))]
-        (let [n (get name i)
-              file (str "./output/cqs/" n ".txt") ;; TODO make sure exists
-              error (str "Error: output stats to " n ".txt")
-              s (get set i)]
+    ;; (let [set [
+    ;;            cq refined_cq quarantined_cq
+    ;;            pcqwordterm
+    ;;            ]
+    ;;       name [
+    ;;             "cq" "refined_cq" "quarantined_cq"
+    ;;             "pcqwordterm"
+    ;;             ]]
+    ;;   (doseq [i (range 0 (count set))]
+    ;;     (let [n (get name i)
+    ;;           file (str "./output/cqs/" n ".txt") ;; TODO make sure exists
+    ;;           error (str "Error: output stats to " n ".txt")
+    ;;           s (get set i)]
 
-          ;; print number of cqs for each set
-          (g/output (str "./output/stats/" outfile)
-                    (str "Total number of " n "s: " (count s) "\n")
-                    true
-                    (str "Error: output stats to " outfile))
+    ;;       ;; print number of cqs for each set
+    ;;       (g/output (str "./output/stats/" outfile)
+    ;;                 (str "Total number of " n "s: " (count s) "\n")
+    ;;                 true
+    ;;                 (str "Error: output stats to " outfile))
 
-          ;; clear old file
-          (g/output file "" false error)
+    ;;       ;; clear old file
+    ;;       (g/output file "" false error)
 
-          ;; save cq set to file
-          (g/output file
-                    (clojure.string/join "\n" s)
-                    true error))))
+    ;;       ;; save cq set to file
+    ;;       (g/output file
+    ;;                 (clojure.string/join "\n" s)
+    ;;                 true error))))
     ))
