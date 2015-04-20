@@ -100,9 +100,10 @@
                  "./resources/refine/refined.txt")
         ;; quarantined (g/get-lines
         ;;              "./output/terms/quarantined.txt")
-        quarantined #{}
+        ;; quarantined #{}
         ]
 
+    ;; check refined == 2174
     ;; (println (count refined))
 
     ;; for each term in refined

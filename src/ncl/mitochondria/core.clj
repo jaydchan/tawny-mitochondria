@@ -39,7 +39,7 @@
 
   ;; refine lists
   (println "Refining lists: Start")
-  ;; no longer used
+  ;; IGNORE: no longer used
   ;; (if-not (.exists (clojure.java.io/as-file "./resources/input/omim"))
   ;;   (sh "./scripts/make-wordlist.sh"))
   ;; (if-not (.exists (clojure.java.io/as-file "./output/cenglish.txt"))
