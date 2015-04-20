@@ -35,7 +35,6 @@
 
 ;; PATTERNS
 (defn disease-class [name omim lname]
-  (println "disease-class")
   (let [dname (g/make-safe name)]
     (intern-entity
      (owl-class dname

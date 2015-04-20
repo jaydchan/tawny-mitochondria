@@ -34,7 +34,6 @@
 
 ;; PATTERNS
 (defn gene-class [name]
-  (println "gene-class")
   (owl-class (g/make-safe name)
              :label name
              :subclass Gene))

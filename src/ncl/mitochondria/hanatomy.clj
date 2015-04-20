@@ -32,7 +32,6 @@
 
 ;; PATTERNS
 (defn hanatomy-class [name]
-  (println "hanatomy")
   (owl-class (g/make-safe name)
              :label name
              :subclass Human_Anatomy))

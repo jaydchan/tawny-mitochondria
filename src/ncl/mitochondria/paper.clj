@@ -46,28 +46,24 @@
 (defn title-fact
   "TODO"
   [title]
-  (println "title")
   ;; (fact hasTitle (literal title :lang "en"))
   (annotation hasTitle (literal title :lang "en")))
 
 (defn author-fact
   "TODO"
   [author]
-  (println "author")
   ;; (fact hasAuthor (literal author :lang "en"))
   (annotation hasAuthor (literal author :lang "en")))
 
 (defn pmid-fact
   "TODO"
   [pmid]
-  (println "pmid")
   ;; (fact hasPMID (literal (str "PMID:" pmid) :RDF :RDF_Literal_String))
   (annotation hasPMID (literal (str "PMID:" pmid) :RDF :RDF_Literal_String)))
 
 (defn paper-class
   "Pattern - defines paper instances."
   [name title authors pmid]
-  (println "paper")
   ;; (individual name
   ;;             :type Paper
   ;;             :fact

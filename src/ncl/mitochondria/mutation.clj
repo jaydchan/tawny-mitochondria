@@ -51,13 +51,11 @@
 ;;   (or (dna-mutation? term) (protein-mutation? term)))
 
 (defn- dna-mutation-class [name]
-  (println "dna-mutation")
   (owl-class (g/make-safe name)
              :label name
              :subclass DNA_Mutation))
 
 (defn- protein-mutation-class [name]
-  (println "protein-mutation")
   (owl-class (g/make-safe name)
              :label name
              :subclass Protein_Mutation))

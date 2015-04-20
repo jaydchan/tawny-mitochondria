@@ -34,7 +34,6 @@
 
 ;; PATTERNS
 (defn manatomy-class [name]
-  (println "manatomy")
   (owl-class (g/make-safe name)
              :label name
              :subclass Mitochondrion_Anatomy))

@@ -34,7 +34,6 @@
 
 ;; PATTERNS
 (defn protein-class [name]
-  (println "protein-class")
   (owl-class (g/make-safe name)
              :label name
              :subclass Protein))
