@@ -1,0 +1,250 @@
+“mitophagy”
+aac atp/adp carrier
+abc transporters
+accession numbers
+accessory protein isd11
+ad autosomal dominant
+adenine nucleotide translocator ant
+adenine nucleotide translocator ant
+adenine nucleotide translocator ant1
+aldh aldehyde dehydrogenase
+aliases
+alleles
+alpha-proteobacterial species
+alzheimer disease ad
+ameliorated
+ameliorates
+apoproteins
+apoptosis-inducing factor aif
+ar autosomal recessive
+arabidopsis thaliana thale cress
+atpg_human
+biochemical pathways
+bioenergetics
+bioinformatics
+bn-page blue native polyacrylamide gel electrophoresis
+calnexin cnx
+calreticulin crt
+calreticulin crt
+cardiolipin cl
+ceramides cer
+chaperone grp75
+chaperones
+cho cells
+choline
+chronic progressive external ophthalmoplegia cpeo
+chronic progressive external ophthalmoplegia cpeo
+cl cardiolipin
+cox complex iv
+cox cytochrome c oxidase
+cox cytochrome c oxidase
+cpeo chronic progressive external ophthalmoplegia
+cpeo chronic progressive external ophthalmoplegia
+creb camp-response-element-binding protein
+cys residues
+cysteine
+cysteine desulfurase nfs1
+cytochrome c oxidase cox
+cytochrome c oxidase cox
+cytosolic e3 ubiquitin ligase
+dap3 death associated protein 3
+deafness dystonia peptide 1 ddp1
+deafness-dystonia protein ddp1
+deoxyguanosine kinase dgk
+deoxyguanosine kinase dgk
+diabetes mellitus
+diacylglycerol acylterase dgat
+dip database of interacting proteins
+diseases
+displacement loop d-loop
+displacement-loop d-loop
+dna polymerase γ polg
+drosophila melanogaster dm
+electron micrographs
+electron transport chain
+endocrine system
+enzyme cysteine desulfurase nfs1
+enzymes
+exergonic reactions
+false positives
+fe–s clusters
+ferredoxin reductase arh1
+ferredoxin yah1
+ferredoxins
+ferrous iron atoms
+frataxin gene
+friedreich’s ataxia frda
+functional
+functional interactions
+functionally
+functions
+gene ontology go database
+genes
+genetics
+glucose-regulated protein-78 grp78
+glutathione gsh
+go annotations
+gpats
+gtp-binding proteins
+haploid cell
+haplotypes
+histidine
+homodimers
+homologs
+horseradish peroxidase hrp
+hprd human protein reference database
+inhibitor atractyloside atr
+interfibrillar mitochondria ifm
+isd11 accessory protein
+isoelectric focusing ief
+isoelectric focusing ief
+isu1 scaffold protein
+kearns–sayre syndrome kss
+kearns–sayre syndrome kss
+kegg kyoto encyclopaedia of genes and genomes
+kss kearns-sayre syndrome
+kss kearns-sayre syndrome
+leber’s hereditary opticus neuropathy lhon
+lhon leber hereditary optic neuropathy
+lhon leber hereditary optic neuropathy
+lhon lebers hereditary optic neuropathy
+lhon lebers hereditary optic neuropathy
+m maternal
+matrix-targeting signals mtss
+matrix-targeting signals mtss
+mds mtdna depletion syndrome
+merrf myoclonic epilepsy and ragged-red fibres
+merrf myoclonus epilepsy with ragged red fi bers
+midd maternal inherited diabetes and deafness
+midd maternally-inherited diabetes and deafness
+migenes database
+mils maternally-inherited leigh syndrome
+mils maternally-inherited leigh syndrome
+mint molecular interaction database
+mitochondrial dna mtdna
+mitochondrial dna mtdna
+mitochondrial electron transport chain
+mitochondrial electron transport chain metc
+mitochondrial electron transport chain metc
+mitochondrial electron transport chain metc
+mitochondrial electron transport chain metc
+mitochondrial encephalomyopathy with lactic acidosis and stroke-like episodes melas
+mitochondrial encephalomyopathy with lactic acidosis and stroke-like episodes melas
+mitochondrial morphology
+mitofusin mfn
+mitofusins
+mitopostulates
+mm mitochondrial myopathy
+mngie mitochondrial neurogastrointestinal encephalopathy
+mohr–tranebjaerg syndrome
+monothiol glutaredoxin grx5
+morphologically
+mri magnetic resonance imaging
+mrna binding protein lrpprc
+mtdna depletion syndrome mds
+mts matrix-targeting signal
+mtss
+myclonic epilepsy and ragged red fiber disease merrf
+myelin sheaths
+myoclonic epilepsy and ragged-red fibres merrf syndrome
+myocytes
+nadh reduced nicotinamide adenine dinucleotide
+nano scale liquid chromatography tandem mass spectrometry n-lc-ms/ms
+narp neurogenic weakness ataxia and retinitis pigmentosa
+narp/leigh syndrome
+narp/leigh syndrome
+nematode worm caenorhabditis elegans
+nfs1 cysteine desulfurase
+oa optic atrophy
+omim online mendelian inheritance in man
+omm outer mitochondrial membrane
+oocytes
+orthologs
+orthologue
+oxidative phosphorylation oxphos
+oxidative phosphorylation oxphos
+oxyradicals
+p53 protein
+pa phosphatidic acid
+paragangliomas
+paralogs
+parkinson disease pd
+parkinsons disease
+pathophysiological
+pathophysiological events
+pathophysiological events
+pathways
+pc phosphatidylcholine
+pdb protein data
+pdb protein data bank
+pdb protein data bank
+peo progressive external ophthalmoplegia
+peripheral blood mononuclear cells pbmcs
+permeability transition mpt
+permeability transition pore ptp
+permeability transition pore ptp]
+permeability transition pore ptp]
+pg phosphatidylglycerol
+pgp pg phosphate
+phaeochromocytomas
+phenotypes
+phosphatidic acid pa
+phosphatidylethanolamine pe
+phosphatidylglycerol pg
+phosphatidylinositol pi
+pi phosphatidylinositol
+plastids
+polga gene
+polymorphisms
+propidium iodide
+propidium iodide pi
+propidium iodide pi
+proteasomes
+protein-protein interactions
+protein–protein interactions
+proteins
+proteomics
+ps phosphatidylserine
+psd1 ps decarboxylase 1
+psimap protein structural interactome map
+ptp permeability transition pore
+reactive oxygen species ros
+reactive oxygen species ros
+ryanodine receptor ryr]
+ryr ryanodine receptor
+s cerevisiae baker’s yeast
+saccharomyces cerevisiae
+sam50_human
+serine
+single gene locus
+sirtuin sir2p
+sporadic progressive external ophthalmoplegia peo
+strokes
+stz streptozotocin
+succinate dehydrogenase sdh
+succinate dehydrogenase sdh
+succinyl-coa synthase sucla2 gene
+sulfur transfer protein sufe
+tafazzins
+tfam gene
+the threshold effect
+the transient
+thymidine kinase 2 tk2
+thymidine kinase 2 tk2
+thymidine kinase tk2
+thymidine phosphorylase tp
+tissues
+transcriptomics
+translocases
+transmission electron microscopy tem
+tricarboxylic acid tca cycle
+ubiquinone q
+ubiquitin ub
+ubiquitinates
+uniporters
+uqcrb gene
+vdac voltage-dependent anion channel
+voltage-dependent anion channel vdac
+yfh1 frataxin protein
+zearalenone zea
+zygotes
