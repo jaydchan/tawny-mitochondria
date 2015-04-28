@@ -29,12 +29,10 @@
              [disease :as d]
              [gene :as gne]
              [protein :as pro]
-             [mutation :as mut]
-             ]))
+             [mutation :as mut]]))
 
-;; new ontology
 (defontology term
-  :iri "http://homepages.cs.ncl.ac.uk/jennifer.warrender/mitochondria/latest/term"
+  :iri (str g/tm-iri "term")
   :prefix "term:"
   :noname true)
 

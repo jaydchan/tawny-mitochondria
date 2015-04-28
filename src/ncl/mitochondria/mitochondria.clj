@@ -18,10 +18,12 @@
 (ns ^{:doc "TODO"
       :author "Jennifer Warrender"}
   ncl.mitochondria.mitochondria
-  (:use [tawny.owl]))
+  (:use [tawny.owl])
+  (:require
+   [ncl.mitochondria.generic :as g :only [tm-iri]]))
 
 (defontology mitochondria
-  :iri "http://homepages.cs.ncl.ac.uk/jennifer.warrender/mitochondria/latest/mitochondria"
+  :iri (str g/tm-iri "mitochondria")
   :prefix "mit:")
 
 ;; OWL CLASSES

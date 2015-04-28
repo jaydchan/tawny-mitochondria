@@ -25,7 +25,7 @@
              [generic :as g]]))
 
 (defontology disease
-  :iri "http://homepages.cs.ncl.ac.uk/jennifer.warrender/mitochondria/latest/disease"
+  :iri (str g/tm-iri "disease")
   :prefix "dis:")
 
 ;; OWL CLASSES

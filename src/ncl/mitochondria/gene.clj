@@ -24,7 +24,7 @@
              [generic :as g]]))
 
 (defontology gene
-  :iri "http://homepages.cs.ncl.ac.uk/jennifer.warrender/mitochondria/latest/gene"
+  :iri (str g/tm-iri "gene")
   :prefix "gne:")
 
 ;; OWL CLASSES

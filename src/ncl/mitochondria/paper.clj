@@ -23,7 +23,7 @@
             [ncl.mitochondria.generic :as g]))
 
 (defontology paper
-  :iri "http://homepages.cs.ncl.ac.uk/jennifer.warrender/mitochondria/latest/paper"
+  :iri (str g/tm-iri "paper")
   :prefix "ppr:")
 
 ;; OWL CLASSES

@@ -22,7 +22,7 @@
   (:require [ncl.mitochondria.generic :as g]))
 
 (defontology hanatomy
-  :iri "http://homepages.cs.ncl.ac.uk/jennifer.warrender/mitochondria/latest/hanatomy"
+  :iri (str g/tm-iri "hanatomy")
   :prefix "hana:")
 
 ;; OWL CLASSES

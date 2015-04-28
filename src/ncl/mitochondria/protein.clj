@@ -24,7 +24,7 @@
              [generic :as g]]))
 
 (defontology protein
-  :iri "http://homepages.cs.ncl.ac.uk/jennifer.warrender/mitochondria/latest/protein"
+  :iri (str g/tm-iri "protein")
   :prefix "pro:")
 
 ;; OWL CLASSES

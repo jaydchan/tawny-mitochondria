@@ -22,6 +22,9 @@
         [clojure.java.io :only [as-file reader]])
   (:require [tawny.owl :only save-ontology]))
 
+(defonce
+  tm-iri "https://w3id.org/ontolink/mitochondria/")
+
 (defonce output-file-path "./output/")
 
 (defn save-ontology

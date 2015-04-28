@@ -11,8 +11,8 @@ Jennifer Warrender, Newcastle University.
 
 The contents of this project are subject to the [LGPL License, Version 3.0](LICENSE).
 
-Copyright (C) 2014, Newcastle University
+Copyright (C) 2014-2015, Newcastle University
 
 ## Ontology
 
-The Mitchondrial Disease Ontology (MDO) can be found [here](http://homepages.cs.ncl.ac.uk/jennifer.warrender/mitochondria/latest/).
+The Mitchondrial Disease Ontology (MDO) can be found [here](https://w3id.org/ontolink/mitochondria).
